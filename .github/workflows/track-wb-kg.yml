@@ -2,12 +2,9 @@ name: Трекер справочного центра WB (KG)
 
 on:
   schedule:
-    # Будни в 03:00 UTC = 09:00 по Бишкеку (UTC+6).
-    # Формат cron — UTC. День недели 1-5 = пн-пт.
     - cron: "0 3 * * 1-5"
-  workflow_dispatch: {}   # кнопка «Run workflow» — запуск вручную
+  workflow_dispatch: {}
 
-# Нужно, чтобы Actions мог закоммитить обновлённый snapshot.json
 permissions:
   contents: write
 
@@ -16,27 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Установить зависимости
         run: pip install requests beautifulsoup4 lxml
-
       - name: Запустить трекер
         env:
-          # Заполнятся из Settings -> Secrets and variables -> Actions.
-          # Если секретов нет — уведомление просто пропустится.
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
         run: python wb_kg_tracker.py --notify --delay 0.6
-
       - name: Закоммитить изменения снимка
         run: |
           git config user.name  "wb-kg-tracker"
           git config user.email "actions@users.noreply.github.com"
-          git add -A snapshot.json CHANGES.md changes_history.json 2>/dev/null || true
+          for f in snapshot.json CHANGES.md changes_history.json; do
+            [ -f "$f" ] && git add "$f"
+          done
           if git diff --cached --quiet; then
             echo "Изменений нет — коммит не нужен."
           else
