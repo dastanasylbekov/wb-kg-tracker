@@ -16,5 +16,23 @@
     "old": "21.05.2026",
     "new": "18.06.2026",
     "kg": true
+  },
+  {
+    "run": "2026-06-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/dimensions-of-goods-kyrgyzstan",
+    "title": "Габариты товаров",
+    "old": "18.05.2026",
+    "new": "18.06.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-06-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/option-packages-kg",
+    "title": "Пакеты опций",
+    "old": "04.06.2026",
+    "new": "18.06.2026",
+    "kg": true
   }
 ]
