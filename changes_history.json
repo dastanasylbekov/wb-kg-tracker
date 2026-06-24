@@ -34,5 +34,14 @@
     "old": "04.06.2026",
     "new": "18.06.2026",
     "kg": true
+  },
+  {
+    "run": "2026-06-24",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-edbs-kyrgyzstan",
+    "title": "Возвраты товаров по модели «Витрина экспресс» (EDBS)",
+    "old": "03.06.2026",
+    "new": null,
+    "kg": true
   }
 ]
