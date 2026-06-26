@@ -70,5 +70,41 @@
     "old": "03.06.2026",
     "new": "22.06.2026",
     "kg": true
+  },
+  {
+    "run": "2026-06-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-barcodes-on-wb-kyrgyzstan",
+    "title": "Как работать с баркодами на Wildberries",
+    "old": "18.05.2026",
+    "new": "25.06.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-06-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/nyche-analysis-kyrgyzstan",
+    "title": "Отчёт «Анализ ниш»",
+    "old": "19.05.2026",
+    "new": "24.06.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-06-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-1-creating-a-supply-kyrgyzstan",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.06.2026",
+    "new": "25.06.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-06-26",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-edbs-kyrgyzstan",
+    "title": "Возвраты товаров по модели «Витрина экспресс» (EDBS)",
+    "old": "03.06.2026",
+    "new": null,
+    "kg": true
   }
 ]
