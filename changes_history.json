@@ -106,5 +106,14 @@
     "old": "03.06.2026",
     "new": null,
     "kg": true
+  },
+  {
+    "run": "2026-06-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/option-packages-kg",
+    "title": "Пакеты опций",
+    "old": "18.06.2026",
+    "new": "26.06.2026",
+    "kg": true
   }
 ]
