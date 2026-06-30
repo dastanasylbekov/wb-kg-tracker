@@ -1,6 +1,6 @@
-# Изменения справочного центра WB (KG) — 2026-06-29
+# Изменения справочного центра WB (KG) — 2026-06-30
 
 ## Сменилась дата «Обновлено» (1)
-- **Пакеты опций** 🇰🇬: 18.06.2026 → 26.06.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/option-packages-kg
+- **Как работать с интерактивным листом подбора** 🇰🇬: 21.05.2026 → 29.06.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg
 

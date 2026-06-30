@@ -115,5 +115,14 @@
     "old": "18.06.2026",
     "new": "26.06.2026",
     "kg": true
+  },
+  {
+    "run": "2026-06-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "21.05.2026",
+    "new": "29.06.2026",
+    "kg": true
   }
 ]
