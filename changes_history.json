@@ -160,5 +160,59 @@
     "old": "18.05.2026",
     "new": "30.06.2026",
     "kg": true
+  },
+  {
+    "run": "2026-07-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/click-and-collect-model-kyrgyzia",
+    "title": "О модели продаж «Самовывоз из магазина продавца» (С&С)",
+    "old": "10.06.2026",
+    "new": "30.06.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/customer-profile-report-v2-kg",
+    "title": "Отчёт «Портрет покупателя»",
+    "old": "09.06.2026",
+    "new": "01.07.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-increase-limits-of-the-jam-services-kg",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "30.06.2026",
+    "new": "29.05.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "29.06.2026",
+    "new": "21.05.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg",
+    "title": "Сервис подмены артикула",
+    "old": "15.06.2026",
+    "new": "01.07.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan",
+    "title": "Возврат товара по заявке покупателя",
+    "old": "03.06.2026",
+    "new": "01.07.2026",
+    "kg": true
   }
 ]
