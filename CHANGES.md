@@ -1,16 +1,22 @@
-# Изменения справочного центра WB (KG) — 2026-07-02
+# Изменения справочного центра WB (KG) — 2026-07-03
 
-## Сменилась дата «Обновлено» (6)
-- **О модели продаж «Самовывоз из магазина продавца» (С&С)** 🇰🇬: 10.06.2026 → 30.06.2026
+## Сменилась дата «Обновлено» (9)
+- **О модели продаж «Самовывоз из магазина продавца» (С&С)** 🇰🇬: 30.06.2026 → 02.07.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/click-and-collect-model-kyrgyzia
-- **Отчёт «Портрет покупателя»** 🇰🇬: 09.06.2026 → 01.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/customer-profile-report-v2-kg
-- **Как увеличить лимиты сервисов подписки «Джем»** 🇰🇬: 30.06.2026 → 29.05.2026
+- **Как увеличить лимиты сервисов подписки «Джем»** 🇰🇬: 29.05.2026 → 30.06.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/how-to-increase-limits-of-the-jam-services-kg
-- **Как работать с интерактивным листом подбора** 🇰🇬: 29.06.2026 → 21.05.2026
+- **Как работать с интерактивным листом подбора** 🇰🇬: 21.05.2026 → 29.06.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg
-- **Сервис подмены артикула** 🇰🇬: 15.06.2026 → 01.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg
-- **Возврат товара по заявке покупателя** 🇰🇬: 03.06.2026 → 01.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan
+- **Главная страница портала продавца** 🇰🇬: 18.05.2026 → 02.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/main-page-of-the-sellers-portal-kyrgyzstan
+- **Отчёт «Лента заказов»** 🇰🇬: 18.05.2026 → 02.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Отчёт по возвратам и перемещению товаров** 🇰🇬: 26.05.2026 → 02.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/returns-and-movement-of-goods-report-kyrgyzstan
+- **Отчёт «Поисковые запросы на WB»** 🇰🇬: 18.05.2026 → 01.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-analytics-report-kg
+- **Этап 1. Создание поставки** 🇰🇬: 25.06.2026 → 02.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-1-creating-a-supply-kyrgyzstan
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ** 🇰🇬: 21.05.2026 → 02.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan
 
