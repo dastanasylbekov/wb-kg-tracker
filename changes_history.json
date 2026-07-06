@@ -295,5 +295,14 @@
     "old": "21.05.2026",
     "new": "02.07.2026",
     "kg": true
+  },
+  {
+    "run": "2026-07-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/returns-and-movement-of-goods-report-kyrgyzstan",
+    "title": "Отчёт по возвратам и перемещению товаров",
+    "old": "02.07.2026",
+    "new": "03.07.2026",
+    "kg": true
   }
 ]
