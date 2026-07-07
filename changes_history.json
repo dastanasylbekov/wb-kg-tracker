@@ -304,5 +304,23 @@
     "old": "02.07.2026",
     "new": "03.07.2026",
     "kg": true
+  },
+  {
+    "run": "2026-07-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/digital-arbitrage-kyrgyzstan",
+    "title": "Цифровой арбитраж",
+    "old": "18.05.2026",
+    "new": "06.07.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "16.06.2026",
+    "new": "06.07.2026",
+    "kg": true
   }
 ]
