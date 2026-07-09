@@ -322,5 +322,23 @@
     "old": "16.06.2026",
     "new": "06.07.2026",
     "kg": true
+  },
+  {
+    "run": "2026-07-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/customer-profile-report-v2-kg",
+    "title": "Отчёт «Портрет покупателя»",
+    "old": "01.07.2026",
+    "new": "08.07.2026",
+    "kg": true
+  },
+  {
+    "run": "2026-07-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/djem-subscription-options-kg",
+    "title": "Что входит в подписку «Джем»",
+    "old": "18.05.2026",
+    "new": "07.07.2026",
+    "kg": true
   }
 ]
