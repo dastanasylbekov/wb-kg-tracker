@@ -1,0 +1,394 @@
+{
+  "https://seller.wildberries.ge/instructions/ru/ge/material/6-steps-to-your-first-delivery-ge": {
+    "title": "6 шагов к первой поставке",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/accepted-shipment-documents-georgia": {
+    "title": "Документы по принятым поставкам",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/api-integration-with-token-ge": {
+    "title": "Как подключиться по API через токен",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/balance-management-in-the-fbw-model-ge": {
+    "title": "Управление остатками по модели FBW",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/bulk-adding-of-products-ge": {
+    "title": "Как создать сразу много карточек товаров",
+    "updated": "30.06.2026",
+    "updated_iso": "2026-06-30",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/cache-and-cookies-clearing-ge": {
+    "title": "Очистка временных файлов: кэша и cookie в браузере",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/cards-merging-ka": {
+    "title": "Объединение карточек товаров",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/common-mistakes-when-shipping-supplies-to-a-warehouse-ge": {
+    "title": "Частые ошибки при отгрузке поставки на склад Wildberries по модели «Склад WB» (FBW)",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/contact-support-desk-for-sellers-ge": {
+    "title": "Поддержка продавцов",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/dimensions-of-goods-ka": {
+    "title": "Габариты товаров",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/edit-cards-in-bulk-ka": {
+    "title": "Как отредактировать сразу много карточек товаров",
+    "updated": "30.06.2026",
+    "updated_iso": "2026-06-30",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/fbs-sales-model-ka": {
+    "title": "Модель продаж «Маркетплейс» (FBS)",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/general-rules-for-packaging-products-for-the-fbw-ge": {
+    "title": "Упаковка товаров для модели «Склад WB» (FBW) — общие правила",
+    "updated": "02.07.2026",
+    "updated_iso": "2026-07-02",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-cancel-shipment-or-change-date-and-items-quantity-ka": {
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-check-for-price-and-discount-updates-ge": {
+    "title": "Как проверить обновление цен и скидок",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-create-a-product-card-ge": {
+    "title": "Как создать карточку товара",
+    "updated": "30.06.2026",
+    "updated_iso": "2026-06-30",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-create-sellers-warehouse-ka": {
+    "title": "Как создать склад продавца",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-electronics-and-home-appliances-in-fbs-ka": {
+    "title": "Как упаковать электронику и бытовую технику по модели «Маркетплейс» (FBS)",
+    "updated": "02.07.2026",
+    "updated_iso": "2026-07-02",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-electronics-and-household-appliances-fbw-ge": {
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-items-in-fbs-ka": {
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "updated": "02.07.2026",
+    "updated_iso": "2026-07-02",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-jewerly-shipment-in-fbs-ka": {
+    "title": "Как упаковать ювелирные изделия перед поставкой по модели «Маркетплейс» (FBS)",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-properly-pack-different-types-of-goods-ge": {
+    "title": "Как правильно упаковать разные виды товаров",
+    "updated": "02.07.2026",
+    "updated_iso": "2026-07-02",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-set-prices-and-discounts-ge": {
+    "title": "Как устанавливать цены и скидки",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/item-photo-rules-recommendations-and-common-mistakes-ka": {
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/item-returns-by-customer-request-ka": {
+    "title": "Возврат товара по заявке покупателя",
+    "updated": "01.07.2026",
+    "updated_iso": "2026-07-01",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/item-returns-to-seller-from-wb-warehouse-ka": {
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/items-labeling-in-fbs-ka": {
+    "title": "Маркировка товаров для модели «Маркетплейс» (FBS)",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/labels-for-filtering-products-ge": {
+    "title": "Ярлыки для фильтрации товаров",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/multiple-sellers-shipment-ka": {
+    "title": "Поставка от нескольких продавцов",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/news-section-on-the-sellers-portal-ge": {
+    "title": "Раздел «Новости» на портале продавца",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/order-cancellation-ge": {
+    "title": "Отмена заказа",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/personal-account-access-restoring-ge": {
+    "title": "Восстановление доступа к личному кабинету",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/price-quarantine-ge": {
+    "title": "Карантин цен",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/problematic-products-ge": {
+    "title": "Проблемные товары",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/product-categories-ge": {
+    "title": "Категории товаров",
+    "updated": "30.06.2026",
+    "updated_iso": "2026-06-30",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/product-price-management-window-ge": {
+    "title": "Окно управления ценой товара",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/profile-section-on-the-seller-portal-ge": {
+    "title": "Раздел «Профиль» на портале продавца",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/recommendations-for-modeling-photography-ge": {
+    "title": "Рекомендации по модельной съёмке",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/recommendations-for-subject-photography-ge": {
+    "title": "Рекомендации по предметной съёмке",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/rich-content-ge": {
+    "title": "Рич-контент",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/rules-for-filling-out-a-product-card-ge": {
+    "title": "Правила заполнения полей в карточке товара",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/size-chart-in-the-product-card-ge": {
+    "title": "Таблица размеров в карточке товара",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/stage-3-preparing-for-the-shipment-ge": {
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/stage-4-delivery-of-the-shipment-to-the-warehouse-ge": {
+    "title": "Этап 4. Доставка поставки на склад",
+    "updated": "21.05.2026",
+    "updated_iso": "2026-05-21",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/statuses-for-fbw-shipment-ka": {
+    "title": "Статусы поставки",
+    "updated": "05.06.2026",
+    "updated_iso": "2026-06-05",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/step-1-creating-a-supply-ge": {
+    "title": "Этап 1. Создание поставки",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/step-2-filling-the-packaging-ge": {
+    "title": "Этап 2. Наполнение упаковки",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/step-one-fbs-order-processing-ka": {
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/step-three-fbs-shipment-delivery-to-warehose-or-sorting-centre-ka": {
+    "title": "Этап 3. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/step-two-items-packing-and-labeling-in-fbs-ka": {
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/two-factor-authentication-for-personal-account-ge": {
+    "title": "Защита личного кабинета с помощью двухфакторной аутентификации",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/warehouse-map-ka": {
+    "title": "Карта складов Wildberries",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/wb-api-ge": {
+    "title": "Что такое WB API и как с ним работать",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/wb-club-discount-ge": {
+    "title": "Скидка для участников WB Клуба",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/weekly-implementation-reports-ge": {
+    "title": "Еженедельные отчёты реализации",
+    "updated": "04.06.2026",
+    "updated_iso": "2026-06-04",
+    "local": true,
+    "checked": "2026-07-10"
+  },
+  "https://seller.wildberries.ge/instructions/ru/ge/material/wildberries-reward-coefficient-ge": {
+    "title": "Коэффициент вознаграждения Wildberries",
+    "updated": "18.05.2026",
+    "updated_iso": "2026-05-18",
+    "local": false,
+    "checked": "2026-07-10"
+  }
+}
