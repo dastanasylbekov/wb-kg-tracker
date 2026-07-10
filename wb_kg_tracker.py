@@ -1,31 +1,30 @@
 #!/usr/bin/env python3
 """
-Трекер изменений справочного центра Wildberries для продавцов из Кыргызстана.
+Трекер изменений справочного центра Wildberries — мультистрановая версия.
 
-Что делает:
-  1. Обходит раздел /instructions/ru/kg/ (categories -> category -> subcategory -> material),
-     собирает все статьи (material).
-  2. По каждой статье вытаскивает: заголовок, дату «Обновлено DD.MM.YYYY»,
-     признак «Эта статья — для продавцов из Кыргызстана».
-  3. Складывает всё в отсортированный snapshot.json.
-  4. Сравнивает с предыдущим snapshot.json и пишет отчёт об изменениях (CHANGES.md):
-     какие статьи новые, у каких сменилась дата, какие исчезли.
-  5. Опционально шлёт сводку в Telegram (--notify).
+Отслеживает дату «Обновлено DD.MM.YYYY» у статей раздела
+/instructions/{lang}/{country}/ для выбранной страны и показывает,
+у каких статей изменилась дата (а значит — внесли правки) и какие статьи появились/исчезли.
+
+Каждая страна пишется в свою папку data/{country}/, чтобы изменения по странам
+не смешивались:
+    data/kg/snapshot.json          — текущее состояние всех статей
+    data/kg/CHANGES.md             — сводка только за последний прогон
+    data/kg/HISTORY.md             — лента изменений за последние 90 дней
+    data/kg/changes_history.json   — та же лента в машинном виде
 
 Зависимости: requests, beautifulsoup4, lxml
     pip install requests beautifulsoup4 lxml
 
-Запуск:
-    python wb_kg_tracker.py                 # обойти, обновить snapshot, показать изменения
-    python wb_kg_tracker.py --notify        # + отправить сводку в Telegram (env: TG_TOKEN, TG_CHAT)
-    python wb_kg_tracker.py --delay 0.7     # пауза между запросами (вежливость), сек
+Запуск (одна страна за вызов):
+    python wb_kg_tracker.py --country kg
+    python wb_kg_tracker.py --country by --notify --delay 0.6
 
-Сайт отдаётся сервером уже отрендеренным (SSR), поэтому headless-браузер не нужен.
+Сайт отдаётся сервером уже отрендеренным (SSR), headless-браузер не нужен.
 """
 
 import argparse
 import datetime as dt
-import hashlib
 import json
 import os
 import re
@@ -37,47 +36,79 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE = "https://seller.wildberries.ru"
-START_URL = f"{BASE}/instructions/ru/kg/categories"
-SECTION_PREFIX = "/instructions/ru/kg/"  # обходим только этот регион
-
-SNAPSHOT_FILE = "snapshot.json"
-CHANGES_FILE = "CHANGES.md"            # сводка только за последний прогон (перезаписывается)
-HISTORY_FILE = "changes_history.json" # накопительная лента изменений (машинная)
-HISTORY_MD_FILE = "HISTORY.md"        # та же лента, человекочитаемая, за последние N дней
-HISTORY_DAYS = 90                     # глубина истории в HISTORY.md
+HISTORY_DAYS = 90  # глубина истории в HISTORY.md
 
 # «Обновлено 18.05.2026» / «Обновлена 1.6.2026»
 DATE_RE = re.compile(r"Обновлен[оа]\s+(\d{1,2}\.\d{1,2}\.\d{4})")
-KG_MARKER = "для продавцов из Кыргызстана"
+
+# Как называется страна в маркере «Эта статья — для продавцов из ...»
+# (родительный падеж). Добавляйте страны сюда по мере надобности.
+COUNTRY_MARKERS = {
+    "kg": "из Кыргызстана",
+    "by": "из Беларуси",
+    "kz": "из Казахстана",
+    "am": "из Армении",
+    "uz": "из Узбекистана",
+    "ge": "из Грузии",
+    "tj": "из Таджикистана",
+    "ru": "из России",
+}
+COUNTRY_NAMES = {
+    "kg": "Кыргызстан", "by": "Беларусь", "kz": "Казахстан", "am": "Армения",
+    "uz": "Узбекистан", "ge": "Грузия", "tj": "Таджикистан", "ru": "Россия",
+}
+COUNTRY_FLAGS = {
+    "kg": "🇰🇬", "by": "🇧🇾", "kz": "🇰🇿", "am": "🇦🇲",
+    "uz": "🇺🇿", "ge": "🇬🇪", "tj": "🇹🇯", "ru": "🇷🇺",
+}
 
 HEADERS = {
-    # Честный User-Agent с контактом — хороший тон для краулера.
-    "User-Agent": "WB-KG-HelpCenter-Tracker/1.0 (personal monitoring; contact: you@example.com)",
+    "User-Agent": "WB-HelpCenter-Tracker/2.0 (personal monitoring; contact: you@example.com)",
     "Accept-Language": "ru-RU,ru;q=0.9",
 }
 
 
+def make_config(country: str, lang: str) -> dict:
+    """Собирает все страно-зависимые настройки в один объект."""
+    section_prefix = f"/instructions/{lang}/{country}/"
+    marker_tail = COUNTRY_MARKERS.get(country)
+    out_dir = os.path.join("data", country)
+    return {
+        "country": country,
+        "lang": lang,
+        "name": COUNTRY_NAMES.get(country, country.upper()),
+        "flag": COUNTRY_FLAGS.get(country, ""),
+        "section_prefix": section_prefix,
+        "start_url": f"{BASE}{section_prefix}categories",
+        # None -> у страны не задан маркер, признак «для страны» не вычисляем
+        "marker": f"для продавцов {marker_tail}" if marker_tail else None,
+        "out_dir": out_dir,
+        "snapshot": os.path.join(out_dir, "snapshot.json"),
+        "changes": os.path.join(out_dir, "CHANGES.md"),
+        "history_json": os.path.join(out_dir, "changes_history.json"),
+        "history_md": os.path.join(out_dir, "HISTORY.md"),
+    }
+
+
 def canonical(url: str) -> str:
-    """Убираем query и fragment, приводим к виду https://.../material/{slug}."""
+    """Убираем query и fragment."""
     url, _ = urldefrag(url)
     p = urlparse(url)
     return urlunparse((p.scheme, p.netloc, p.path, "", "", ""))
 
 
-def kind(path: str) -> str | None:
-    """category / subcategory / material — или None, если не наша ссылка."""
-    if not path.startswith(SECTION_PREFIX):
+def kind(path: str, section_prefix: str) -> str | None:
+    """category / subcategory / material / index — или None, если не наш раздел."""
+    if not path.startswith(section_prefix):
         return None
-    for k in ("category", "subcategory", "material", "categories"):
-        if f"{SECTION_PREFIX}{k}" in path or path.endswith("/categories"):
-            if "/material/" in path:
-                return "material"
-            if "/subcategory/" in path:
-                return "subcategory"
-            if "/category/" in path:
-                return "category"
-            if path.endswith("/categories"):
-                return "index"
+    if "/material/" in path:
+        return "material"
+    if "/subcategory/" in path:
+        return "subcategory"
+    if "/category/" in path:
+        return "category"
+    if path.endswith("/categories"):
+        return "index"
     return None
 
 
@@ -95,9 +126,9 @@ def fetch(session: requests.Session, url: str, tries: int = 3) -> str | None:
     return None
 
 
-def discover_materials(session: requests.Session, delay: float) -> list[str]:
-    """BFS-обход графа ссылок начиная с /categories. Возвращает список URL статей."""
-    frontier = [canonical(START_URL)]
+def discover_materials(session: requests.Session, delay: float, cfg: dict) -> list[str]:
+    """BFS-обход графа ссылок начиная с /categories выбранной страны."""
+    frontier = [canonical(cfg["start_url"])]
     visited: set[str] = set()
     materials: set[str] = set()
 
@@ -116,7 +147,7 @@ def discover_materials(session: requests.Session, delay: float) -> list[str]:
             target = canonical(urljoin(url, a["href"]))
             if urlparse(target).netloc != urlparse(BASE).netloc:
                 continue
-            k = kind(urlparse(target).path)
+            k = kind(urlparse(target).path, cfg["section_prefix"])
             if k == "material":
                 materials.add(target)
             elif k in ("category", "subcategory", "index") and target not in visited:
@@ -127,7 +158,7 @@ def discover_materials(session: requests.Session, delay: float) -> list[str]:
     return sorted(materials)
 
 
-def parse_material(html: str) -> dict:
+def parse_material(html: str, cfg: dict) -> dict:
     soup = BeautifulSoup(html, "lxml")
 
     title = ""
@@ -150,17 +181,20 @@ def parse_material(html: str) -> dict:
         except ValueError:
             pass
 
+    # для конкретной страны? (у общих статей маркера нет)
+    country_specific = bool(cfg["marker"]) and (cfg["marker"] in text)
+
     return {
         "title": title,
-        "updated": updated_raw,          # как на сайте: 18.05.2026
-        "updated_iso": updated_iso,      # для сортировки/сравнения: 2026-05-18
-        "kg": KG_MARKER in text,         # статья именно для Кыргызстана?
+        "updated": updated_raw,
+        "updated_iso": updated_iso,
+        "local": country_specific,  # статья именно для этой страны
     }
 
 
-def build_snapshot(session: requests.Session, delay: float) -> dict:
-    materials = discover_materials(session, delay)
-    print(f"Найдено статей: {len(materials)}", file=sys.stderr)
+def build_snapshot(session: requests.Session, delay: float, cfg: dict) -> dict:
+    materials = discover_materials(session, delay, cfg)
+    print(f"[{cfg['country']}] найдено статей: {len(materials)}", file=sys.stderr)
 
     today = dt.date.today().isoformat()
     snapshot: dict[str, dict] = {}
@@ -168,52 +202,53 @@ def build_snapshot(session: requests.Session, delay: float) -> dict:
         html = fetch(session, url)
         if html is None:
             continue
-        data = parse_material(html)
+        data = parse_material(html, cfg)
         data["checked"] = today
         snapshot[url] = data
         if i % 25 == 0:
-            print(f"  ...обработано {i}/{len(materials)}", file=sys.stderr)
+            print(f"  [{cfg['country']}] ...обработано {i}/{len(materials)}", file=sys.stderr)
         time.sleep(delay)
 
-    # отсортированный по ключу dict -> аккуратные построчные git-диффы
     return dict(sorted(snapshot.items()))
 
 
-def load_old() -> dict:
-    if os.path.exists(SNAPSHOT_FILE):
-        with open(SNAPSHOT_FILE, encoding="utf-8") as f:
+def load_old(cfg: dict) -> dict:
+    if os.path.exists(cfg["snapshot"]):
+        with open(cfg["snapshot"], encoding="utf-8") as f:
             return json.load(f)
     return {}
 
 
 def diff(old: dict, new: dict) -> dict:
-    added, removed, date_changed, flag_changed = [], [], [], []
-
+    added, removed, date_changed = [], [], []
     for url, n in new.items():
         o = old.get(url)
         if o is None:
             added.append((url, n))
-        else:
-            if o.get("updated") != n.get("updated"):
-                date_changed.append((url, o.get("updated"), n.get("updated"), n))
-            if o.get("kg") != n.get("kg"):
-                flag_changed.append((url, o.get("kg"), n.get("kg"), n))
-
+        elif o.get("updated") != n.get("updated"):
+            date_changed.append((url, o.get("updated"), n.get("updated"), n))
     for url in old:
         if url not in new:
             removed.append((url, old[url]))
+    return {"added": added, "removed": removed, "date_changed": date_changed}
 
+
+def run_timestamps() -> dict:
+    """Метки времени прогона. Кыргызстан — UTC+6 круглый год (без перевода часов)."""
+    now_utc = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
+    local = now_utc + dt.timedelta(hours=6)
     return {
-        "added": added,
-        "removed": removed,
-        "date_changed": date_changed,
-        "flag_changed": flag_changed,
+        "utc": now_utc.strftime("%Y-%m-%d %H:%M UTC"),
+        "local": local.strftime("%Y-%m-%d %H:%M"),
+        "iso_utc": now_utc.isoformat(),
     }
 
 
-def render_report(d: dict) -> str:
+def render_report(d: dict, cfg: dict, run_local: str) -> str:
     today = dt.date.today().isoformat()
-    lines = [f"# Изменения справочного центра WB (KG) — {today}", ""]
+    flag = (cfg["flag"] + " ") if cfg["flag"] else ""
+    lines = [f"# Изменения справки WB — {flag}{cfg['name']} — {today}", "",
+             f"_Прогон: {run_local} (Бишкек)_", ""]
 
     if not any(d.values()):
         lines.append("Изменений с прошлого запуска нет.")
@@ -222,16 +257,14 @@ def render_report(d: dict) -> str:
     if d["date_changed"]:
         lines.append(f"## Сменилась дата «Обновлено» ({len(d['date_changed'])})")
         for url, old_dt, new_dt, n in d["date_changed"]:
-            flag = " 🇰🇬" if n.get("kg") else ""
-            lines.append(f"- **{n['title']}**{flag}: {old_dt} → {new_dt}")
+            lines.append(f"- **{n['title']}**: {old_dt} → {new_dt}")
             lines.append(f"  {url}")
         lines.append("")
 
     if d["added"]:
         lines.append(f"## Новые статьи ({len(d['added'])})")
         for url, n in d["added"]:
-            flag = " 🇰🇬" if n.get("kg") else ""
-            lines.append(f"- **{n['title']}**{flag} (Обновлено {n.get('updated')})")
+            lines.append(f"- **{n['title']}** (Обновлено {n.get('updated')})")
             lines.append(f"  {url}")
         lines.append("")
 
@@ -241,64 +274,54 @@ def render_report(d: dict) -> str:
             lines.append(f"- ~~{o.get('title')}~~  {url}")
         lines.append("")
 
-    if d["flag_changed"]:
-        lines.append(f"## Сменился признак «для Кыргызстана» ({len(d['flag_changed'])})")
-        for url, old_f, new_f, n in d["flag_changed"]:
-            lines.append(f"- **{n['title']}**: {old_f} → {new_f}  {url}")
-        lines.append("")
-
     return "\n".join(lines) + "\n"
 
 
-def append_history(d: dict) -> None:
-    """Дописывает изменения текущего прогона в changes_history.json (для админки)."""
+def append_history(d: dict, cfg: dict) -> None:
+    """Дописывает изменения текущего прогона в data/{country}/changes_history.json."""
     run = dt.date.today().isoformat()
     records = []
     for url, n in d["added"]:
         records.append({"run": run, "type": "added", "url": url,
-                        "title": n["title"], "old": None, "new": n.get("updated"),
-                        "kg": n.get("kg")})
+                        "title": n["title"], "old": None, "new": n.get("updated")})
     for url, old_dt, new_dt, n in d["date_changed"]:
         records.append({"run": run, "type": "date_changed", "url": url,
-                        "title": n["title"], "old": old_dt, "new": new_dt,
-                        "kg": n.get("kg")})
+                        "title": n["title"], "old": old_dt, "new": new_dt})
     for url, o in d["removed"]:
         records.append({"run": run, "type": "removed", "url": url,
-                        "title": o.get("title"), "old": o.get("updated"), "new": None,
-                        "kg": o.get("kg")})
+                        "title": o.get("title"), "old": o.get("updated"), "new": None})
     if not records:
         return
     hist = []
-    if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, encoding="utf-8") as f:
+    if os.path.exists(cfg["history_json"]):
+        with open(cfg["history_json"], encoding="utf-8") as f:
             hist = json.load(f)
     hist.extend(records)
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+    with open(cfg["history_json"], "w", encoding="utf-8") as f:
         json.dump(hist, f, ensure_ascii=False, indent=2)
 
 
-def write_history_md() -> None:
-    """Строит HISTORY.md — ленту изменений за последние HISTORY_DAYS дней,
-    сгруппированную по дате прогона (свежие сверху). Берёт данные из changes_history.json."""
-    if not os.path.exists(HISTORY_FILE):
+def write_history_md(cfg: dict) -> None:
+    """Строит HISTORY.md — ленту за последние HISTORY_DAYS дней, по датам прогона (свежие сверху)."""
+    if not os.path.exists(cfg["history_json"]):
         return
-    with open(HISTORY_FILE, encoding="utf-8") as f:
+    with open(cfg["history_json"], encoding="utf-8") as f:
         hist = json.load(f)
 
     cutoff = (dt.date.today() - dt.timedelta(days=HISTORY_DAYS)).isoformat()
     recent = [r for r in hist if (r.get("run") or "") >= cutoff]
 
     today = dt.date.today().isoformat()
-    lines = [f"# История изменений справочного центра WB (KG) — последние {HISTORY_DAYS} дней",
+    flag = (cfg["flag"] + " ") if cfg["flag"] else ""
+    lines = [f"# История изменений справки WB — {flag}{cfg['name']} — последние {HISTORY_DAYS} дней",
              "", f"_Сформировано: {today}_", ""]
 
     if not recent:
         lines.append(f"За последние {HISTORY_DAYS} дней изменений не зафиксировано.")
-        with open(HISTORY_MD_FILE, "w", encoding="utf-8") as f:
+        with open(cfg["history_md"], "w", encoding="utf-8") as f:
             f.write("\n".join(lines) + "\n")
         return
 
-    # группируем по дате прогона, свежие сверху
     runs: dict[str, list] = {}
     for r in recent:
         runs.setdefault(r.get("run"), []).append(r)
@@ -316,29 +339,57 @@ def write_history_md() -> None:
                 continue
             lines.append(f"### {titles[typ]} ({len(group)})")
             for r in group:
-                flag = " 🇰🇬" if r.get("kg") else ""
                 title = r.get("title") or "(без названия)"
                 if typ == "date_changed":
-                    lines.append(f"- **{title}**{flag}: {r.get('old')} → {r.get('new')}")
+                    lines.append(f"- **{title}**: {r.get('old')} → {r.get('new')}")
                     lines.append(f"  {r.get('url')}")
                 elif typ == "added":
-                    lines.append(f"- **{title}**{flag} (Обновлено {r.get('new')})")
+                    lines.append(f"- **{title}** (Обновлено {r.get('new')})")
                     lines.append(f"  {r.get('url')}")
-                else:  # removed
+                else:
                     lines.append(f"- ~~{title}~~  {r.get('url')}")
             lines.append("")
         lines.append("")
 
-    with open(HISTORY_MD_FILE, "w", encoding="utf-8") as f:
+    with open(cfg["history_md"], "w", encoding="utf-8") as f:
         f.write("\n".join(lines).rstrip() + "\n")
 
 
-def notify_telegram(text: str) -> None:
+def write_status() -> None:
+    """Строит верхнеуровневый STATUS.md — «пульс»: когда какая страна собиралась.
+    Читает data/{country}/last_run.json по всем странам."""
+    rows = []
+    if os.path.isdir("data"):
+        for c in sorted(os.listdir("data")):
+            p = os.path.join("data", c, "last_run.json")
+            if os.path.exists(p):
+                with open(p, encoding="utf-8") as f:
+                    rows.append(json.load(f))
+
+    now = run_timestamps()
+    lines = ["# Статус трекера справки WB", "",
+             f"_Сформировано: {now['local']} (Бишкек, UTC+6)_", ""]
+
+    if not rows:
+        lines.append("Пока нет данных о прогонах.")
+    else:
+        lines.append("| Страна | Последний прогон (Бишкек) | Статей | Изменений в прогоне | Статус |")
+        lines.append("|---|---|---:|---:|:---:|")
+        for r in rows:
+            changes = r.get("added", 0) + r.get("date_changed", 0) + r.get("removed", 0)
+            flag = (r.get("flag", "") + " ") if r.get("flag") else ""
+            lines.append(f"| {flag}{r.get('name')} | {r.get('run_local')} | "
+                         f"{r.get('articles')} | {changes} | ✅ |")
+
+    with open("STATUS.md", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def notify_telegram(text: str, cfg: dict) -> None:
     token, chat = os.getenv("TG_TOKEN"), os.getenv("TG_CHAT")
     if not token or not chat:
         print("[notify] TG_TOKEN/TG_CHAT не заданы — пропускаю Telegram.", file=sys.stderr)
         return
-    # Telegram ограничивает сообщение ~4096 символами
     chunk = text[:3900]
     try:
         resp = requests.post(
@@ -352,53 +403,75 @@ def notify_telegram(text: str) -> None:
         print(f"[notify] ошибка Telegram: {e}", file=sys.stderr)
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser(description="Трекер изменений справочного центра WB (Кыргызстан)")
-    ap.add_argument("--delay", type=float, default=0.5, help="пауза между запросами, сек (по умолчанию 0.5)")
-    ap.add_argument("--notify", action="store_true", help="отправить сводку в Telegram")
-    ap.add_argument("--no-missing-date-warning", action="store_true",
-                    help="не предупреждать о статьях без распознанной даты")
-    args = ap.parse_args()
+def run_country(country: str, lang: str, delay: float, notify: bool) -> int:
+    cfg = make_config(country, lang)
+    if cfg["marker"] is None:
+        print(f"[{country}] [warn] для страны не задан маркер — признак «для страны» "
+              f"считаться не будет. Добавьте её в COUNTRY_MARKERS.", file=sys.stderr)
 
+    os.makedirs(cfg["out_dir"], exist_ok=True)
     session = requests.Session()
 
-    old = load_old()
-    new = build_snapshot(session, args.delay)
+    old = load_old(cfg)
+    new = build_snapshot(session, delay, cfg)
 
     if not new:
-        print("[error] ничего не собрано — снимок пустой, snapshot.json НЕ перезаписан.", file=sys.stderr)
+        print(f"[{country}] [error] ничего не собрано — снимок пустой, файлы НЕ перезаписаны.",
+              file=sys.stderr)
         return 1
 
-    # Предупреждение: у скольких статей не удалось распознать дату
     missing = [u for u, v in new.items() if not v.get("updated")]
-    if missing and not args.no_missing_date_warning:
-        print(f"[warn] дата не распознана у {len(missing)} статей "
-              f"(возможно, нужно поправить DATE_RE/селектор). Примеры:", file=sys.stderr)
-        for u in missing[:5]:
-            print(f"        {u}", file=sys.stderr)
+    if missing:
+        print(f"[{country}] [warn] дата не распознана у {len(missing)} статей.", file=sys.stderr)
 
     d = diff(old, new) if old else {"added": [(u, v) for u, v in new.items()],
-                                     "removed": [], "date_changed": [], "flag_changed": []}
-    report = render_report(d)
+                                    "removed": [], "date_changed": []}
+    ts = run_timestamps()
+    report = render_report(d, cfg, ts["local"])
 
-    with open(SNAPSHOT_FILE, "w", encoding="utf-8") as f:
+    with open(cfg["snapshot"], "w", encoding="utf-8") as f:
         json.dump(new, f, ensure_ascii=False, indent=2)
-    with open(CHANGES_FILE, "w", encoding="utf-8") as f:
+    with open(cfg["changes"], "w", encoding="utf-8") as f:
         f.write(report)
 
-    # Историю копим только начиная со второго прогона (на первом «новые» = все статьи).
     if old:
-        append_history(d)
+        append_history(d, cfg)
+    write_history_md(cfg)
 
-    # HISTORY.md перестраиваем всегда (если есть накопленная история).
-    write_history_md()
+    # «пульс» страны — из этого собирается общий STATUS.md
+    with open(os.path.join(cfg["out_dir"], "last_run.json"), "w", encoding="utf-8") as f:
+        json.dump({
+            "country": cfg["country"], "name": cfg["name"], "flag": cfg["flag"],
+            "run_local": ts["local"], "run_utc": ts["utc"], "run_iso": ts["iso_utc"],
+            "articles": len(new),
+            "added": len(d["added"]), "date_changed": len(d["date_changed"]),
+            "removed": len(d["removed"]),
+        }, f, ensure_ascii=False, indent=2)
 
     print(report)
 
-    if args.notify and old and any(v for k, v in d.items()):
-        notify_telegram(report)
+    if notify and old and any(d.values()):
+        notify_telegram(report, cfg)
 
     return 0
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description="Трекер изменений справочного центра WB (мультистрановой)")
+    ap.add_argument("--country", help="код страны: kg, by, kz, am, uz, ge, tj, ru")
+    ap.add_argument("--lang", default="ru", help="язык интерфейса (по умолчанию ru)")
+    ap.add_argument("--delay", type=float, default=0.5, help="пауза между запросами, сек")
+    ap.add_argument("--notify", action="store_true", help="отправить сводку в Telegram")
+    ap.add_argument("--status", action="store_true",
+                    help="собрать STATUS.md по всем странам (запускать после прогонов)")
+    args = ap.parse_args()
+
+    if args.status:
+        write_status()
+        return 0
+    if not args.country:
+        ap.error("укажите --country <код> или --status")
+    return run_country(args.country.lower(), args.lang.lower(), args.delay, args.notify)
 
 
 if __name__ == "__main__":
