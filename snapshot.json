@@ -309,8 +309,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/djem-subscription-options-kg": {
     "title": "Что входит в подписку «Джем»",
-    "updated": "18.05.2026",
-    "updated_iso": "2026-05-18",
+    "updated": "07.07.2026",
+    "updated_iso": "2026-07-07",
     "kg": true,
     "checked": "2026-07-10"
   },
@@ -701,8 +701,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kyrgyzstan": {
     "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
-    "updated": "09.07.2026",
-    "updated_iso": "2026-07-09",
+    "updated": "10.06.2026",
+    "updated_iso": "2026-06-10",
     "kg": true,
     "checked": "2026-07-10"
   },
@@ -1169,9 +1169,9 @@
     "checked": "2026-07-10"
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan": {
-    "title": "Управление остатками по модели «Витрина экспресс» (EDBS)",
-    "updated": "18.05.2026",
-    "updated_iso": "2026-05-18",
+    "title": "Справочный центр",
+    "updated": null,
+    "updated_iso": null,
     "kg": true,
     "checked": "2026-07-10"
   },
