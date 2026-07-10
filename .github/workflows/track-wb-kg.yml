@@ -1,38 +1,65 @@
-name: Трекер справочного центра WB (KG)
+name: Трекер справочного центра WB (мультистрановой)
 
 on:
   schedule:
+    # Будни в 03:00 UTC = 09:00 по Бишкеку. День недели 1-5 = пн-пт.
     - cron: "0 3 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
+# СПИСОК СТРАН ДЛЯ ОТСЛЕЖИВАНИЯ — меняется здесь, через пробел.
+# Доступные коды: kg by kz am uz ge tj ru
+env:
+  COUNTRIES: "kg by kz am uz"
+
 jobs:
   track:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Установить зависимости
         run: pip install requests beautifulsoup4 lxml
-      - name: Запустить трекер
+
+      - name: Собрать все страны
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
-        run: python wb_kg_tracker.py --notify --delay 0.6
-      - name: Закоммитить изменения снимка
+        run: |
+          fail=0
+          for c in $COUNTRIES; do
+            echo "::group::Страна $c"
+            python wb_kg_tracker.py --country "$c" --delay 0.6 --notify \
+              || { echo "[warn] страна $c завершилась с ошибкой"; fail=1; }
+            echo "::endgroup::"
+          done
+          echo "FAIL=$fail" >> "$GITHUB_ENV"
+
+      - name: Собрать STATUS.md (пульс прогона)
+        run: python wb_kg_tracker.py --status
+
+      - name: Закоммитить изменения
         run: |
           git config user.name  "wb-kg-tracker"
           git config user.email "actions@users.noreply.github.com"
-          for f in snapshot.json CHANGES.md changes_history.json HISTORY.md; do
-            [ -f "$f" ] && git add "$f"
-          done
+          [ -d data ] && git add data
+          git add STATUS.md
           if git diff --cached --quiet; then
             echo "Изменений нет — коммит не нужен."
           else
-            git commit -m "WB KG: обновление снимка $(date -u +%Y-%m-%d)"
+            git commit -m "WB: обновление данных $(date -u +%Y-%m-%d)"
             git push
+          fi
+
+      - name: Отметить сбои сбора (если были)
+        run: |
+          if [ "${FAIL:-0}" = "1" ]; then
+            echo "Одна или несколько стран не собрались — см. лог шага «Собрать все страны»."
+            exit 1
           fi
