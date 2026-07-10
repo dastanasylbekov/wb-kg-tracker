@@ -35,11 +35,28 @@ from urllib.parse import urljoin, urldefrag, urlparse, urlunparse
 import requests
 from bs4 import BeautifulSoup
 
-BASE = "https://seller.wildberries.ru"
+DEFAULT_BASE = "https://seller.wildberries.ru"
+# У некоторых стран справка расположена на собственном домене.
+# Напр. у Грузии — seller.wildberries.ge, а не .ru.
+COUNTRY_BASE = {
+    "ge": "https://seller.wildberries.ge",
+}
 HISTORY_DAYS = 90  # глубина истории в HISTORY.md
 
 # «Обновлено 18.05.2026» / «Обновлена 1.6.2026»
 DATE_RE = re.compile(r"Обновлен[оа]\s+(\d{1,2}\.\d{1,2}\.\d{4})")
+
+# Страны без маркера «Эта статья — для продавцов из ...»:
+# все статьи их раздела считаем местными по факту нахождения в /{country}/.
+NO_MARKER_COUNTRIES = {"tj"}
+
+# Слово-метка «Обновлено» по языкам интерфейса. Для нерусских языков,
+# если метка не сработала, применяется запасной поиск даты (см. extract_date).
+UPDATED_LABELS = {
+    "ru": r"Обновлен[оа]",
+    "ka": r"განახლდა",  # грузинский «обновлено» — ПРОВЕРИТЬ на первом прогоне
+}
+DATE_TOKEN = re.compile(r"\b(\d{1,2}\.\d{1,2}\.\d{4})\b")
 
 # Как называется страна в маркере «Эта статья — для продавцов из ...»
 # (родительный падеж). Добавляйте страны сюда по мере надобности.
@@ -70,18 +87,33 @@ HEADERS = {
 
 def make_config(country: str, lang: str) -> dict:
     """Собирает все страно-зависимые настройки в один объект."""
+    base = COUNTRY_BASE.get(country, DEFAULT_BASE)
     section_prefix = f"/instructions/{lang}/{country}/"
     marker_tail = COUNTRY_MARKERS.get(country)
-    out_dir = os.path.join("data", country)
+
+    # У некоторых стран нет маркера «для продавцов из ...» (напр. Таджикистан),
+    # и на нерусских языках русский маркер тоже не сработает.
+    # В таких случаях считаем все статьи раздела «местными» по факту нахождения в /{country}/.
+    no_marker = (country in NO_MARKER_COUNTRIES) or (lang != "ru")
+    marker = None if no_marker else (f"для продавцов {marker_tail}" if marker_tail else None)
+
+    # Отдельная папка/имя для нерусских версий, чтобы не смешивать с русской.
+    folder = country if lang == "ru" else f"{country}-{lang}"
+    out_dir = os.path.join("data", folder)
+    name = COUNTRY_NAMES.get(country, country.upper())
+    if lang != "ru":
+        name = f"{name} ({lang})"
+
     return {
         "country": country,
         "lang": lang,
-        "name": COUNTRY_NAMES.get(country, country.upper()),
+        "name": name,
         "flag": COUNTRY_FLAGS.get(country, ""),
+        "base": base,
         "section_prefix": section_prefix,
-        "start_url": f"{BASE}{section_prefix}categories",
-        # None -> у страны не задан маркер, признак «для страны» не вычисляем
-        "marker": f"для продавцов {marker_tail}" if marker_tail else None,
+        "start_url": f"{base}{section_prefix}categories",
+        "marker": marker,
+        "local_all": no_marker,  # True -> все статьи раздела считаем «местными»
         "out_dir": out_dir,
         "snapshot": os.path.join(out_dir, "snapshot.json"),
         "changes": os.path.join(out_dir, "CHANGES.md"),
@@ -145,7 +177,7 @@ def discover_materials(session: requests.Session, delay: float, cfg: dict) -> li
         soup = BeautifulSoup(html, "lxml")
         for a in soup.find_all("a", href=True):
             target = canonical(urljoin(url, a["href"]))
-            if urlparse(target).netloc != urlparse(BASE).netloc:
+            if urlparse(target).netloc != urlparse(cfg["base"]).netloc:
                 continue
             k = kind(urlparse(target).path, cfg["section_prefix"])
             if k == "material":
@@ -156,6 +188,21 @@ def discover_materials(session: requests.Session, delay: float, cfg: dict) -> li
         time.sleep(delay)
 
     return sorted(materials)
+
+
+def extract_date(text: str, lang: str) -> str | None:
+    """Ищет дату «Обновлено DD.MM.YYYY» по метке нужного языка.
+    Для нерусских языков, если метка не найдена, берёт первую дату на странице (best-effort)."""
+    label = UPDATED_LABELS.get(lang)
+    if label:
+        m = re.search(label + r"[\s:]*?(\d{1,2}\.\d{1,2}\.\d{4})", text)
+        if m:
+            return m.group(1)
+    if lang != "ru":  # запасной вариант только для нерусских версий
+        m = DATE_TOKEN.search(text)
+        if m:
+            return m.group(1)
+    return None
 
 
 def parse_material(html: str, cfg: dict) -> dict:
@@ -171,8 +218,7 @@ def parse_material(html: str, cfg: dict) -> dict:
 
     text = soup.get_text(" ", strip=True)
 
-    m = DATE_RE.search(text)
-    updated_raw = m.group(1) if m else None
+    updated_raw = extract_date(text, cfg["lang"])
     updated_iso = None
     if updated_raw:
         try:
@@ -181,14 +227,18 @@ def parse_material(html: str, cfg: dict) -> dict:
         except ValueError:
             pass
 
-    # для конкретной страны? (у общих статей маркера нет)
-    country_specific = bool(cfg["marker"]) and (cfg["marker"] in text)
+    # статья для этой страны? либо по маркеру, либо (для стран/языков без маркера)
+    # по факту нахождения в разделе /{country}/ — тогда local_all=True.
+    if cfg["local_all"]:
+        country_specific = True
+    else:
+        country_specific = bool(cfg["marker"]) and (cfg["marker"] in text)
 
     return {
         "title": title,
         "updated": updated_raw,
         "updated_iso": updated_iso,
-        "local": country_specific,  # статья именно для этой страны
+        "local": country_specific,
     }
 
 
@@ -405,7 +455,7 @@ def notify_telegram(text: str, cfg: dict) -> None:
 
 def run_country(country: str, lang: str, delay: float, notify: bool) -> int:
     cfg = make_config(country, lang)
-    if cfg["marker"] is None:
+    if cfg["marker"] is None and not cfg["local_all"]:
         print(f"[{country}] [warn] для страны не задан маркер — признак «для страны» "
               f"считаться не будет. Добавьте её в COUNTRY_MARKERS.", file=sys.stderr)
 
