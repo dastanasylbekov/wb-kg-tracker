@@ -41,8 +41,10 @@ START_URL = f"{BASE}/instructions/ru/kg/categories"
 SECTION_PREFIX = "/instructions/ru/kg/"  # обходим только этот регион
 
 SNAPSHOT_FILE = "snapshot.json"
-CHANGES_FILE = "CHANGES.md"
-HISTORY_FILE = "changes_history.json"  # накопительная лента изменений для админки
+CHANGES_FILE = "CHANGES.md"            # сводка только за последний прогон (перезаписывается)
+HISTORY_FILE = "changes_history.json" # накопительная лента изменений (машинная)
+HISTORY_MD_FILE = "HISTORY.md"        # та же лента, человекочитаемая, за последние N дней
+HISTORY_DAYS = 90                     # глубина истории в HISTORY.md
 
 # «Обновлено 18.05.2026» / «Обновлена 1.6.2026»
 DATE_RE = re.compile(r"Обновлен[оа]\s+(\d{1,2}\.\d{1,2}\.\d{4})")
@@ -275,6 +277,62 @@ def append_history(d: dict) -> None:
         json.dump(hist, f, ensure_ascii=False, indent=2)
 
 
+def write_history_md() -> None:
+    """Строит HISTORY.md — ленту изменений за последние HISTORY_DAYS дней,
+    сгруппированную по дате прогона (свежие сверху). Берёт данные из changes_history.json."""
+    if not os.path.exists(HISTORY_FILE):
+        return
+    with open(HISTORY_FILE, encoding="utf-8") as f:
+        hist = json.load(f)
+
+    cutoff = (dt.date.today() - dt.timedelta(days=HISTORY_DAYS)).isoformat()
+    recent = [r for r in hist if (r.get("run") or "") >= cutoff]
+
+    today = dt.date.today().isoformat()
+    lines = [f"# История изменений справочного центра WB (KG) — последние {HISTORY_DAYS} дней",
+             "", f"_Сформировано: {today}_", ""]
+
+    if not recent:
+        lines.append(f"За последние {HISTORY_DAYS} дней изменений не зафиксировано.")
+        with open(HISTORY_MD_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines) + "\n")
+        return
+
+    # группируем по дате прогона, свежие сверху
+    runs: dict[str, list] = {}
+    for r in recent:
+        runs.setdefault(r.get("run"), []).append(r)
+
+    titles = {"date_changed": "Сменилась дата «Обновлено»",
+              "added": "Новые статьи", "removed": "Исчезли статьи"}
+    order = ["date_changed", "added", "removed"]
+
+    for run in sorted(runs, reverse=True):
+        lines.append(f"## {run}")
+        recs = runs[run]
+        for typ in order:
+            group = [r for r in recs if r.get("type") == typ]
+            if not group:
+                continue
+            lines.append(f"### {titles[typ]} ({len(group)})")
+            for r in group:
+                flag = " 🇰🇬" if r.get("kg") else ""
+                title = r.get("title") or "(без названия)"
+                if typ == "date_changed":
+                    lines.append(f"- **{title}**{flag}: {r.get('old')} → {r.get('new')}")
+                    lines.append(f"  {r.get('url')}")
+                elif typ == "added":
+                    lines.append(f"- **{title}**{flag} (Обновлено {r.get('new')})")
+                    lines.append(f"  {r.get('url')}")
+                else:  # removed
+                    lines.append(f"- ~~{title}~~  {r.get('url')}")
+            lines.append("")
+        lines.append("")
+
+    with open(HISTORY_MD_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines).rstrip() + "\n")
+
+
 def notify_telegram(text: str) -> None:
     token, chat = os.getenv("TG_TOKEN"), os.getenv("TG_CHAT")
     if not token or not chat:
@@ -331,6 +389,9 @@ def main() -> int:
     # Историю копим только начиная со второго прогона (на первом «новые» = все статьи).
     if old:
         append_history(d)
+
+    # HISTORY.md перестраиваем всегда (если есть накопленная история).
+    write_history_md()
 
     print(report)
 
