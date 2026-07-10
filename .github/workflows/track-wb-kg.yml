@@ -9,10 +9,11 @@ on:
 permissions:
   contents: write
 
-# СПИСОК СТРАН ДЛЯ ОТСЛЕЖИВАНИЯ — меняется здесь, через пробел.
+# СПИСОК ДЛЯ ОТСЛЕЖИВАНИЯ — меняется здесь, через пробел.
+# Формат: код страны, либо код:язык (напр. ge:ka — Грузия на грузинском).
 # Доступные коды: kg by kz am uz ge tj ru
 env:
-  COUNTRIES: "kg by kz am uz"
+  COUNTRIES: "kg by kz am uz tj ge ge:ka"
 
 jobs:
   track:
@@ -33,10 +34,13 @@ jobs:
           TG_CHAT: ${{ secrets.TG_CHAT }}
         run: |
           fail=0
-          for c in $COUNTRIES; do
-            echo "::group::Страна $c"
-            python wb_kg_tracker.py --country "$c" --delay 0.6 --notify \
-              || { echo "[warn] страна $c завершилась с ошибкой"; fail=1; }
+          for entry in $COUNTRIES; do
+            country="${entry%%:*}"
+            lang="${entry#*:}"
+            [ "$lang" = "$entry" ] && lang="ru"   # нет двоеточия -> язык ru
+            echo "::group::$country ($lang)"
+            python wb_kg_tracker.py --country "$country" --lang "$lang" --delay 0.6 --notify \
+              || { echo "[warn] $country/$lang завершилась с ошибкой"; fail=1; }
             echo "::endgroup::"
           done
           echo "FAIL=$fail" >> "$GITHUB_ENV"
