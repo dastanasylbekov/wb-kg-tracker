@@ -1,0 +1,26 @@
+[
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/about-the-express-display-sales-model-edbs-kazakhstan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "24.06.2026",
+    "new": "10.07.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/rules-edbs-kazakhstan",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-07-11",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/stocks-management-edbs-kazakhstan",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  }
+]

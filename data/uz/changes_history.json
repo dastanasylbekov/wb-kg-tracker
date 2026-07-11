@@ -1,0 +1,18 @@
+[
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/digital-arbitrage-uzbekistan",
+    "title": "Цифровой арбитраж",
+    "old": "18.05.2026",
+    "new": "06.07.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-dbs-uzbekistan",
+    "title": "Управление остатками по модели «Витрина» (DBS)",
+    "old": "10.07.2026",
+    "new": "18.05.2026"
+  }
+]

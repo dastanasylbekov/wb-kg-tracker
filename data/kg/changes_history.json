@@ -1,0 +1,26 @@
+[
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/about-edbs-kyrgyzstan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "24.06.2026",
+    "new": "10.07.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kyrgyzstan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "10.06.2026",
+    "new": "09.07.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan",
+    "title": "Справочный центр",
+    "old": "18.05.2026",
+    "new": null
+  }
+]

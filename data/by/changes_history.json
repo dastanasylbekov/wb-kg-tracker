@@ -1,0 +1,18 @@
+[
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/about-the-express-display-sales-model-edbs-rb",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "10.07.2026",
+    "new": "24.06.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/inventory-management-dbs-belarus",
+    "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": "10.07.2026"
+  }
+]

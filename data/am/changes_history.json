@@ -1,0 +1,34 @@
+[
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/about-the-express-display-sales-model-edbs-armenia",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "24.06.2026",
+    "new": "10.07.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/mgt-kgt-sgt-a-brief-guide-for-sellers-armenia",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "10.06.2026",
+    "new": "09.07.2026"
+  },
+  {
+    "run": "2026-07-11",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/rules-edbs-armenia",
+    "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
+    "old": "03.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-11",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/stocks-management-edbs-armenia",
+    "title": "Управление остатками по модели «Витрина экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": null
+  }
+]
