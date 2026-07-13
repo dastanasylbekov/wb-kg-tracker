@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-07-11_
+_Сформировано: 2026-07-13_
+
+## 2026-07-13
+### Исчезли статьи (2)
+- ~~Правила работы по модели «Витрина Экспресс» (EDBS)~~  https://seller.wildberries.ru/instructions/ru/kg/material/rules-of-work-with-edbs-kyrgyzstan
+- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan
+
 
 ## 2026-07-11
 ### Сменилась дата «Обновлено» (3)

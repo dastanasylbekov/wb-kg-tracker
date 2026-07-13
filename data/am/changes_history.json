@@ -30,5 +30,29 @@
     "title": "Управление остатками по модели «Витрина экспресс» (EDBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-13",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/rules-edbs-armenia",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-07-13",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/stocks-management-edbs-armenia",
+    "title": "Управление остатками по модели «Витрина экспресс» (EDBS)",
+    "old": null,
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-07-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-dbs-armenia",
+    "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": "10.07.2026"
   }
 ]

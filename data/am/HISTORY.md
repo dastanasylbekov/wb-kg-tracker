@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-07-11_
+_Сформировано: 2026-07-13_
+
+## 2026-07-13
+### Сменилась дата «Обновлено» (1)
+- **Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 18.05.2026 → 10.07.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-dbs-armenia
+
+### Новые статьи (2)
+- **Справочный центр** (Обновлено None)
+  https://seller.wildberries.ru/instructions/ru/am/material/rules-edbs-armenia
+- **Управление остатками по модели «Витрина экспресс» (EDBS)** (Обновлено 18.05.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/stocks-management-edbs-armenia
+
 
 ## 2026-07-11
 ### Сменилась дата «Обновлено» (2)

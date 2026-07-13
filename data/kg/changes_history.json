@@ -22,5 +22,21 @@
     "title": "Справочный центр",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-13",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/rules-of-work-with-edbs-kyrgyzstan",
+    "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-13",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]

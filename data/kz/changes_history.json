@@ -22,5 +22,13 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-07-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-dbs-kazakhstan",
+    "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": "10.07.2026"
   }
 ]

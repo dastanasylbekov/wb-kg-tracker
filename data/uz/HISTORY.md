@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-07-11_
+_Сформировано: 2026-07-13_
+
+## 2026-07-13
+### Сменилась дата «Обновлено» (4)
+- **О модели продаж «Витрина экспресс» (EDBS)**: 10.07.2026 → 24.06.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan
+- **МГТ, КГТ+ и СГТ: гид для продавцов**: 10.06.2026 → 09.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-uzbekistan
+- **Отчёт «Анализ ниш»**: 24.06.2026 → 09.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/nyche-analysis-uzbekistan
+- **Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 18.05.2026 → 10.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-dbs-uzbekistan
+
 
 ## 2026-07-11
 ### Сменилась дата «Обновлено» (2)
