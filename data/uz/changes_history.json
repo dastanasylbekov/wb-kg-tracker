@@ -46,5 +46,13 @@
     "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
     "old": "18.05.2026",
     "new": "10.07.2026"
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "24.06.2026",
+    "new": "10.07.2026"
   }
 ]

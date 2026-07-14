@@ -30,5 +30,29 @@
     "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
     "old": "18.05.2026",
     "new": "10.07.2026"
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-increase-limits-of-the-jam-services-kz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "30.06.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kazakhstan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "09.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "18.05.2026",
+    "new": "13.07.2026"
   }
 ]

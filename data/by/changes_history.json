@@ -46,5 +46,29 @@
     "title": "Управление остатками по модели «Витрина экспресс» (EDBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/mgt-kgt-sgt-a-brief-guide-for-sellers-belarus",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "09.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "18.05.2026",
+    "new": "13.07.2026"
   }
 ]

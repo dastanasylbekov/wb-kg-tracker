@@ -1,8 +1,12 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-13
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-14
 
-_Прогон: 2026-07-13 12:30 (Бишкек)_
+_Прогон: 2026-07-14 11:41 (Бишкек)_
 
-## Исчезли статьи (2)
-- ~~Правила работы по модели «Витрина Экспресс» (EDBS)~~  https://seller.wildberries.ru/instructions/ru/kg/material/rules-of-work-with-edbs-kyrgyzstan
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan
+## Сменилась дата «Обновлено» (1)
+- **Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 18.05.2026 → 10.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-dbs-kyrgyzstan
+
+## Новые статьи (1)
+- **Справочный центр** (Обновлено None)
+  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan
 
