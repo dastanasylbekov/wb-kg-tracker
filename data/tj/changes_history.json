@@ -1,0 +1,18 @@
+[
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-3-delivery-fbs-orders-to-a-warehouse-tj",
+    "title": "Этап 3. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  }
+]

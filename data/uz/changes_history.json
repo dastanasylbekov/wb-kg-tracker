@@ -54,5 +54,37 @@
     "title": "О модели продаж «Витрина экспресс» (EDBS)",
     "old": "24.06.2026",
     "new": "10.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "30.06.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-1-processing-a-new-order-through-fbs-uzbekistan",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "18.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "18.05.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "16.06.2026",
+    "new": "14.07.2026"
   }
 ]

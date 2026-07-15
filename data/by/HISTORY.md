@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-07-14_
+_Сформировано: 2026-07-15_
+
+## 2026-07-15
+### Сменилась дата «Обновлено» (4)
+- **Как увеличить лимиты сервисов подписки «Джем»**: 30.06.2026 → 13.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-increase-limits-of-the-jam-services-by
+- **Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)**: 18.06.2026 → 14.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-1-processing-a-new-order-through-fbs-belarus
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 21.05.2026 → 14.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-belarus
+- **«Помощник»: аналитика и данные по вашим товарам**: 16.06.2026 → 14.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/wbot-analytics-in-the-app-by
+
+### Новые статьи (1)
+- **Частые вопросы о складах** (Обновлено 14.07.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by
+
 
 ## 2026-07-14
 ### Сменилась дата «Обновлено» (3)

@@ -86,5 +86,61 @@
     "title": "Управление остатками по модели «Витрина экспресс» (EDBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-15",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am",
+    "title": "Частые вопросы о складах",
+    "old": null,
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/interactive-assembly-task-ar",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "29.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/mgt-kgt-sgt-a-brief-guide-for-sellers-armenia",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "09.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-1-processing-a-new-order-through-fbs-armenia",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "18.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/tariff-constructor-options-armenia",
+    "title": "Опции конструктора тарифов",
+    "old": "18.05.2026",
+    "new": "14.07.2026"
   }
 ]

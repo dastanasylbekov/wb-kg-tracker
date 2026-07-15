@@ -54,5 +54,45 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "18.05.2026",
     "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz",
+    "title": "Частые вопросы о складах",
+    "old": null,
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/tariff-constructor-options-kazakhstan",
+    "title": "Опции конструктора тарифов",
+    "old": "30.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/wbot-analytics-in-the-app-kz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "16.06.2026",
+    "new": "14.07.2026"
   }
 ]

@@ -70,5 +70,45 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "18.05.2026",
     "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by",
+    "title": "Частые вопросы о складах",
+    "old": null,
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-increase-limits-of-the-jam-services-by",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "30.06.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-1-processing-a-new-order-through-fbs-belarus",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "18.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-belarus",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/wbot-analytics-in-the-app-by",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "16.06.2026",
+    "new": "14.07.2026"
   }
 ]
