@@ -86,5 +86,53 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "16.06.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/faq-about-warehouses-uz",
+    "title": "Частые вопросы о складах",
+    "old": null,
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "13.07.2026",
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/tariff-constructor-options-uz",
+    "title": "Опции конструктора тарифов",
+    "old": "30.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "14.07.2026",
+    "new": "16.06.2026"
   }
 ]

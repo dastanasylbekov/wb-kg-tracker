@@ -94,5 +94,37 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "16.06.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/interactive-assembly-task-kz",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "29.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "02.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-1-processing-a-new-order-through-fbs-kazakhstan",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "18.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz",
+    "title": "Частые вопросы о складах",
+    "old": "14.07.2026",
+    "new": null
   }
 ]

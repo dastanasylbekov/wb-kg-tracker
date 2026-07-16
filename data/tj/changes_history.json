@@ -14,5 +14,29 @@
     "title": "Этап 3. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "21.05.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "14.07.2026",
+    "new": "21.05.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/processing-a-new-fbs-order-tj",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "18.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-three-fbw-shipment-preparation-tj",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "18.05.2026",
+    "new": "15.07.2026"
   }
 ]

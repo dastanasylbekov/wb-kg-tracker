@@ -142,5 +142,13 @@
     "title": "Опции конструктора тарифов",
     "old": "18.05.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "16.06.2026",
+    "new": "14.07.2026"
   }
 ]

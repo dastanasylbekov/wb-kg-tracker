@@ -110,5 +110,29 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "16.06.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/cargo-customs-declaration-by",
+    "title": "Декларация на товары (Грузовая таможенная декларация)",
+    "old": "29.06.2026",
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by",
+    "title": "Частые вопросы о складах",
+    "old": "14.07.2026",
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "13.07.2026",
+    "new": "15.07.2026"
   }
 ]
