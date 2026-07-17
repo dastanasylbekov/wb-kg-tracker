@@ -22,5 +22,13 @@
     "title": "Поддержка продавцов",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/stage-3-preparing-for-the-shipment-ge",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "04.06.2026",
+    "new": "13.07.2026"
   }
 ]

@@ -134,5 +134,61 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "13.07.2026",
     "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/about-dbs-model-in-belarus",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/deliveries-by-region-report-belarus",
+    "title": "Отчёт «География заказов»",
+    "old": "10.06.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-belarus",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/interactive-assembly-task-by",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "29.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "15.07.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/wbot-analytics-in-the-app-by",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "14.07.2026",
+    "new": "16.06.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/rules-for-working-with-the-showcase-model-dbs-rb",
+    "title": "Правила работы по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

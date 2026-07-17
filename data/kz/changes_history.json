@@ -126,5 +126,61 @@
     "title": "Частые вопросы о складах",
     "old": "14.07.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz",
+    "title": "Частые вопросы о складах",
+    "old": null,
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-pack-electronics-and-home-appliances-in-fbw-kz",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/about-dbs-kz",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-kazakhstan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-increase-limits-of-the-jam-services-kz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "13.07.2026",
+    "new": "30.06.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "13.07.2026",
+    "new": "15.07.2026"
   }
 ]

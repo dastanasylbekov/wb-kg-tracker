@@ -134,5 +134,77 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "14.07.2026",
     "new": "16.06.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/about-dbs-uzbekistan",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan",
+    "title": "Отчёт «География заказов»",
+    "old": "10.06.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "13.07.2026",
+    "new": "30.06.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "29.06.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-uzbekistan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "09.07.2026",
+    "new": "10.06.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "02.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/rules-for-working-with-the-showcase-model-dbs",
+    "title": "Справочный центр",
+    "old": "18.05.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "16.06.2026",
+    "new": "14.07.2026"
   }
 ]

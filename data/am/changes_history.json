@@ -150,5 +150,45 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "16.06.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am",
+    "title": "Как работать с уведомлениями на портале",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/about-dbs-model-in-armenia",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am",
+    "title": "Частые вопросы о складах",
+    "old": "14.07.2026",
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-armenia",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "13.07.2026",
+    "new": "16.07.2026"
   }
 ]

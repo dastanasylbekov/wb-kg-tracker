@@ -190,5 +190,53 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-07-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-pack-electronics-and-home-appliances-in-fbw-kg",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/portal-notifications-kg",
+    "title": "Как работать с уведомлениями на портале",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/faq-about-warehouses-kg",
+    "title": "Частые вопросы о складах",
+    "old": "15.07.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kyrgyzstan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "13.07.2026",
+    "new": "10.06.2026"
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/rules-for-working-with-the-showcase-model-dbs-kg",
+    "title": "Справочный центр",
+    "old": "18.05.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "15.07.2026",
+    "new": "16.07.2026"
   }
 ]
