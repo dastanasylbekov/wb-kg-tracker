@@ -206,5 +206,85 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "16.06.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz",
+    "title": "Аналитика карточки",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-electronics-and-home-appliances-in-fbw-uz",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/portal-news-uz",
+    "title": "Раздел «Новости» на портале продавца",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/portal-notifications-uz",
+    "title": "Как работать с уведомлениями на портале",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/customer-feedback",
+    "title": "Отзывы покупателей",
+    "old": "18.05.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/history-of-remains-report-uzbekistan",
+    "title": "Отчёт «История остатков»",
+    "old": "10.06.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-uzbekistan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "10.06.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/rules-for-working-with-the-showcase-model-dbs",
+    "title": "Правила работы по модели «Витрина» (DBS)",
+    "old": null,
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "15.07.2026",
+    "new": "16.07.2026"
   }
 ]

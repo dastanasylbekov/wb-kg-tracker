@@ -190,5 +190,69 @@
     "title": "Правила работы по модели «Витрина» (DBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/card-analytics-by",
+    "title": "Аналитика карточки",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-pack-electronics-and-home-appliances-in-fbw-by",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/portal-news-by",
+    "title": "Раздел «Новости» на портале продавца",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/portal-notifications-by",
+    "title": "Как работать с уведомлениями на портале",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/rules-for-working-with-the-showcase-model-dbs-rb",
+    "title": "Правила работы по модели «Витрина» (DBS)",
+    "old": null,
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/customer-review",
+    "title": "Отзывы покупателей",
+    "old": "18.05.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/history-of-remains-report-belarus",
+    "title": "Отчёт «История остатков»",
+    "old": "10.06.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/wbot-analytics-in-the-app-by",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "16.06.2026",
+    "new": "14.07.2026"
   }
 ]

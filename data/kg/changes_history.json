@@ -238,5 +238,93 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "15.07.2026",
     "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/card-analytics-kg",
+    "title": "Аналитика карточки",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/about-dbs-kyrgyzstan",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/clients-reviews",
+    "title": "Отзывы покупателей",
+    "old": "18.05.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan",
+    "title": "Отчёт «География заказов»",
+    "old": "10.06.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/faq-about-warehouses-kg",
+    "title": "Частые вопросы о складах",
+    "old": "14.07.2026",
+    "new": "15.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/history-of-stocks-report-kyrgyzstan",
+    "title": "Отчёт «История остатков»",
+    "old": "10.06.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-kyrgyzstan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "15.07.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kyrgyzstan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "10.06.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "02.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/portal-notifications-kg",
+    "title": "Как работать с уведомлениями на портале",
+    "old": "16.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-20",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/rules-for-working-with-the-showcase-model-dbs-kg",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]

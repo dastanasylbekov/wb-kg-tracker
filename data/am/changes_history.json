@@ -190,5 +190,53 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "13.07.2026",
     "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/card-analytics-am",
+    "title": "Аналитика карточки",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/retentions-am",
+    "title": "Удержания",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/customers-reviews",
+    "title": "Отзывы покупателей",
+    "old": "18.05.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/deliveries-by-region-report-armenia",
+    "title": "Отчёт «География заказов»",
+    "old": "10.06.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/history-of-remains-report-armenia",
+    "title": "Отчёт «История остатков»",
+    "old": "10.06.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-20",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am",
+    "title": "Как работать с уведомлениями на портале",
+    "old": "16.07.2026",
+    "new": null
   }
 ]
