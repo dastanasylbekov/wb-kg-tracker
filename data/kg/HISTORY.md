@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-07-20_
+_Сформировано: 2026-07-21_
+
+## 2026-07-21
+### Сменилась дата «Обновлено» (1)
+- **Отчёт «Лента заказов»**: 02.07.2026 → 13.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+
+### Новые статьи (2)
+- **Раздел «Новости» на портале продавца** (Обновлено 17.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/portal-news-kg
+- **Как работать с уведомлениями на портале** (Обновлено 16.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/portal-notifications-kg
+
 
 ## 2026-07-20
 ### Сменилась дата «Обновлено» (8)

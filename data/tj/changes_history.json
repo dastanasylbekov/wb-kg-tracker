@@ -62,5 +62,37 @@
     "title": "Отзывы покупателей",
     "old": "18.05.2026",
     "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "14.07.2026",
+    "new": "21.05.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/stocks-management-edbs-tajikistan",
+    "title": "Справочный центр",
+    "old": "29.06.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-electronics-and-home-appliances-in-fbw-tj",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": "16.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/stocks-management-dbs-tajikistan",
+    "title": "Управление остатками по модели «Витрина» (DBS)",
+    "old": "26.06.2026",
+    "new": null
   }
 ]

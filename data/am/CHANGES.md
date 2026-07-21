@@ -1,21 +1,15 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-07-20
+# Изменения справки WB — 🇦🇲 Армения — 2026-07-21
 
-_Прогон: 2026-07-20 12:41 (Бишкек)_
+_Прогон: 2026-07-21 12:16 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Отзывы покупателей**: 18.05.2026 → 17.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/customers-reviews
-- **Отчёт «География заказов»**: 10.06.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/deliveries-by-region-report-armenia
-- **Отчёт «История остатков»**: 10.06.2026 → 17.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/history-of-remains-report-armenia
-
-## Новые статьи (2)
-- **Аналитика карточки** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/card-analytics-am
-- **Удержания** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/retentions-am
+## Новые статьи (3)
+- **Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)** (Обновлено 16.07.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-pack-electronics-and-home-appliances-in-fbw-am
+- **Раздел «Новости» на портале продавца** (Обновлено 20.07.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/portal-news-am
+- **Как работать с уведомлениями на портале** (Обновлено 16.07.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am
 
 ## Исчезли статьи (1)
-- ~~Как работать с уведомлениями на портале~~  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am
+- ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/am/material/rules-for-working-with-the-showcase-model-dbs-ar
 

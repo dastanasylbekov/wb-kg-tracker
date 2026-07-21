@@ -246,5 +246,21 @@
     "title": "Правила работы по модели «Витрина» (DBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan",
+    "title": "Отчёт «География заказов»",
+    "old": "10.06.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan",
+    "title": "Отчёт «История остатков»",
+    "old": "10.06.2026",
+    "new": "17.07.2026"
   }
 ]

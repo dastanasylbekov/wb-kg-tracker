@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-07-20_
+_Сформировано: 2026-07-21_
+
+## 2026-07-21
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «География заказов»**: 10.06.2026 → 16.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
+- **Отчёт «История остатков»**: 10.06.2026 → 17.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan
+
 
 ## 2026-07-20
 ### Сменилась дата «Обновлено» (3)

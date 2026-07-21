@@ -238,5 +238,37 @@
     "title": "Как работать с уведомлениями на портале",
     "old": "16.07.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-pack-electronics-and-home-appliances-in-fbw-am",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/portal-news-am",
+    "title": "Раздел «Новости» на портале продавца",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am",
+    "title": "Как работать с уведомлениями на портале",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/rules-for-working-with-the-showcase-model-dbs-ar",
+    "title": "Правила работы по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

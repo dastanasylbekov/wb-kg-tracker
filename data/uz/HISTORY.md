@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-07-20_
+_Сформировано: 2026-07-21_
+
+## 2026-07-21
+### Сменилась дата «Обновлено» (2)
+- **Как увеличить лимиты сервисов подписки «Джем»**: 30.06.2026 → 13.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz
+- **Отчёт «Лента заказов»**: 13.07.2026 → 02.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+
+### Исчезли статьи (4)
+- ~~Аналитика карточки~~  https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz
+- ~~Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)~~  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-electronics-and-home-appliances-in-fbw-uz
+- ~~Раздел «Новости» на портале продавца~~  https://seller.wildberries.ru/instructions/ru/uz/material/portal-news-uz
+- ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/uz/material/rules-for-working-with-the-showcase-model-dbs
+
 
 ## 2026-07-20
 ### Сменилась дата «Обновлено» (6)

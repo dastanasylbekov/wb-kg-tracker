@@ -286,5 +286,53 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "15.07.2026",
     "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "30.06.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "02.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz",
+    "title": "Аналитика карточки",
+    "old": "17.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-electronics-and-home-appliances-in-fbw-uz",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": "16.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/portal-news-uz",
+    "title": "Раздел «Новости» на портале продавца",
+    "old": "17.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/rules-for-working-with-the-showcase-model-dbs",
+    "title": "Правила работы по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

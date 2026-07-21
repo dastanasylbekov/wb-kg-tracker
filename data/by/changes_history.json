@@ -254,5 +254,45 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "16.06.2026",
     "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-card-gets-to-the-right-website-section-by",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/item-photo-rules-recommendations-and-common-mistakes-by",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.05.2026",
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/product-evaluation-report-by",
+    "title": "Отчёт «Оценка товара»",
+    "old": "15.06.2026",
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/rules-for-working-with-the-showcase-model-dbs-rb",
+    "title": "Правила работы по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": null
   }
 ]
