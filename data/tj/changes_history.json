@@ -94,5 +94,45 @@
     "title": "Управление остатками по модели «Витрина» (DBS)",
     "old": "26.06.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-card-gets-to-the-right-website-section-tj",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-electronics-and-home-appliances-in-fbw-tj",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/item-photo-rules-recommendations-and-common-mistakes-tj",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "21.05.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/stocks-management-edbs-tajikistan",
+    "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
+    "old": null,
+    "new": "20.07.2026"
   }
 ]

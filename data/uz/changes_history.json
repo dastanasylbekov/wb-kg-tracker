@@ -334,5 +334,85 @@
     "title": "Правила работы по модели «Витрина» (DBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz",
+    "title": "Аналитика карточки",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/common-questions-about-blocking-product-cards-uz",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/history-of-payments-for-services-uz",
+    "title": "История платежей за сервисы",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-card-gets-to-the-right-website-section-uz",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-electronics-and-home-appliances-in-fbw-uz",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/item-photo-rules-recommendations-and-common-mistakes-uz",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/portal-news-uz",
+    "title": "Раздел «Новости» на портале продавца",
+    "old": null,
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/promo-events-items-ranking-uz",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "02.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "15.06.2026",
+    "new": "20.07.2026"
   }
 ]

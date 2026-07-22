@@ -262,5 +262,53 @@
     "title": "Отчёт «История остатков»",
     "old": "10.06.2026",
     "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-card-gets-to-the-right-website-section-kz",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-pack-electronics-and-home-appliances-in-fbw-kz",
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "old": null,
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/item-photo-rules-recommendations-and-common-mistakes-kz",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/promo-events-items-ranking-kz",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/product-evaluation-report-kz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "15.06.2026",
+    "new": "20.07.2026"
   }
 ]

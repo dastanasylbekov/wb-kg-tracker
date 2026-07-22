@@ -294,5 +294,21 @@
     "title": "Правила работы по модели «Витрина» (DBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/common-questions-about-blocking-product-cards-by",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/promo-events-items-ranking-by",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "21.07.2026"
   }
 ]

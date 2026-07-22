@@ -4,398 +4,419 @@
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/about-dbs-sales-model-tadj": {
     "title": "О модели продаж «Витрина» (DBS)",
     "updated": "26.06.2026",
     "updated_iso": "2026-06-26",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/about-the-edbs-model-tadj": {
     "title": "О модели продаж «Витрина экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/budget-and-payment-for-promotion-tdj": {
     "title": "Бюджет и оплата кампаний по продвижению",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/bw-sales-model-tdj": {
     "title": "Модель продаж «Склад WB» (FBW)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan": {
     "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/commission-for-delayed-delivery-edbs-tajikistan": {
     "title": "Комиссия при задержке доставки по модели «Витрина экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/customer-questions-tj": {
     "title": "Вопросы покупателей",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/customer-reviews-tj": {
     "title": "Отзывы покупателей",
     "updated": "17.07.2026",
     "updated_iso": "2026-07-17",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tajikistan": {
     "title": "Рейтинг доставки",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tj": {
     "title": "Рейтинг доставки",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/dimensions-of-goods-tj": {
     "title": "Габариты товаров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/fbs-sales-model-tj": {
     "title": "Модель продаж «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
+  },
+  "https://seller.wildberries.ru/instructions/ru/tj/material/how-card-gets-to-the-right-website-section-tj": {
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "updated": "20.07.2026",
+    "updated_iso": "2026-07-20",
+    "local": true,
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-tj": {
     "title": "Как отменить поставку или изменить дату и количество товаров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-change-the-price-currency-tj": {
     "title": "Как продавцу поменять валюту цен",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-choose-bid-for-promotion-tdj": {
     "title": "Как выбрать ставку для продвижения",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-a-product-card-tj": {
     "title": "Как создать карточку товара",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-a-storage-edbs-tajikistan": {
     "title": "Как создать склад для работы по модели «Витрина экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-multiple-product-cards-tj": {
     "title": "Как создать сразу много карточек товаров",
     "updated": "22.05.2026",
     "updated_iso": "2026-05-22",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-sellers-warehouse-tj": {
     "title": "Как создать склад продавца",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-warehouse-in-dbs-tadj": {
     "title": "Как создать склад для работы по модели «Витрина» (DBS)",
     "updated": "26.06.2026",
     "updated_iso": "2026-06-26",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-edit-multiple-product-cards-tj": {
     "title": "Как отредактировать сразу много карточек товаров",
     "updated": "22.05.2026",
     "updated_iso": "2026-05-22",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-manage-balance-tj": {
     "title": "Как работать с балансом",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-manage-orders-in-dbs-tadj": {
     "title": "Как работать с заказами по модели «Витрина» (DBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-order-a-pass-to-the-warehouse-tj": {
     "title": "Как заказать пропуск на склад",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-different-types-of-goods-tj": {
     "title": "Как правильно упаковать разные виды товаров",
     "updated": "30.06.2026",
     "updated_iso": "2026-06-30",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
+  },
+  "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-electronics-and-home-appliances-in-fbw-tj": {
+    "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
+    "updated": "16.07.2026",
+    "updated_iso": "2026-07-16",
+    "local": true,
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-items-in-fbs-tj": {
     "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
     "updated": "19.05.2026",
     "updated_iso": "2026-05-19",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-set-prices-and-discounts-tj": {
     "title": "Как устанавливать цены и скидки",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-set-up-notifications-for-dbs-and-edbs-tajikistan": {
     "title": "Настройка уведомлений для работы по моделям DBS и EDBS",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-start-and-edit-promotion-campaigns-tdj": {
     "title": "Запуск и редактирование кампании по продвижению",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-transfer-money-to-your-bank-account-tj": {
     "title": "Как вывести деньги на свой счёт",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-edbs-tajikistan": {
     "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj": {
     "title": "Как работать с интерактивным листом подбора",
-    "updated": "21.05.2026",
-    "updated_iso": "2026-05-21",
+    "updated": "14.07.2026",
+    "updated_iso": "2026-07-14",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/how-wb-club-discounts-affect-sales-growth-tg": {
     "title": "Как скидки WB Клуба влияют на рост продаж",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
+  },
+  "https://seller.wildberries.ru/instructions/ru/tj/material/item-photo-rules-recommendations-and-common-mistakes-tj": {
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "updated": "20.07.2026",
+    "updated_iso": "2026-07-20",
+    "local": true,
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/items-labeling-in-fbs-tj": {
     "title": "Маркировка товаров для модели «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/managing-product-inventory-in-fbs-tj": {
     "title": "Управление остатками по модели FBS",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/order-cancellation-fbs-tj": {
     "title": "Отмена заказа",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/paid-delivery-by-edbs-tajikistan": {
     "title": "Платная доставка товаров по модели «Витрина экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/paid-delivery-of-goods-using-the-showcase-dbs-model-tajikistan": {
     "title": "Платная доставка товаров по модели «Витрина» (DBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/processing-a-new-fbs-order-tj": {
     "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
     "updated": "14.07.2026",
     "updated_iso": "2026-07-14",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/product-categories-tj": {
     "title": "Категории товаров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/profile-section-on-the-seller-portal-tj": {
     "title": "Раздел «Профиль» на портале продавца",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/return-based-on-reviews-tj": {
     "title": "Возврат по отзывам",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/returns-of-goods-using-the-dbs-model-tadj": {
     "title": "Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/rules-for-working-with-the-showcase-model-dbs-tajikistan": {
     "title": "Правила работы по модели «Витрина» (DBS)",
     "updated": "26.06.2026",
     "updated_iso": "2026-06-26",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/rules-of-work-with-edbs-tajikistan": {
     "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
     "updated": "29.06.2026",
     "updated_iso": "2026-06-29",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/step-2-labeling-and-packaging-fbs-orders-tj": {
     "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
     "updated": "21.05.2026",
     "updated_iso": "2026-05-21",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/step-3-delivery-fbs-orders-to-a-warehouse-tj": {
     "title": "Этап 3. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "updated": "14.07.2026",
     "updated_iso": "2026-07-14",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/step-four-delivery-fbw-shipment-to-warehouse-tj": {
     "title": "Этап 4. Доставка поставки на склад",
     "updated": "21.05.2026",
     "updated_iso": "2026-05-21",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/step-one-fbw-shipments-creation-tj": {
     "title": "Этап 1. Создание поставки",
     "updated": "25.06.2026",
     "updated_iso": "2026-06-25",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/step-three-fbw-shipment-preparation-tj": {
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "updated": "15.07.2026",
     "updated_iso": "2026-07-15",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/step-two-fbw-package-filling-tj": {
     "title": "Этап 2. Наполнение упаковки",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/stickers-for-marking-fbs-orders-tj": {
     "title": "Стикеры для маркировки заказов по модели «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/stocks-management-edbs-tajikistan": {
-    "title": "Справочный центр",
-    "updated": null,
-    "updated_iso": null,
+    "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
+    "updated": "20.07.2026",
+    "updated_iso": "2026-07-20",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/wb-club-discount-tj": {
     "title": "Скидка для участников WB Клуба",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/wb-promotion-payment-models-and-working-principles-tdj": {
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   },
   "https://seller.wildberries.ru/instructions/ru/tj/material/wildberries-reward-ratio-tj": {
     "title": "Коэффициент вознаграждения Wildberries",
     "updated": "28.05.2026",
     "updated_iso": "2026-05-28",
     "local": true,
-    "checked": "2026-07-21"
+    "checked": "2026-07-22"
   }
 }

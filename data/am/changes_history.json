@@ -270,5 +270,61 @@
     "title": "Правила работы по модели «Витрина» (DBS)",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/common-questions-about-blocking-product-cards-am",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/history-of-payments-for-services-am",
+    "title": "История платежей за сервисы",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-card-gets-to-the-right-website-section-am",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/item-photo-rules-recommendations-and-common-mistakes-am",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/promo-events-items-ranking-am",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am",
+    "title": "Как работать с уведомлениями на портале",
+    "old": "16.07.2026",
+    "new": "17.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/product-evaluation-report-ar",
+    "title": "Отчёт «Оценка товара»",
+    "old": "15.06.2026",
+    "new": "20.07.2026"
   }
 ]

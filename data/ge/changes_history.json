@@ -30,5 +30,13 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "04.06.2026",
     "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/how-card-gets-to-the-right-website-section-ge",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
   }
 ]

@@ -350,5 +350,37 @@
     "title": "Отчёт «Лента заказов»",
     "old": "02.07.2026",
     "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-card-gets-to-the-right-website-section-kg",
+    "title": "Как карточка товара попадает в нужный раздел сайта",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/item-photo-rules-recommendations-and-common-mistakes-kg",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": null,
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/promo-events-items-ranking-kg",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg",
+    "title": "Отчёт «Оценка товара»",
+    "old": "15.06.2026",
+    "new": "20.07.2026"
   }
 ]
