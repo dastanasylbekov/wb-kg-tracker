@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-07-22_
+_Сформировано: 2026-07-23_
+
+## 2026-07-23
+### Сменилась дата «Обновлено» (2)
+- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-add-a-brand-to-wildberries-uzbekistan
+- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/nyche-analysis-uzbekistan
+
+### Новые статьи (2)
+- **Продвижение бренда** (Обновлено 22.07.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/brand-promotion-uzb
+- **Утилизация товаров** (Обновлено 22.07.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/disposal-of-goods-uz
+
 
 ## 2026-07-22
 ### Сменилась дата «Обновлено» (2)

@@ -382,5 +382,45 @@
     "title": "Отчёт «Оценка товара»",
     "old": "15.06.2026",
     "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/common-questions-about-blocking-product-cards-kg",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg",
+    "title": "Утилизация товаров",
+    "old": null,
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan",
+    "title": "Сертификаты и декларации соответствия",
+    "old": "18.05.2026",
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-add-a-brand-to-wildberries-kyrgyzstan",
+    "title": "Как добавить бренд на Wildberries",
+    "old": "18.06.2026",
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/nyche-analysis-kyrgyzstan",
+    "title": "Отчёт «Анализ ниш»",
+    "old": "09.07.2026",
+    "new": "22.07.2026"
   }
 ]

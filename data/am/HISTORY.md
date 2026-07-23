@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-07-22_
+_Сформировано: 2026-07-23_
+
+## 2026-07-23
+### Сменилась дата «Обновлено» (1)
+- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-add-a-brand-to-wildberries-armenia
+
+### Новые статьи (1)
+- **Утилизация товаров** (Обновлено 22.07.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/disposal-of-goods-am
+
 
 ## 2026-07-22
 ### Сменилась дата «Обновлено» (2)

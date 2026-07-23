@@ -1,16 +1,18 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-22
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-23
 
-_Прогон: 2026-07-22 11:59 (Бишкек)_
+_Прогон: 2026-07-23 12:11 (Бишкек)_
 
-## Сменилась дата «Обновлено» (1)
-- **Отчёт «Оценка товара»**: 15.06.2026 → 20.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg
+## Сменилась дата «Обновлено» (3)
+- **Сертификаты и декларации соответствия**: 18.05.2026 → 22.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
+- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-add-a-brand-to-wildberries-kyrgyzstan
+- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/nyche-analysis-kyrgyzstan
 
-## Новые статьи (3)
-- **Как карточка товара попадает в нужный раздел сайта** (Обновлено 20.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-card-gets-to-the-right-website-section-kg
-- **Фото товаров: правила, рекомендации и частые ошибки** (Обновлено 20.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/item-photo-rules-recommendations-and-common-mistakes-kg
-- **Ранжирование товаров в акциях** (Обновлено 21.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/promo-events-items-ranking-kg
+## Новые статьи (2)
+- **Частые вопросы по блокировке карточек товаров** (Обновлено 21.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/common-questions-about-blocking-product-cards-kg
+- **Утилизация товаров** (Обновлено 22.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
 

@@ -326,5 +326,21 @@
     "title": "Отчёт «Оценка товара»",
     "old": "15.06.2026",
     "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/disposal-of-goods-am",
+    "title": "Утилизация товаров",
+    "old": null,
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-add-a-brand-to-wildberries-armenia",
+    "title": "Как добавить бренд на Wildberries",
+    "old": "18.06.2026",
+    "new": "22.07.2026"
   }
 ]
