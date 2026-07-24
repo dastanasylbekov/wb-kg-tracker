@@ -342,5 +342,61 @@
     "title": "Как добавить бренд на Wildberries",
     "old": "18.06.2026",
     "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wildberries-reward-ratio-am",
+    "title": "Коэффициент вознаграждения Wildberries",
+    "old": null,
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/brand-promotion-am",
+    "title": "Продвижение бренда",
+    "old": "18.05.2026",
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/dimensions-of-goods-armenia",
+    "title": "Габариты товаров",
+    "old": "18.06.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-add-a-brand-to-wildberries-armenia",
+    "title": "Как добавить бренд на Wildberries",
+    "old": "22.07.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/jam-subscription-am",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "18.05.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/nyche-analysis-in-armenia",
+    "title": "Отчёт «Анализ ниш»",
+    "old": "09.07.2026",
+    "new": "22.07.2026"
+  },
+  {
+    "run": "2026-07-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am",
+    "title": "Как работать с уведомлениями на портале",
+    "old": "17.07.2026",
+    "new": "23.07.2026"
   }
 ]

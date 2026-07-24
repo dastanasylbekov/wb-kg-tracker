@@ -1,18 +1,14 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-23
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-24
 
-_Прогон: 2026-07-23 12:11 (Бишкек)_
+_Прогон: 2026-07-24 11:59 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Сертификаты и декларации соответствия**: 18.05.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
-- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-add-a-brand-to-wildberries-kyrgyzstan
-- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/nyche-analysis-kyrgyzstan
+## Сменилась дата «Обновлено» (2)
+- **Подписка «Джем»: как подключить, управлять и отключить**: 18.05.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-activate-gjem-kg
+- **Как работать с уведомлениями на портале**: 16.07.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/portal-notifications-kg
 
-## Новые статьи (2)
-- **Частые вопросы по блокировке карточек товаров** (Обновлено 21.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/common-questions-about-blocking-product-cards-kg
-- **Утилизация товаров** (Обновлено 22.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
+## Новые статьи (1)
+- **Продвижение брендов** (Обновлено 22.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/brand-promotion-kg
 

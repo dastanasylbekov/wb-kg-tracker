@@ -1,16 +1,15 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-23
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-24
 
-_Прогон: 2026-07-23 12:22 (Бишкек)_
+_Прогон: 2026-07-24 12:11 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (3)
-- **Продвижение бренда**: 18.05.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/brand-promotion-kz
-- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
+- **Подписка «Джем»: как подключить, управлять и отключить**: 18.05.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-activate-djem-kz
+- **Как добавить бренд на Wildberries**: 22.07.2026 → 23.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/how-to-add-a-brand-to-wildberries-kazakhstan
-- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/nyche-analysis-kazakhstan
+- **Раздел «Профиль» на портале продавца**: 18.05.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/profile-section-on-the-sellers-portal-kazakhstan
 
-## Новые статьи (1)
-- **Утилизация товаров** (Обновлено 22.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
+## Исчезли статьи (1)
+- ~~Загрузка логотипов брендов~~  https://seller.wildberries.ru/instructions/ru/kz/material/uploading-brand-logos-kazakhstan
 

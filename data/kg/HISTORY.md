@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-07-23_
+_Сформировано: 2026-07-24_
+
+## 2026-07-24
+### Сменилась дата «Обновлено» (2)
+- **Подписка «Джем»: как подключить, управлять и отключить**: 18.05.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-activate-gjem-kg
+- **Как работать с уведомлениями на портале**: 16.07.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/portal-notifications-kg
+
+### Новые статьи (1)
+- **Продвижение брендов** (Обновлено 22.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/brand-promotion-kg
+
 
 ## 2026-07-23
 ### Сменилась дата «Обновлено» (3)
