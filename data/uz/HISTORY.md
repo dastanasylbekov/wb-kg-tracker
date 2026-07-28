@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-07-27_
+_Сформировано: 2026-07-28_
+
+## 2026-07-28
+### Сменилась дата «Обновлено» (7)
+- **Автовозврат товара продавцу**: 18.05.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/autoreturn-of-goods-to-the-seller-uzbekistan
+- **Подписка «Джем»: как подключить, управлять и отключить**: 18.05.2026 → 23.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz
+- **Маркировка товаров и поставок. Баркод, GTIN, IMEI**: 18.05.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan
+- **Как работать с уведомлениями на портале**: 23.07.2026 → 16.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/portal-notifications-uz
+- **Возврат товара по заявке покупателя**: 24.07.2026 → 01.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-customer-request-uzbekistan
+- **Отчёт «Поисковые запросы: ваши товары»**: 18.05.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz
+- **Этап 3. Подготовка поставки к отгрузке**: 16.07.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
+
 
 ## 2026-07-27
 ### Сменилась дата «Обновлено» (7)

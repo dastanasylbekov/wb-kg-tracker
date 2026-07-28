@@ -494,5 +494,93 @@
     "title": "Загрузка логотипов брендов",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/6-steps-to-the-first-delivery-armenia",
+    "title": "6 шагов к первой поставке",
+    "old": "24.07.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/autoreturn-of-goods-to-the-seller-armenia",
+    "title": "Автовозврат товара продавцу",
+    "old": "26.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/customers-reviews",
+    "title": "Отзывы покупателей",
+    "old": "17.07.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/disposal-of-goods-am",
+    "title": "Справочный центр",
+    "old": "22.07.2026",
+    "new": null
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/hidden-products-report-armenia",
+    "title": "Отчёт «Скрытые товары»",
+    "old": "18.05.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-improve-photos-and-videos-in-a-card-ar",
+    "title": "Как улучшить фото и видео в карточке",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-optimize-the-product-profile-ar",
+    "title": "Как оптимизировать карточку товара",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/marking-of-goods-and-supplies-armenia",
+    "title": "Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/rich-content-ar",
+    "title": "Рич-контент",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "16.07.2026",
+    "new": "24.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "24.07.2026",
+    "new": "27.07.2026"
   }
 ]

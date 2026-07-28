@@ -550,5 +550,61 @@
     "title": "Загрузка логотипов брендов",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/autoreturn-of-goods-to-the-seller-uzbekistan",
+    "title": "Автовозврат товара продавцу",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "18.05.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan",
+    "title": "Маркировка товаров и поставок. Баркод, GTIN, IMEI",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/portal-notifications-uz",
+    "title": "Как работать с уведомлениями на портале",
+    "old": "23.07.2026",
+    "new": "16.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-customer-request-uzbekistan",
+    "title": "Возврат товара по заявке покупателя",
+    "old": "24.07.2026",
+    "new": "01.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "16.07.2026",
+    "new": "27.07.2026"
   }
 ]
