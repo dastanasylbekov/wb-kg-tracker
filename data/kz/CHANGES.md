@@ -1,31 +1,25 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-28
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-29
 
-_Прогон: 2026-07-28 12:08 (Бишкек)_
+_Прогон: 2026-07-29 12:13 (Бишкек)_
 
-## Сменилась дата «Обновлено» (11)
-- **6 шагов к первой поставке**: 24.07.2026 → 27.07.2026
+## Сменилась дата «Обновлено» (6)
+- **6 шагов к первой поставке**: 27.07.2026 → 24.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan
-- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/autoplay-in-card-and-in-catalog
-- **Автовозврат товара продавцу**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/autoreturn-of-goods-to-the-seller-kazakhstan
-- **Чат с покупателями**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/customers-chat-kz
-- **Подписка «Джем»: как подключить, управлять и отключить**: 23.07.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-activate-djem-kz
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/marking-of-goods-and-supplies-kazakhstan
-- **Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 24.07.2026 → 22.06.2026
+- **Отзывы покупателей**: 17.07.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/client-reviews
+- **Как улучшить фото и видео в карточке**: 18.05.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-improve-photos-and-videos-in-a-card-kz
+- **Как оптимизировать карточку товара**: 18.05.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-optimize-the-product-profile-kz
+- **Отчёт «Лента заказов»**: 13.07.2026 → 28.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+- **Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 22.06.2026 → 24.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/returns-of-goods-using-the-showcase-dbs-model-kz
-- **Отчёт «Поисковые запросы: ваши товары»**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan
-- **Поддержка продавцов**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/seller-support-kazakhstan
-- **Этап 3. Подготовка поставки к отгрузке**: 24.07.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 24.07.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan
+
+## Новые статьи (1)
+- **Частые вопросы по блокировке карточек товаров** (Обновлено 21.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz
 
 ## Исчезли статьи (1)
-- ~~Частые вопросы по блокировке карточек товаров~~  https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz
+- ~~Утилизация товаров~~  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
 

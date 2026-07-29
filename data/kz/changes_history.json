@@ -550,5 +550,69 @@
     "title": "Частые вопросы по блокировке карточек товаров",
     "old": "21.07.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-29",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": null,
+    "new": "21.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan",
+    "title": "6 шагов к первой поставке",
+    "old": "27.07.2026",
+    "new": "24.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/client-reviews",
+    "title": "Отзывы покупателей",
+    "old": "17.07.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-improve-photos-and-videos-in-a-card-kz",
+    "title": "Как улучшить фото и видео в карточке",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-optimize-the-product-profile-kz",
+    "title": "Как оптимизировать карточку товара",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "28.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/returns-of-goods-using-the-showcase-dbs-model-kz",
+    "title": "Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
+    "old": "22.06.2026",
+    "new": "24.07.2026"
+  },
+  {
+    "run": "2026-07-29",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz",
+    "title": "Утилизация товаров",
+    "old": "22.07.2026",
+    "new": null
   }
 ]
