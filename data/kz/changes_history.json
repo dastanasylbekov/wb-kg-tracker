@@ -614,5 +614,85 @@
     "title": "Утилизация товаров",
     "old": "22.07.2026",
     "new": null
+  },
+  {
+    "run": "2026-07-30",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-07-30",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/uploading-brand-logos-kazakhstan",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan",
+    "title": "6 шагов к первой поставке",
+    "old": "24.07.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/budget-and-payment-for-promotion-kz",
+    "title": "Бюджет и оплата кампаний по продвижению",
+    "old": "18.05.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-fbs-kazakhstan",
+    "title": "Управление остатками по модели FBS",
+    "old": "18.05.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/profit-calculator-kz",
+    "title": "Калькулятор прибыли",
+    "old": "18.05.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/rich-content-kz",
+    "title": "Рич-контент",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "27.07.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "27.07.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz",
+    "title": "Частые вопросы по блокировке карточек товаров",
+    "old": "21.07.2026",
+    "new": null
   }
 ]

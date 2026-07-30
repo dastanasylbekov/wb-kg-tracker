@@ -1,25 +1,29 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-29
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-30
 
-_Прогон: 2026-07-29 12:13 (Бишкек)_
+_Прогон: 2026-07-30 12:03 (Бишкек)_
 
-## Сменилась дата «Обновлено» (6)
-- **6 шагов к первой поставке**: 27.07.2026 → 24.07.2026
+## Сменилась дата «Обновлено» (7)
+- **6 шагов к первой поставке**: 24.07.2026 → 27.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan
-- **Отзывы покупателей**: 17.07.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/client-reviews
-- **Как улучшить фото и видео в карточке**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-improve-photos-and-videos-in-a-card-kz
-- **Как оптимизировать карточку товара**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-optimize-the-product-profile-kz
-- **Отчёт «Лента заказов»**: 13.07.2026 → 28.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-- **Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 22.06.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/returns-of-goods-using-the-showcase-dbs-model-kz
+- **Бюджет и оплата кампаний по продвижению**: 18.05.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/budget-and-payment-for-promotion-kz
+- **Управление остатками по модели FBS**: 18.05.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-fbs-kazakhstan
+- **Калькулятор прибыли**: 18.05.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/profit-calculator-kz
+- **Рич-контент**: 18.05.2026 → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/rich-content-kz
+- **Этап 3. Подготовка поставки к отгрузке**: 27.07.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 27.07.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan
 
-## Новые статьи (1)
-- **Частые вопросы по блокировке карточек товаров** (Обновлено 21.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz
+## Новые статьи (2)
+- **Справочный центр** (Обновлено None)
+  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
+- **Справочный центр** (Обновлено None)
+  https://seller.wildberries.ru/instructions/ru/kz/material/uploading-brand-logos-kazakhstan
 
 ## Исчезли статьи (1)
-- ~~Утилизация товаров~~  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
+- ~~Частые вопросы по блокировке карточек товаров~~  https://seller.wildberries.ru/instructions/ru/kz/material/common-questions-about-blocking-product-cards-kz
 

@@ -134,5 +134,21 @@
     "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
     "old": null,
     "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj",
+    "title": "Как оплатить долг",
+    "old": null,
+    "new": "28.07.2026"
+  },
+  {
+    "run": "2026-07-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/managing-product-inventory-in-fbs-tj",
+    "title": "Управление остатками по модели FBS",
+    "old": "18.05.2026",
+    "new": "29.07.2026"
   }
 ]
