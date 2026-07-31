@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-07-30_
+_Сформировано: 2026-07-31_
+
+## 2026-07-31
+### Сменилась дата «Обновлено» (3)
+- **Управление остатками по модели FBS**: 18.05.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/inventory-management-fbs-belarus
+- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 27.07.2026 → 30.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/marking-of-goods-and-supplies-belarus
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-2-marking-and-packaging-orders-for-the-fbs-belarus
+
+### Исчезли статьи (1)
+- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
+
 
 ## 2026-07-30
 ### Сменилась дата «Обновлено» (9)

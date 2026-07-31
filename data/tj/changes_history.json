@@ -150,5 +150,21 @@
     "title": "Управление остатками по модели FBS",
     "old": "18.05.2026",
     "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-2-labeling-and-packaging-fbs-orders-tj",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "21.05.2026",
+    "new": "30.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj",
+    "title": "Как оплатить долг",
+    "old": "28.07.2026",
+    "new": null
   }
 ]

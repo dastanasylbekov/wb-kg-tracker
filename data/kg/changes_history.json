@@ -806,5 +806,93 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-07-31",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/6-steps-to-the-first-delivery-kyrgyzstan",
+    "title": "6 шагов к первой поставке",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/autoplay-of-videos-in-product-cards-and-catalogs",
+    "title": "Автозапуск видео в карточке товара и каталоге",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan",
+    "title": "Отчёт «География заказов»",
+    "old": "16.07.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/hidden-products-report-kyrgyzstan",
+    "title": "Отчёт «Скрытые товары»",
+    "old": "18.05.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-add-a-brand-to-wildberries-kyrgyzstan",
+    "title": "Как добавить бренд на Wildberries",
+    "old": "22.07.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/inventory-management-fbs-kyrgyzstan",
+    "title": "Управление остатками по модели FBS",
+    "old": "18.05.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/item-photo-rules-recommendations-and-common-mistakes-kg",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": "27.07.2026",
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/marking-of-goods-and-supplies-kyrgyzstan",
+    "title": "Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI",
+    "old": "27.07.2026",
+    "new": "30.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-07-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
   }
 ]
