@@ -758,5 +758,109 @@
     "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
     "old": "21.05.2026",
     "new": "30.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-manage-balance-am",
+    "title": "Как работать с балансом",
+    "old": null,
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-pay-the-debt-am",
+    "title": "Как оплатить долг",
+    "old": null,
+    "new": "28.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/about-dbs-model-in-armenia",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "16.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/about-the-express-display-sales-model-edbs-armenia",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "10.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/cancellation-orders-return-items-in-cc-am",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": "09.06.2026",
+    "new": "24.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/events-calendar-am",
+    "title": "Отчёт «Календарь событий»",
+    "old": "09.06.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-improve-photos-and-videos-in-a-card-ar",
+    "title": "Как улучшить фото и видео в карточке",
+    "old": "27.07.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-dbs-orders-armenia",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "24.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-part2-am",
+    "title": "Отчёт «Воронка продаж. Сравнение с площадкой»",
+    "old": "19.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-report-armenia",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "26.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
   }
 ]

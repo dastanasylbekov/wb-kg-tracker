@@ -1,30 +1,27 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-07-31
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-08-03
 
-_Прогон: 2026-07-31 12:23 (Бишкек)_
+_Прогон: 2026-08-03 12:33 (Бишкек)_
 
-## Сменилась дата «Обновлено» (10)
-- **6 шагов к первой поставке**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/6-steps-to-the-first-delivery-kyrgyzstan
-- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/autoplay-of-videos-in-product-cards-and-catalogs
-- **Отчёт «География заказов»**: 16.07.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan
-- **Отчёт «Скрытые товары»**: 18.05.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/hidden-products-report-kyrgyzstan
-- **Как добавить бренд на Wildberries**: 22.07.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-add-a-brand-to-wildberries-kyrgyzstan
-- **Управление остатками по модели FBS**: 18.05.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/inventory-management-fbs-kyrgyzstan
-- **Фото товаров: правила, рекомендации и частые ошибки**: 27.07.2026 → 20.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/item-photo-rules-recommendations-and-common-mistakes-kg
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 27.07.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/marking-of-goods-and-supplies-kyrgyzstan
-- **Отчёт «Лента заказов»**: 28.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
-- **Отчёт «Поисковые запросы: ваши товары»**: 18.05.2026 → 27.07.2026
+## Сменилась дата «Обновлено» (9)
+- **О модели продаж «Витрина» (DBS)**: 16.07.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/about-dbs-kyrgyzstan
+- **О модели продаж «Витрина экспресс» (EDBS)**: 10.07.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/about-edbs-kyrgyzstan
+- **Бюджет и оплата кампаний по продвижению**: 18.05.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/budget-and-payment-for-promotion-kg
+- **Отчёт «Календарь событий»**: 05.06.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan
+- **Как работать с заказами по модели «Витрина» (DBS)**: 18.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-dbs-orders-kyrgyzstan
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 18.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-edbs-kyrgyzstan
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan
+- **Отчёт «Поисковые запросы: ваши товары»**: 27.07.2026 → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-marking-and-packaging-orders-for-the-fbs-kyrgyzstan
 
-## Новые статьи (1)
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
+## Исчезли статьи (1)
+- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
 

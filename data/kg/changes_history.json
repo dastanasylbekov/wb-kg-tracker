@@ -894,5 +894,85 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "18.05.2026",
     "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/about-dbs-kyrgyzstan",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "16.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/about-edbs-kyrgyzstan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "10.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/budget-and-payment-for-promotion-kg",
+    "title": "Бюджет и оплата кампаний по продвижению",
+    "old": "18.05.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "05.06.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-dbs-orders-kyrgyzstan",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-edbs-kyrgyzstan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "26.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "27.07.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-marking-and-packaging-orders-for-the-fbs-kyrgyzstan",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "21.05.2026",
+    "new": "30.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]

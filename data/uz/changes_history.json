@@ -870,5 +870,93 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/about-dbs-uzbekistan",
+    "title": "О модели продаж «Витрина» (DBS)",
+    "old": "16.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "10.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan",
+    "title": "Отчёт «География заказов»",
+    "old": "16.07.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "05.06.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-dbs-orders-uzbekistan",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "18.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/item-photo-rules-recommendations-and-common-mistakes-uz",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": "20.07.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.07.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-part2-uz",
+    "title": "Отчёт «Воронка продаж. Сравнение с площадкой»",
+    "old": "19.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "26.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-2-marking-and-packaging-orders-for-the-fbs-uzbekistan",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "21.05.2026",
+    "new": "30.07.2026"
   }
 ]

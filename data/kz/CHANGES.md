@@ -1,19 +1,26 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-07-31
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-08-03
 
-_Прогон: 2026-07-31 12:34 (Бишкек)_
+_Прогон: 2026-08-03 12:44 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Отчёт «География заказов»**: 16.07.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
-- **Утилизация товаров**: None → 22.07.2026
+## Сменилась дата «Обновлено» (10)
+- **О модели продаж «Витрина» (DBS)**: 16.07.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/about-dbs-kz
+- **О модели продаж «Витрина экспресс» (EDBS)**: 10.07.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/about-the-express-display-sales-model-edbs-kazakhstan
+- **Отчёт «Календарь событий»**: 05.06.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/calendar-of-events-report-kazakhstan
+- **Как работать с заказами по модели «Витрина» (DBS)**: 18.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/dbs-orders-management-kz
+- **Справочный центр**: 22.07.2026 → None
   https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 27.07.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/marking-of-goods-and-supplies-kazakhstan
-- **Отчёт «Лента заказов»**: 28.07.2026 → 13.07.2026
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 18.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan
+- **Отчёт «Лента заказов»**: 13.07.2026 → 31.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-marking-and-packaging-orders-for-the-fbs-kazakhstan
-
-## Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/uploading-brand-logos-kazakhstan
+- **Как работать с уведомлениями на портале**: 23.07.2026 → 16.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/portal-notifications-kz
+- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-part2-kz
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
 
