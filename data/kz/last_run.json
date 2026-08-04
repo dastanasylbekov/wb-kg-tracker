@@ -2,11 +2,11 @@
   "country": "kz",
   "name": "Казахстан",
   "flag": "🇰🇿",
-  "run_local": "2026-08-03 12:44",
-  "run_utc": "2026-08-03 06:44 UTC",
-  "run_iso": "2026-08-03T06:44:24+00:00",
-  "articles": 193,
+  "run_local": "2026-08-04 12:10",
+  "run_utc": "2026-08-04 06:10 UTC",
+  "run_iso": "2026-08-04T06:10:03+00:00",
+  "articles": 192,
   "added": 0,
-  "date_changed": 10,
-  "removed": 0
+  "date_changed": 2,
+  "removed": 1
 }

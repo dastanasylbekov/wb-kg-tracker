@@ -862,5 +862,21 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "18.05.2026",
     "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-improve-photos-and-videos-in-a-card-ar",
+    "title": "Как улучшить фото и видео в карточке",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "02.07.2026",
+    "new": "03.08.2026"
   }
 ]

@@ -958,5 +958,13 @@
     "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
     "old": "21.05.2026",
     "new": "30.07.2026"
+  },
+  {
+    "run": "2026-08-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "31.07.2026",
+    "new": "05.06.2026"
   }
 ]

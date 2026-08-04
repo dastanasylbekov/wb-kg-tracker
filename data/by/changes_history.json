@@ -870,5 +870,21 @@
     "title": "Автозапуск видео в карточке товара и каталоге",
     "old": "18.05.2026",
     "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "31.07.2026",
+    "new": "26.05.2026"
+  },
+  {
+    "run": "2026-08-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "02.07.2026",
+    "new": "03.08.2026"
   }
 ]

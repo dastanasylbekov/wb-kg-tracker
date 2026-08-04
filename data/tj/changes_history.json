@@ -174,5 +174,13 @@
     "title": "Как оплатить долг",
     "old": null,
     "new": "28.07.2026"
+  },
+  {
+    "run": "2026-08-04",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj",
+    "title": "Как оплатить долг",
+    "old": "28.07.2026",
+    "new": null
   }
 ]
