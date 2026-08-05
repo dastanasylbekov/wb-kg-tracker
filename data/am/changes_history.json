@@ -878,5 +878,21 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "02.07.2026",
     "new": "03.08.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-product-card-armenia",
+    "title": "Как создать карточку товара",
+    "old": "28.07.2026",
+    "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/price-quarantine-ar",
+    "title": "Карантин цен",
+    "old": "18.05.2026",
+    "new": "04.08.2026"
   }
 ]

@@ -1038,5 +1038,37 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "02.07.2026",
     "new": "03.08.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "05.06.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/price-quarantine-kg",
+    "title": "Карантин цен",
+    "old": "18.05.2026",
+    "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "27.07.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg",
+    "title": "Утилизация товаров",
+    "old": "22.07.2026",
+    "new": null
   }
 ]

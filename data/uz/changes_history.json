@@ -966,5 +966,53 @@
     "title": "Отчёт «Календарь событий»",
     "old": "31.07.2026",
     "new": "05.06.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "05.06.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan",
+    "title": "Как создать карточку товара",
+    "old": "28.07.2026",
+    "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-edbs-uzbekistan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "18.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "27.07.2026",
+    "new": "23.07.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "02.07.2026",
+    "new": "03.08.2026"
   }
 ]
