@@ -894,5 +894,13 @@
     "title": "Карантин цен",
     "old": "18.05.2026",
     "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/price-quarantine-ar",
+    "title": "Карантин цен",
+    "old": "04.08.2026",
+    "new": "18.05.2026"
   }
 ]

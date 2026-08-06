@@ -1014,5 +1014,29 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "02.07.2026",
     "new": "03.08.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/item-photo-rules-recommendations-and-common-mistakes-uz",
+    "title": "Фото товаров: правила, рекомендации и частые ошибки",
+    "old": "27.07.2026",
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "23.07.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/price-quarantene-uz",
+    "title": "Карантин цен",
+    "old": "18.05.2026",
+    "new": "04.08.2026"
   }
 ]

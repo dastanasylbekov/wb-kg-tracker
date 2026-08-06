@@ -1070,5 +1070,37 @@
     "title": "Утилизация товаров",
     "old": "22.07.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan",
+    "title": "Отчёт «География заказов»",
+    "old": "16.07.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan",
+    "title": "Как создать карточку товара",
+    "old": "18.05.2026",
+    "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "28.07.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-part2-kg",
+    "title": "Отчёт «Воронка продаж. Сравнение с площадкой»",
+    "old": "31.07.2026",
+    "new": "19.05.2026"
   }
 ]

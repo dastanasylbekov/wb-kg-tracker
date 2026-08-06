@@ -1,15 +1,14 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-08-05
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-08-06
 
-_Прогон: 2026-08-05 11:55 (Бишкек)_
+_Прогон: 2026-08-06 11:59 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Отчёт «Календарь событий»**: 05.06.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan
-- **Карантин цен**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/price-quarantine-kg
-- **Этап 3. Подготовка поставки к отгрузке**: 27.07.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan
-
-## Исчезли статьи (1)
-- ~~Утилизация товаров~~  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
+## Сменилась дата «Обновлено» (4)
+- **Отчёт «География заказов»**: 16.07.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan
+- **Как создать карточку товара**: 18.05.2026 → 04.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan
+- **Отчёт «Лента заказов»**: 13.07.2026 → 28.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 31.07.2026 → 19.05.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-part2-kg
 

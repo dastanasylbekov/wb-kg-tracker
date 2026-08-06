@@ -190,5 +190,13 @@
     "title": "Как оплатить долг",
     "old": null,
     "new": "28.07.2026"
+  },
+  {
+    "run": "2026-08-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/managing-product-inventory-in-fbs-tj",
+    "title": "Управление остатками по модели FBS",
+    "old": "29.07.2026",
+    "new": "05.08.2026"
   }
 ]
