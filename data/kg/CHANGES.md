@@ -1,14 +1,16 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-08-06
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-08-07
 
-_Прогон: 2026-08-06 11:59 (Бишкек)_
+_Прогон: 2026-08-07 11:03 (Бишкек)_
 
-## Сменилась дата «Обновлено» (4)
-- **Отчёт «География заказов»**: 16.07.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan
-- **Как создать карточку товара**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan
-- **Отчёт «Лента заказов»**: 13.07.2026 → 28.07.2026
+## Сменилась дата «Обновлено» (5)
+- **Частые вопросы о складах**: 15.07.2026 → 06.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/faq-about-warehouses-kg
+- **Как создать склад продавца**: 30.06.2026 → 06.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-sellers-warehouse-kyrgyzstan
+- **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
+- **Отчёт «Лента заказов»**: 28.07.2026 → 31.07.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 31.07.2026 → 19.05.2026
+- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-part2-kg
 

@@ -886,5 +886,37 @@
     "title": "Отчёт «Воронка продаж. Сравнение с площадкой»",
     "old": "19.05.2026",
     "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz",
+    "title": "Частые вопросы о складах",
+    "old": "15.07.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-sellers-warehouse-kazakhstan",
+    "title": "Как создать склад продавца",
+    "old": "30.06.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "06.07.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "13.07.2026",
+    "new": "31.07.2026"
   }
 ]

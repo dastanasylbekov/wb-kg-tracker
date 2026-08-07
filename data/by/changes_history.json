@@ -950,5 +950,61 @@
     "title": "Автозапуск видео в карточке товара и каталоге",
     "old": "27.07.2026",
     "new": "18.05.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by",
+    "title": "Частые вопросы о складах",
+    "old": "15.07.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-sellers-warehouse-belarus",
+    "title": "Как создать склад продавца",
+    "old": "30.06.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "06.07.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by",
+    "title": "Карантин цен",
+    "old": "18.05.2026",
+    "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus",
+    "title": "Отчёт «Воронка продаж. Сравнение с площадкой»",
+    "old": "19.05.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog",
+    "title": "Автозапуск видео в карточке товара и каталоге",
+    "old": "18.05.2026",
+    "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]

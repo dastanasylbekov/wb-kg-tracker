@@ -1,18 +1,21 @@
-# Изменения справки WB — 🇧🇾 Беларусь — 2026-08-06
+# Изменения справки WB — 🇧🇾 Беларусь — 2026-08-07
 
-_Прогон: 2026-08-06 12:05 (Бишкек)_
+_Прогон: 2026-08-07 11:08 (Бишкек)_
 
-## Сменилась дата «Обновлено» (4)
-- **Карантин цен**: 04.08.2026 → 18.05.2026
+## Сменилась дата «Обновлено» (6)
+- **Частые вопросы о складах**: 15.07.2026 → 06.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by
+- **Как создать склад продавца**: 30.06.2026 → 06.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-sellers-warehouse-belarus
+- **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by
+- **Карантин цен**: 18.05.2026 → 04.08.2026
   https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 31.07.2026 → 19.05.2026
+- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
   https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus
-- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
-- **Автозапуск видео в карточке товара и каталоге**: 27.07.2026 → 18.05.2026
+- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
   https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog
 
-## Новые статьи (1)
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
+## Исчезли статьи (1)
+- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
 

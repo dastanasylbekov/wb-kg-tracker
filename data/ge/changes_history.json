@@ -38,5 +38,13 @@
     "title": "Как карточка товара попадает в нужный раздел сайта",
     "old": null,
     "new": "20.07.2026"
+  },
+  {
+    "run": "2026-08-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/price-quarantine-ge",
+    "title": "Карантин цен",
+    "old": "04.06.2026",
+    "new": "04.08.2026"
   }
 ]
