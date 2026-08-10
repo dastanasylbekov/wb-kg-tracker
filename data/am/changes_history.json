@@ -934,5 +934,45 @@
     "title": "Карантин цен",
     "old": "18.05.2026",
     "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/card-quality-rating-am",
+    "title": "Рейтинг заполнения карточки товара",
+    "old": null,
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "18.05.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/brand-promotion-am",
+    "title": "Продвижение бренда",
+    "old": "22.07.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "03.08.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/pro-wildberries-armenia",
+    "title": "Центр развития и поддержки предпринимателей PRO WB",
+    "old": "28.05.2026",
+    "new": null
   }
 ]

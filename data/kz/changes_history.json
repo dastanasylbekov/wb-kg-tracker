@@ -918,5 +918,45 @@
     "title": "Отчёт «Лента заказов»",
     "old": "13.07.2026",
     "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/card-quality-rating-kz",
+    "title": "Рейтинг заполнения карточки товара",
+    "old": null,
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "18.05.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/brand-promotion-kz",
+    "title": "Продвижение бренда",
+    "old": "22.07.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "03.08.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/pro-wildberries-kazakhstan",
+    "title": "Центр развития и поддержки предпринимателей PRO WB",
+    "old": "28.05.2026",
+    "new": null
   }
 ]

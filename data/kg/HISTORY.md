@@ -1,6 +1,21 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-08-07_
+_Сформировано: 2026-08-10_
+
+## 2026-08-10
+### Сменилась дата «Обновлено» (2)
+- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/A-256
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 03.08.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan
+
+### Новые статьи (1)
+- **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/card-quality-rating-kg
+
+### Исчезли статьи (1)
+- ~~Центр развития и поддержки предпринимателей PRO WB~~  https://seller.wildberries.ru/instructions/ru/kg/material/pro-wildberries-kyrgyzstan
+
 
 ## 2026-08-07
 ### Сменилась дата «Обновлено» (5)

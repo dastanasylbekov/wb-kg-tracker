@@ -1,14 +1,19 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-08-07
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-08-10
 
-_Прогон: 2026-08-07 11:22 (Бишкек)_
+_Прогон: 2026-08-10 11:09 (Бишкек)_
 
-## Сменилась дата «Обновлено» (4)
-- **Частые вопросы о складах**: 15.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/faq-about-warehouses-uz
-- **Как создать склад продавца**: 30.06.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-sellers-warehouse-uzbekistan
-- **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz
-- **Фото товаров: правила, рекомендации и частые ошибки**: 20.07.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/item-photo-rules-recommendations-and-common-mistakes-uz
+## Сменилась дата «Обновлено» (3)
+- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/A-256
+- **Продвижение бренда**: 22.07.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/brand-promotion-uzb
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 03.08.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
+
+## Новые статьи (1)
+- **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/card-quality-rating-uz
+
+## Исчезли статьи (1)
+- ~~Центр развития и поддержки предпринимателей PRO WB~~  https://seller.wildberries.ru/instructions/ru/uz/material/pro-wildberries-uzbekistan
 

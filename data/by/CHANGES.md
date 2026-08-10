@@ -1,21 +1,19 @@
-# Изменения справки WB — 🇧🇾 Беларусь — 2026-08-07
+# Изменения справки WB — 🇧🇾 Беларусь — 2026-08-10
 
-_Прогон: 2026-08-07 11:08 (Бишкек)_
+_Прогон: 2026-08-10 10:53 (Бишкек)_
 
-## Сменилась дата «Обновлено» (6)
-- **Частые вопросы о складах**: 15.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by
-- **Как создать склад продавца**: 30.06.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-sellers-warehouse-belarus
-- **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by
-- **Карантин цен**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus
-- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog
+## Сменилась дата «Обновлено» (3)
+- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/A-256
+- **Продвижение бренда**: 22.07.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/brand-promotion-by
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 03.08.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
+
+## Новые статьи (1)
+- **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/card-quality-rating-by
 
 ## Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
+- ~~Центр развития и поддержки предпринимателей PRO WB~~  https://seller.wildberries.ru/instructions/ru/by/material/pro-wildberries-belarus
 

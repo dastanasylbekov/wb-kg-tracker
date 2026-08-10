@@ -206,5 +206,21 @@
     "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
     "old": "30.07.2026",
     "new": "05.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/card-quality-rating-tj",
+    "title": "Рейтинг заполнения карточки товара",
+    "old": null,
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "18.05.2026",
+    "new": "07.08.2026"
   }
 ]

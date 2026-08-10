@@ -1070,5 +1070,45 @@
     "title": "Фото товаров: правила, рекомендации и частые ошибки",
     "old": "20.07.2026",
     "new": "27.07.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/card-quality-rating-uz",
+    "title": "Рейтинг заполнения карточки товара",
+    "old": null,
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "18.05.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/brand-promotion-uzb",
+    "title": "Продвижение бренда",
+    "old": "22.07.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "03.08.2026",
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-10",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/pro-wildberries-uzbekistan",
+    "title": "Центр развития и поддержки предпринимателей PRO WB",
+    "old": "28.05.2026",
+    "new": null
   }
 ]

@@ -1,8 +1,12 @@
-# Изменения справки WB — 🇹🇯 Таджикистан — 2026-08-07
+# Изменения справки WB — 🇹🇯 Таджикистан — 2026-08-10
 
-_Прогон: 2026-08-07 11:24 (Бишкек)_
+_Прогон: 2026-08-10 11:11 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (1)
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 30.07.2026 → 05.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-2-labeling-and-packaging-fbs-orders-tj
+- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 07.08.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/A-256
+
+## Новые статьи (1)
+- **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/card-quality-rating-tj
 
