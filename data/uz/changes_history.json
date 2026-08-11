@@ -1110,5 +1110,13 @@
     "title": "Центр развития и поддержки предпринимателей PRO WB",
     "old": "28.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-11",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-and-which-cards-do-sellers-compare-on-wb-uz",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
   }
 ]

@@ -1,19 +1,12 @@
-# Изменения справки WB — 🇧🇾 Беларусь — 2026-08-10
+# Изменения справки WB — 🇧🇾 Беларусь — 2026-08-11
 
-_Прогон: 2026-08-10 10:53 (Бишкек)_
+_Прогон: 2026-08-11 10:33 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 07.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/A-256
-- **Продвижение бренда**: 22.07.2026 → 07.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/brand-promotion-by
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 03.08.2026 → 07.08.2026
+## Сменилась дата «Обновлено» (1)
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 07.08.2026 → 10.08.2026
   https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
 
 ## Новые статьи (1)
-- **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/card-quality-rating-by
-
-## Исчезли статьи (1)
-- ~~Центр развития и поддержки предпринимателей PRO WB~~  https://seller.wildberries.ru/instructions/ru/by/material/pro-wildberries-belarus
+- **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/how-and-which-cards-do-sellers-compare-on-wb-by
 

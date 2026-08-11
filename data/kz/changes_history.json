@@ -958,5 +958,85 @@
     "title": "Центр развития и поддержки предпринимателей PRO WB",
     "old": "28.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-11",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-and-which-cards-do-sellers-compare-on-wb-kz",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/cancellation-orders-return-items-in-cc-kz",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": "09.06.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/cancellations-returns-penalties-dbs-kz",
+    "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
+    "old": "24.07.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/dimensions-of-goods-kazakhstan",
+    "title": "Габариты товаров",
+    "old": "18.06.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-sellers-warehouse-kazakhstan",
+    "title": "Как создать склад продавца",
+    "old": "06.08.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-start-selling-on-wildberries-kz",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "28.05.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/pre-trial-settlement-kazakhstan",
+    "title": "Досудебное урегулирование",
+    "old": "18.05.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/product-categories-kazakhstan",
+    "title": "Категории товаров",
+    "old": "18.05.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "14.07.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "07.08.2026",
+    "new": "10.08.2026"
   }
 ]

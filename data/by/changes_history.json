@@ -1046,5 +1046,21 @@
     "title": "Центр развития и поддержки предпринимателей PRO WB",
     "old": "28.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-11",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-and-which-cards-do-sellers-compare-on-wb-by",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "07.08.2026",
+    "new": "10.08.2026"
   }
 ]
