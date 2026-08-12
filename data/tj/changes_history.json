@@ -222,5 +222,45 @@
     "title": "Проекты и каналы коммуникации Wildberries",
     "old": "18.05.2026",
     "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-a-product-card-tj",
+    "title": "Как создать карточку товара",
+    "old": "18.05.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/profile-section-on-the-seller-portal-tj",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "18.05.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/rules-of-work-with-edbs-tajikistan",
+    "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
+    "old": "29.06.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/wildberries-reward-ratio-tj",
+    "title": "Коэффициент вознаграждения Wildberries",
+    "old": "28.05.2026",
+    "new": "11.08.2026"
   }
 ]

@@ -1230,5 +1230,53 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "07.08.2026",
     "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/about-edbs-kyrgyzstan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "31.07.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/dimensions-of-goods-kyrgyzstan",
+    "title": "Габариты товаров",
+    "old": "18.06.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-kyrgyzstan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "16.07.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/pre-trial-settlement-kyrgyzstan",
+    "title": "Досудебное урегулирование",
+    "old": "18.05.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-categories-kyrgyzstan",
+    "title": "Категории товаров",
+    "old": "10.08.2026",
+    "new": "18.05.2026"
   }
 ]

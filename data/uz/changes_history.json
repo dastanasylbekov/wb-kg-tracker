@@ -1118,5 +1118,45 @@
     "title": "Как и какие карточки сравнивают продавцы на Wildberries",
     "old": null,
     "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "16.07.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-sellers-warehouse-uzbekistan",
+    "title": "Как создать склад продавца",
+    "old": "06.08.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-selling-on-wildberries-uz",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "28.05.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan",
+    "title": "Маркировка товаров и поставок. Баркод, GTIN, IMEI",
+    "old": "30.07.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "14.07.2026",
+    "new": "11.08.2026"
   }
 ]

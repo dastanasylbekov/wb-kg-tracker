@@ -1038,5 +1038,45 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "07.08.2026",
     "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/dimensions-of-goods-kazakhstan",
+    "title": "Габариты товаров",
+    "old": "10.08.2026",
+    "new": "18.06.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-kazakhstan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "16.07.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "31.07.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "10.08.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-12",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-and-which-cards-do-sellers-compare-on-wb-kz",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": "10.08.2026",
+    "new": null
   }
 ]
