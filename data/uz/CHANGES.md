@@ -1,16 +1,18 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-08-12
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-08-13
 
-_Прогон: 2026-08-12 11:15 (Бишкек)_
+_Прогон: 2026-08-13 11:20 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Как отменить поставку или изменить дату и количество товаров**: 16.07.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan
-- **Как создать склад продавца**: 06.08.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-sellers-warehouse-uzbekistan
-- **Как подготовиться к работе на Wildberries перед регистрацией**: 28.05.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-selling-on-wildberries-uz
-- **Маркировка товаров и поставок. Баркод, GTIN, IMEI**: 30.07.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 14.07.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan
+## Сменилась дата «Обновлено» (6)
+- **Проекты и каналы коммуникации Wildberries**: 07.08.2026 → 12.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/A-256
+- **О модели продаж «Витрина экспресс» (EDBS)**: 31.07.2026 → 11.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan
+- **Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)**: 09.06.2026 → 11.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cancellation-orders-return-items-in-cc-uz
+- **Категории товаров**: 18.05.2026 → 11.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/product-categories-uzbekistan
+- **Этап 2. Наполнение упаковки**: 18.05.2026 → 12.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 07.08.2026 → 11.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
 

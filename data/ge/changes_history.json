@@ -46,5 +46,13 @@
     "title": "Карантин цен",
     "old": "04.06.2026",
     "new": "04.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/step-2-filling-the-packaging-ge",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.05.2026",
+    "new": "12.08.2026"
   }
 ]

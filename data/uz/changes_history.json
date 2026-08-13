@@ -1158,5 +1158,53 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "14.07.2026",
     "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "07.08.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "31.07.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/cancellation-orders-return-items-in-cc-uz",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": "09.06.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/product-categories-uzbekistan",
+    "title": "Категории товаров",
+    "old": "18.05.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.05.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "07.08.2026",
+    "new": "11.08.2026"
   }
 ]

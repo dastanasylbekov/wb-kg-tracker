@@ -1278,5 +1278,61 @@
     "title": "Категории товаров",
     "old": "10.08.2026",
     "new": "18.05.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "07.08.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/cancellation-orders-return-items-in-cc-kg",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": "09.06.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/marking-of-goods-and-supplies-kyrgyzstan",
+    "title": "Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI",
+    "old": "30.07.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-categories-kyrgyzstan",
+    "title": "Категории товаров",
+    "old": "18.05.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "29.07.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "10.08.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "29.07.2026",
+    "new": "12.08.2026"
   }
 ]
