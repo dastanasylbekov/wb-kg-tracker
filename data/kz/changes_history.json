@@ -1142,5 +1142,21 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "29.07.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan",
+    "title": "6 шагов к первой поставке",
+    "old": "27.07.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "29.07.2026",
+    "new": "12.08.2026"
   }
 ]

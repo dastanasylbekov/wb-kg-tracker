@@ -318,5 +318,29 @@
     "title": "Рейтинг заполнения карточки товара",
     "old": "07.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-14",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/card-quality-rating-tj",
+    "title": "Рейтинг заполнения карточки товара",
+    "old": null,
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-08-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/rules-of-work-with-edbs-tajikistan",
+    "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
+    "old": "29.06.2026",
+    "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-two-fbw-package-filling-tj",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.05.2026",
+    "new": "12.08.2026"
   }
 ]
