@@ -342,5 +342,13 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "18.05.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan",
+    "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
+    "old": "11.08.2026",
+    "new": "29.06.2026"
   }
 ]

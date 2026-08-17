@@ -1270,5 +1270,13 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "29.07.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan",
+    "title": "Маркировка товаров и поставок. Баркод, GTIN, IMEI",
+    "old": "11.08.2026",
+    "new": "14.08.2026"
   }
 ]

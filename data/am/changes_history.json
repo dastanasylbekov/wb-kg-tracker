@@ -1094,5 +1094,13 @@
     "title": "Этап 3. Подготовка поставки к отгрузке",
     "old": "29.07.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/minimum-payment-and-different-periods-of-options-am",
+    "title": "Минимальный платёж и разный период действия опций",
+    "old": "18.05.2026",
+    "new": "12.08.2026"
   }
 ]

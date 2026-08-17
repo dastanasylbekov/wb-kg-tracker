@@ -1350,5 +1350,37 @@
     "title": "Как и какие карточки сравнивают продавцы на Wildberries",
     "old": "10.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/6-steps-to-the-first-delivery-kyrgyzstan",
+    "title": "6 шагов к первой поставке",
+    "old": "27.07.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/minimum-payment-and-different-periods-of-options-kg",
+    "title": "Минимальный платёж и разный период действия опций",
+    "old": "18.05.2026",
+    "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.05.2026",
+    "new": "12.08.2026"
   }
 ]
