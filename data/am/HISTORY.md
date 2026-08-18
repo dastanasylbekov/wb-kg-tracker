@@ -1,6 +1,23 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-08-17_
+_Сформировано: 2026-08-18_
+
+## 2026-08-18
+### Сменилась дата «Обновлено» (5)
+- **Декларация на товары (Грузовая таможенная декларация)**: 18.05.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/cargo-customs-declaration-am
+- **Особенности поставки товаров из Армении на склады в России**: 22.05.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/delivering-items-from-arm-to-ru-warehouses
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 30.07.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-2-marking-and-packaging-orders-for-the-fbs-armenia
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.08.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 12.08.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia
+
+### Исчезли статьи (1)
+- ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am
+
 
 ## 2026-08-17
 ### Сменилась дата «Обновлено» (1)

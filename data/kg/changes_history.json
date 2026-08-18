@@ -1382,5 +1382,61 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "18.05.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-spot-qr-code-through-wb-kg",
+    "title": "Как создать QR-код СПОТ через Wildberries",
+    "old": null,
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/cancellation-orders-return-items-in-cc-kg",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": "10.08.2026",
+    "new": "09.06.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/digital-arbitrage-kyrgyzstan",
+    "title": "Цифровой арбитраж",
+    "old": "06.07.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-marking-and-packaging-orders-for-the-fbs-kyrgyzstan",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "30.07.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "11.08.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/faq-about-warehouses-kg",
+    "title": "Частые вопросы о складах",
+    "old": "06.08.2026",
+    "new": null
+  },
+  {
+    "run": "2026-08-18",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": "10.08.2026",
+    "new": null
   }
 ]

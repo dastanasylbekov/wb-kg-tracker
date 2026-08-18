@@ -1158,5 +1158,45 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "29.07.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/digital-arbitrage-kazakhstan",
+    "title": "Цифровой арбитраж",
+    "old": "06.07.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/dimensions-of-goods-kazakhstan",
+    "title": "Габариты товаров",
+    "old": "10.08.2026",
+    "new": "18.06.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/packaging-of-goods-for-the-fbs-model-kazakhstan",
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "old": "19.05.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-2-marking-and-packaging-orders-for-the-fbs-kazakhstan",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "30.07.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz",
+    "title": "Частые вопросы о складах",
+    "old": "06.08.2026",
+    "new": null
   }
 ]

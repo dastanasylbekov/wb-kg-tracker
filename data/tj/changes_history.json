@@ -350,5 +350,13 @@
     "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
     "old": "11.08.2026",
     "new": "29.06.2026"
+  },
+  {
+    "run": "2026-08-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan",
+    "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
+    "old": "29.06.2026",
+    "new": "11.08.2026"
   }
 ]
