@@ -1,19 +1,14 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-08-18
+# Изменения справки WB — 🇦🇲 Армения — 2026-08-19
 
-_Прогон: 2026-08-18 10:11 (Бишкек)_
+_Прогон: 2026-08-19 10:11 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Декларация на товары (Грузовая таможенная декларация)**: 18.05.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/cargo-customs-declaration-am
-- **Особенности поставки товаров из Армении на склады в России**: 22.05.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/delivering-items-from-arm-to-ru-warehouses
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 30.07.2026 → 17.08.2026
+## Сменилась дата «Обновлено» (4)
+- **Цифровой арбитраж**: 06.07.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/digital-arbitrage-armenia
+- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/interactive-assembly-task-ar
+- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 19.05.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 17.08.2026 → 18.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/step-2-marking-and-packaging-orders-for-the-fbs-armenia
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.08.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 12.08.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia
-
-## Исчезли статьи (1)
-- ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am
 

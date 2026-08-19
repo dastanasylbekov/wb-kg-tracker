@@ -1182,5 +1182,53 @@
     "title": "Частые вопросы о складах",
     "old": "06.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "20.07.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/interactive-assembly-task-by",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "14.07.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/packaging-of-goods-for-the-fbs-model-belarus",
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "old": "19.05.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus",
+    "title": "Этап 1. Создание поставки",
+    "old": "25.06.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "12.08.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/weight-and-size-restrictions-for-sales-models-belarus",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "12.08.2026",
+    "new": "17.08.2026"
   }
 ]

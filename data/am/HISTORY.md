@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-08-18_
+_Сформировано: 2026-08-19_
+
+## 2026-08-19
+### Сменилась дата «Обновлено» (4)
+- **Цифровой арбитраж**: 06.07.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/digital-arbitrage-armenia
+- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/interactive-assembly-task-ar
+- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 19.05.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 17.08.2026 → 18.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-2-marking-and-packaging-orders-for-the-fbs-armenia
+
 
 ## 2026-08-18
 ### Сменилась дата «Обновлено» (5)

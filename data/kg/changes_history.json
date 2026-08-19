@@ -1438,5 +1438,69 @@
     "title": "Как и какие карточки сравнивают продавцы на Wildberries",
     "old": "10.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-19",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/ab-testing-of-the-main-photo-in-the-product-card-kg",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.05.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/cancellation-orders-return-items-in-cc-kg",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": "09.06.2026",
+    "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "14.07.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/packaging-of-goods-for-the-fbs-model-kyrgyzstan",
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "old": "19.05.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-1-creating-a-supply-kyrgyzstan",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.07.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "12.08.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "12.08.2026",
+    "new": "17.08.2026"
   }
 ]

@@ -1150,5 +1150,37 @@
     "title": "Частые вопросы о складах",
     "old": "06.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/digital-arbitrage-armenia",
+    "title": "Цифровой арбитраж",
+    "old": "06.07.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/interactive-assembly-task-ar",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "14.07.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia",
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "old": "19.05.2026",
+    "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-2-marking-and-packaging-orders-for-the-fbs-armenia",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "17.08.2026",
+    "new": "18.08.2026"
   }
 ]

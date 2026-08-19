@@ -358,5 +358,13 @@
     "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
     "old": "29.06.2026",
     "new": "11.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": "10.08.2026",
+    "new": null
   }
 ]

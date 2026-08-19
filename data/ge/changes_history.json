@@ -54,5 +54,13 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "18.05.2026",
     "new": "12.08.2026"
+  },
+  {
+    "run": "2026-08-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-items-in-fbs-ka",
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "old": "02.07.2026",
+    "new": "17.08.2026"
   }
 ]
