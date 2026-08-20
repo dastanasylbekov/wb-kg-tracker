@@ -366,5 +366,13 @@
     "title": "Как и какие карточки сравнивают продавцы на Wildberries",
     "old": "10.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-20",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj",
+    "title": "Как и какие карточки сравнивают продавцы на Wildberries",
+    "old": null,
+    "new": "10.08.2026"
   }
 ]

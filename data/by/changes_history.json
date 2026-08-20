@@ -1230,5 +1230,21 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "12.08.2026",
     "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.08.2026",
+    "new": "19.08.2026"
+  },
+  {
+    "run": "2026-08-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/transit-supplies-rb",
+    "title": "Справочный центр",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

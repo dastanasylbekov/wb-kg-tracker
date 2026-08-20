@@ -1182,5 +1182,37 @@
     "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
     "old": "17.08.2026",
     "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/main-photo-ab-testing-am",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.05.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia",
+    "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
+    "old": "17.08.2026",
+    "new": "19.05.2026"
+  },
+  {
+    "run": "2026-08-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "12.08.2026",
+    "new": "19.08.2026"
+  },
+  {
+    "run": "2026-08-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "12.08.2026",
+    "new": "19.08.2026"
   }
 ]

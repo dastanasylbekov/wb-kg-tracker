@@ -1,16 +1,12 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-08-19
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-08-20
 
-_Прогон: 2026-08-19 10:05 (Бишкек)_
+_Прогон: 2026-08-20 10:07 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Габариты товаров**: 18.06.2026 → 10.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/dimensions-of-goods-kazakhstan
-- **Этап 1. Создание поставки**: 25.06.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-1-creating-a-supply-kazakhstan
-- **Этап 2. Наполнение упаковки**: 12.08.2026 → 18.08.2026
+## Сменилась дата «Обновлено» (3)
+- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/interactive-assembly-task-kz
+- **Этап 2. Наполнение упаковки**: 18.08.2026 → 19.08.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/step-2-filling-the-packaging-kazakhstan
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.08.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 12.08.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan
+- **Справочный центр**: 18.05.2026 → None
+  https://seller.wildberries.ru/instructions/ru/kz/material/transit-supplies-kz
 
