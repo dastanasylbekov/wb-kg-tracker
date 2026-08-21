@@ -1262,5 +1262,21 @@
     "title": "Справочный центр",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/ab-testing-of-the-main-photo-in-the-product-card-kz",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.05.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/photo-editor-kz",
+    "title": "Фоторедактор",
+    "old": "18.05.2026",
+    "new": "20.08.2026"
   }
 ]

@@ -1398,5 +1398,37 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "12.08.2026",
     "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "18.08.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-08-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/photo-editor-uz",
+    "title": "Фоторедактор",
+    "old": "18.05.2026",
+    "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.08.2026",
+    "new": "19.08.2026"
+  },
+  {
+    "run": "2026-08-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-fbw-uzbekistan",
+    "title": "Управление остатками по модели FBW",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

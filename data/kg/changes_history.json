@@ -1502,5 +1502,13 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "12.08.2026",
     "new": "17.08.2026"
+  },
+  {
+    "run": "2026-08-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "18.08.2026",
+    "new": "19.08.2026"
   }
 ]
