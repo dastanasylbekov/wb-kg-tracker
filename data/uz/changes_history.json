@@ -1430,5 +1430,37 @@
     "title": "Управление остатками по модели FBW",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-08-24",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-fbw-uzbekistan",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-08-24",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/your-first-sale-on-wildberries-uz",
+    "title": "Первая продажа на Wildberries",
+    "old": null,
+    "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "14.07.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-08-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "17.08.2026",
+    "new": "21.08.2026"
   }
 ]

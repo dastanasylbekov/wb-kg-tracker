@@ -374,5 +374,13 @@
     "title": "Как и какие карточки сравнивают продавцы на Wildberries",
     "old": null,
     "new": "10.08.2026"
+  },
+  {
+    "run": "2026-08-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-two-fbw-package-filling-tj",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "12.08.2026",
+    "new": "19.08.2026"
   }
 ]

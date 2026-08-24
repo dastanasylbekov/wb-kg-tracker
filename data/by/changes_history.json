@@ -1254,5 +1254,29 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-08-24",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/your-first-sale-on-wildberries-by",
+    "title": "Первая продажа на Wildberries",
+    "old": null,
+    "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/photo-editor-rb",
+    "title": "Фоторедактор",
+    "old": "18.05.2026",
+    "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "17.08.2026",
+    "new": "21.08.2026"
   }
 ]

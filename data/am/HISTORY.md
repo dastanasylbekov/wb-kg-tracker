@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-08-21_
+_Сформировано: 2026-08-24_
+
+## 2026-08-24
+### Сменилась дата «Обновлено» (2)
+- **Этап 1. Создание поставки**: 18.08.2026 → 20.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.08.2026 → 21.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
+
 
 ## 2026-08-21
 ### Сменилась дата «Обновлено» (4)
