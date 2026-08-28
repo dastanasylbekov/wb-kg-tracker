@@ -216,7 +216,11 @@ def parse_material(html: str, cfg: dict) -> dict:
         if h1:
             title = h1.get_text(strip=True)
 
-    text = soup.get_text(" ", strip=True)
+    # WB отдаёт содержимое статьи (и дату «Обновлено», и метку страны) внутри
+    # данных Next.js в тегах <script>. soup.get_text() их отбрасывает, поэтому
+    # ищем по «сырому» HTML — там строки «Обновлено DD.MM.YYYY» и «для продавцов
+    # из <страны>» присутствуют как есть.
+    text = html
 
     updated_raw = extract_date(text, cfg["lang"])
     updated_iso = None
