@@ -22,8 +22,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/ab-testing-of-the-main-photo-in-the-product-card-kg": {
     "title": "А/Б-тестирование главного фото в карточке товара",
-    "updated": "18.08.2026",
-    "updated_iso": "2026-08-18",
+    "updated": "27.08.2026",
+    "updated_iso": "2026-08-27",
     "local": true,
     "checked": "2026-08-28"
   },
@@ -925,8 +925,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg": {
     "title": "Отчёт «Оценка товара»",
-    "updated": "27.08.2026",
-    "updated_iso": "2026-08-27",
+    "updated": "20.07.2026",
+    "updated_iso": "2026-07-20",
     "local": true,
     "checked": "2026-08-28"
   },
@@ -995,8 +995,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg": {
     "title": "Сервис подмены артикула",
-    "updated": "01.07.2026",
-    "updated_iso": "2026-07-01",
+    "updated": "25.08.2026",
+    "updated_iso": "2026-08-25",
     "local": true,
     "checked": "2026-08-28"
   },
@@ -1079,8 +1079,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan": {
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
-    "updated": "31.07.2026",
-    "updated_iso": "2026-07-31",
+    "updated": "27.08.2026",
+    "updated_iso": "2026-08-27",
     "local": true,
     "checked": "2026-08-28"
   },

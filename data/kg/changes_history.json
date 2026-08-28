@@ -4590,5 +4590,37 @@
     "title": "Первая продажа на Wildberries",
     "old": null,
     "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/ab-testing-of-the-main-photo-in-the-product-card-kg",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.08.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg",
+    "title": "Отчёт «Оценка товара»",
+    "old": "27.08.2026",
+    "new": "20.07.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg",
+    "title": "Сервис подмены артикула",
+    "old": "01.07.2026",
+    "new": "25.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "31.07.2026",
+    "new": "27.08.2026"
   }
 ]

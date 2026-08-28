@@ -4510,5 +4510,29 @@
     "title": "Первая продажа на Wildberries",
     "old": null,
     "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.08.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "27.08.2026",
+    "new": "28.05.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/wb-api-data-categories-by",
+    "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
+    "old": "18.05.2026",
+    "new": "26.08.2026"
   }
 ]

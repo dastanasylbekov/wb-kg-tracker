@@ -3,7 +3,7 @@
 _Сформировано: 2026-08-28_
 
 ## 2026-08-28
-### Сменилась дата «Обновлено» (208)
+### Сменилась дата «Обновлено» (211)
 - **3D-модель в карточке товара**: None → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/am/material/3d-model-in-the-product-profile-armenia
 - **6 шагов к первой поставке**: None → 12.08.2026
@@ -420,6 +420,12 @@ _Сформировано: 2026-08-28_
   https://seller.wildberries.ru/instructions/ru/am/material/withholding-report-armenia
 - **Первая продажа на Wildberries**: None → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/your-first-sale-on-wildberries-am
+- **Отчёт «Сравнение карточек»**: 27.08.2026 → 28.05.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am
+- **А/Б-тестирование главного фото в карточке товара**: 18.08.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/main-photo-ab-testing-am
+- **«Помощник»: аналитика и данные по вашим товарам**: 14.07.2026 → 28.08.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am
 
 
 ## 2026-08-25

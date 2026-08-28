@@ -3,7 +3,7 @@
 _Сформировано: 2026-08-28_
 
 ## 2026-08-28
-### Сменилась дата «Обновлено» (192)
+### Сменилась дата «Обновлено» (196)
 - **3D-модель в карточке товара**: None → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/3d-model-in-the-product-profile-kazakhstan
 - **6 шагов к первой поставке**: None → 12.08.2026
@@ -388,6 +388,14 @@ _Сформировано: 2026-08-28_
   https://seller.wildberries.ru/instructions/ru/kz/material/withholdings-report-kazakhstan
 - **Первая продажа на Wildberries**: None → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/your-first-sale-on-wildberries-kz
+- **А/Б-тестирование главного фото в карточке товара**: 18.08.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/ab-testing-of-the-main-photo-in-the-product-card-kz
+- **Сводка аналитики**: 02.06.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan
+- **Отчёт «Сравнение карточек»**: 28.05.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 31.07.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
 
 
 ## 2026-08-25

@@ -4590,5 +4590,29 @@
     "title": "Первая продажа на Wildberries",
     "old": null,
     "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "27.08.2026",
+    "new": "28.05.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/main-photo-ab-testing-am",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "18.08.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "14.07.2026",
+    "new": "28.08.2026"
   }
 ]

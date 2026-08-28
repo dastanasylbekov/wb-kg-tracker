@@ -3,7 +3,7 @@
 _Сформировано: 2026-08-28_
 
 ## 2026-08-28
-### Сменилась дата «Обновлено» (191)
+### Сменилась дата «Обновлено» (195)
 - **3D-модель в карточке товара**: None → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/3d-model-in-the-product-profile-kyrgyzstan
 - **6 шагов к первой поставке**: None → 12.08.2026
@@ -386,6 +386,14 @@ _Сформировано: 2026-08-28_
   https://seller.wildberries.ru/instructions/ru/kg/material/withholdings-report-kyrgyzstan
 - **Первая продажа на Wildberries**: None → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/your-first-sale-on-wildberries-kg
+- **А/Б-тестирование главного фото в карточке товара**: 18.08.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/ab-testing-of-the-main-photo-in-the-product-card-kg
+- **Отчёт «Оценка товара»**: 27.08.2026 → 20.07.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg
+- **Сервис подмены артикула**: 01.07.2026 → 25.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 31.07.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan
 
 
 ## 2026-08-25

@@ -22,8 +22,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb": {
     "title": "А/Б-тестирование главного фото в карточке товара",
-    "updated": "18.08.2026",
-    "updated_iso": "2026-08-18",
+    "updated": "27.08.2026",
+    "updated_iso": "2026-08-27",
     "local": true,
     "checked": "2026-08-28"
   },
@@ -225,8 +225,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus": {
     "title": "Отчёт «Сравнение карточек»",
-    "updated": "27.08.2026",
-    "updated_iso": "2026-08-27",
+    "updated": "28.05.2026",
+    "updated_iso": "2026-05-28",
     "local": true,
     "checked": "2026-08-28"
   },
@@ -1352,8 +1352,8 @@
   },
   "https://seller.wildberries.ru/instructions/ru/by/material/wb-api-data-categories-by": {
     "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
-    "updated": "18.05.2026",
-    "updated_iso": "2026-05-18",
+    "updated": "26.08.2026",
+    "updated_iso": "2026-08-26",
     "local": true,
     "checked": "2026-08-28"
   },

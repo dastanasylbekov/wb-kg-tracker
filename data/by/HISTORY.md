@@ -3,7 +3,7 @@
 _Сформировано: 2026-08-28_
 
 ## 2026-08-28
-### Сменилась дата «Обновлено» (202)
+### Сменилась дата «Обновлено» (205)
 - **3D-модель в карточке товара**: None → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/by/material/3d-model-in-the-product-profile-rb
 - **6 шагов к первой поставке**: None → 12.08.2026
@@ -408,6 +408,12 @@ _Сформировано: 2026-08-28_
   https://seller.wildberries.ru/instructions/ru/by/material/withholding-report-belarus
 - **Первая продажа на Wildberries**: None → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/by/material/your-first-sale-on-wildberries-by
+- **А/Б-тестирование главного фото в карточке товара**: 18.08.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb
+- **Отчёт «Сравнение карточек»**: 27.08.2026 → 28.05.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus
+- **Категории данных WB API: как выбрать нужные для вашей интеграции**: 18.05.2026 → 26.08.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/wb-api-data-categories-by
 
 
 ## 2026-08-25

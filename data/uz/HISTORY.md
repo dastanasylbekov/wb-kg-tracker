@@ -3,7 +3,7 @@
 _Сформировано: 2026-08-28_
 
 ## 2026-08-28
-### Сменилась дата «Обновлено» (188)
+### Сменилась дата «Обновлено» (191)
 - **3D-модель в карточке товара**: None → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/3d-model-in-the-product-profile-uzbekistan
 - **6 шагов к первой поставке**: None → 27.07.2026
@@ -380,6 +380,12 @@ _Сформировано: 2026-08-28_
   https://seller.wildberries.ru/instructions/ru/uz/material/withholdings-report-uzbekistan
 - **Первая продажа на Wildberries**: None → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/your-first-sale-on-wildberries-uz
+- **Отчёт «Сравнение карточек»**: 28.05.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz
+- **Отчёт «Календарь событий»**: 31.07.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 27.08.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan
 
 
 ## 2026-08-25

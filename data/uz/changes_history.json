@@ -4478,5 +4478,29 @@
     "title": "Первая продажа на Wildberries",
     "old": null,
     "new": "20.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "28.05.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "31.07.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "31.07.2026"
   }
 ]
