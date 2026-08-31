@@ -4534,5 +4534,45 @@
     "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
     "old": "18.05.2026",
     "new": "26.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb",
+    "title": "Сводка аналитики",
+    "old": "02.06.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "28.05.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb",
+    "title": "Отчёт «Лента заказов»",
+    "old": "31.07.2026",
+    "new": "28.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/product-evaluation-report-by",
+    "title": "Отчёт «Оценка товара»",
+    "old": "20.07.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "31.07.2026",
+    "new": "27.08.2026"
   }
 ]

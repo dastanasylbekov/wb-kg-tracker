@@ -4502,5 +4502,37 @@
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
     "old": "27.08.2026",
     "new": "31.07.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "31.07.2026",
+    "new": "28.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "20.07.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "31.07.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wb-api-data-categories-uz",
+    "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
+    "old": "26.08.2026",
+    "new": "18.05.2026"
   }
 ]

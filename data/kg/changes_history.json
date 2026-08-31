@@ -4622,5 +4622,45 @@
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
     "old": "31.07.2026",
     "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "27.08.2026",
+    "new": "02.06.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "31.07.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "28.05.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "31.07.2026",
+    "new": "28.08.2026"
+  },
+  {
+    "run": "2026-08-31",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg",
+    "title": "Отчёт «Оценка товара»",
+    "old": "20.07.2026",
+    "new": "27.08.2026"
   }
 ]
