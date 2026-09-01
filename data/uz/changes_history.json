@@ -4534,5 +4534,13 @@
     "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
     "old": "26.08.2026",
     "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wb-api-data-categories-uz",
+    "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
+    "old": "18.05.2026",
+    "new": "26.08.2026"
   }
 ]

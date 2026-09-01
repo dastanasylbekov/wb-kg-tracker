@@ -4662,5 +4662,13 @@
     "title": "Отчёт «Оценка товара»",
     "old": "20.07.2026",
     "new": "27.08.2026"
+  },
+  {
+    "run": "2026-09-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "02.06.2026",
+    "new": "27.08.2026"
   }
 ]
