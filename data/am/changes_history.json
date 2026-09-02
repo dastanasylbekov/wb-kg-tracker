@@ -4638,5 +4638,37 @@
     "title": "Отчёт «Оценка товара»",
     "old": "20.07.2026",
     "new": "27.08.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/mgt-kgt-sgt-a-brief-guide-for-sellers-armenia",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "13.07.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-from-wildberries-warehouse-to-the-seller-armenia",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "26.05.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "28.08.2026",
+    "new": "14.07.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbpartners-registration",
+    "title": "Регистрация нового продавца на портале WB Partners",
+    "old": "27.08.2026",
+    "new": "01.09.2026"
   }
 ]

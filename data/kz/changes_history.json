@@ -4430,5 +4430,45 @@
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
     "old": "27.08.2026",
     "new": "31.07.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/unified-digital-platform-for-entrepreneurs-rwb-sreda-kz",
+    "title": "Единая цифровая платформа для предпринимателей RWB Среда",
+    "old": null,
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-start-selling-on-wildberries-kz",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "10.08.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kazakhstan",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "26.05.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "31.07.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/wbpartners-registration-kazakhstan",
+    "title": "Регистрация нового продавца на портале WB Partners",
+    "old": "27.08.2026",
+    "new": "01.09.2026"
   }
 ]

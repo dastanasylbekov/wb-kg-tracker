@@ -4670,5 +4670,45 @@
     "title": "Сводка аналитики",
     "old": "02.06.2026",
     "new": "27.08.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/delivery-of-goods-from-kg-to-ru",
+    "title": "Поставки товаров из Кыргызстана в Россию",
+    "old": "01.06.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kyrgyzstan",
+    "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
+    "old": "13.07.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.08.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kyrgyzstan",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "26.05.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/wbpartners-registration-kyrgyzstan",
+    "title": "Регистрация нового продавца на портале WB Partners",
+    "old": "27.08.2026",
+    "new": "01.09.2026"
   }
 ]

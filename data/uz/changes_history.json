@@ -4542,5 +4542,29 @@
     "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
     "old": "18.05.2026",
     "new": "26.08.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-selling-on-wildberries-uz",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "11.08.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-uzbekistan",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "26.05.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wbpartners-registration-uzbekistan",
+    "title": "Регистрация нового продавца на портале WB Partners",
+    "old": "27.08.2026",
+    "new": "01.09.2026"
   }
 ]
