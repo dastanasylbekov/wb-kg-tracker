@@ -4670,5 +4670,77 @@
     "title": "Регистрация нового продавца на портале WB Partners",
     "old": "27.08.2026",
     "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/unified-digital-platform-for-entrepreneurs-rwb-sreda-am",
+    "title": "Единая цифровая платформа для предпринимателей RWB Среда",
+    "old": null,
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/data-and-seller-account-security-for-armenia",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "28.05.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-product-card-armenia",
+    "title": "Как создать карточку товара",
+    "old": "04.08.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-pay-the-debt-am",
+    "title": "Как оплатить долг",
+    "old": "28.07.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-start-selling-on-wildberries-am",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "03.07.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia",
+    "title": "Этап 1. Создание поставки",
+    "old": "20.08.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "19.08.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wb-promotion-payment-models-and-working-principles-ge",
+    "title": "WB Продвижение: модели оплаты и принцип работы",
+    "old": "25.05.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-03",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "14.07.2026",
+    "new": "28.08.2026"
   }
 ]
