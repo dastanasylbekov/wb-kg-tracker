@@ -1,24 +1,22 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-09-03
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-09-04
 
-_Прогон: 2026-09-03 14:21 (Бишкек)_
+_Прогон: 2026-09-04 14:14 (Бишкек)_
 
-## Сменилась дата «Обновлено» (7)
-- **Безопасность данных и профиля продавца**: 28.05.2026 → 01.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/data-and-user-security-for-uzb
-- **Как создать карточку товара**: 04.08.2026 → 02.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan
-- **Как подготовиться к работе на Wildberries перед регистрацией**: 01.09.2026 → 02.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-selling-on-wildberries-uz
-- **МГТ, КГТ+ и СГТ: гид для продавцов**: 13.07.2026 → 01.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-uzbekistan
-- **Этап 1. Создание поставки**: 18.08.2026 → 02.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-1-creating-a-supply-uzbekistan
-- **Этап 2. Наполнение упаковки**: 19.08.2026 → 02.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan
-- **WB Продвижение: модели оплаты и принцип работы**: 25.05.2026 → 02.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/wb-promotion-payment-models-and-working-principles-uz
-
-## Новые статьи (1)
-- **Единая цифровая платформа для предпринимателей RWB Среда** (Обновлено 01.09.2026)
-  https://seller.wildberries.ru/instructions/ru/uz/material/unified-digital-platform-for-entrepreneurs-rwb-sreda-uz
+## Сменилась дата «Обновлено» (8)
+- **Отчёт «Сравнение карточек»**: 27.08.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz
+- **Отчёт «География заказов»**: 29.07.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan
+- **Отчёт «Календарь событий»**: 27.08.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb
+- **Отчёт «История остатков»**: 17.07.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/history-of-remains-report-uzbekistan
+- **Калькулятор прибыли**: 29.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/profit-calculator-uz
+- **Отчёт «Продажи по регионам»**: 18.05.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan
+- **Этап 3. Подготовка поставки к отгрузке**: 12.08.2026 → 02.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
+- **Этап 4. Доставка поставки на склад**: 21.05.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan
 

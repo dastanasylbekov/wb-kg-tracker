@@ -4742,5 +4742,61 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "14.07.2026",
     "new": "28.08.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/deliveries-by-region-report-armenia",
+    "title": "Отчёт «География заказов»",
+    "old": "29.07.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/events-calendar-am",
+    "title": "Отчёт «Календарь событий»",
+    "old": "27.08.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/history-of-remains-report-armenia",
+    "title": "Отчёт «История остатков»",
+    "old": "17.07.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-product-card-armenia",
+    "title": "Как создать карточку товара",
+    "old": "02.09.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "18.05.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "20.08.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-4-delivery-of-supplies-to-warehouse-armenia",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "21.05.2026",
+    "new": "03.09.2026"
   }
 ]

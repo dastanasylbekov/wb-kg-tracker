@@ -4534,5 +4534,61 @@
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "old": "25.05.2026",
     "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/calendar-of-events-report-kazakhstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "27.08.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "27.08.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan",
+    "title": "Отчёт «География заказов»",
+    "old": "29.07.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan",
+    "title": "Отчёт «История остатков»",
+    "old": "17.07.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-product-profile-kazakhstan",
+    "title": "Как создать карточку товара",
+    "old": "02.09.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/sales-by-regions-report-kazakhstan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "18.05.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-4-delivery-of-supplies-to-warehouse-kazakhstan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "21.05.2026",
+    "new": "03.09.2026"
   }
 ]

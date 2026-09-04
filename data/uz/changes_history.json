@@ -4630,5 +4630,69 @@
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "old": "25.05.2026",
     "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "27.08.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan",
+    "title": "Отчёт «География заказов»",
+    "old": "29.07.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "27.08.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/history-of-remains-report-uzbekistan",
+    "title": "Отчёт «История остатков»",
+    "old": "17.07.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/profit-calculator-uz",
+    "title": "Калькулятор прибыли",
+    "old": "29.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "18.05.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "12.08.2026",
+    "new": "02.09.2026"
+  },
+  {
+    "run": "2026-09-04",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "21.05.2026",
+    "new": "03.09.2026"
   }
 ]
