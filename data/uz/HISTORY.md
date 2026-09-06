@@ -1,6 +1,36 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-04_
+_Сформировано: 2026-09-06_
+
+## 2026-09-06
+### Сменилась дата «Обновлено» (13)
+- **Сводка аналитики**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan
+- **Отчёт «Еженедельная динамика и анализ продаж»**: 10.06.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/daily-dynamics-and-sales-analysis-report-uzbekistan
+- **Как создать карточку товара**: 02.09.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan
+- **Отчёт «Лента заказов»**: 28.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+- **Отчёт «Платное хранение»**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/paid-storage-report-uzbekistan
+- **Досудебное урегулирование**: 11.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/pre-trial-settlement-uzbekistan
+- **Калькулятор прибыли**: 04.09.2026 → 29.07.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/profit-calculator-uz
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan
+- **Отчёт «Поисковые запросы: ваши товары»**: 27.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz
+- **Этап 3. Подготовка поставки к отгрузке**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
+- **Этап 4. Доставка поставки на склад**: 03.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan
+- **Отчёт по остаткам на складе**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/warehouse-balance-report-uzbekistan
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 17.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/weight-and-size-restrictions-for-sales-models-uzbekistan
+
 
 ## 2026-09-04
 ### Сменилась дата «Обновлено» (8)

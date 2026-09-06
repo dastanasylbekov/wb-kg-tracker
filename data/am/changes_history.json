@@ -4798,5 +4798,117 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "21.05.2026",
     "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/analytics-summary-belarus",
+    "title": "Сводка аналитики",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "27.08.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/daily-dynamics-and-sales-analysis-report-armenia",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by",
+    "title": "Отчёт «Лента заказов»",
+    "old": "31.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/pre-trial-settlement-armenia",
+    "title": "Досудебное урегулирование",
+    "old": "03.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/returns-and-movement-of-goods-report-armenia",
+    "title": "Отчёт по возвратам и перемещению товаров",
+    "old": "03.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-report-armenia",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "27.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-4-delivery-of-supplies-to-warehouse-armenia",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "03.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/warehouse-balance-report-armenia",
+    "title": "Отчёт по остаткам на складе",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "17.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wildberries-reward-ratio-am",
+    "title": "Коэффициент вознаграждения Wildberries",
+    "old": "11.08.2026",
+    "new": "04.09.2026"
   }
 ]

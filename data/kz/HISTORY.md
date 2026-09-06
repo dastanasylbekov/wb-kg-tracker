@@ -1,6 +1,38 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-09-04_
+_Сформировано: 2026-09-06_
+
+## 2026-09-06
+### Сменилась дата «Обновлено» (14)
+- **Сводка аналитики**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan
+- **Отчёт «Еженедельная динамика и анализ продаж»**: 10.06.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/daily-dynamics-and-sales-analysis-report-kazakhstan
+- **Отчёт «Лента заказов»**: 28.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+- **Отчёт «Платное хранение»**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/paid-storage-report-kazakhstan
+- **Досудебное урегулирование**: 10.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/pre-trial-settlement-kazakhstan
+- **Калькулятор прибыли**: 29.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/profit-calculator-kz
+- **Отчёт по возвратам и перемещению товаров**: 03.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/returns-and-movement-of-goods-report-kazakhstan
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+- **Отчёт «Поисковые запросы: ваши товары»**: 27.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan
+- **Этап 1. Создание поставки**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-1-creating-a-supply-kazakhstan
+- **Этап 3. Подготовка поставки к отгрузке**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan
+- **Этап 4. Доставка поставки на склад**: 03.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-4-delivery-of-supplies-to-warehouse-kazakhstan
+- **Отчёт по остаткам на складе**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/warehouse-balance-report-kazakhstan
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 17.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan
+
 
 ## 2026-09-04
 ### Сменилась дата «Обновлено» (7)

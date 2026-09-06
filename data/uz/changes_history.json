@@ -4694,5 +4694,109 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "21.05.2026",
     "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan",
+    "title": "Сводка аналитики",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/daily-dynamics-and-sales-analysis-report-uzbekistan",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan",
+    "title": "Как создать карточку товара",
+    "old": "02.09.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/paid-storage-report-uzbekistan",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/pre-trial-settlement-uzbekistan",
+    "title": "Досудебное урегулирование",
+    "old": "11.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/profit-calculator-uz",
+    "title": "Калькулятор прибыли",
+    "old": "04.09.2026",
+    "new": "29.07.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "27.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "03.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/warehouse-balance-report-uzbekistan",
+    "title": "Отчёт по остаткам на складе",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/weight-and-size-restrictions-for-sales-models-uzbekistan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "17.08.2026",
+    "new": "04.09.2026"
   }
 ]

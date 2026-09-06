@@ -4590,5 +4590,117 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "21.05.2026",
     "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan",
+    "title": "Сводка аналитики",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/daily-dynamics-and-sales-analysis-report-kazakhstan",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/paid-storage-report-kazakhstan",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/pre-trial-settlement-kazakhstan",
+    "title": "Досудебное урегулирование",
+    "old": "10.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/profit-calculator-kz",
+    "title": "Калькулятор прибыли",
+    "old": "29.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/returns-and-movement-of-goods-report-kazakhstan",
+    "title": "Отчёт по возвратам и перемещению товаров",
+    "old": "03.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "27.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-1-creating-a-supply-kazakhstan",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-4-delivery-of-supplies-to-warehouse-kazakhstan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "03.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/warehouse-balance-report-kazakhstan",
+    "title": "Отчёт по остаткам на складе",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "17.08.2026",
+    "new": "04.09.2026"
   }
 ]

@@ -1,6 +1,36 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-04_
+_Сформировано: 2026-09-06_
+
+## 2026-09-06
+### Сменилась дата «Обновлено» (13)
+- **Сводка аналитики**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb
+- **Отчёт «Еженедельная динамика и анализ продаж»**: 10.06.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/daily-dynamics-and-sales-analysis-report-belarus
+- **Как оформить поставку с товарами, которые подлежат прослеживаемости в Беларуси, по модели FBW**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/delivery-of-goods-with-traceability-in-rb-under-fbw
+- **Отчёт «Лента заказов»**: 28.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
+- **Отчёт «Платное хранение»**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus
+- **Досудебное урегулирование**: 27.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/pre-trial-settlement-belarus
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
+- **Отчёт «Поисковые запросы: ваши товары»**: 27.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
+- **Этап 1. Создание поставки**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus
+- **Этап 3. Подготовка поставки к отгрузке**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus
+- **Этап 4. Доставка поставки на склад**: 03.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-4-delivery-of-supplies-to-warehouse-belarus
+- **Отчёт по остаткам на складе**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/warehouse-balance-report-belarus
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 17.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/weight-and-size-restrictions-for-sales-models-belarus
+
 
 ## 2026-09-04
 ### Сменилась дата «Обновлено» (8)

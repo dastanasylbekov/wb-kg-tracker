@@ -4,377 +4,593 @@
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1609",
+    "updated_at": "2026-05-18T11:09:18.547891Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1609/a103ad66-64df-46d1-9768-4fca0d710a72.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/6-steps-to-your-first-delivery-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/accepted-shipment-documents-georgia": {
     "title": "მიღებულ მოწოდებებთან დაკავშირებული დოკუმენტები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1628",
+    "updated_at": "2026-05-18T11:09:20.083756Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1628/63215609-c5dc-4dfd-b258-ba8ce01d4af1.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/accepted-shipment-documents-georgia.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/api-integration-with-token-ge": {
     "title": "როგორ დავუკავშირდეთ API-ს ტოკენის მეშვეობით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1801",
+    "updated_at": "2026-05-18T11:09:28.298678Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1801/fba21ce8-22ff-4a21-864c-2ffe71ec5c05.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/api-integration-with-token-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/balance-management-in-the-fbw-model-ge": {
     "title": "ნაშთების მართვა FBW მოდელის გამოყენებით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1554",
+    "updated_at": "2026-05-18T11:09:16.236853Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1554/7055b1c8-a9b8-4bf2-a585-4dd29a784d79.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/balance-management-in-the-fbw-model-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/bulk-adding-of-products-ge": {
     "title": "როგორ შევქმნათ და დავარედაქტიროთ ბარათები მასობრივად",
     "updated": "30.6.2026",
     "updated_iso": "2026-06-30",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1365",
+    "updated_at": "2026-06-30T14:59:29.554542Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1365/d0d91e30-1cce-412f-a624-5038810485c3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/bulk-adding-of-products-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/cache-and-cookies-clearing-ge": {
     "title": "დროებითი ფაილების გასუფთავება: ქეში და cookie-ფაილები ბრაუზერში",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1764",
+    "updated_at": "2026-05-18T11:09:26.399631Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1764/b300b7c6-1d4d-4c0a-9443-7124420a8421.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/cache-and-cookies-clearing-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/cards-merging-ka": {
     "title": "პროდუქტის ბარათების გაერთიანება",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1599",
+    "updated_at": "2026-05-18T11:09:18.148048Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1599/51649fa4-fcbd-472b-916d-b9fbc3d67151.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/cards-merging-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/common-mistakes-when-shipping-supplies-to-a-warehouse-ge": {
     "title": "„WB საწყობი“ (FBW) - მოდელით Wildberries-ის საწყობში მიწოდების გაგზავნისას დაშვებული ხშირი შეცდომები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1522",
+    "updated_at": "2026-05-18T11:09:14.784907Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1522/00277287-8e8f-4b20-b09d-5ce9d8cd385b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/common-mistakes-when-shipping-supplies-to-a-warehouse-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/contact-support-desk-for-sellers-ge": {
     "title": "სელერების მხარდაჭერა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1763",
+    "updated_at": "2026-05-18T11:09:26.319859Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1763/2e0e8753-a26f-42a1-aa3a-73781cdb3382.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/contact-support-desk-for-sellers-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/cost-of-logistics-acceptance-and-warehouse-storage-ge": {
     "title": "ლოგისტიკის, საწყობში მიღებისა და შენახვის ხარჯები (დახარისხების ცენტრში)",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1415",
+    "updated_at": "2026-05-18T11:09:09.516152Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1415/1cacb4a6-44a3-426a-a219-0c4571928712.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/cost-of-logistics-acceptance-and-warehouse-storage-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/dimensions-of-goods-ka": {
     "title": "პროდუქტების გაბარიტები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1861",
+    "updated_at": "2026-05-18T11:09:31.600285Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1861/ac22d49b-e670-469c-919c-1c57a9ab0a07.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/dimensions-of-goods-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/edit-cards-in-bulk-ka": {
     "title": "როგორ დავარედაქტიროთ ერთდროულად რამდენიმე ბარათი",
     "updated": "30.6.2026",
     "updated_iso": "2026-06-30",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1598",
+    "updated_at": "2026-06-30T15:30:41.183549Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1598/e793b902-8767-4bf1-8a6f-1827e9983ce2.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/edit-cards-in-bulk-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/fbs-sales-model-ka": {
     "title": "გაყიდვების მოდელი „მარკეტპლეისი“ (FBS)",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1493",
+    "updated_at": "2026-05-18T11:09:13.460532Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1493/e4ffa750-7cd5-4221-a490-b044a9e36b1e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/fbs-sales-model-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/general-rules-for-packaging-products-for-the-fbw-ge": {
     "title": "პროდუქტის შეფუთვა მოდელისთვის „WB საწყობი“ (FBW) — ზოგადი წესები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1612",
+    "updated_at": "2026-05-18T11:09:18.747944Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1612/53f7e5ed-98ed-46d7-8242-2980f8f3530a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/general-rules-for-packaging-products-for-the-fbw-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-cancel-shipment-or-change-date-and-items-quantity-ka": {
     "title": "როგორ გავაუქმოთ მიწოდება ან შევცვალოთ თარიღი და პროდუქტის რაოდენობა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1634",
+    "updated_at": "2026-05-18T11:09:20.571712Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1634/2bd2b4ce-3e25-4cdf-a21d-3dc2bb27e605.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-cancel-shipment-or-change-date-and-items-quantity-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-check-for-price-and-discount-updates-ge": {
     "title": "როგორ შეამოწმოთ ფასებისა და ფასადკლებების განახლება",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1576",
+    "updated_at": "2026-05-18T11:09:17.183909Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1576/25ac4b5b-2d07-4bf6-abe7-62613de64cf3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-check-for-price-and-discount-updates-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-create-a-product-card-ge": {
     "title": "როგორ შევქმნათ პროდუქტის ბარათი",
     "updated": "30.6.2026",
     "updated_iso": "2026-06-30",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1366",
+    "updated_at": "2026-06-30T13:52:36.329437Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1366/d7990c44-6825-4e2e-a15f-cdd5964cab18.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-create-a-product-card-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-create-sellers-warehouse-ka": {
     "title": "როგორ შევქმნათ გამყიდველის საწყობი",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1494",
+    "updated_at": "2026-05-18T11:09:13.50035Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1494/ae76c77f-627e-4fd7-ab3a-82b2b5b7e085.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-create-sellers-warehouse-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-pack-electronics-and-home-appliances-in-fbs-ka": {
     "title": "როგორ შევფუთოთ ელექტრონული მოწყობილობები და საყოფაცხოვრებო ტექნიკა მარკეტპლეისის (FBS) მოდელის გამოყენებით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1535",
+    "updated_at": "2026-05-18T11:09:15.316592Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1535/06e93cf1-24a2-4f96-8cc1-00f8850435ff.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-pack-electronics-and-home-appliances-in-fbs-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-pack-electronics-and-household-appliances-fbw-ge": {
     "title": "როგორ შეფუთოთ ელექტრო და საყოფაცხოვრებო ტექნიკა მოდელებად „WB საწყობი“ (FBW)",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1615",
+    "updated_at": "2026-05-18T11:09:18.948733Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1615/b669df6e-ca2d-4ba0-8bbf-dcafb6926e7d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-pack-electronics-and-household-appliances-fbw-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-pack-items-in-fbs-ka": {
     "title": "„მარკეტპლეისის“ (FBS) მოდელისთვის პროდუქტების შეფუთვა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1504",
+    "updated_at": "2026-05-18T11:09:14.032905Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1504/91856712-d364-47bb-98c4-6088f86aa285.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-pack-items-in-fbs-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-pack-jewerly-shipment-in-fbs-ka": {
     "title": "როგორ შევფუთოთ სამკაულები მიწოდებისთვის მარკეტპლეისის (FBS) მოდელის გამოყენებით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1536",
+    "updated_at": "2026-05-18T11:09:15.356697Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1536/4bd5fa1f-22ac-4940-aaef-0028484b69e0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-pack-jewerly-shipment-in-fbs-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-properly-pack-different-types-of-goods-ge": {
     "title": "როგორ შევფუთოთ სხვადასხვა ტიპის პროდუქტები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1613",
+    "updated_at": "2026-05-18T11:09:18.828972Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1613/8b4a20e0-c3e8-44eb-b13d-3ae680467345.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-properly-pack-different-types-of-goods-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-set-prices-and-discounts-ge": {
     "title": "როგორ დაადგინოთ ფასები და ფასდაკლებები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1575",
+    "updated_at": "2026-05-18T11:09:17.143845Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1575/8d9072ad-d3a5-4700-8176-e917c039ab21.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/how-to-set-prices-and-discounts-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/item-photo-rules-recommendations-and-common-mistakes-ka": {
     "title": "პროდუქტის ფოტოები: წესები, რეკომენდაციები და გავრცელებული შეცდომები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1597",
+    "updated_at": "2026-05-18T11:09:18.066877Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1597/809434f3-eaf7-40ef-9716-96b20ef3da3f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/item-photo-rules-recommendations-and-common-mistakes-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/item-returns-by-customer-request-ka": {
     "title": "პროდუქტის დაბრუნება მყიდველის განაცხადით",
     "updated": "1.7.2026",
     "updated_iso": "2026-07-01",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1756",
+    "updated_at": "2026-07-01T15:42:38.401673Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1756/23230ca5-b778-463d-83c0-dd0ede501893.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/item-returns-by-customer-request-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/item-returns-to-seller-from-wb-warehouse-ka": {
     "title": "პროდუქტის გამყიდველისთვის დაბრუნება Wildberries-ის საწყობიდან",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1754",
+    "updated_at": "2026-05-18T11:09:25.677867Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1754/290f17c7-55f6-45c0-af6e-24ed80bdc9f8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/item-returns-to-seller-from-wb-warehouse-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/items-labeling-in-fbs-ka": {
     "title": "პროდუქტების მარკირება მოდელისთვის „მარკეტპლეისი“ (FBS)",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1537",
+    "updated_at": "2026-05-18T11:09:15.396566Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1537/daa31dfd-d38a-45f5-b978-bd0ff57c8918.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/items-labeling-in-fbs-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/labels-for-filtering-products-ge": {
     "title": "პროდუქტების გაფილტვრის იარლიყები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1787",
+    "updated_at": "2026-05-18T11:09:27.612666Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1787/b194104b-ef19-430e-8944-9440d610cc2f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/labels-for-filtering-products-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/multiple-sellers-shipment-ka": {
     "title": "მიწოდება რამდენიმე სელერისგან",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1638",
+    "updated_at": "2026-05-18T11:09:20.733585Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1638/b04c0fa8-a910-4c9f-a802-7bb31d817f41.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/multiple-sellers-shipment-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/news-section-on-the-sellers-portal-ge": {
     "title": "სელერის პორტალზე „სიახლეების“ განყოფილება",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1357",
+    "updated_at": "2026-05-18T11:09:07.161012Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1357/04cc41fe-e036-4ed0-8af9-741372690064.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/news-section-on-the-sellers-portal-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/order-cancellation-ge": {
     "title": "შეკვეთის გაუქმება",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1553",
+    "updated_at": "2026-05-18T11:09:16.196795Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1553/6017a85a-1cd3-4d5d-8656-400611509af5.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/order-cancellation-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/personal-account-access-restoring-ge": {
     "title": "პირად კაბინეტზე წვდომის აღდგენა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1814",
+    "updated_at": "2026-05-18T11:09:28.896303Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1814/5b3707fe-7c54-4600-b97d-600634c10a8d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/personal-account-access-restoring-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/price-quarantine-ge": {
     "title": "ფასების კარანტინი",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1585",
+    "updated_at": "2026-05-18T11:09:17.544972Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1585/c55cda1c-4857-4a77-81e4-5cdcd431506a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/price-quarantine-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/product-categories-ge": {
     "title": "პროდუქტების კატეგორიები",
     "updated": "30.6.2026",
     "updated_iso": "2026-06-30",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1464",
+    "updated_at": "2026-06-30T13:52:04.358289Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1464/3bc60210-48bf-4299-8058-8d294a7e621c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/product-categories-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/product-price-management-window-ge": {
     "title": "პროდუქტის ფასის მართვის ფანჯარა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1785",
+    "updated_at": "2026-05-18T11:09:27.452578Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1785/383101d6-35ff-417a-8329-3e36852ea93c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/product-price-management-window-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/profile-section-on-the-seller-portal-ge": {
     "title": "სელერის პორტალზე განყოფილება „პროფილი“",
     "updated": "29.7.2026",
     "updated_iso": "2026-07-29",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1463",
+    "updated_at": "2026-07-29T16:11:27.600036Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1463/c751ef9b-5d5e-4c66-b742-b50a51f458ec.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/profile-section-on-the-seller-portal-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/recommendations-for-modeling-photography-ge": {
     "title": "სამოდელო გადაღების რეკომენდაციები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1783",
+    "updated_at": "2026-05-18T11:09:27.291943Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1783/f5f3455f-3a6b-4ec3-abac-26145ea2ee52.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/recommendations-for-modeling-photography-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/recommendations-for-subject-photography-ge": {
     "title": "რეკომენდაციები ნივთის გადაღებისთვის",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1784",
+    "updated_at": "2026-05-18T11:09:27.372597Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1784/7641fc01-2866-4da6-a01d-d9401425cbeb.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/recommendations-for-subject-photography-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/rich-content-ge": {
     "title": "რიჩ-კონტენტი",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1786",
+    "updated_at": "2026-05-18T11:09:27.532558Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1786/97029f25-c37d-4678-a04d-5be88c18e933.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/rich-content-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/rules-for-filling-out-a-product-card-ge": {
     "title": "პროდუქტის აღწერილობის ველების შევსების წესები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1465",
+    "updated_at": "2026-05-18T11:09:11.653076Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1465/eb678aea-4a26-476d-8f6f-b695004f71a0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/rules-for-filling-out-a-product-card-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/size-chart-in-the-product-card-ge": {
     "title": "ზომების ცხრილი საქონლის აღწერილობაში",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1809",
+    "updated_at": "2026-05-18T11:09:28.618167Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1809/675579bf-63ec-40b0-a49f-c31724973b17.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/size-chart-in-the-product-card-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/stage-3-preparing-for-the-shipment-ge": {
     "title": "მე-3 ეტაპი. მიწოდების მომზადება ტრანსპორტირებისთვის",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1519",
+    "updated_at": "2026-05-18T11:09:14.664931Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1519/ccdd8001-82d2-4aa9-ae7e-a87c89808843.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/stage-3-preparing-for-the-shipment-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/stage-4-delivery-of-the-shipment-to-the-warehouse-ge": {
     "title": "მე-4 ეტაპი. მიწოდებების მიწოდება საწყობში",
     "updated": "22.5.2026",
     "updated_iso": "2026-05-22",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1520",
+    "updated_at": "2026-05-22T15:14:39.200607Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1520/fbc9357d-6bc5-40ad-9502-457b389c752b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/stage-4-delivery-of-the-shipment-to-the-warehouse-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/statuses-for-fbw-shipment-ka": {
     "title": "მიწოდების სტატუსი",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1629",
+    "updated_at": "2026-05-18T11:09:20.126878Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1629/18f17ce8-65a1-4d27-b7fc-f1a8bb95c7a3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/statuses-for-fbw-shipment-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/step-1-creating-a-supply-ge": {
     "title": "1-ლი ეტაპი. მიწოდების შექმნა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1513",
+    "updated_at": "2026-05-18T11:09:14.408808Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1513/990deef3-58e7-4b3d-9110-ec5b5e79148c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/step-1-creating-a-supply-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/step-2-filling-the-packaging-ge": {
     "title": "მე-2 ეტაპი. შეფუთვის შევსება",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1518",
+    "updated_at": "2026-05-18T11:09:14.620865Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1518/c7cdcac8-0146-4a0e-816f-d7c9641e55c1.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/step-2-filling-the-packaging-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/step-one-fbs-order-processing-ka": {
     "title": "1-ლი ეტაპი. ახალი შეკვეთის დამუშავება \"მარკეტპლეისის\" (FBS) მოდელის გამოყენებით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1544",
+    "updated_at": "2026-05-18T11:09:15.794971Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1544/45de1b05-9906-44d9-ad04-1b38ff1d785f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/step-one-fbs-order-processing-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/step-three-fbs-shipment-delivery-to-warehose-or-sorting-centre-ka": {
     "title": "მე-3 ეტაპი. მარაგების საწყობში გადაზიდვა „მარკეტპლეისის“ (FBS) მოდელის გამოყენებით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1547",
+    "updated_at": "2026-05-18T11:09:15.916165Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1547/449308ed-1294-44fa-a5b4-8887ad6eba52.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/step-three-fbs-shipment-delivery-to-warehose-or-sorting-centre-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/step-two-items-packing-and-labeling-in-fbs-ka": {
     "title": "მე-2 ეტაპი. მარკეტპლეისის (FBS) მოდელისთვის შეკვეთების მარკირება და შეფუთვები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1545",
+    "updated_at": "2026-05-18T11:09:15.834829Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1545/342e869b-c45a-4b45-812c-c45bf808cfee.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/step-two-items-packing-and-labeling-in-fbs-ka.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/two-factor-authentication-for-personal-account-ge": {
     "title": "პირადი კაბინეტის დაცვა ორფაქტორიანი ავთენტიფიკაციის მეშვეობით",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1815",
+    "updated_at": "2026-05-18T11:09:28.97654Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1815/53ae2734-ee23-4a63-85de-285f94e57391.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/two-factor-authentication-for-personal-account-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/wb-api-ge": {
     "title": "რა არის WB API და როგორ ხდება მასთან მუშაობა",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1800",
+    "updated_at": "2026-05-18T11:09:28.218428Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1800/a45ad6cf-9849-48d0-81d7-49a0594fb4b8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/wb-api-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/weekly-implementation-reports-ge": {
     "title": "რეალიზაციის ყოველკვირეული ანგარიშები",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1552",
+    "updated_at": "2026-05-18T11:09:16.156736Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1552/7678f6a0-5a0f-4e50-a9fd-053e620a85c2.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/weekly-implementation-reports-ge.md"
   },
   "https://seller.wildberries.ge/instructions/ka/ge/material/wildberries-reward-coefficient-ge": {
     "title": "Wildberries-ის ანაზღაურების კოეფიციენტი",
     "updated": "18.5.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1358",
+    "updated_at": "2026-05-18T11:09:07.200705Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1358/eb205508-4091-4d4e-b03c-880a5f0da3aa.json",
+    "checked": "2026-09-06",
+    "content_file": "content/ge-ka/wildberries-reward-coefficient-ge.md"
   }
 }

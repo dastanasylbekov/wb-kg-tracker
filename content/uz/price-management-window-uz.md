@@ -1,0 +1,10 @@
+# Окно управления ценой товара
+
+- Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/price-management-window-uz
+- Идентификатор: A-729
+- Обновлено: 2026-05-18T11:08:40.877726Z
+
+---
+> **Примечание**
+>
+> Статья доступна только продавцам Wildberries. Прочитать её можно на портале в разделе [Товары и цены → цены и скидки](https://seller.wildberries.ru/discount-and-prices). Чтобы открыть окно с инструкциями, нажмите на кружок со знаком вопроса в правом нижнем углу страницы раздела:![2ba0083c-850f-4fd0-9aaf-c430d955.jpg](https://static-basket-02.wbbasket.ru/vol20/article-static/9f719c5f-b2d6-4a08-94cc-ff363a05b18f.webp)

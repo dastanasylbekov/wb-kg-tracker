@@ -4750,5 +4750,109 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "21.05.2026",
     "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb",
+    "title": "Сводка аналитики",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/daily-dynamics-and-sales-analysis-report-belarus",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/delivery-of-goods-with-traceability-in-rb-under-fbw",
+    "title": "Как оформить поставку с товарами, которые подлежат прослеживаемости в Беларуси, по модели FBW",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/pre-trial-settlement-belarus",
+    "title": "Досудебное урегулирование",
+    "old": "27.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "27.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-4-delivery-of-supplies-to-warehouse-belarus",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "03.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/warehouse-balance-report-belarus",
+    "title": "Отчёт по остаткам на складе",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/weight-and-size-restrictions-for-sales-models-belarus",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "17.08.2026",
+    "new": "04.09.2026"
   }
 ]

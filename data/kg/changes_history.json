@@ -4830,5 +4830,109 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "21.05.2026",
     "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/daily-dynamics-and-sales-analysis-report-kyrgyzstan",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan",
+    "title": "Как создать карточку товара",
+    "old": "02.09.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "28.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/paid-storage-report-kyrgyzstan",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/pre-trial-settlement-kyrgyzstan",
+    "title": "Досудебное урегулирование",
+    "old": "10.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/profit-calculator-kg",
+    "title": "Калькулятор прибыли",
+    "old": "28.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-1-creating-a-supply-kyrgyzstan",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan",
+    "title": "Этап 3. Подготовка поставки к отгрузке",
+    "old": "02.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-4-delivery-of-supplies-to-warehouse-kyrgyzstan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "03.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/warehouse-balance-report-kyrgyzstan",
+    "title": "Отчёт по остаткам на складе",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "17.08.2026",
+    "new": "04.09.2026"
   }
 ]

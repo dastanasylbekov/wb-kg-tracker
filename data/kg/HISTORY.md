@@ -1,6 +1,36 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-09-04_
+_Сформировано: 2026-09-06_
+
+## 2026-09-06
+### Сменилась дата «Обновлено» (13)
+- **Сводка аналитики**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan
+- **Отчёт «Еженедельная динамика и анализ продаж»**: 10.06.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/daily-dynamics-and-sales-analysis-report-kyrgyzstan
+- **Как создать карточку товара**: 02.09.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan
+- **Отчёт «Лента заказов»**: 28.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Отчёт «Платное хранение»**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/paid-storage-report-kyrgyzstan
+- **Досудебное урегулирование**: 10.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/pre-trial-settlement-kyrgyzstan
+- **Калькулятор прибыли**: 28.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/profit-calculator-kg
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan
+- **Этап 1. Создание поставки**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-1-creating-a-supply-kyrgyzstan
+- **Этап 3. Подготовка поставки к отгрузке**: 02.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan
+- **Этап 4. Доставка поставки на склад**: 03.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-4-delivery-of-supplies-to-warehouse-kyrgyzstan
+- **Отчёт по остаткам на складе**: 18.05.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/warehouse-balance-report-kyrgyzstan
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 17.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan
+
 
 ## 2026-09-04
 ### Сменилась дата «Обновлено» (6)

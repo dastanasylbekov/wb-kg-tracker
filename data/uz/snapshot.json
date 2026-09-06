@@ -4,1322 +4,2078 @@
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-688",
+    "updated_at": "2026-05-18T11:08:39.229225Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-688/9948da49-5f66-4cf7-9b4e-2068f649ac8a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/3d-model-in-the-product-profile-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/6-steps-to-the-first-delivery-uzbekistan": {
     "title": "6 шагов к первой поставке",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1441",
+    "updated_at": "2026-07-27T15:02:24.306492Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1441/733eae54-0d00-49e1-8d18-df469903b8ff.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/6-steps-to-the-first-delivery-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/A-256": {
     "title": "Проекты и каналы коммуникации Wildberries",
     "updated": "12.08.2026",
     "updated_iso": "2026-08-12",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-256",
+    "updated_at": "2026-08-12T07:10:55.806723Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-256/9f83efd9-2649-4868-bdb4-971df54fa521.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/A-256.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/about-dbs-uzbekistan": {
     "title": "О модели продаж «Витрина» (DBS)",
     "updated": "31.07.2026",
     "updated_iso": "2026-07-31",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1112",
+    "updated_at": "2026-07-31T15:47:54.094256Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1112/4701812b-faa6-4a28-ae09-4428236bacef.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/about-dbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan": {
     "title": "О модели продаж «Витрина экспресс» (EDBS)",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1121",
+    "updated_at": "2026-08-11T10:08:50.421139Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1121/e4f0d91d-a8a2-4d35-8d13-7ad6baa44c01.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/about-edbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/about-tariff-constructor-uz": {
     "title": "О конструкторе тарифов",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1873",
+    "updated_at": "2026-05-18T11:09:32.414558Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1873/25c6642c-d32b-4d3c-b495-a101447658e8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/about-tariff-constructor-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/accepted-shipment-documents-uzbekistan": {
     "title": "Документы по принятым поставкам",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1449",
+    "updated_at": "2026-05-18T11:09:10.8859Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1449/53230343-de78-4f4a-95a1-4ca0a3b13122.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/accepted-shipment-documents-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/add-all-product-to-autopromotion-with-one-button-uzbekistan": {
     "title": "Как добавить в автоакцию все подходящие товары одной кнопкой",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-957",
+    "updated_at": "2026-05-18T11:08:50.235408Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-957/ace921ec-c60e-437a-a1f9-75a7799dbd9b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/add-all-product-to-autopromotion-with-one-button-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan": {
     "title": "Сводка аналитики",
-    "updated": "27.08.2026",
-    "updated_iso": "2026-08-27",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1251",
+    "updated_at": "2026-09-04T09:15:31.707676Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1251/35cfe4a5-bd45-44c2-88db-27b312e4d8fb.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/analytics-summary-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/api-integration-with-token-uz": {
     "title": "Как подключиться по API через токен",
     "updated": "28.05.2026",
     "updated_iso": "2026-05-28",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1155",
+    "updated_at": "2026-05-28T16:59:45.652491Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1155/2ba45731-4584-4945-ae58-36421dc54529.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/api-integration-with-token-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/auto-promo-uz": {
     "title": "Автоакции",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-859",
+    "updated_at": "2026-05-18T11:08:46.106548Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-859/5f79c2a0-6cb3-4f89-a323-fed0e7437633.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/auto-promo-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/automotive-goods-picker-uz": {
     "title": "Подборщик автотоваров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1670",
+    "updated_at": "2026-05-18T11:09:22.041951Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1670/8086991c-e8de-4d1f-b0cd-c07e841d596e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/automotive-goods-picker-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/autoplay-in-card-and-catalog-uz": {
     "title": "Автозапуск видео в карточке товара и каталоге",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1487",
+    "updated_at": "2026-07-27T17:50:36.26745Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1487/36bed411-3729-4288-813c-8963aa3e1b93.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/autoplay-in-card-and-catalog-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/autoreturn-of-goods-to-the-seller-uzbekistan": {
     "title": "Автовозврат товара продавцу",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1034",
+    "updated_at": "2026-07-27T06:52:19.463868Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1034/fd09bc61-8443-4f84-9a93-b288cace2009.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/autoreturn-of-goods-to-the-seller-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/brand-promotion-uzb": {
     "title": "Продвижение бренда",
     "updated": "07.08.2026",
     "updated_iso": "2026-08-07",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2180",
+    "updated_at": "2026-08-07T08:17:21.678496Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2180/b8e38dca-714e-40cb-9518-1796631f6588.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/brand-promotion-uzb.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/brand-share-in-sales-report-uzbekistan": {
     "title": "Отчёт «Доля бренда в продажах»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1277",
+    "updated_at": "2026-05-18T11:09:03.833896Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1277/43b419b1-8520-4a33-83ec-adb79c89d645.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/brand-share-in-sales-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/budget-and-payment-for-promotion-uz": {
     "title": "Бюджет и оплата кампаний по продвижению",
     "updated": "29.07.2026",
     "updated_iso": "2026-07-29",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1437",
+    "updated_at": "2026-07-29T10:51:45.818504Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1437/a44a33eb-a23c-48f4-9c15-6f398a090086.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/budget-and-payment-for-promotion-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/cancellation-orders-return-items-in-cc-uz": {
     "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2027",
+    "updated_at": "2026-08-11T10:14:27.557666Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2027/a4026181-e833-4b58-aedb-704c3e301484.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/cancellation-orders-return-items-in-cc-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/cancellations-returns-penalties-dbs-uz": {
     "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1849",
+    "updated_at": "2026-08-11T10:22:19.748765Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1849/c5e84b6e-04b6-4a4d-a0d4-65c87849d90e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/cancellations-returns-penalties-dbs-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz": {
     "title": "Аналитика карточки",
     "updated": "17.07.2026",
     "updated_iso": "2026-07-17",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2128",
+    "updated_at": "2026-07-17T13:19:53.028723Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2128/4f878588-fdad-4bda-b753-109606c9ce41.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/card-analytics-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/card-quality-rating-uz": {
     "title": "Рейтинг заполнения карточки товара",
     "updated": "07.08.2026",
     "updated_iso": "2026-08-07",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-2218",
+    "updated_at": "2026-08-07T15:17:14.786714Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2218/24301a29-0dd0-418e-8748-706300e211e4.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/card-quality-rating-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz": {
     "title": "Отчёт «Сравнение карточек»",
     "updated": "03.09.2026",
     "updated_iso": "2026-09-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1485",
+    "updated_at": "2026-09-03T15:06:52.103461Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1485/1366abf2-c9be-4ab2-9b0e-28f2de265652.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/cards-comparing-analytics-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/changing-personal-data-faq-uz": {
     "title": "Частые вопросы по изменению данных продавца",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-367",
+    "updated_at": "2026-05-18T11:08:25.547631Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-367/724ddf76-bf2e-4c62-8cee-c36062d6513f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/changing-personal-data-faq-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/check-is-higher-for-purchases-on-seller-page-uz": {
     "title": "Средний чек на 37% выше, когда покупают через страницу продавца",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1906",
+    "updated_at": "2026-05-18T11:09:37.810407Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1906/cd8a8db1-d90d-4e9e-9cfe-5dedd16f7762.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/check-is-higher-for-purchases-on-seller-page-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/check-price-update-uz": {
     "title": "Как проверить обновление цен и скидок",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-667",
+    "updated_at": "2026-05-18T11:08:38.344836Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-667/31453f14-d6f3-459c-a5ed-6422e317a76b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/check-price-update-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan": {
     "title": "Очистка временных файлов: кэша и cookie в браузере",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1211",
+    "updated_at": "2026-05-18T11:09:00.830321Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1211/083299e5-d1cd-49ae-b4f7-6ea44b3344f0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/click-and-collect-model-uzb": {
     "title": "О модели продаж «Самовывоз из магазина продавца» (С&С)",
     "updated": "10.06.2026",
     "updated_iso": "2026-06-10",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1179",
+    "updated_at": "2026-06-10T13:02:05.31732Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1179/16cf7593-6b6b-4009-9554-f2c6a6df6193.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/click-and-collect-model-uzb.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/combining-product-cards-uzbekistan": {
     "title": "Объединение карточек товаров",
     "updated": "19.05.2026",
     "updated_iso": "2026-05-19",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-661",
+    "updated_at": "2026-05-19T10:07:12.83238Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-661/0a8ec11a-c3b0-4e88-8386-314be42e1a77.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/combining-product-cards-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/commission-for-delayed-delivery-edbs-uzbekistan": {
     "title": "Комиссия при задержке доставки по модели «Витрина экспресс» (EDBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1131",
+    "updated_at": "2026-05-18T11:08:57.302334Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1131/0a867cfd-1065-462a-8af5-a3d4a3029341.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/commission-for-delayed-delivery-edbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/common-errors-when-shipping-supplies-through-the-fbw-uzbekistan": {
     "title": "Частые ошибки при отгрузке поставки на склад Wildberries по модели «Склад WB» (FBW)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1462",
+    "updated_at": "2026-05-18T11:09:11.532251Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1462/8bfe8a49-f85b-4a4f-91a9-f3daa1e01738.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/common-errors-when-shipping-supplies-through-the-fbw-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/common-questions-about-search-and-promotion-on-wildberries-uz": {
     "title": "Частые вопросы по поиску и продвижению на Wildberries",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1643",
+    "updated_at": "2026-05-18T11:09:20.943807Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1643/3d79f463-6736-454c-ad1b-18c3aec35421.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/common-questions-about-search-and-promotion-on-wildberries-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/customer-feedback": {
     "title": "Отзывы покупателей",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-775",
+    "updated_at": "2026-07-27T18:07:33.669771Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-775/8fb0be07-653e-4259-9842-a232c9c3cbf0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/customer-feedback.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/customer-profile-report-v2-uz": {
     "title": "Отчёт «Портрет покупателя»",
     "updated": "08.07.2026",
     "updated_iso": "2026-07-08",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1768",
+    "updated_at": "2026-07-08T09:37:43.660838Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1768/7dcf2020-9a3e-4082-9bd3-7c73f3e85f94.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/customer-profile-report-v2-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/customer-questions-uz": {
     "title": "Вопросы покупателей",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-942",
+    "updated_at": "2026-05-18T11:08:49.628234Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-942/8d08649b-80fd-46f7-b3df-22fd05df9427.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/customer-questions-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/customers-chat-uz": {
     "title": "Чат с покупателями",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-947",
+    "updated_at": "2026-07-27T18:11:43.555578Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-947/6bd55c12-d22f-419a-b7d4-7f016474dbf2.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/customers-chat-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/daily-dynamics-and-sales-analysis-report-uzbekistan": {
     "title": "Отчёт «Еженедельная динамика и анализ продаж»",
-    "updated": "10.06.2026",
-    "updated_iso": "2026-06-10",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1272",
+    "updated_at": "2026-09-04T09:32:01.502164Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1272/880854ed-2492-48d9-8a40-498dfaeccd89.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/daily-dynamics-and-sales-analysis-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/data-and-user-security-for-uzb": {
     "title": "Безопасность данных и профиля продавца",
     "updated": "01.09.2026",
     "updated_iso": "2026-09-01",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-973",
+    "updated_at": "2026-09-01T16:25:30.300853Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-973/15a0f552-9cd0-4316-9c55-8b52157093cc.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/data-and-user-security-for-uzb.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan": {
     "title": "Отчёт «География заказов»",
     "updated": "03.09.2026",
     "updated_iso": "2026-09-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1240",
+    "updated_at": "2026-09-03T13:41:14.256273Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1240/fd442a07-28ff-417a-af24-0541af5792a8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/deliveries-by-region-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/delivery-rating-uzbekistan": {
     "title": "Рейтинг доставки",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-893",
+    "updated_at": "2026-05-18T11:08:47.476478Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-893/66c2fc53-eceb-4f8e-9534-1bb84c9bc4fb.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/delivery-rating-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/digital-arbitrage-uzbekistan": {
     "title": "Цифровой арбитраж",
     "updated": "27.08.2026",
     "updated_iso": "2026-08-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1340",
+    "updated_at": "2026-08-27T08:25:35.800153Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1340/c07e4e57-4742-46d3-81e4-7e405787a7f6.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/digital-arbitrage-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/dimensions-of-goods-uzbekistan": {
     "title": "Габариты товаров",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-636",
+    "updated_at": "2026-08-11T10:10:52.460897Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-636/cb058cdc-7d93-4489-8eba-c470e1150a68.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/dimensions-of-goods-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/discount-depth-in-autopromotions-uzbekistan": {
     "title": "Глубина скидки в автоакциях",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1106",
+    "updated_at": "2026-05-18T11:08:56.242294Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1106/821df4a9-4a5b-4d2f-bc5f-e1222eb4cec8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/discount-depth-in-autopromotions-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb": {
     "title": "Отчёт «Календарь событий»",
     "updated": "03.09.2026",
     "updated_iso": "2026-09-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1925",
+    "updated_at": "2026-09-03T16:36:49.677559Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1925/86f8401a-7565-4b9c-8fd1-0f3c5e041ae0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/events-calendar-uzb.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/fbs-sales-model-uzbekistan": {
     "title": "Модель продаж «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-872",
+    "updated_at": "2026-05-18T11:08:46.630429Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-872/1fa5da51-8334-48cf-afc9-ff915d549a78.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/fbs-sales-model-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/fbw-sales-model-uz": {
     "title": "Модель продаж «Склад WB» (FBW)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1574",
+    "updated_at": "2026-05-18T11:09:17.103742Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1574/fe5351b0-4786-49b2-a078-8ff1d6226702.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/fbw-sales-model-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/filling-in-the-fields-of-the-product-card-for-car-tires-uz": {
     "title": "Оформление карточки товара для автомобильных шин",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1691",
+    "updated_at": "2026-05-18T11:09:23.133828Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1691/edc62b8e-57ec-42fb-9973-30dbdf2ca00b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/filling-in-the-fields-of-the-product-card-for-car-tires-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/goods-with-mandatory-labeling-report-uzbekistan": {
     "title": "Отчёт по товарам с обязательной маркировкой",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1324",
+    "updated_at": "2026-05-18T11:09:05.738939Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1324/22c853af-bc2e-4e47-8710-e6f7504ae2d6.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/goods-with-mandatory-labeling-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/hidden-products-report-uzbekistan": {
     "title": "Отчёт «Скрытые товары»",
     "updated": "23.07.2026",
     "updated_iso": "2026-07-23",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1292",
+    "updated_at": "2026-07-23T09:22:47.964436Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1292/e3957e48-9ccd-446a-a0fe-1664e75ccc14.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/hidden-products-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/history-of-payments-for-services-uz": {
     "title": "История платежей за сервисы",
     "updated": "21.07.2026",
     "updated_iso": "2026-07-21",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2173",
+    "updated_at": "2026-07-21T17:08:43.740118Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2173/11d2d676-2469-4e6c-abfa-7845c1837de7.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/history-of-payments-for-services-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/history-of-remains-report-uzbekistan": {
     "title": "Отчёт «История остатков»",
     "updated": "03.09.2026",
     "updated_iso": "2026-09-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1235",
+    "updated_at": "2026-09-03T11:48:19.949774Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1235/79689000-c22a-4803-b0dd-2d301ec05c4c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/history-of-remains-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-and-which-cards-do-sellers-compare-on-wb-uz": {
     "title": "Как и какие карточки сравнивают продавцы на Wildberries",
     "updated": "10.08.2026",
     "updated_iso": "2026-08-10",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2225",
+    "updated_at": "2026-08-10T09:08:18.982578Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2225/bfc14029-ea60-4e6f-8189-a40bdde1d1c0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-and-which-cards-do-sellers-compare-on-wb-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-card-gets-to-the-right-website-section-uz": {
     "title": "Как карточка товара попадает в нужный раздел сайта",
     "updated": "20.07.2026",
     "updated_iso": "2026-07-20",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2151",
+    "updated_at": "2026-07-20T13:47:10.628022Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2151/378ce76e-5dd3-44c4-8ef7-fe9ff7bcf14d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-card-gets-to-the-right-website-section-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-add-a-brand-to-wildberries-uzbekistan": {
     "title": "Как добавить бренд на Wildberries",
     "updated": "23.07.2026",
     "updated_iso": "2026-07-23",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-656",
+    "updated_at": "2026-07-23T10:00:24.524815Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-656/c2a43a66-ee0e-45c4-8b13-51f008bcbb3f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-add-a-brand-to-wildberries-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan": {
     "title": "Как отменить поставку или изменить дату и количество товаров",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1447",
+    "updated_at": "2026-08-11T10:21:05.642103Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1447/baf169f1-598a-42e6-af41-5d3d91c416c1.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-email-uz": {
     "title": "Как изменить адрес электронной почты для двухфакторной аутентификации",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-366",
+    "updated_at": "2026-05-18T11:08:25.507401Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-366/197ea6c3-7835-4ec2-82aa-0ffcfb6fc583.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-change-email-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-phone-number-uz": {
     "title": "Как изменить номер телефона",
     "updated": "28.05.2026",
     "updated_iso": "2026-05-28",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-368",
+    "updated_at": "2026-05-28T17:01:28.767161Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-368/caadfc73-9471-41b1-83a9-fbe14afaf92e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-change-phone-number-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-prices-currency-uz": {
     "title": "Как продавцу поменять валюту цен",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1908",
+    "updated_at": "2026-05-18T11:09:37.891294Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1908/1dec887d-365a-4d86-b0c2-f7a57b95308e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-change-prices-currency-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-choose-a-sales-model-uz": {
     "title": "Как выбрать модель продаж",
     "updated": "24.07.2026",
     "updated_iso": "2026-07-24",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1466",
+    "updated_at": "2026-07-24T15:50:20.815304Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1466/a3ce1188-626e-49c2-95bb-cdae589f0090.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-choose-a-sales-model-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-choose-bid-for-promotion-uz": {
     "title": "Как выбрать ставку для продвижения",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1405",
+    "updated_at": "2026-05-18T11:09:09.106849Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1405/35946ca9-93cb-4da7-aa9b-6f47bee6f049.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-choose-bid-for-promotion-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan": {
     "title": "Как создать карточку товара",
-    "updated": "02.09.2026",
-    "updated_iso": "2026-09-02",
+    "updated": "03.09.2026",
+    "updated_iso": "2026-09-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-929",
+    "updated_at": "2026-09-03T15:08:01.385972Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-929/da04f379-2cd1-4a2a-ac86-251e15156975.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-create-a-product-card-for-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-sellers-warehouse-uzbekistan": {
     "title": "Как создать склад продавца",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-879",
+    "updated_at": "2026-08-11T10:24:29.298595Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-879/35757e95-2cec-48bc-956e-87cd7dd562ab.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-create-a-sellers-warehouse-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-storage-dbs-uzbekistan": {
     "title": "Как создать склад для работы по модели «Витрина» (DBS)",
     "updated": "18.06.2026",
     "updated_iso": "2026-06-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1113",
+    "updated_at": "2026-06-18T12:38:56.562048Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1113/e1d8599a-ce7b-48e5-877a-28b015ca18b5.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-create-a-storage-dbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-storage-edbs-uzbekistan": {
     "title": "Как создать склад для работы по модели «Витрина экспресс» (EDBS)",
     "updated": "18.06.2026",
     "updated_iso": "2026-06-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1125",
+    "updated_at": "2026-06-18T12:39:24.033719Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1125/b9ab53ea-bb5d-4076-b7e7-9e75eebbdba3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-create-a-storage-edbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-cards-for-adults-items-uz": {
     "title": "Товары для взрослых: правила оформления карточек",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1714",
+    "updated_at": "2026-05-18T11:09:24.06768Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1714/08d3332d-92a6-441d-bcfa-41560b25da9b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-create-cards-for-adults-items-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-update-or-delete-a-wb-api-token-uzbekistan": {
     "title": "Как создать, обновить или удалить токен WB API",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1473",
+    "updated_at": "2026-05-18T11:09:11.974062Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1473/365bf889-d3dc-4ae6-aea1-a3dc92b02c2d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-create-update-or-delete-a-wb-api-token-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-design-lingerie-cards-uz2": {
     "title": "Как оформить карточки нижнего белья",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1665",
+    "updated_at": "2026-05-18T11:09:21.838641Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1665/21164487-ed56-4790-8a3d-6b8fd3b00fa7.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-design-lingerie-cards-uz2.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-fill-out-jewelry-sales-forms-correctly-uz": {
     "title": "Как правильно оформить карточки для продажи бижутерии",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1700",
+    "updated_at": "2026-05-18T11:09:23.497623Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1700/5f7e8e9f-0a55-4e7b-9ec8-41711cf251bb.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-fill-out-jewelry-sales-forms-correctly-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz": {
     "title": "Как увеличить лимиты сервисов подписки «Джем»",
     "updated": "13.07.2026",
     "updated_iso": "2026-07-13",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1914",
+    "updated_at": "2026-07-13T12:25:47.352614Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1914/5ba30fd5-9a40-4dd8-b7c5-a7ee3684c4d3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-increase-limits-of-the-jam-services-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-indicate-the-gender-of-childrens-clothing-uz": {
     "title": "Как правильно указать пол для детской одежды",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1649",
+    "updated_at": "2026-05-18T11:09:21.188826Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1649/333ba412-fa6d-42d2-bc25-6939e76a2391.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-indicate-the-gender-of-childrens-clothing-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-manage-orders-in-cc-uz": {
     "title": "Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)",
     "updated": "16.06.2026",
     "updated_iso": "2026-06-16",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2033",
+    "updated_at": "2026-06-16T07:53:57.671651Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2033/509887b9-4d09-426c-9d6b-50dcc0859832.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-manage-orders-in-cc-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-different-items-properly-uzbekistan": {
     "title": "Как правильно упаковать разные виды товаров",
     "updated": "30.06.2026",
     "updated_iso": "2026-06-30",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-909",
+    "updated_at": "2026-06-30T11:04:44.302746Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-909/21f40532-8236-4cab-abcc-f016b34904e3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-pack-different-items-properly-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-electronics-and-home-appliances-in-fbw-uz": {
     "title": "Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)",
     "updated": "16.07.2026",
     "updated_iso": "2026-07-16",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2122",
+    "updated_at": "2026-07-16T16:27:10.89627Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2122/3ec7ba5c-6d6a-49df-a4bc-e98cdab4cfb7.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-pack-electronics-and-home-appliances-in-fbw-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-electronics-and-household-appliances-for-fbs-uzbekistan": {
     "title": "Как упаковать электронику и бытовую технику по модели «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-890",
+    "updated_at": "2026-05-18T11:08:47.356272Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-890/fb171852-2cc0-4c36-b74e-1c63b0af06f5.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-pack-electronics-and-household-appliances-for-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-pack-jewelry-before-delivery-fbs-uzbekistan": {
     "title": "Как упаковать ювелирные изделия перед поставкой по модели «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-898",
+    "updated_at": "2026-05-18T11:08:47.677411Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-898/0c9ed0c2-a950-4ca9-8f7d-5ebb7ba83451.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-pack-jewelry-before-delivery-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-protect-yourself-from-scammers-uzbekistan": {
     "title": "Как защититься от мошенников",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-617",
+    "updated_at": "2026-05-18T11:08:36.281894Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-617/ad1935bc-589e-4d3d-bdfe-8e5a31c4ce62.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-protect-yourself-from-scammers-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-set-price-and-block-uz": {
     "title": "Как установить минимальную цену и блокировку в автоакциях",
     "updated": "17.06.2026",
     "updated_iso": "2026-06-17",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-903",
+    "updated_at": "2026-06-17T09:54:33.046611Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-903/daa9c5a4-ed0f-403b-9416-bb072e769143.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-set-price-and-block-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-set-up-notifications-for-dbs-edbs-and-cc-uz": {
     "title": "Настройка уведомлений для работы по моделям DBS и EDBS",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1830",
+    "updated_at": "2026-05-18T11:09:29.587444Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1830/6e86c5dd-0dac-4af3-9963-aeb14ceb91f4.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-set-up-notifications-for-dbs-edbs-and-cc-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-and-edit-promotion-campaigns-uz": {
     "title": "Как запустить и редактировать кампанию по продвижению",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1404",
+    "updated_at": "2026-05-18T11:09:09.066774Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1404/40857343-2f7a-4592-b0bf-cafcd0975739.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-start-and-edit-promotion-campaigns-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-selling-on-wildberries-uz": {
     "title": "Как подготовиться к работе на Wildberries перед регистрацией",
     "updated": "02.09.2026",
     "updated_iso": "2026-09-02",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1822",
+    "updated_at": "2026-09-02T08:56:53.378123Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1822/6aa5af63-f5e8-4a49-9c55-7e598c8a5912.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-start-selling-on-wildberries-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-barcodes-on-wb-uzbekistan": {
     "title": "Как работать с баркодами на Wildberries",
     "updated": "25.06.2026",
     "updated_iso": "2026-06-25",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1444",
+    "updated_at": "2026-06-25T14:34:19.313528Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1444/f087923f-e5a9-4db3-896d-cec6933466f0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-work-with-barcodes-on-wb-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-dbs-orders-uzbekistan": {
     "title": "Как работать с заказами по модели «Витрина» (DBS)",
     "updated": "31.07.2026",
     "updated_iso": "2026-07-31",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1111",
+    "updated_at": "2026-07-31T15:48:44.874043Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1111/d422b077-b59c-447d-9ae5-deb4ca32a747.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-work-with-dbs-orders-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-edbs-uzbekistan": {
     "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1127",
+    "updated_at": "2026-08-11T10:13:17.676442Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1127/bc457187-1be2-420a-9682-6f7eb7cc4f4d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-work-with-edbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-portal-data-securely-uzbekistan": {
     "title": "Как безопасно работать с данными портала WB Partners",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1583",
+    "updated_at": "2026-05-18T11:09:17.464589Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1583/78d225a1-2ebe-4ae1-9f3b-b10bba4b300a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-to-work-with-portal-data-securely-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/how-wb-club-discounts-affect-sales-growth-uzbekistan": {
     "title": "Как скидки WB Клуба влияют на рост продаж",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1196",
+    "updated_at": "2026-05-18T11:09:00.230145Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1196/e0b350bc-fbb6-494b-b8eb-98191d2946e6.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/how-wb-club-discounts-affect-sales-growth-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz": {
     "title": "Отчёт «Доходы и расходы: показатели»",
     "updated": "06.08.2026",
     "updated_iso": "2026-08-06",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1984",
+    "updated_at": "2026-08-06T12:01:32.630059Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1984/df6ceaa3-073a-4c3f-ac8e-b4c2b1e81053.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/income-and-expenses-report-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz": {
     "title": "Как работать с интерактивным листом подбора",
     "updated": "18.08.2026",
     "updated_iso": "2026-08-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1004",
+    "updated_at": "2026-08-18T07:44:21.296238Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1004/5685d5a4-ae12-4a35-a36d-ff15c0b08b1a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/interactive-assembly-task-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/inventory-management-fbs-uzbekistan": {
     "title": "Управление остатками по модели FBS",
     "updated": "29.07.2026",
     "updated_iso": "2026-07-29",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-884",
+    "updated_at": "2026-07-29T14:38:23.779186Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-884/603ea646-d8c5-4d71-943f-f8fa6a8bc01a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/inventory-management-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/item-marks-on-photo-in-card-uz": {
     "title": "Отметки товаров на фото в карточке товара",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1488",
+    "updated_at": "2026-05-18T11:09:13.260827Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1488/36691a1b-b49e-40d0-8b83-0b74f9a80f82.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/item-marks-on-photo-in-card-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/item-photo-rules-recommendations-and-common-mistakes-uz": {
     "title": "Фото товаров: правила, рекомендации и частые ошибки",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2145",
+    "updated_at": "2026-07-27T17:38:11.796507Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2145/0812618d-898a-4110-958c-e63039b961ef.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/item-photo-rules-recommendations-and-common-mistakes-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/item-rating-uz": {
     "title": "Рейтинг товара",
     "updated": "09.06.2026",
     "updated_iso": "2026-06-09",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1398",
+    "updated_at": "2026-06-09T16:12:37.120711Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1398/15437ba7-d919-4161-b9f8-1754b8b0314b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/item-rating-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz": {
     "title": "Подписка «Джем»: как подключить, управлять и отключить",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1481",
+    "updated_at": "2026-07-27T18:21:32.232839Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1481/955f2ffc-e0d6-4e96-bfd3-5c293ce8860b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/jam-subscription-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/jam-tariffs-uz": {
     "title": "Тарифы «Джема»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1482",
+    "updated_at": "2026-05-18T11:09:13.020779Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1482/4faf47a6-2897-4dfe-8d5a-e3e783704cd8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/jam-tariffs-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/labeling-of-book-products-from-foreign-agents-uz": {
     "title": "Особенности маркировки книжной продукции",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1705",
+    "updated_at": "2026-05-18T11:09:23.705664Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1705/bc17bda1-60f1-46eb-b5a3-543b8ed76218.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/labeling-of-book-products-from-foreign-agents-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan": {
     "title": "Ярлыки для фильтрации товаров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-683",
+    "updated_at": "2026-05-18T11:08:39.02827Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-683/57190580-972d-4303-b990-90043ed4b2fd.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/labels-for-filtering-products-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/main-page-of-the-sellers-portal-uzbekistan": {
     "title": "Главная страница портала продавца",
     "updated": "02.07.2026",
     "updated_iso": "2026-07-02",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-584",
+    "updated_at": "2026-07-02T14:05:26.384486Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-584/8377ce45-777b-40d0-8a2b-2e915d8876f8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/main-page-of-the-sellers-portal-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/main-photo-ab-testing-uz": {
     "title": "А/Б-тестирование главного фото в карточке товара",
     "updated": "27.08.2026",
     "updated_iso": "2026-08-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1489",
+    "updated_at": "2026-08-27T14:45:32.599846Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1489/8617760f-97e9-4614-963f-7513fa7ad227.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/main-photo-ab-testing-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan": {
     "title": "Маркировка товаров и поставок. Баркод, GTIN, IMEI",
     "updated": "14.08.2026",
     "updated_iso": "2026-08-14",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-714",
+    "updated_at": "2026-08-14T07:37:34.671333Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-714/51d5e70b-fe45-482b-b828-71a2a4f9bec6.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/marking-of-goods-and-supplies-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/mass-addition-of-goods-uzbekistan": {
     "title": "Как создать сразу много карточек товаров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-673",
+    "updated_at": "2026-05-18T11:08:38.584895Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-673/0f2ec23c-04d6-4e09-bd98-cb9f48fdebdf.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/mass-addition-of-goods-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/mass-editing-of-product-cards-uzbekistan": {
     "title": "Как отредактировать сразу много карточек товаров",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-678",
+    "updated_at": "2026-05-18T11:08:38.789786Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-678/8838bd27-6f0e-452d-a73f-b885142e71b0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/mass-editing-of-product-cards-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-uzbekistan": {
     "title": "МГТ, КГТ+ и СГТ: гид для продавцов",
     "updated": "01.09.2026",
     "updated_iso": "2026-09-01",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1039",
+    "updated_at": "2026-09-01T17:03:31.012279Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1039/18c19ef4-2ca4-461d-95a4-b1358a2c3fd9.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/mgt-kgt-sgt-a-brief-guide-for-sellers-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/minimum-payment-and-different-periods-of-options-uz": {
     "title": "Минимальный платёж и разный период действия опций",
     "updated": "12.08.2026",
     "updated_iso": "2026-08-12",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1879",
+    "updated_at": "2026-08-12T14:26:06.560503Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1879/5434bc5e-87c3-4580-a36d-7bc797b459e0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/minimum-payment-and-different-periods-of-options-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/multiple-sellers-shipment-uzbekistan": {
     "title": "Поставка от нескольких продавцов",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1448",
+    "updated_at": "2026-05-18T11:09:10.846113Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1448/1882650f-333e-42ea-944b-adcaf01d0b70.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/multiple-sellers-shipment-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/nyche-analysis-uzbekistan": {
     "title": "Отчёт «Анализ ниш»",
     "updated": "22.07.2026",
     "updated_iso": "2026-07-22",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1267",
+    "updated_at": "2026-07-22T10:44:43.554193Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1267/be6743b3-b07c-4067-9416-6ea58f3f705f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/nyche-analysis-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/oauth20-api-integration-uz": {
     "title": "Как подключиться по API через OAuth 2.0",
     "updated": "28.05.2026",
     "updated_iso": "2026-05-28",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1156",
+    "updated_at": "2026-05-28T16:59:08.925944Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1156/1462a035-2374-405f-93cf-e42180a808a2.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/oauth20-api-integration-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/option-packages-uz": {
     "title": "Пакеты опций",
     "updated": "26.06.2026",
     "updated_iso": "2026-06-26",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1877",
+    "updated_at": "2026-06-26T08:35:30.972028Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1877/2d31925a-75cd-40b8-ab66-7633e12c3a43.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/option-packages-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/order-cancellation-uzbekistan": {
     "title": "Отмена заказа",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-864",
+    "updated_at": "2026-05-18T11:08:46.30662Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-864/ddb4a5c1-2ef5-48f0-a9d2-fc1b091c804a.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/order-cancellation-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz": {
     "title": "Отчёт «Лента заказов»",
-    "updated": "28.08.2026",
-    "updated_iso": "2026-08-28",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1806",
+    "updated_at": "2026-09-04T09:04:44.303521Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1806/412c0b77-83ff-434b-9307-b0a8fbb2a6a1.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/order-feed-report-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/original-mark-uz": {
     "title": "Значок «Оригинал»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1989",
+    "updated_at": "2026-05-18T11:09:42.300218Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1989/8356382d-dd5a-4b44-9c10-3e95151f2804.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/original-mark-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/packaging-of-goods-for-the-fbs-model-uzbekistan": {
     "title": "Упаковка товаров для модели «Маркетплейс» (FBS)",
     "updated": "17.08.2026",
     "updated_iso": "2026-08-17",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-838",
+    "updated_at": "2026-08-17T15:18:19.142223Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-838/b030c165-e303-4e48-ac86-899d5f18f631.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/packaging-of-goods-for-the-fbs-model-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/paid-acceptance-report-uzbekistan": {
     "title": "Отчёт «Операции при приёмке»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1312",
+    "updated_at": "2026-05-18T11:09:05.250126Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1312/6433d7a3-693e-4aa7-9bc6-663020a825cf.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/paid-acceptance-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/paid-delivery-by-edbs-uz": {
     "title": "Платная доставка товаров по модели «Витрина экспресс» (EDBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1813",
+    "updated_at": "2026-05-18T11:09:28.816691Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1813/01fe0cd8-1d8b-4034-901c-096f7dc5ad9e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/paid-delivery-by-edbs-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/paid-delivery-of-goods-using-the-showcase-dbs-model-uz": {
     "title": "Платная доставка товаров по модели «Витрина» (DBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1428",
+    "updated_at": "2026-05-18T11:09:10.039006Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1428/bf2dad8e-d1a4-4234-b8a3-84b071bf8371.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/paid-delivery-of-goods-using-the-showcase-dbs-model-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/paid-storage-report-uzbekistan": {
     "title": "Отчёт «Платное хранение»",
-    "updated": "18.05.2026",
-    "updated_iso": "2026-05-18",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1302",
+    "updated_at": "2026-09-04T08:39:46.403916Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1302/27224041-8534-431e-b65e-0327d9f69dee.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/paid-storage-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/paint-tinting-uz": {
     "title": "Колеровка краски",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1655",
+    "updated_at": "2026-05-18T11:09:21.43197Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1655/6ebb7a02-a3d8-4efe-b925-e8890d902220.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/paint-tinting-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/photo-editor-uz": {
     "title": "Фоторедактор",
     "updated": "20.08.2026",
     "updated_iso": "2026-08-20",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-1412",
+    "updated_at": "2026-08-20T10:02:01.987083Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1412/af302143-a0e5-4a87-a362-b69e58adc9f3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/photo-editor-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/pinned-reviews-uz": {
     "title": "Закреплённые отзывы",
     "updated": "12.08.2026",
     "updated_iso": "2026-08-12",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1486",
+    "updated_at": "2026-08-12T12:24:10.117757Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1486/4b8bce29-7648-41e0-9158-09477ebe025b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/pinned-reviews-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/points-for-days-program-uz": {
     "title": "Программа «Баллы за дни»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1878",
+    "updated_at": "2026-05-18T11:09:32.616469Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1878/fd39aa81-4e8b-4633-a2ea-d228a5b9bfa4.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/points-for-days-program-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/portal-news-uz": {
     "title": "Раздел «Новости» на портале продавца",
     "updated": "17.07.2026",
     "updated_iso": "2026-07-17",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2136",
+    "updated_at": "2026-07-17T15:22:00.833013Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2136/8a7bf672-2a2a-4fbd-86b1-8025cbc74553.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/portal-news-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/portal-notifications-uz": {
     "title": "Как работать с уведомлениями на портале",
     "updated": "23.07.2026",
     "updated_iso": "2026-07-23",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-2117",
+    "updated_at": "2026-07-23T15:18:58.883454Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2117/3a00d8f7-f742-414d-8eec-c27431254f44.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/portal-notifications-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/pr-calend-uz": {
     "title": "Календарь акций",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-800",
+    "updated_at": "2026-05-18T11:08:43.746591Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-800/3fb97f69-1d74-48e9-9c4f-37026cd12274.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/pr-calend-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/pre-trial-settlement-uzbekistan": {
     "title": "Досудебное урегулирование",
-    "updated": "11.08.2026",
-    "updated_iso": "2026-08-11",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1216",
+    "updated_at": "2026-09-04T12:02:26.953087Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1216/d5c7bde3-dfba-4bd9-93fb-b05ff291f8b7.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/pre-trial-settlement-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/price-management-window-uz": {
     "title": "Окно управления ценой товара",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-729",
+    "updated_at": "2026-05-18T11:08:40.877726Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-729/46ffb7ac-554f-479e-841d-5ff7a548cc51.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/price-management-window-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/price-quarantene-uz": {
     "title": "Карантин цен",
     "updated": "04.08.2026",
     "updated_iso": "2026-08-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-819",
+    "updated_at": "2026-08-04T07:46:29.783726Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-819/72767dfb-cc08-4910-92a5-e8efbe416669.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/price-quarantene-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/prices-discounts-uz": {
     "title": "Как устанавливать цены и скидки",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-662",
+    "updated_at": "2026-05-18T11:08:38.145738Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-662/981f45a7-bea4-4607-835c-6d033f049641.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/prices-discounts-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/product-categories-uzbekistan": {
     "title": "Категории товаров",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-629",
+    "updated_at": "2026-08-11T10:16:17.96079Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-629/f3609eb8-d09d-40e3-9d10-e8dbfa51bd22.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/product-categories-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/product-labeling-for-the-fbs-model-uzbekistan": {
     "title": "Маркировка товаров для модели «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-833",
+    "updated_at": "2026-05-18T11:08:45.065634Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-833/a9e4f8cd-8ea8-4bbf-aa79-ca5df0f664d1.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/product-labeling-for-the-fbs-model-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz": {
     "title": "Отчёт «Оценка товара»",
     "updated": "27.08.2026",
     "updated_iso": "2026-08-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1351",
+    "updated_at": "2026-08-27T16:54:23.493168Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1351/fcefbced-bc07-49f7-9b76-392a038d3f76.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/product-valuation-report-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/profile-section-on-the-sellers-portal-uzbekistan": {
     "title": "Раздел «Профиль» на портале продавца",
     "updated": "23.07.2026",
     "updated_iso": "2026-07-23",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-589",
+    "updated_at": "2026-07-23T15:52:36.622298Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-589/17c917ac-9962-4b87-9c7c-bba2cd9fa1f2.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/profile-section-on-the-sellers-portal-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/profit-calculator-uz": {
     "title": "Калькулятор прибыли",
-    "updated": "04.09.2026",
-    "updated_iso": "2026-09-04",
+    "updated": "29.07.2026",
+    "updated_iso": "2026-07-29",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1856",
+    "updated_at": "2026-07-29T12:43:22.984624Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1856/17980e6f-2496-4391-a431-5809d8c7026b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/profit-calculator-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/projects-and-communication-channels-of-wb-uzbekistan": {
     "title": "Проекты и каналы коммуникации Wildberries",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-594",
+    "updated_at": "2026-05-18T11:08:35.351493Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-594/6d39c756-e21d-42dc-8270-74de05f9da89.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/projects-and-communication-channels-of-wb-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/promo-events-items-ranking-uz": {
     "title": "Ранжирование товаров в акциях",
     "updated": "21.07.2026",
     "updated_iso": "2026-07-21",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-2164",
+    "updated_at": "2026-07-21T12:11:17.117651Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2164/af47f125-aa25-4a09-8c75-99f4fe13d483.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/promo-events-items-ranking-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/promotion-wb-uz": {
     "title": "Акции на Wildberries",
     "updated": "17.06.2026",
     "updated_iso": "2026-06-17",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-915",
+    "updated_at": "2026-06-17T09:52:29.728769Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-915/c7ad535f-f231-4e81-8e8c-6c00d6afc39f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/promotion-wb-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/questions-about-customer-reviews-uz": {
     "title": "Частые вопросы по отзывам покупателей",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1695",
+    "updated_at": "2026-05-18T11:09:23.296279Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1695/6b77967a-b193-40b8-8cb5-dffb49918235.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/questions-about-customer-reviews-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/recommendations-for-model-shooting-uz": {
     "title": "Рекомендации по модельной съёмке",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1534",
+    "updated_at": "2026-05-18T11:09:15.276664Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1534/f9998405-c68f-4fd2-9981-a068e97e16b3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/recommendations-for-model-shooting-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/recommendations-for-object-photography-uz": {
     "title": "Рекомендации по предметной съёмке",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1529",
+    "updated_at": "2026-05-18T11:09:15.076919Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1529/ca6c9396-0c23-4fca-80c8-d7c0ee823008.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/recommendations-for-object-photography-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/replacement-articles-uz": {
     "title": "Сервис подмены артикула",
     "updated": "25.08.2026",
     "updated_iso": "2026-08-25",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1492",
+    "updated_at": "2026-08-25T12:05:48.582821Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1492/3205afda-18cd-44f8-8f34-bde2b342af9f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/replacement-articles-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/report-on-invalid-id-uz": {
     "title": "Отчёт по неверным идентификаторам",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1866",
+    "updated_at": "2026-05-18T11:09:32.089461Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1866/1d4d65a3-1c4c-4948-9ef8-59c28c126615.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/report-on-invalid-id-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/restoring-access-to-the-account-uzbekistan": {
     "title": "Восстановление доступа к личному кабинету",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-649",
+    "updated_at": "2026-05-18T11:08:37.605679Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-649/ab5950e2-baa6-4948-92ae-45737f68c68b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/restoring-access-to-the-account-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-customer-request-uzbekistan": {
     "title": "Возврат товара по заявке покупателя",
     "updated": "24.07.2026",
     "updated_iso": "2026-07-24",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1029",
+    "updated_at": "2026-07-24T09:02:24.109987Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1029/d60ca52f-c75f-4320-b612-c35374382543.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/return-of-goods-customer-request-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-uzbekistan": {
     "title": "Возврат товара со склада Wildberries продавцу",
     "updated": "01.09.2026",
     "updated_iso": "2026-09-01",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1024",
+    "updated_at": "2026-09-01T09:35:20.402183Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1024/08ed7f6a-26c5-4de7-9afc-4a6017561ada.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/return-of-goods-from-wildberries-warehouse-to-the-seller-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/return-on-review": {
     "title": "Возврат по отзывам",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-785",
+    "updated_at": "2026-05-18T11:08:43.142699Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-785/dfb2b064-f79f-4b5b-aefd-d5749e891e20.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/return-on-review.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/returns-and-movement-of-goods-report-uzbekistan": {
     "title": "Отчёт по возвратам и перемещению товаров",
     "updated": "03.07.2026",
     "updated_iso": "2026-07-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1317",
+    "updated_at": "2026-07-03T07:33:11.316664Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1317/17b0bf93-e04e-4019-b0ff-c152612c4ca2.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/returns-and-movement-of-goods-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/returns-of-goods-using-the-showcase-dbs-model-uz": {
     "title": "Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
     "updated": "24.07.2026",
     "updated_iso": "2026-07-24",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1422",
+    "updated_at": "2026-07-24T09:05:40.164721Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1422/412faf6c-1ee4-40ba-a88c-098a80efb768.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/returns-of-goods-using-the-showcase-dbs-model-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/rich-content-uz": {
     "title": "Рич-контент",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1509",
+    "updated_at": "2026-07-27T17:43:31.092995Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1509/ca5ba466-73f6-4adf-ba3a-4236367e89d4.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/rich-content-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/rules-of-packaging-for-the-fbw-model-uzbekistan": {
     "title": "Упаковка товаров для модели «Склад WB» (FBW) — общие правила",
     "updated": "19.05.2026",
     "updated_iso": "2026-05-19",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1443",
+    "updated_at": "2026-05-19T08:12:51.620046Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1443/5a2b46f7-bc5c-4008-9351-dd7bc21ad621.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/rules-of-packaging-for-the-fbw-model-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan": {
     "title": "Отчёт «Продажи по регионам»",
     "updated": "03.09.2026",
     "updated_iso": "2026-09-03",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1282",
+    "updated_at": "2026-09-03T12:53:59.291707Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1282/a8c6f312-6f2d-4d94-b04b-8cc594cf080c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/sales-by-regions-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-part2-uz": {
     "title": "Отчёт «Воронка продаж. Сравнение с площадкой»",
     "updated": "31.07.2026",
     "updated_iso": "2026-07-31",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1774",
+    "updated_at": "2026-07-31T09:42:49.415815Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1774/4f04be68-03f2-48de-ad1d-0531c454f0a0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/sales-funnel-part2-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan": {
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
-    "updated": "27.08.2026",
-    "updated_iso": "2026-08-27",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1230",
+    "updated_at": "2026-09-04T09:25:34.131129Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1230/06d21d9f-006c-49c2-868e-15de54e31d2b.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/sales-funnel-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/search-analytics-report-uz": {
     "title": "Отчёт «Поисковые запросы на WB»",
     "updated": "01.07.2026",
     "updated_iso": "2026-07-01",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1140",
+    "updated_at": "2026-07-01T12:19:36.614188Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1140/17aa33a7-55d2-44eb-a2c5-3c392f9d50d3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/search-analytics-report-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz": {
     "title": "Отчёт «Поисковые запросы: ваши товары»",
-    "updated": "27.07.2026",
-    "updated_iso": "2026-07-27",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1356",
+    "updated_at": "2026-09-04T08:06:08.217109Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1356/f7ff820e-705d-4b57-95d3-1f422fb2c87d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/search-queries-report-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/seller-rating-uz": {
     "title": "Рейтинг продавца",
     "updated": "09.06.2026",
     "updated_iso": "2026-06-09",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1397",
+    "updated_at": "2026-06-09T16:13:00.000561Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1397/a4158edc-8400-45f6-a7a1-78d24a391f99.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/seller-rating-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/seller-support-uzbekistan": {
     "title": "Поддержка продавцов",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1206",
+    "updated_at": "2026-07-27T18:17:47.061672Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1206/f152c34e-91be-4b16-9dc2-6567a51436b5.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/seller-support-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/sellers-analytics-uzbekistan": {
     "title": "Аналитика продавца",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1259",
+    "updated_at": "2026-05-18T11:09:03.108303Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1259/ee869ba6-bfd8-49a6-b4d3-9fd56b76dc41.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/sellers-analytics-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/sellers-recomendation-module-in-card-uz": {
     "title": "Рекомендации продавца в карточке товара",
     "updated": "27.07.2026",
     "updated_iso": "2026-07-27",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1491",
+    "updated_at": "2026-07-27T17:52:22.910539Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1491/9fa90be7-40f0-4697-82f6-3f95aadbd472.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/sellers-recomendation-module-in-card-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/sellers-storefront-about-uz": {
     "title": "О сервисе «Витрина магазина»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1883",
+    "updated_at": "2026-05-18T11:09:32.819257Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1883/53754fa7-5186-4e3c-b8e8-f63df00a2b67.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/sellers-storefront-about-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/size-chart-in-the-product-profile-uz": {
     "title": "Таблица размеров в карточке товара",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1517",
+    "updated_at": "2026-05-18T11:09:14.580888Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1517/baf5f30b-eb0e-4eff-9944-daec72ebfb01.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/size-chart-in-the-product-profile-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/statistics-and-promotion-management-uz": {
     "title": "Статистика и управление продвижением",
     "updated": "17.06.2026",
     "updated_iso": "2026-06-17",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1480",
+    "updated_at": "2026-06-17T12:02:47.688398Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1480/9e98e60a-0dd5-4317-88cc-bb497e33ab49.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/statistics-and-promotion-management-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/statuses-limits-and-card-settings-uzbekistan": {
     "title": "Статусы, лимиты и настройки карточек",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-936",
+    "updated_at": "2026-05-18T11:08:49.388294Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-936/19687aab-5e2f-4a50-a872-9e046ba17b60.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/statuses-limits-and-card-settings-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-1-creating-a-supply-uzbekistan": {
     "title": "Этап 1. Создание поставки",
     "updated": "02.09.2026",
     "updated_iso": "2026-09-02",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1457",
+    "updated_at": "2026-09-02T11:26:47.207076Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1457/8ce37dc4-ba33-4b46-a139-b91ca191527c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-1-creating-a-supply-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-1-processing-a-new-order-through-fbs-uzbekistan": {
     "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
     "updated": "14.07.2026",
     "updated_iso": "2026-07-14",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-815",
+    "updated_at": "2026-07-14T12:46:46.405543Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-815/18d4b330-e89b-4d9c-bac7-8ac2ba9a95dc.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-1-processing-a-new-order-through-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan": {
     "title": "Этап 2. Наполнение упаковки",
     "updated": "02.09.2026",
     "updated_iso": "2026-09-02",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1458",
+    "updated_at": "2026-09-02T13:36:44.531414Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1458/9a748299-b150-42ed-9954-0b85692bf601.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-2-filling-the-packaging-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-2-marking-and-packaging-orders-for-the-fbs-uzbekistan": {
     "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
     "updated": "17.08.2026",
     "updated_iso": "2026-08-17",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-825",
+    "updated_at": "2026-08-17T15:23:01.079706Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-825/b2789745-d319-436a-9113-72c17d27a41d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-2-marking-and-packaging-orders-for-the-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan": {
     "title": "Этап 3. Подготовка поставки к отгрузке",
-    "updated": "02.09.2026",
-    "updated_iso": "2026-09-02",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1459",
+    "updated_at": "2026-09-04T15:11:34.056458Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1459/38639759-7cae-46cf-ae56-e32682eeb517.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-3-preparing-the-delivery-for-shipment-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan": {
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "updated": "11.08.2026",
     "updated_iso": "2026-08-11",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-841",
+    "updated_at": "2026-08-11T10:11:43.757123Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-841/6baa8719-dc95-4d07-a093-207fffdd3ca9.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan": {
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "updated": "24.08.2026",
     "updated_iso": "2026-08-24",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-851",
+    "updated_at": "2026-08-24T13:35:37.546573Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-851/dd8f2705-299e-4855-adef-9428336a75e7.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan": {
     "title": "Этап 4. Доставка поставки на склад",
-    "updated": "03.09.2026",
-    "updated_iso": "2026-09-03",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1460",
+    "updated_at": "2026-09-04T14:51:00.867674Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1460/30da199d-bed9-4cee-9fdf-3c40e3d673e8.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/step-4-delivery-of-supplies-to-warehouse-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/stickers-for-marking-orders-fbs-model-uzbekistan": {
     "title": "Стикеры для маркировки заказов по модели «Маркетплейс» (FBS)",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1363",
+    "updated_at": "2026-05-18T11:09:07.40302Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1363/31b50b29-d548-4cba-be27-7a8d681791bd.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/stickers-for-marking-orders-fbs-model-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-dbs-uzbekistan": {
     "title": "Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)",
     "updated": "10.07.2026",
     "updated_iso": "2026-07-10",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1117",
+    "updated_at": "2026-07-10T11:25:00.133516Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1117/a6d50bd4-e494-4487-8a40-2d317b0292a0.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/stocks-management-dbs-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/storefront-all-tools-uz": {
     "title": "Все инструменты «Витрины магазина»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1886",
+    "updated_at": "2026-05-18T11:09:32.940485Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1886/b9ca3d56-a7c3-4482-bf3b-806f17f3966d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/storefront-all-tools-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/storefront-customer-audience-uz": {
     "title": "Отчёт «Аудитория витрины»",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1887",
+    "updated_at": "2026-05-18T11:09:32.981244Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1887/ca663721-ffbe-4b67-932f-8c2137787ef7.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/storefront-customer-audience-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/summary-report-for-seller-uzbekistan": {
     "title": "Сводный отчёт по продавцу",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1287",
+    "updated_at": "2026-05-18T11:09:04.235989Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1287/997c68e3-6b9c-4871-b78e-faf172b33a2f.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/summary-report-for-seller-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/supply-statuses-uzbekistan": {
     "title": "Статусы поставки",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1446",
+    "updated_at": "2026-05-18T11:09:10.76593Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1446/8386c9d5-5ccf-49fe-ad45-063eeae89350.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/supply-statuses-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/tariff-constructor-options-uz": {
     "title": "Опции конструктора тарифов",
     "updated": "14.07.2026",
     "updated_iso": "2026-07-14",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1876",
+    "updated_at": "2026-07-14T08:45:50.668681Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1876/42171b7b-4bd0-4d85-bc05-22edd70cfd67.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/tariff-constructor-options-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/tariffs-section-on-the-sellers-portal-uzbekistan": {
     "title": "Раздел «Тарифы» на портале продавца",
     "updated": "24.07.2026",
     "updated_iso": "2026-07-24",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-599",
+    "updated_at": "2026-07-24T09:39:53.218452Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-599/52e6b885-ee1a-421c-aaf2-27a5e73af66e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/tariffs-section-on-the-sellers-portal-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/two-factor-authentication-for-personal-account-uz": {
     "title": "Защита личного кабинета с помощью двухфакторной аутентификации",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-365",
+    "updated_at": "2026-05-18T11:08:25.467045Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-365/dd0a12ea-424f-4c19-b4bd-eeb86376711e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/two-factor-authentication-for-personal-account-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/unified-digital-platform-for-entrepreneurs-rwb-sreda-uz": {
     "title": "Единая цифровая платформа для предпринимателей RWB Среда",
     "updated": "01.09.2026",
     "updated_iso": "2026-09-01",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-2321",
+    "updated_at": "2026-09-01T15:54:28.908212Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2321/3c1ebc8f-9af0-4ae5-83ca-7431f82bdaf3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/unified-digital-platform-for-entrepreneurs-rwb-sreda-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/users-and-accesses-uzbekistan": {
     "title": "Пользователи и доступы",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-640",
+    "updated_at": "2026-05-18T11:08:37.229751Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-640/2eb2ed5e-a380-4039-9460-c15be244cb3e.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/users-and-accesses-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/virtual-clothes-fitting-by-photostudio-uz": {
     "title": "«Фотостудия»: генерация фото товара с помощью нейросети",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1490",
+    "updated_at": "2026-05-18T11:09:13.340204Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1490/b9e039d8-2096-435d-aba6-6a80a389d078.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/virtual-clothes-fitting-by-photostudio-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/warehouse-balance-report-uzbekistan": {
     "title": "Отчёт по остаткам на складе",
-    "updated": "18.05.2026",
-    "updated_iso": "2026-05-18",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1307",
+    "updated_at": "2026-09-04T08:30:21.929114Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1307/db5b633c-50f5-488d-be9c-d17efb14e3fa.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/warehouse-balance-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/wb-api-data-categories-uz": {
     "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
     "updated": "26.08.2026",
     "updated_iso": "2026-08-26",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1605",
+    "updated_at": "2026-08-26T12:01:25.216748Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1605/f8c7cde1-0856-4da7-88c0-483a335eb23d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/wb-api-data-categories-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/wb-club-discount-uzbekistan": {
     "title": "Скидка для участников WB Клуба",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1195",
+    "updated_at": "2026-05-18T11:09:00.189685Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1195/85141527-ed70-4020-99b6-ccf17fba4251.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/wb-club-discount-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/wb-promotion-payment-models-and-working-principles-uz": {
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "updated": "02.09.2026",
     "updated_iso": "2026-09-02",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1403",
+    "updated_at": "2026-09-02T07:54:50.501602Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1403/5856afe1-dbe4-4daf-b834-26ee77b92327.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/wb-promotion-payment-models-and-working-principles-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/wbapi-how-to-work-uz": {
     "title": "Что такое WB API и как с ним работать",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1154",
+    "updated_at": "2026-05-18T11:08:58.222046Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1154/ef97fc1c-330f-48cc-97c3-b647fe01a36c.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/wbapi-how-to-work-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz": {
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "updated": "14.07.2026",
     "updated_iso": "2026-07-14",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1594",
+    "updated_at": "2026-07-14T13:46:04.731663Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1594/3fc025ee-532b-4798-8d3f-a6f2f0acafd6.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/wbot-analytics-in-the-app-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/wbpartners-registration-uzbekistan": {
     "title": "Регистрация нового продавца на портале WB Partners",
     "updated": "01.09.2026",
     "updated_iso": "2026-09-01",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-570",
+    "updated_at": "2026-09-01T16:18:31.479781Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-570/ddf9d929-18c7-4ce7-ab62-98d05c441017.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/wbpartners-registration-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/weight-and-size-restrictions-for-sales-models-uzbekistan": {
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
-    "updated": "17.08.2026",
-    "updated_iso": "2026-08-17",
+    "updated": "04.09.2026",
+    "updated_iso": "2026-09-04",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-610",
+    "updated_at": "2026-09-04T14:47:30.105421Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-610/21745228-46ae-4a5d-9c77-7bb8f56b87b3.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/weight-and-size-restrictions-for-sales-models-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/whats-included-in-jam-uz": {
     "title": "Что входит в подписку «Джем»",
     "updated": "07.07.2026",
     "updated_iso": "2026-07-07",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1483",
+    "updated_at": "2026-07-07T15:08:02.33882Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1483/95d14ddb-5d79-498d-9f45-e7301361cb61.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/whats-included-in-jam-uz.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/withholdings-report-uzbekistan": {
     "title": "Отчёт по удержаниям",
     "updated": "18.05.2026",
     "updated_iso": "2026-05-18",
     "local": true,
-    "checked": "2026-09-04"
+    "material_id": "A-1327",
+    "updated_at": "2026-05-18T11:09:05.861075Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-1327/59e8df9f-406a-4d40-85ab-53a6dd59617d.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/withholdings-report-uzbekistan.md"
   },
   "https://seller.wildberries.ru/instructions/ru/uz/material/your-first-sale-on-wildberries-uz": {
     "title": "Первая продажа на Wildberries",
     "updated": "20.08.2026",
     "updated_iso": "2026-08-20",
     "local": false,
-    "checked": "2026-09-04"
+    "material_id": "A-2286",
+    "updated_at": "2026-08-20T16:00:50.035208Z",
+    "content_url": "https://static-basket-02.wbbasket.ru/vol20/A-2286/3deb3913-6aac-4cc5-b104-4b006591c3e5.json",
+    "checked": "2026-09-06",
+    "content_file": "content/uz/your-first-sale-on-wildberries-uz.md"
   }
 }
