@@ -1,0 +1,151 @@
+{
+  "reachEditorState": {
+    "root": {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Эта статья — для продавцов из Кыргызстана 🇰🇬", "type": "text", "version": 1}
+              ],
+              "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+            }
+          ],
+          "contentType": "alert", "direction": null, "format": "", "indent": 0, "type": "block", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Для чего нужен отчёт", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "tag": "h2", "type": "heading",
+          "uuid": "4354d6ed-0ac8-4488-a2ed-ca60f9ad3bb3", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Этот ", "type": "text", "version": 1},
+            {
+              "children": [
+                {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "отчёт", "type": "text", "version": 1}
+              ],
+              "direction": "ltr", "format": "", "indent": 0, "rel": null, "target": null, "title": null,
+              "type": "link", "url": "https://seller.wildberries.ru/analytics-reports/region-sale", "version": 1
+            },
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": " показывает, как продаются ваши товары в разных регионах России и других странах.", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Чтобы посмотреть отчет, выберите нужные даты в окошке «Период» и нажмите «Сохранить».", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Информация в отчёте носит справочный характер. Рекомендуем использовать отчёт как вспомогательный материал при принятии решений ", "type": "text", "version": 1}
+              ],
+              "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+            }
+          ],
+          "contentType": "alert-note", "direction": "ltr", "format": "", "indent": 0, "type": "block", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Вкладка «Страны»", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "tag": "h2", "type": "heading",
+          "uuid": "4ab18016-ed2e-4361-a193-3590677079c4", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "На вкладке «Страны» показана диаграмма продаж по странам и таблица с данными по:", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "количеству проданного товара в штуках,", "type": "text", "version": 1}
+              ],
+              "direction": "ltr", "format": "", "indent": 0, "type": "listitem", "value": 1, "version": 1
+            },
+            {
+              "children": [
+                {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "вознаграждению за объем реализованного товара,", "type": "text", "version": 1}
+              ],
+              "direction": "ltr", "format": "", "indent": 0, "type": "listitem", "value": 2, "version": 1
+            },
+            {
+              "children": [
+                {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "продажам по регионам в процентном соотношении.", "type": "text", "version": 1}
+              ],
+              "direction": "ltr", "format": "", "indent": 0, "type": "listitem", "value": 3, "version": 1
+            }
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "listType": "bullet", "start": 1, "tag": "ul",
+          "type": "list", "version": 1
+        },
+        {
+          "children": [
+            {
+              "altText": "img-16_9-b (1).png",
+              "caption": {"editorState": {"root": {"children": [], "direction": null, "format": "", "indent": 0, "type": "root", "version": 1}}},
+              "height": 0, "maxWidth": 672, "showCaption": false,
+              "src": "https://static-basket-02.wbbasket.ru/vol20/article-static/7cba187c-07de-4c96-aa5a-ad6e6e441595.webp",
+              "type": "image", "version": 1, "width": 0
+            },
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Вкладка «Области и города»", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "tag": "h2", "type": "heading",
+          "uuid": "46b666b7-1643-4389-a2a0-9fa712a0063b", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Во вкладке «Области и города» можно посмотреть в каких регионах, в каком количестве реализуются товары. Данные представлены в виде таблицы. ", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {
+              "altText": "",
+              "caption": {"editorState": {"root": {"children": [], "direction": null, "format": "", "indent": 0, "type": "root", "version": 1}}},
+              "height": 0, "maxWidth": 672, "showCaption": false,
+              "src": "https://static-basket-02.wbbasket.ru/vol20/article-static/cb19b241-de27-4f03-b6c2-9ea2000a3060.webp",
+              "type": "image", "version": 1, "width": 0
+            }
+          ],
+          "direction": null, "format": "", "indent": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Таблицу можно настроить по территориальным единицам. ", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {"detail": 0, "format": 0, "mode": "normal", "style": "", "text": "Если вы хотите посмотреть продажи по артикулу поставщика и номенклатуре, то поставьте галочку в поле «Добавить в выгрузку Номенклатуру» и нажмите «Выгрузить в Excel». ", "type": "text", "version": 1}
+          ],
+          "direction": "ltr", "format": "", "indent": 0, "textFormat": 0, "type": "paragraph", "version": 1
+        },
+        {
+          "children": [
+            {
+              "altText": "",
+              "caption": {"editorState": {"root": {"children": [], "direction": null, "format": "", "indent": 0, "type": "root", "version": 1}}},
+              "height": 0, "maxWidth": 672, "showCaption": false,
+              "src": "https://static-basket-02.wbbasket.ru/vol20/article-static/4bf0972c-c90d-42b7-abe3-d00570c17241.webp",
+              "type": "image", "version": 1, "width": 0
+            }
+          ],
+          "direction": null, "format": "", "indent": 0, "type": "paragraph", "version": 1
+        }
+      ],
+      "direction": "ltr", "format": "", "indent": 0, "type": "root", "version": 1
+    }
+  }
+}
