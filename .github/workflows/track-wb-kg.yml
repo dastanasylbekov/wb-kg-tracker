@@ -53,6 +53,8 @@ jobs:
           git config user.name  "wb-kg-tracker"
           git config user.email "actions@users.noreply.github.com"
           [ -d data ] && git add data
+          # Тексты статей: именно по ним GitHub покажет, что конкретно изменилось.
+          [ -d content ] && git add content
           git add STATUS.md
           if git diff --cached --quiet; then
             echo "Изменений нет — коммит не нужен."
