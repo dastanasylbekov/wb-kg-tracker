@@ -22,6 +22,7 @@
   .item{padding:9px 0;border-bottom:1px solid #23233f;display:flex;gap:10px;align-items:baseline}
   .t{font-size:11px;padding:1px 7px;border-radius:999px;white-space:nowrap}
   .t.date_changed{background:rgba(255,100,100,.16);color:#ff8080}
+  .t.text_changed{background:rgba(255,176,70,.16);color:#ffb84d}
   .t.added{background:rgba(67,97,238,.2);color:#9db0ff}
   .t.removed{background:rgba(138,138,176,.16);color:#8a8ab0}
   .ch{color:#8a8ab0;font-size:13px;margin-left:auto;white-space:nowrap}
@@ -58,7 +59,7 @@
   const DATA_BASE = "data";
   // ===================
 
-  const LAB = {date_changed:"дата", added:"новая", removed:"исчезла"};
+  const LAB = {date_changed:"дата", text_changed:"правка", added:"новая", removed:"исчезла"};
   const esc = s => (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
   function cutoffISO(){
@@ -103,7 +104,9 @@
     for(const run of Object.keys(byRun).sort().reverse()){
       html += `<div class="day">${esc(run)}</div>`;
       for(const r of byRun[run]){
+        const short = s => String(s||"").replace("T"," ").slice(0,16);
         const ch = r.type==="date_changed" ? `${esc(r.old)} → ${esc(r.new)}`
+                 : r.type==="text_changed" ? `${esc(short(r.old))} → ${esc(short(r.new))}`
                  : r.type==="added" ? `новая (${esc(r.new)})` : "исчезла";
         const link = r.url
           ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)||"(без названия)"}</a>`

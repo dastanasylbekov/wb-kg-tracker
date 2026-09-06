@@ -35,6 +35,8 @@ from urllib.parse import urljoin, urldefrag, urlparse, urlunparse
 import requests
 from bs4 import BeautifulSoup
 
+import wb_content
+
 DEFAULT_BASE = "https://seller.wildberries.ru"
 # У некоторых стран справка расположена на собственном домене.
 # Напр. у Грузии — seller.wildberries.ge, а не .ru.
@@ -115,6 +117,9 @@ def make_config(country: str, lang: str) -> dict:
         "marker": marker,
         "local_all": no_marker,  # True -> все статьи раздела считаем «местными»
         "out_dir": out_dir,
+        # Тексты статей лежат отдельно от служебных данных: так их удобно
+        # смотреть в GitHub, и сравнение версий показывает только правки текста.
+        "content_dir": os.path.join("content", folder),
         "snapshot": os.path.join(out_dir, "snapshot.json"),
         "changes": os.path.join(out_dir, "CHANGES.md"),
         "history_json": os.path.join(out_dir, "changes_history.json"),
@@ -238,30 +243,108 @@ def parse_material(html: str, cfg: dict) -> dict:
     else:
         country_specific = bool(cfg["marker"]) and (cfg["marker"] in text)
 
+    # Описание статьи из данных Next.js: точное время правки и адрес файла
+    # с исходным текстом. Подробности — в wb_content.py.
+    meta = wb_content.extract_material(html)
+
     return {
-        "title": title,
+        "title": title or (meta.get("title") or ""),
         "updated": updated_raw,
         "updated_iso": updated_iso,
         "local": country_specific,
+        "material_id": meta.get("id"),
+        "updated_at": meta.get("updated_at"),   # точное время, с часами и минутами
+        "content_url": meta.get("content_url"),
     }
 
 
-def build_snapshot(session: requests.Session, delay: float, cfg: dict) -> dict:
+def content_path(cfg: dict, url: str) -> str:
+    """Путь к файлу с текстом статьи: content/{страна}/{адрес-статьи}.md"""
+    slug = url.rstrip("/").split("/")[-1]
+    slug = re.sub(r"[^A-Za-z0-9_.\-]", "-", slug)[:120] or "article"
+    return os.path.join(cfg["content_dir"], f"{slug}.md")
+
+
+def save_content(session: requests.Session, url: str, data: dict,
+                 old_entry: dict | None, cfg: dict) -> str:
+    """Сохраняет текст статьи в content/{страна}/{статья}.md.
+
+    Текст качаем только если статью правили: сравниваем точное время правки
+    и адрес файла с содержимым. Если ничего не изменилось — файл не трогаем.
+    Это экономит примерно 1150 загрузок из 1160 на каждом прогоне.
+
+    Возвращает: 'saved' | 'skipped' | 'failed'.
+    """
+    path = content_path(cfg, url)
+    data["content_file"] = path
+
+    content_url = data.get("content_url")
+    if not content_url:
+        return "failed"
+
+    unchanged = (
+        old_entry is not None
+        and old_entry.get("updated_at") == data.get("updated_at")
+        and old_entry.get("content_url") == content_url
+        and os.path.exists(path)
+    )
+    if unchanged:
+        return "skipped"
+
+    raw = fetch(session, content_url)
+    if raw is None:
+        return "failed"
+    try:
+        content_json = json.loads(raw)
+    except ValueError:
+        print(f"  [warn] содержимое не разобралось: {content_url}", file=sys.stderr)
+        return "failed"
+
+    meta = {
+        "title": data.get("title"),
+        "id": data.get("material_id"),
+        "updated_at": data.get("updated_at"),
+        "category_slugs": [],
+    }
+    text = wb_content.render_article(meta, content_json, url)
+
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+    return "saved"
+
+
+def build_snapshot(session: requests.Session, delay: float, cfg: dict,
+                   old: dict, with_content: bool = True) -> dict:
     materials = discover_materials(session, delay, cfg)
     print(f"[{cfg['country']}] найдено статей: {len(materials)}", file=sys.stderr)
 
     today = dt.date.today().isoformat()
     snapshot: dict[str, dict] = {}
+    tally = {"saved": 0, "skipped": 0, "failed": 0}
+
     for i, url in enumerate(materials, 1):
         html = fetch(session, url)
         if html is None:
             continue
         data = parse_material(html, cfg)
         data["checked"] = today
+
+        if with_content:
+            result = save_content(session, url, data, old.get(url), cfg)
+            tally[result] += 1
+            if result == "saved":
+                time.sleep(delay)  # пауза только когда реально что-то качали
+
         snapshot[url] = data
         if i % 25 == 0:
             print(f"  [{cfg['country']}] ...обработано {i}/{len(materials)}", file=sys.stderr)
         time.sleep(delay)
+
+    if with_content:
+        print(f"[{cfg['country']}] тексты: скачано {tally['saved']}, "
+              f"без изменений {tally['skipped']}, не удалось {tally['failed']}",
+              file=sys.stderr)
 
     return dict(sorted(snapshot.items()))
 
@@ -274,17 +357,29 @@ def load_old(cfg: dict) -> dict:
 
 
 def diff(old: dict, new: dict) -> dict:
-    added, removed, date_changed = [], [], []
+    added, removed, date_changed, text_changed = [], [], [], []
     for url, n in new.items():
         o = old.get(url)
         if o is None:
             added.append((url, n))
-        elif o.get("updated") != n.get("updated"):
+            continue
+        if o.get("updated") != n.get("updated"):
             date_changed.append((url, o.get("updated"), n.get("updated"), n))
+        # Правку текста ловим по точному времени и по адресу файла с содержимым:
+        # он меняется вместе с текстом. Так видно даже две правки в один день,
+        # когда дата «Обновлено» осталась прежней.
+        # Условие `o.get("updated_at")` — чтобы при первом прогоне после
+        # обновления трекера не пометить изменившимися сразу все статьи.
+        if o.get("updated_at") and (
+            o.get("updated_at") != n.get("updated_at")
+            or o.get("content_url") != n.get("content_url")
+        ):
+            text_changed.append((url, o.get("updated_at"), n.get("updated_at"), n))
     for url in old:
         if url not in new:
             removed.append((url, old[url]))
-    return {"added": added, "removed": removed, "date_changed": date_changed}
+    return {"added": added, "removed": removed,
+            "date_changed": date_changed, "text_changed": text_changed}
 
 
 def run_timestamps() -> dict:
@@ -313,6 +408,21 @@ def render_report(d: dict, cfg: dict, run_local: str) -> str:
         for url, old_dt, new_dt, n in d["date_changed"]:
             lines.append(f"- **{n['title']}**: {old_dt} → {new_dt}")
             lines.append(f"  {url}")
+            if n.get("content_file"):
+                lines.append(f"  Текст статьи: `{n['content_file']}`")
+        lines.append("")
+
+    # Правки, которые не отразились на дате «Обновлено» (например, вторая
+    # правка за тот же день) — их видно только по точному времени.
+    date_urls = {u for u, *_ in d["date_changed"]}
+    quiet = [x for x in d.get("text_changed", []) if x[0] not in date_urls]
+    if quiet:
+        lines.append(f"## Правки без смены даты ({len(quiet)})")
+        for url, old_at, new_at, n in quiet:
+            lines.append(f"- **{n['title']}**: {old_at} → {new_at}")
+            lines.append(f"  {url}")
+            if n.get("content_file"):
+                lines.append(f"  Текст статьи: `{n['content_file']}`")
         lines.append("")
 
     if d["added"]:
@@ -341,6 +451,14 @@ def append_history(d: dict, cfg: dict) -> None:
     for url, old_dt, new_dt, n in d["date_changed"]:
         records.append({"run": run, "type": "date_changed", "url": url,
                         "title": n["title"], "old": old_dt, "new": new_dt})
+    # Правки, не отразившиеся на дате «Обновлено» — пишем отдельным типом,
+    # чтобы не дублировать те, что уже попали в date_changed.
+    date_urls = {u for u, *_ in d["date_changed"]}
+    for url, old_at, new_at, n in d.get("text_changed", []):
+        if url in date_urls:
+            continue
+        records.append({"run": run, "type": "text_changed", "url": url,
+                        "title": n["title"], "old": old_at, "new": new_at})
     for url, o in d["removed"]:
         records.append({"run": run, "type": "removed", "url": url,
                         "title": o.get("title"), "old": o.get("updated"), "new": None})
@@ -381,8 +499,9 @@ def write_history_md(cfg: dict) -> None:
         runs.setdefault(r.get("run"), []).append(r)
 
     titles = {"date_changed": "Сменилась дата «Обновлено»",
+              "text_changed": "Правки без смены даты",
               "added": "Новые статьи", "removed": "Исчезли статьи"}
-    order = ["date_changed", "added", "removed"]
+    order = ["date_changed", "text_changed", "added", "removed"]
 
     for run in sorted(runs, reverse=True):
         lines.append(f"## {run}")
@@ -394,7 +513,7 @@ def write_history_md(cfg: dict) -> None:
             lines.append(f"### {titles[typ]} ({len(group)})")
             for r in group:
                 title = r.get("title") or "(без названия)"
-                if typ == "date_changed":
+                if typ in ("date_changed", "text_changed"):
                     lines.append(f"- **{title}**: {r.get('old')} → {r.get('new')}")
                     lines.append(f"  {r.get('url')}")
                 elif typ == "added":
@@ -457,17 +576,20 @@ def notify_telegram(text: str, cfg: dict) -> None:
         print(f"[notify] ошибка Telegram: {e}", file=sys.stderr)
 
 
-def run_country(country: str, lang: str, delay: float, notify: bool) -> int:
+def run_country(country: str, lang: str, delay: float, notify: bool,
+                with_content: bool = True) -> int:
     cfg = make_config(country, lang)
     if cfg["marker"] is None and not cfg["local_all"]:
         print(f"[{country}] [warn] для страны не задан маркер — признак «для страны» "
               f"считаться не будет. Добавьте её в COUNTRY_MARKERS.", file=sys.stderr)
 
     os.makedirs(cfg["out_dir"], exist_ok=True)
+    if with_content:
+        os.makedirs(cfg["content_dir"], exist_ok=True)
     session = requests.Session()
 
     old = load_old(cfg)
-    new = build_snapshot(session, delay, cfg)
+    new = build_snapshot(session, delay, cfg, old, with_content)
 
     if not new:
         print(f"[{country}] [error] ничего не собрано — снимок пустой, файлы НЕ перезаписаны.",
@@ -518,6 +640,8 @@ def main() -> int:
     ap.add_argument("--notify", action="store_true", help="отправить сводку в Telegram")
     ap.add_argument("--status", action="store_true",
                     help="собрать STATUS.md по всем странам (запускать после прогонов)")
+    ap.add_argument("--no-content", action="store_true",
+                    help="не сохранять тексты статей (только даты обновления, как раньше)")
     args = ap.parse_args()
 
     if args.status:
@@ -525,7 +649,8 @@ def main() -> int:
         return 0
     if not args.country:
         ap.error("укажите --country <код> или --status")
-    return run_country(args.country.lower(), args.lang.lower(), args.delay, args.notify)
+    return run_country(args.country.lower(), args.lang.lower(), args.delay,
+                       args.notify, with_content=not args.no_content)
 
 
 if __name__ == "__main__":
