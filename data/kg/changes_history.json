@@ -4934,5 +4934,45 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "17.08.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "04.09.2026",
+    "new": "27.08.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "04.09.2026",
+    "new": "28.08.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/paid-storage-report-kyrgyzstan",
+    "title": "Отчёт «Платное хранение»",
+    "old": "04.09.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "27.07.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "04.09.2026",
+    "new": "17.08.2026"
   }
 ]

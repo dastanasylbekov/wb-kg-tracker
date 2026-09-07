@@ -4910,5 +4910,21 @@
     "title": "Коэффициент вознаграждения Wildberries",
     "old": "11.08.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/paid-storage-report-armenia",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/profit-calculator-am",
+    "title": "Калькулятор прибыли",
+    "old": "28.07.2026",
+    "new": "04.09.2026"
   }
 ]

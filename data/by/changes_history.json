@@ -4854,5 +4854,13 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "17.08.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus",
+    "title": "Отчёт «Платное хранение»",
+    "old": "04.09.2026",
+    "new": "18.05.2026"
   }
 ]

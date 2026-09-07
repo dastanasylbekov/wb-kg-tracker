@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-09-06_
+_Сформировано: 2026-09-07_
+
+## 2026-09-07
+### Сменилась дата «Обновлено» (5)
+- **Сводка аналитики**: 04.09.2026 → 27.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan
+- **Отчёт «Лента заказов»**: 04.09.2026 → 28.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Отчёт «Платное хранение»**: 04.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/paid-storage-report-kyrgyzstan
+- **Отчёт «Поисковые запросы: ваши товары»**: 27.07.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 04.09.2026 → 17.08.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan
+
 
 ## 2026-09-06
 ### Сменилась дата «Обновлено» (13)
