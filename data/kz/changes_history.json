@@ -4702,5 +4702,13 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "17.08.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-kazakhstan",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "10.08.2026",
+    "new": "07.09.2026"
   }
 ]

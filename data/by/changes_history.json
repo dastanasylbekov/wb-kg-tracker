@@ -4862,5 +4862,37 @@
     "title": "Отчёт «Платное хранение»",
     "old": "04.09.2026",
     "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/delivery-of-goods-with-traceability-in-rb-under-fbw",
+    "title": "Как оформить поставку с товарами, которые подлежат прослеживаемости в Беларуси, по модели FBW",
+    "old": "04.09.2026",
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-belarus",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "27.07.2026",
+    "new": "07.09.2026"
+  },
+  {
+    "run": "2026-09-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "04.09.2026",
+    "new": "27.08.2026"
   }
 ]
