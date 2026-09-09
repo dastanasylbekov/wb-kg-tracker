@@ -1,6 +1,30 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-08_
+_Сформировано: 2026-09-09_
+
+## 2026-09-09
+### Сменилась дата «Обновлено» (6)
+- **Проекты и каналы коммуникации Wildberries**: 12.08.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/A-256
+- **Отчёт «Сравнение карточек»**: 03.09.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus
+- **Отчёт «Платное хранение»**: 04.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 27.08.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
+- **Этап 1. Создание поставки**: 04.09.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 24.08.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
+
+### Правки без смены даты (1)
+- **Как оформить поставку с товарами, которые подлежат прослеживаемости в Беларуси, по модели FBW**: 2026-09-08T06:54:31.507667Z → 2026-09-08T11:10:55.776228Z
+  https://seller.wildberries.ru/instructions/ru/by/material/delivery-of-goods-with-traceability-in-rb-under-fbw
+
+### Новые статьи (1)
+- **Фото для целевой аудитории: как настроить разные главные фото в карточке** (Обновлено 08.09.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/two-main-photos-on-the-product-card-by
+
 
 ## 2026-09-08
 ### Сменилась дата «Обновлено» (4)

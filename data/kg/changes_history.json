@@ -5030,5 +5030,29 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "17.08.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/two-main-photos-on-the-product-card-kg",
+    "title": "Фото для целевой аудитории: как настроить разные главные фото в карточке",
+    "old": null,
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/daily-dynamics-and-sales-analysis-report-kyrgyzstan",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "24.08.2026",
+    "new": "08.09.2026"
   }
 ]

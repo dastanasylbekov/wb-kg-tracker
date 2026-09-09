@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-09-08_
+_Сформировано: 2026-09-09_
+
+## 2026-09-09
+### Сменилась дата «Обновлено» (3)
+- **Проекты и каналы коммуникации Wildberries**: 12.08.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/A-256
+- **Отчёт «Сравнение карточек»**: 03.09.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 24.08.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan
+
+### Новые статьи (1)
+- **Фото для целевой аудитории: как настроить разные главные фото в карточке** (Обновлено 08.09.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/two-main-photos-on-the-product-card-kz
+
 
 ## 2026-09-08
 ### Сменилась дата «Обновлено» (1)

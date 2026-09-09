@@ -4894,5 +4894,69 @@
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
     "old": "04.09.2026",
     "new": "27.08.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/two-main-photos-on-the-product-card-by",
+    "title": "Фото для целевой аудитории: как настроить разные главные фото в карточке",
+    "old": null,
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "12.08.2026",
+    "new": "09.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "03.09.2026",
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus",
+    "title": "Отчёт «Платное хранение»",
+    "old": "04.09.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "27.08.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus",
+    "title": "Этап 1. Создание поставки",
+    "old": "04.09.2026",
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "24.08.2026",
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "text_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/delivery-of-goods-with-traceability-in-rb-under-fbw",
+    "title": "Как оформить поставку с товарами, которые подлежат прослеживаемости в Беларуси, по модели FBW",
+    "old": "2026-09-08T06:54:31.507667Z",
+    "new": "2026-09-08T11:10:55.776228Z"
   }
 ]

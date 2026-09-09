@@ -4926,5 +4926,37 @@
     "title": "Калькулятор прибыли",
     "old": "28.07.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/two-main-photos-on-the-product-card-am",
+    "title": "Фото для целевой аудитории: как настроить разные главные фото в карточке",
+    "old": null,
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "12.08.2026",
+    "new": "09.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "03.09.2026",
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-armenia",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "16.07.2026",
+    "new": "07.09.2026"
   }
 ]

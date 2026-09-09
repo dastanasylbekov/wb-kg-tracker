@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus
 - Идентификатор: A-716
-- Обновлено: 2026-09-04T07:53:33.881754Z
+- Обновлено: 2026-09-08T11:32:40.854983Z
 
 ---
 > **Примечание**

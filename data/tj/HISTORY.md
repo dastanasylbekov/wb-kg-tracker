@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-09-08_
+_Сформировано: 2026-09-09_
+
+## 2026-09-09
+### Сменилась дата «Обновлено» (2)
+- **Проекты и каналы коммуникации Wildberries**: 12.08.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/A-256
+- **Как отменить поставку или изменить дату и количество товаров**: 18.05.2026 → 07.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-tj
+
 
 ## 2026-09-08
 ### Новые статьи (1)

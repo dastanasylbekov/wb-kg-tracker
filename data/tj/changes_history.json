@@ -1422,5 +1422,21 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": null,
     "new": "07.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "12.08.2026",
+    "new": "09.09.2026"
+  },
+  {
+    "run": "2026-09-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-tj",
+    "title": "Как отменить поставку или изменить дату и количество товаров",
+    "old": "18.05.2026",
+    "new": "07.09.2026"
   }
 ]

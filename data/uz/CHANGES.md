@@ -1,15 +1,15 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-09-08
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-09-09
 
-_Прогон: 2026-09-08 14:21 (Бишкек)_
+_Прогон: 2026-09-09 14:27 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (3)
-- **Сводка аналитики**: 27.08.2026 → 04.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan
-  Текст статьи: `content/uz/analytics-summary-uzbekistan.md`
-- **Как отменить поставку или изменить дату и количество товаров**: 11.08.2026 → 07.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan
-  Текст статьи: `content/uz/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan.md`
-- **Отчёт по остаткам на складе**: 18.05.2026 → 04.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/warehouse-balance-report-uzbekistan
-  Текст статьи: `content/uz/warehouse-balance-report-uzbekistan.md`
+- **Проекты и каналы коммуникации Wildberries**: 12.08.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/A-256
+  Текст статьи: `content/uz/A-256.md`
+- **Восстановление доступа к личному кабинету**: 18.05.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/restoring-access-to-the-account-uzbekistan
+  Текст статьи: `content/uz/restoring-access-to-the-account-uzbekistan.md`
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 24.08.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
+  Текст статьи: `content/uz/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan.md`
 

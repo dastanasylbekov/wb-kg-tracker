@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-08_
+_Сформировано: 2026-09-09_
+
+## 2026-09-09
+### Сменилась дата «Обновлено» (3)
+- **Проекты и каналы коммуникации Wildberries**: 12.08.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/A-256
+- **Восстановление доступа к личному кабинету**: 18.05.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/restoring-access-to-the-account-uzbekistan
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 24.08.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
+
 
 ## 2026-09-08
 ### Сменилась дата «Обновлено» (3)
