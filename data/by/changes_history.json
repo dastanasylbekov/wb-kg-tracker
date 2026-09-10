@@ -4958,5 +4958,13 @@
     "title": "Как оформить поставку с товарами, которые подлежат прослеживаемости в Беларуси, по модели FBW",
     "old": "2026-09-08T06:54:31.507667Z",
     "new": "2026-09-08T11:10:55.776228Z"
+  },
+  {
+    "run": "2026-09-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-storage-report-belarus",
+    "title": "Отчёт «Платное хранение»",
+    "old": "18.05.2026",
+    "new": "04.09.2026"
   }
 ]

@@ -4742,5 +4742,13 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "24.08.2026",
     "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/marking-of-goods-and-supplies-kazakhstan",
+    "title": "Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI",
+    "old": "12.08.2026",
+    "new": "09.09.2026"
   }
 ]

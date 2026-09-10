@@ -5054,5 +5054,37 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "24.08.2026",
     "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "12.08.2026",
+    "new": "09.09.2026"
+  },
+  {
+    "run": "2026-09-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "03.09.2026",
+    "new": "08.09.2026"
+  },
+  {
+    "run": "2026-09-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/daily-dynamics-and-sales-analysis-report-kyrgyzstan",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "04.09.2026",
+    "new": "10.06.2026"
+  },
+  {
+    "run": "2026-09-10",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/two-main-photos-on-the-product-card-kg",
+    "title": "Фото для целевой аудитории: как настроить разные главные фото в карточке",
+    "old": "08.09.2026",
+    "new": null
   }
 ]

@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-09_
+_Сформировано: 2026-09-10_
+
+## 2026-09-10
+### Сменилась дата «Обновлено» (2)
+- **Как изменить адрес электронной почты для двухфакторной аутентификации**: 18.05.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-email-uz
+- **Как изменить номер телефона**: 28.05.2026 → 09.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-phone-number-uz
+
+### Новые статьи (1)
+- **Фото для целевой аудитории: как настроить разные главные фото в карточке** (Обновлено 08.09.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/two-main-photos-on-the-product-card-uz
+
 
 ## 2026-09-09
 ### Сменилась дата «Обновлено» (3)
