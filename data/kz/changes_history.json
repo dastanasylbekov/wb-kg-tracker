@@ -4750,5 +4750,29 @@
     "title": "Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI",
     "old": "12.08.2026",
     "new": "09.09.2026"
+  },
+  {
+    "run": "2026-09-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-activate-djem-kz",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "27.07.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "10.08.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "08.09.2026",
+    "new": "10.09.2026"
   }
 ]

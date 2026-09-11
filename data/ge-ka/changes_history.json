@@ -886,5 +886,13 @@
     "title": "Wildberries-ის ანაზღაურების კოეფიციენტი",
     "old": null,
     "new": "18.5.2026"
+  },
+  {
+    "run": "2026-09-11",
+    "type": "added",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/step3b-shipping-fbs-deliveries-to-the-pickup-point-ka",
+    "title": "ეტაპი 3 ბ. FBS ტიპის მიწოდების პაკეტების ტრანსპორტირება შეკვეთების გაცემის პუნქტში",
+    "old": null,
+    "new": "7.9.2026"
   }
 ]

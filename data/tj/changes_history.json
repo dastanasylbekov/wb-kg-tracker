@@ -1438,5 +1438,13 @@
     "title": "Как отменить поставку или изменить дату и количество товаров",
     "old": "18.05.2026",
     "new": "07.09.2026"
+  },
+  {
+    "run": "2026-09-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-3-delivery-fbs-orders-to-a-warehouse-tj",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) в пункт отгрузки",
+    "old": "04.09.2026",
+    "new": "10.09.2026"
   }
 ]

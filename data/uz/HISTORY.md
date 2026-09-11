@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-10_
+_Сформировано: 2026-09-11_
+
+## 2026-09-11
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Сравнение карточек»**: 03.09.2026 → 08.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 11.08.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan
+
 
 ## 2026-09-10
 ### Сменилась дата «Обновлено» (2)
