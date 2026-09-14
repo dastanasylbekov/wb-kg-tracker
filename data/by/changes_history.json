@@ -5006,5 +5006,45 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "14.07.2026",
     "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-activate-djem-by",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "27.07.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-increase-limits-of-the-jam-services-by",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "13.07.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb",
+    "title": "Отчёт «Лента заказов»",
+    "old": "10.09.2026",
+    "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "10.09.2026",
+    "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/weight-and-size-restrictions-for-sales-models-belarus",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "04.09.2026",
+    "new": "11.09.2026"
   }
 ]

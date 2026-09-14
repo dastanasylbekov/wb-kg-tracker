@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-09-11_
+_Сформировано: 2026-09-14_
+
+## 2026-09-14
+### Сменилась дата «Обновлено» (4)
+- **Подписка «Джем»: как подключить, управлять и отключить**: 23.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/jam-subscription-am
+- **Отчёт «Лента заказов»**: 04.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 14.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 10.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
+
 
 ## 2026-09-11
 ### Сменилась дата «Обновлено» (3)

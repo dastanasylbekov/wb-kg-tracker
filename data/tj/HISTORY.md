@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-09-11_
+_Сформировано: 2026-09-14_
+
+## 2026-09-14
+### Сменилась дата «Обновлено» (3)
+- **Как отменить поставку или изменить дату и количество товаров**: 07.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-tj
+- **Этап 3. Подготовка поставки к отгрузке**: 04.09.2026 → 15.07.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/step-three-fbw-shipment-preparation-tj
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 07.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/step3b-shipping-fbs-deliveries-to-the-pickup-point-tj
+
 
 ## 2026-09-11
 ### Сменилась дата «Обновлено» (1)

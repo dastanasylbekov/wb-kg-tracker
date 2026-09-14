@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-11_
+_Сформировано: 2026-09-14_
+
+## 2026-09-14
+### Сменилась дата «Обновлено» (5)
+- **Подписка «Джем»: как подключить, управлять и отключить**: 27.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-activate-djem-by
+- **Как увеличить лимиты сервисов подписки «Джем»**: 13.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-increase-limits-of-the-jam-services-by
+- **Отчёт «Лента заказов»**: 10.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 10.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 04.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/weight-and-size-restrictions-for-sales-models-belarus
+
 
 ## 2026-09-11
 ### Сменилась дата «Обновлено» (5)

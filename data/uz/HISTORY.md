@@ -1,6 +1,26 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-11_
+_Сформировано: 2026-09-14_
+
+## 2026-09-14
+### Сменилась дата «Обновлено» (8)
+- **Отчёт «Еженедельная динамика и анализ продаж»**: 04.09.2026 → 10.06.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/daily-dynamics-and-sales-analysis-report-uzbekistan
+- **Отчёт «Календарь событий»**: 03.09.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb
+- **Как увеличить лимиты сервисов подписки «Джем»**: 13.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz
+- **Отчёт «Лента заказов»**: 04.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 08.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
+- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 03.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan
+- **«Помощник»: аналитика и данные по вашим товарам**: 14.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz
+- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 04.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/weight-and-size-restrictions-for-sales-models-uzbekistan
+
 
 ## 2026-09-11
 ### Сменилась дата «Обновлено» (2)

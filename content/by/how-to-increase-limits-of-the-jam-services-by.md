@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/how-to-increase-limits-of-the-jam-services-by
 - Идентификатор: A-1911
-- Обновлено: 2026-07-13T12:20:45.750232Z
+- Обновлено: 2026-09-10T14:42:52.632062Z
 
 ---
 > **Примечание**
@@ -34,10 +34,13 @@
 
 ## Как узнать, сколько лимитов осталось
 
-1. Перейдите [Рост продаж → Подписка «Джем»](https://seller.wildberries.ru/monetization/paid-services). Откройте вкладку «Сервисы подписки». Вы увидите список сервисов и сколько неиспользованных лимитов у вас осталось.![image12.png](https://static-basket-02.wbbasket.ru/vol20/article-static/33507c5d-4413-4541-bcf4-436ef096e44d.webp)
-2. В «Истории операций» можно увидеть, в какие дни использовались лимиты сервисов:
+Перейдите[Рост продаж → Подписка «Джем»](https://seller.wildberries.ru/monetization/paid-services). Лимиты отображаются на главной странице во вкладке «Инструменты» под каждым инструментом.
 
-![image17.png](https://static-basket-02.wbbasket.ru/vol20/article-static/9ef50554-4261-4941-a0fe-561867096d0c.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/67cff38c-015c-47c6-8bbc-1c6d4082412a.webp)
+
+Также вы можете посмотреть лимиты во вкладке «Дополнительные лимиты». Вы увидите список сервисов и сколько неиспользованных лимитов у вас осталось.
+
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/8b34ce8a-316c-4a4c-846f-f3d0d168a3d9.webp)В «Истории операций» можно увидеть, в какие дни использовались лимиты сервисов.
 
 Здесь же лимиты можно докупить. Также их можно докупать на страницах самих сервисов.
 
@@ -64,9 +67,9 @@
 
 Если лимитов, которые входят в тариф или опцию конструктора тарифов, временно не хватает, их можно докупить однократно. В этом случае лимиты оплачиваются один раз и не увеличивают стоимость подписки.
 
-1. Перейдите [Рост продаж → Подписка «Джем»](https://seller.wildberries.ru/monetization/paid-services). Откройте вкладку «Сервисы подписки».
+1. Перейдите [Рост продаж → Подписка «Джем»](https://seller.wildberries.ru/monetization/paid-services). Откройте вкладку «Дополнительные лимиты».
 2. Выберите нужный сервис в списке.
-3. Нажмите «Купить».![image7.png](https://static-basket-02.wbbasket.ru/vol20/article-static/5c6eabff-0032-4cfa-a69b-e9ca0ccb73ce.webp)
+3. Нажмите «Докупить».![](https://static-basket-02.wbbasket.ru/vol20/article-static/c3ba8abb-7eb6-4dba-98bb-3249cd28c982.webp)
 4. Выберите количество лимитов, которое вам нужно.![image9.png](https://static-basket-02.wbbasket.ru/vol20/article-static/2b0b76fd-fd6f-4386-ba8f-aa6499e081b7.webp)
 5. Подтвердите покупку во всплывающем окне. ![image3.png](https://static-basket-02.wbbasket.ru/vol20/article-static/2c0801a9-b16c-4c84-9e99-4e05694aece4.webp)
 
