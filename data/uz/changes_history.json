@@ -4982,5 +4982,45 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "04.09.2026",
     "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/daily-dynamics-and-sales-analysis-report-uzbekistan",
+    "title": "Отчёт «Еженедельная динамика и анализ продаж»",
+    "old": "10.06.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "10.09.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "10.09.2026",
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "11.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "03.09.2026",
+    "new": "04.09.2026"
   }
 ]

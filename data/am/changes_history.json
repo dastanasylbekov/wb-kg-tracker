@@ -5022,5 +5022,21 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "10.09.2026",
     "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "28.08.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia",
+    "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
+    "old": "04.09.2026",
+    "new": "11.09.2026"
   }
 ]
