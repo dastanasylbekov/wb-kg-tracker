@@ -1,15 +1,15 @@
-# Изменения справки WB — 🇹🇯 Таджикистан — 2026-09-15
+# Изменения справки WB — 🇹🇯 Таджикистан — 2026-09-16
 
-_Прогон: 2026-09-15 14:59 (Бишкек)_
+_Прогон: 2026-09-16 14:52 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (3)
-- **Как отменить поставку или изменить дату и количество товаров**: 18.05.2026 → 07.09.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-tj
-  Текст статьи: `content/tj/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-tj.md`
-- **Этап 3. Подготовка поставки к отгрузке**: 15.07.2026 → 04.09.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-three-fbw-shipment-preparation-tj
-  Текст статьи: `content/tj/step-three-fbw-shipment-preparation-tj.md`
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.09.2026 → 07.09.2026
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 11.08.2026 → 15.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan
+  Текст статьи: `content/tj/cancellations-returns-penalties-dbs-tajikistan.md`
+- **Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 29.06.2026 → 15.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/returns-of-goods-using-the-dbs-model-tadj
+  Текст статьи: `content/tj/returns-of-goods-using-the-dbs-model-tadj.md`
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 07.09.2026 → 11.09.2026
   https://seller.wildberries.ru/instructions/ru/tj/material/step3b-shipping-fbs-deliveries-to-the-pickup-point-tj
   Текст статьи: `content/tj/step3b-shipping-fbs-deliveries-to-the-pickup-point-tj.md`
 

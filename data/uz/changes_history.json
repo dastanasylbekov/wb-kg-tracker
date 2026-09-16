@@ -5022,5 +5022,37 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "03.09.2026",
     "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "03.09.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "13.07.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz",
+    "title": "Подписка «Джем»: как подключить, управлять и отключить",
+    "old": "27.07.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "04.09.2026",
+    "new": "11.09.2026"
   }
 ]

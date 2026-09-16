@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-15_
+_Сформировано: 2026-09-16_
+
+## 2026-09-16
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Календарь событий»**: 03.09.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb
+- **Как увеличить лимиты сервисов подписки «Джем»**: 13.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz
+- **Подписка «Джем»: как подключить, управлять и отключить**: 27.07.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/jam-subscription-uz
+- **Отчёт «Лента заказов»**: 04.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+
 
 ## 2026-09-15
 ### Сменилась дата «Обновлено» (5)

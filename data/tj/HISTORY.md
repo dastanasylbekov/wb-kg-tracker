@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-09-15_
+_Сформировано: 2026-09-16_
+
+## 2026-09-16
+### Сменилась дата «Обновлено» (3)
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 11.08.2026 → 15.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan
+- **Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 29.06.2026 → 15.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/returns-of-goods-using-the-dbs-model-tadj
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 07.09.2026 → 11.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/step3b-shipping-fbs-deliveries-to-the-pickup-point-tj
+
 
 ## 2026-09-15
 ### Сменилась дата «Обновлено» (3)

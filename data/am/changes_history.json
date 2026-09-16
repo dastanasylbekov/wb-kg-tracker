@@ -5038,5 +5038,13 @@
     "title": "Ограничения по весу и габаритам товаров для разных моделей продаж",
     "old": "04.09.2026",
     "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-increase-limits-jam-services-am",
+    "title": "Как увеличить лимиты сервисов подписки «Джем»",
+    "old": "13.07.2026",
+    "new": "10.09.2026"
   }
 ]
