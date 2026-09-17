@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-16_
+_Сформировано: 2026-09-17_
+
+## 2026-09-17
+### Сменилась дата «Обновлено» (3)
+- **Отчёт «Сравнение карточек»**: 08.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz
+- **Отчёт «Лента заказов»**: 11.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+- **Отчёт «Поисковые запросы: ваши товары»**: 04.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz
+
 
 ## 2026-09-16
 ### Сменилась дата «Обновлено» (4)

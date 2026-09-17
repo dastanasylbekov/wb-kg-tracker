@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz
 - Идентификатор: A-1356
-- Обновлено: 2026-09-04T08:06:08.217109Z
+- Обновлено: 2026-09-16T11:23:06.070448Z
 
 ---
 > **Примечание**

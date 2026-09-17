@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan
 - Идентификатор: A-1248
-- Обновлено: 2026-09-04T08:06:05.070363Z
+- Обновлено: 2026-09-16T11:23:01.878712Z
 
 ---
 > **Примечание**

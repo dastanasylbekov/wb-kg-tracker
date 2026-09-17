@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
 - Идентификатор: A-1249
-- Обновлено: 2026-09-04T08:06:01.97307Z
+- Обновлено: 2026-09-16T11:23:11.553656Z
 
 ---
 > **Примечание**

@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-16_
+_Сформировано: 2026-09-17_
+
+## 2026-09-17
+### Сменилась дата «Обновлено» (3)
+- **Отчёт «Сравнение карточек»**: 08.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus
+- **Как создать карточку товара**: 03.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-product-profile-rb
+- **Отчёт «Поисковые запросы: ваши товары»**: 04.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
+
 
 ## 2026-09-14
 ### Сменилась дата «Обновлено» (5)

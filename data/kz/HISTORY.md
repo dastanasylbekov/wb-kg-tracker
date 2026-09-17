@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-09-16_
+_Сформировано: 2026-09-17_
+
+## 2026-09-17
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Сравнение карточек»**: 08.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
+- **Как создать карточку товара**: 03.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-product-profile-kazakhstan
+- **Отчёт «Лента заказов»**: 11.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+- **Отчёт «Поисковые запросы: ваши товары»**: 04.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan
+
 
 ## 2026-09-15
 ### Сменилась дата «Обновлено» (1)

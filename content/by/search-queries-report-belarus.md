@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
 - Идентификатор: A-1247
-- Обновлено: 2026-09-04T08:05:58.899626Z
+- Обновлено: 2026-09-16T11:22:56.039816Z
 
 ---
 > **Примечание**

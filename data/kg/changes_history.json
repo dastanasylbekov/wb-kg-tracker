@@ -5214,5 +5214,13 @@
     "title": "Отчёт «Лента заказов»",
     "old": "04.09.2026",
     "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-17",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "04.09.2026",
+    "new": "16.09.2026"
   }
 ]
