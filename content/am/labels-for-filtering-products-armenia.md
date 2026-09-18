@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/am/material/labels-for-filtering-products-armenia
 - Идентификатор: A-679
-- Обновлено: 2026-09-17T08:20:05.85805Z
+- Обновлено: 2026-09-18T07:08:18.613425Z
 
 ---
 > **Примечание**
@@ -23,29 +23,27 @@
 
 Зайдите на портале в [Товары и цены → Карточка товара](https://seller.wildberries.ru/new-goods/all-goods). Выберите нужный товар в списке и нажмите + в колонке «Ярлыки».
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/379fdc96-5dc1-41e2-a17c-41e10ec6a0cd.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/47328fc5-2199-4af8-b13c-793073427014.webp)
 
 Введите название нового ярлыка. Максимум — 15 символов. Нажмите Enter, чтобы сохранить его.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/fb1fc46c-5e32-4bad-9926-b363eb6f49f1.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/fff1b74f-94ba-40a6-b849-d889e3360328.webp)
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/a9bb052b-7bfe-40f7-8d38-6dcc108ace5e.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/d6b89d92-53f7-4351-99df-7c008a1f44b2.webp)
 
 Чтобы отредактировать название ярлыка, выбрать ему цвет или удалить ярлык, нажмите на него, а затем — на три точки справа от названия.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/8d0df053-20c1-407a-9650-db5ace9abe9e.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/13c4eee0-288d-4c88-b312-c9038e952255.webp)
 
 После того как вы создадите новый ярлык, он сразу же присвоится этой карточке. Чтобы добавить его другим товарам, поочерёдно выбирайте их из списка, также нажимайте на + в колонке «Ярлыки» и выбирайте созданный ярлык из перечня. О том, как добавить ярлык сразу большому количеству товаров, читайте далее.
 
 ### Как добавить ярлыки сразу нескольким товарам
 
-В разделе «Карточка товара» слева над списком товаров нажмите «Добавить», затем в открывшемся окне —«Присваивание ярлыков».
+В разделе «Карточка товара» слева над списком товаров нажмите на кнопку с тремя полосками, затем в открывшемся окне —«Присваивание ярлыков».
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/ef8067ca-4bf9-4762-bde3-bb15395fff52.webp)
+![img-16_9-b (15).png](https://static-basket-02.wbbasket.ru/vol20/article-static/11402346-cdad-48e6-b8ec-518d9b896457.webp)
 
 Скачайте шаблон, заполните его и загрузите готовый файл.
-
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/4b85904c-4f52-4bfb-9a9a-dcc3a2d4c7ac.webp)
 
 Нажмите «Обновить ярлыки».
 

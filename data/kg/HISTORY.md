@@ -1,6 +1,28 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-09-17_
+_Сформировано: 2026-09-18_
+
+## 2026-09-18
+### Сменилась дата «Обновлено» (7)
+- **Очистка временных файлов: кэша и cookie в браузере**: 18.05.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/clearing-temporary-files-cache-cookies-in-the-browser-kyrgyzstan
+- **Отчёт «Сравнение карточек»**: 08.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan
+- **Как создать карточку товара**: 03.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan
+- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
+- **Ярлыки для фильтрации товаров**: 18.05.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/labels-for-filtering-products-kyrgyzstan
+- **Отчёт «Лента заказов»**: 11.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Отчёт «Поисковые запросы: ваши товары»**: 16.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
+
+### Новые статьи (1)
+- **Справочный центр** (Обновлено None)
+  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
+
 
 ## 2026-09-17
 ### Сменилась дата «Обновлено» (1)

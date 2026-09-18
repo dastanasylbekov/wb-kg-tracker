@@ -5110,5 +5110,45 @@
     "title": "Продажа табачной продукции на Wildberries в Армении",
     "old": "18.05.2026",
     "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/card-statuses-limits-and-settings-armenia",
+    "title": "Статусы, лимиты и настройки карточек",
+    "old": "18.05.2026",
+    "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/combining-product-cards-armenia",
+    "title": "Объединение карточек товаров",
+    "old": "29.07.2026",
+    "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/labels-for-filtering-products-armenia",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "17.09.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "10.09.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "11.09.2026",
+    "new": "17.09.2026"
   }
 ]

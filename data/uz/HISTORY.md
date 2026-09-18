@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-17_
+_Сформировано: 2026-09-18_
+
+## 2026-09-18
+### Сменилась дата «Обновлено» (5)
+- **Как создать карточку товара**: 03.09.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan
+- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz
+- **Ярлыки для фильтрации товаров**: 18.05.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan
+- **Поддержка продавцов**: 27.07.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/seller-support-uzbekistan
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 10.09.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan
+
 
 ## 2026-09-17
 ### Сменилась дата «Обновлено» (3)

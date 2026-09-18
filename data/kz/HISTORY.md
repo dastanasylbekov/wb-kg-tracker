@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-09-17_
+_Сформировано: 2026-09-18_
+
+## 2026-09-18
+### Сменилась дата «Обновлено» (2)
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 10.09.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.09.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan
+
 
 ## 2026-09-17
 ### Сменилась дата «Обновлено» (4)

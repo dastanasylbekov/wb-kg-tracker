@@ -5078,5 +5078,45 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "04.09.2026",
     "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-product-card-for-uzbekistan",
+    "title": "Как создать карточку товара",
+    "old": "03.09.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "06.08.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/seller-support-uzbekistan",
+    "title": "Поддержка продавцов",
+    "old": "27.07.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "10.09.2026",
+    "new": "17.09.2026"
   }
 ]
