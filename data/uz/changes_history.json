@@ -5118,5 +5118,37 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "10.09.2026",
     "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan",
+    "title": "Очистка временных файлов: кэша и cookie в браузере",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.09.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "16.09.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "11.09.2026",
+    "new": "17.09.2026"
   }
 ]

@@ -1,21 +1,24 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-09-18
+# Изменения справки WB — 🇦🇲 Армения — 2026-09-21
 
-_Прогон: 2026-09-18 14:28 (Бишкек)_
+_Прогон: 2026-09-21 15:06 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Статусы, лимиты и настройки карточек**: 18.05.2026 → 16.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/card-statuses-limits-and-settings-armenia
-  Текст статьи: `content/am/card-statuses-limits-and-settings-armenia.md`
-- **Объединение карточек товаров**: 29.07.2026 → 16.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/combining-product-cards-armenia
-  Текст статьи: `content/am/combining-product-cards-armenia.md`
-- **Ярлыки для фильтрации товаров**: 17.09.2026 → 18.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/labels-for-filtering-products-armenia
-  Текст статьи: `content/am/labels-for-filtering-products-armenia.md`
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 10.09.2026 → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia
-  Текст статьи: `content/am/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia.md`
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.09.2026 → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
-  Текст статьи: `content/am/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia.md`
+## Сменилась дата «Обновлено» (6)
+- **Очистка временных файлов: кэша и cookie в браузере**: 18.05.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/clearing-temporary-files-cache-cookies-in-the-browser-armenia
+  Текст статьи: `content/am/clearing-temporary-files-cache-cookies-in-the-browser-armenia.md`
+- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am
+  Текст статьи: `content/am/income-and-expenses-report-am.md`
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries**: 18.05.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am
+  Текст статьи: `content/am/prohibited-or-partially-restricted-products-am.md`
+- **Отчёт «Поисковые запросы: ваши товары»**: 16.09.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am
+  Текст статьи: `content/am/search-queries-report-am.md`
+- **Поддержка продавцов**: 27.07.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/seller-support-armenia
+  Текст статьи: `content/am/seller-support-armenia.md`
+- **«Фотостудия»: генерация фото товара с помощью нейросети**: 18.05.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/virtual-clothes-fitting-by-photostudio-am
+  Текст статьи: `content/am/virtual-clothes-fitting-by-photostudio-am.md`
 

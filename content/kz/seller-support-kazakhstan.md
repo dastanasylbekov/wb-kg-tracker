@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/seller-support-kazakhstan
 - Идентификатор: A-1205
-- Обновлено: 2026-07-27T18:17:35.037414Z
+- Обновлено: 2026-09-18T06:59:25.855641Z
 
 ---
 > **Примечание**
@@ -11,25 +11,25 @@
 
 > **Совет**
 >
-> Остерегайтесь мошенников! Ознакомьтесь с [инструкцией, как от них защититься](https://seller.wildberries.ru/instructions/ru/kz/material/A-616)
+> Остерегайтесь мошенников! Ознакомьтесь с [инструкцией, как от них защититься](https://seller.wildberries.ru/instructions/ru/kz/material/how-to-protect-yourself-from-scammers-kazakhstan)
 
 ## Раздел «Поддержка»
 
-Если у вас возникли сложности при работе с порталом, и их решения нет в [справочном центре](https://seller.wildberries.ru/help-center/categories), вы можете обратиться в техническую поддержку.
+Если у вас возникли сложности при работе с порталом, и их решения нет в [справочном центре](https://seller.wildberries.ru/instructions/ru/kz/categories), вы можете обратиться в техническую поддержку.
 
-Чтобы перейти в раздел поддержки, наведите курсор на значок ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/f8fa35ba-3e57-406a-b1ea-1e2ae09956c3.webp)в верхнем правом углу портала. Выберите раздел в выпадающем меню:
+Чтобы перейти в раздел поддержки, наведите курсор на значок ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/28ff294e-6ece-446e-ad1d-6dd543a50c71.webp)в верхнем правом углу портала. Выберите раздел в выпадающем меню:
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/a71dad9e-ccd3-41b4-abe5-93f46da34865.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/82cec189-2100-4300-b87a-b90f857c14f9.webp)
 
 ## Обращение в поддержку
 
 Нажмите кнопку «Новый диалог» на странице раздела.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/216b47ca-51b0-4038-94e3-5f739abe3b91.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/73e6b667-aaef-4df3-93dd-f829cc899d3b.webp)
 
 Затем выберите подходящие категорию и тему диалога.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/4459196a-713b-4dd6-adfd-4f94c59a5757.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/39b9ea9e-e0da-4d5d-8270-2d7e9dd34c07.webp)
 
 Вы также можете получить доступ к приоритетной персональной поддержке. Для этого достаточно подключить [опцию конструктора тарифов](https://seller.wildberries.ru/tariff-constructor?modal=premiumSupport&utm_channel=help_center&utm_activity_id=1856). С ней ваши обращения будет обрабатывать отдельная команда.
 
@@ -45,13 +45,13 @@
 
 После этого откроется окно создания диалога. Прежде чем писать обращение, посмотрите ответы на частые вопросы по теме — возможно, там вы найдёте готовое решение своей ситуации, и вам не придётся ждать ответа от сотрудника поддержки.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/593619f8-ae45-4935-8345-f274ff82a793.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/72d69a20-9ce2-4470-abf1-5d22d92a7c3d.webp)
 
 Если вы не нашли нужного ответа, опишите суть запроса в поле для комментария — максимально точно и подробно. Именно по этому тексту специалист определит вашу ситуацию и поможет с её решением. Каждый запрос также является источником для аналитики отдела поддержки.
 
 Приложите к обращению один или несколько файлов, которые помогут лучше разобраться в ситуации. Это могут быть скриншоты разделов портала, документы или фотографии. Добавьте их через кнопку «Загрузить файлы».
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/ecfde644-2c85-4d28-8f42-15e88edb5e18.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/3bf0501f-1791-43da-9b77-df01fe3dd73c.webp)
 
 Каждый файл вложения должен быть не больше 10 МБ, а общий размер вложений — не больше 50 МБ
 
@@ -65,9 +65,9 @@
 
 После того, как вы нажмёте кнопку «Создать диалог» на экране появится подтверждение с его уникальным номером. В будущем, если вам снова потребуется обратиться в поддержку, вы можете сослаться на конкретный диалог, указав его номер.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/efe81fc8-a70d-40f8-a86e-5f688f91da4d.webp)Новый диалог отобразится слева в списке уже созданных диалогов со статусом «Создан».
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/8594dc71-7364-42dc-ad07-953bc229fc50.webp)Новый диалог отобразится слева в списке уже созданных диалогов со статусом «Создан».
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/859bd3cc-ef16-4f85-99c0-e029e2dae2de.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/5f2070ec-f2e0-43d2-8ae5-c1e04318dbd0.webp)
 
 Нажмите на диалог в списке слева, чтобы открыть историю переписки. Нажав кнопку «Информация» в правом верхнем углу, вы откроете окно с подробностями диалога:
 
@@ -75,17 +75,17 @@
 - текущим статусом,
 - точным временем создания.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/5c9cf483-b16c-4444-b792-8233e18b20ee.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/fd485b7b-6e14-4d9e-98b9-dd6ecfd5012c.webp)
 
 Здесь же можно открыть вложение, чтобы убедиться, что оно добавлено корректно:
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/a57d00ba-6a6e-436c-bc36-a5afeb8cb137.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/00d54f21-48fd-48a1-bcdd-920a5dae9eb7.webp)
 
 > **Обратите внимание**
 >
 > Если вопрос стал неактуальным, вы можете в любой момент отменить диалог. Для этого нажмите кнопку «Отменить диалог»:
 >
-> ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/d0310488-0e9c-4b36-899e-a4ca5636157b.webp)
+> ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/81ee3855-0923-4825-b89f-a95831071c44.webp)
 
 ## Получение ответа
 
@@ -126,4 +126,4 @@
 
 Чтобы найти нужный диалог в списке, вы можете использовать поиск и фильтр по **дате их создания**, **статусу** или **теме**:
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/ad2b40f3-b540-416d-a394-eed0a3686074.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/84e65030-73fb-4c25-ac07-13be03b95638.webp)

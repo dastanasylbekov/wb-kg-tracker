@@ -5150,5 +5150,53 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "11.09.2026",
     "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/clearing-temporary-files-cache-cookies-in-the-browser-armenia",
+    "title": "Очистка временных файлов: кэша и cookie в браузере",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "06.08.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am",
+    "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "16.09.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/seller-support-armenia",
+    "title": "Поддержка продавцов",
+    "old": "27.07.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/virtual-clothes-fitting-by-photostudio-am",
+    "title": "«Фотостудия»: генерация фото товара с помощью нейросети",
+    "old": "18.05.2026",
+    "new": "17.09.2026"
   }
 ]

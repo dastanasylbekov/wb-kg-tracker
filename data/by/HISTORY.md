@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-18_
+_Сформировано: 2026-09-21_
+
+## 2026-09-21
+### Сменилась дата «Обновлено» (5)
+- **Очистка временных файлов: кэша и cookie в браузере**: 18.05.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/clearing-temporary-files-cache-cookies-in-the-browser-belarus
+- **Отчёт «Сравнение карточек»**: 08.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus
+- **Отчёт «Лента заказов»**: 11.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
+- **Отчёт «Поисковые запросы: ваши товары»**: 04.09.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
+- **Поддержка продавцов**: 27.07.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/seller-support-belarus
+
+### Новые статьи (1)
+- **Разрешительные документы** (Обновлено 17.09.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/certificates-and-declarations-of-conformity-belarus
+
 
 ## 2026-09-18
 ### Сменилась дата «Обновлено» (6)

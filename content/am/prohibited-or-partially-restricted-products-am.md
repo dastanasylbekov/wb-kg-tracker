@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am
 - Идентификатор: A-1941
-- Обновлено: 2026-05-18T11:09:39.542878Z
+- Обновлено: 2026-09-18T13:05:12.609067Z
 
 ---
 > **Примечание**
@@ -366,4 +366,4 @@
 
 > **Важно**
 >
-> Перечень товаров, продажа которых запрещена или частично ограничена на Wildberries, [закреплён в оферте](https://static-basket-02.wbbasket.ru/vol20/folder/restricted/Perechen_zapreshchennykh_tovarov_Respubliki_Armenia_20260203.pdf)
+> [Перечень товаров](https://static-basket-02.wbbasket.ru/vol20/folder/restricted/Restricted_goods_AM.pdf), продажа которых запрещена или частично ограничена на Wildberries, [закреплён в оферте](https://static-basket-02.wbbasket.ru/vol20/folder/restricted/Perechen_zapreshchennykh_tovarov_Respubliki_Armenia_20260203.pdf)

@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/seller-support-kyrgyzstan
 - Идентификатор: A-1204
-- Обновлено: 2026-07-27T18:17:23.362372Z
+- Обновлено: 2026-09-18T06:58:28.728786Z
 
 ---
 > **Примечание**
@@ -11,11 +11,11 @@
 
 > **Совет**
 >
-> Остерегайтесь мошенников! Ознакомьтесь с [инструкцией, как от них защититься](https://seller.wildberries.ru/instructions/ru/kg/material/A-613)
+> Остерегайтесь мошенников! Ознакомьтесь с [инструкцией, как от них защититься](https://seller.wildberries.ru/instructions/ru/kg/material/how-to-protect-yourself-from-scammers-kyrgyzstan)
 
 ## Раздел «Поддержка»
 
-Если у вас возникли сложности при работе с порталом, и их решения нет в [справочном центре](https://seller.wildberries.ru/help-center/categories), вы можете обратиться в техническую поддержку.
+Если у вас возникли сложности при работе с порталом, и их решения нет в [справочном центре](https://seller.wildberries.ru/instructions/ru/kg/categories), вы можете обратиться в техническую поддержку.
 
 Чтобы перейти в раздел поддержки, наведите курсор на значок ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/d96db711-cc1d-4e1e-9649-4ae90ef98fe5.webp)в верхнем правом углу портала. Выберите раздел в выпадающем меню:
 
