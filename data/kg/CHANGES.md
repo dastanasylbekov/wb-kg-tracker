@@ -1,24 +1,18 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-09-21
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-09-22
 
-_Прогон: 2026-09-21 14:51 (Бишкек)_
+_Прогон: 2026-09-22 14:28 (Бишкек)_
 
-## Сменилась дата «Обновлено» (6)
-- **Разрешительные документы**: None → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
-  Текст статьи: `content/kg/certificates-and-declarations-of-conformity-kyrgyzstan.md`
-- **Отчёт «Доходы и расходы: показатели»**: 17.09.2026 → 06.08.2026
+## Сменилась дата «Обновлено» (3)
+- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
   Текст статьи: `content/kg/income-and-expenses-report-kg.md`
-- **Отчёт «Поисковые запросы: ваши товары»**: 04.09.2026 → 16.09.2026
+- **Отчёт «Поисковые запросы: ваши товары»**: 16.09.2026 → 04.09.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
   Текст статьи: `content/kg/search-queries-report-kyrgyzstan.md`
-- **Поддержка продавцов**: 27.07.2026 → 18.09.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/seller-support-kyrgyzstan
-  Текст статьи: `content/kg/seller-support-kyrgyzstan.md`
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 10.09.2026 → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan
-  Текст статьи: `content/kg/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan.md`
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.09.2026 → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan
-  Текст статьи: `content/kg/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan.md`
+- **Отчёт по удержаниям**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/withholdings-report-kyrgyzstan
+  Текст статьи: `content/kg/withholdings-report-kyrgyzstan.md`
+
+## Исчезли статьи (1)
+- ~~Разрешительные документы~~  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
 

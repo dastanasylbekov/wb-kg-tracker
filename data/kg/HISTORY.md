@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-09-21_
+_Сформировано: 2026-09-22_
+
+## 2026-09-22
+### Сменилась дата «Обновлено» (3)
+- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
+- **Отчёт «Поисковые запросы: ваши товары»**: 16.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
+- **Отчёт по удержаниям**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/withholdings-report-kyrgyzstan
+
+### Исчезли статьи (1)
+- ~~Разрешительные документы~~  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
+
 
 ## 2026-09-21
 ### Сменилась дата «Обновлено» (6)

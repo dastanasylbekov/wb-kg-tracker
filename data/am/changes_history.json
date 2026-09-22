@@ -5198,5 +5198,37 @@
     "title": "«Фотостудия»: генерация фото товара с помощью нейросети",
     "old": "18.05.2026",
     "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/card-statuses-limits-and-settings-armenia",
+    "title": "Статусы, лимиты и настройки карточек",
+    "old": "16.09.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/labels-for-filtering-products-armenia",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.09.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "18.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/withholding-report-armenia",
+    "title": "Отчёт по удержаниям",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
   }
 ]

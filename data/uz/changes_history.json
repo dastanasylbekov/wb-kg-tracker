@@ -5150,5 +5150,37 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "11.09.2026",
     "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "10.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "17.09.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "18.09.2026",
+    "new": "21.09.2026"
   }
 ]

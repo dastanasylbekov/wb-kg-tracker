@@ -5334,5 +5334,37 @@
     "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
     "old": "11.09.2026",
     "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "06.08.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "16.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/withholdings-report-kyrgyzstan",
+    "title": "Отчёт по удержаниям",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-22",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan",
+    "title": "Разрешительные документы",
+    "old": "17.09.2026",
+    "new": null
   }
 ]
