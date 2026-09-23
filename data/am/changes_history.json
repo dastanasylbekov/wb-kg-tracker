@@ -5230,5 +5230,61 @@
     "title": "Отчёт по удержаниям",
     "old": "18.05.2026",
     "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/card-statuses-limits-and-settings-armenia",
+    "title": "Статусы, лимиты и настройки карточек",
+    "old": "18.05.2026",
+    "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/events-calendar-am",
+    "title": "Отчёт «Календарь событий»",
+    "old": "10.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "17.09.2026",
+    "new": "06.08.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/labels-for-filtering-products-armenia",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "17.09.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/search-analytics-report-ar",
+    "title": "Отчёт «Поисковые запросы на WB»",
+    "old": "01.07.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/selling-tobacco-products-on-wildberries-in-armenia",
+    "title": "Продажа табачной продукции на Wildberries в Армении",
+    "old": "16.09.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/users-and-accesses-armenia",
+    "title": "Пользователи и доступы",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
   }
 ]

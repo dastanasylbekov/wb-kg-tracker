@@ -1006,5 +1006,13 @@
     "title": "Ярлыки для фильтрации товаров",
     "old": "18.09.2026",
     "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/labels-for-filtering-products-ge",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
   }
 ]

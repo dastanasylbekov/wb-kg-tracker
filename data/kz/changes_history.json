@@ -4926,5 +4926,53 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "18.09.2026",
     "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/calendar-of-events-report-kazakhstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "10.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/data-and-user-security-for-kz",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "01.09.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz",
+    "title": "Отчёт «Доходы и расходы: показатели»",
+    "old": "06.08.2026",
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "16.09.2026",
+    "new": "11.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/search-analytics-report-kz",
+    "title": "Отчёт «Поисковые запросы на WB»",
+    "old": "01.07.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/users-and-accesses-kazakhstan",
+    "title": "Пользователи и доступы",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
   }
 ]

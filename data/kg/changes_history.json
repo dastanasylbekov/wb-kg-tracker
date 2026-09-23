@@ -5366,5 +5366,37 @@
     "title": "Разрешительные документы",
     "old": "17.09.2026",
     "new": null
+  },
+  {
+    "run": "2026-09-23",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan",
+    "title": "Разрешительные документы",
+    "old": null,
+    "new": "17.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "04.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/users-and-accesses-kyrgyzstan",
+    "title": "Пользователи и доступы",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/withholdings-report-kyrgyzstan",
+    "title": "Отчёт по удержаниям",
+    "old": "22.09.2026",
+    "new": "18.05.2026"
   }
 ]

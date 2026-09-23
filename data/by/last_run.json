@@ -2,11 +2,11 @@
   "country": "by",
   "name": "Беларусь",
   "flag": "🇧🇾",
-  "run_local": "2026-09-22 14:33",
-  "run_utc": "2026-09-22 08:33 UTC",
-  "run_iso": "2026-09-22T08:33:39+00:00",
-  "articles": 206,
+  "run_local": "2026-09-23 14:35",
+  "run_utc": "2026-09-23 08:35 UTC",
+  "run_iso": "2026-09-23T08:35:29+00:00",
+  "articles": 205,
   "added": 0,
-  "date_changed": 0,
-  "removed": 0
+  "date_changed": 5,
+  "removed": 1
 }

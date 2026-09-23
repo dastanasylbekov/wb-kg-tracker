@@ -918,5 +918,13 @@
     "title": "დახმარების ცენტრი",
     "old": "18.5.2026",
     "new": null
+  },
+  {
+    "run": "2026-09-23",
+    "type": "removed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/contact-support-desk-for-sellers-ge",
+    "title": "დახმარების ცენტრი",
+    "old": null,
+    "new": null
   }
 ]
