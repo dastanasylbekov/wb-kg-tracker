@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ge/instructions/ru/ge/material/bulk-adding-of-products-ge
 - Идентификатор: A-1365
-- Обновлено: 2026-06-30T15:54:56.63Z
+- Обновлено: 2026-09-24T11:45:16.710824Z
 
 ---
 > **Примечание**

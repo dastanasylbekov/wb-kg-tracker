@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-09-23_
+_Сформировано: 2026-09-24_
+
+## 2026-09-24
+### Сменилась дата «Обновлено» (5)
+- **Справочный центр**: 27.07.2026 → None
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-improve-photos-and-videos-in-a-card-ar
+- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am
+- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 23.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am
+- **Продажа табачной продукции на Wildberries в Армении**: 18.05.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/selling-tobacco-products-on-wildberries-in-armenia
+- **Отчёт по удержаниям**: 22.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/withholding-report-armenia
+
 
 ## 2026-09-23
 ### Сменилась дата «Обновлено» (7)

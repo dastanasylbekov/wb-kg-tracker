@@ -1,24 +1,21 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-09-23
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-09-24
 
-_Прогон: 2026-09-23 14:40 (Бишкек)_
+_Прогон: 2026-09-24 14:34 (Бишкек)_
 
-## Сменилась дата «Обновлено» (6)
-- **Отчёт «Календарь событий»**: 10.09.2026 → 21.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/calendar-of-events-report-kazakhstan
-  Текст статьи: `content/kz/calendar-of-events-report-kazakhstan.md`
-- **Безопасность данных и профиля продавца**: 01.09.2026 → 22.09.2026
+## Сменилась дата «Обновлено» (5)
+- **Безопасность данных и профиля продавца**: 22.09.2026 → 01.09.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/data-and-user-security-for-kz
   Текст статьи: `content/kz/data-and-user-security-for-kz.md`
-- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz
-  Текст статьи: `content/kz/income-and-expenses-report-kz.md`
-- **Отчёт «Лента заказов»**: 16.09.2026 → 11.09.2026
+- **Отчёт «Лента заказов»**: 11.09.2026 → 16.09.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
   Текст статьи: `content/kz/order-feed-report-kz.md`
-- **Отчёт «Поисковые запросы на WB»**: 01.07.2026 → 22.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/search-analytics-report-kz
-  Текст статьи: `content/kz/search-analytics-report-kz.md`
-- **Пользователи и доступы**: 18.05.2026 → 22.09.2026
+- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 23.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan
+  Текст статьи: `content/kz/search-queries-report-kazakhstan.md`
+- **Пользователи и доступы**: 22.09.2026 → 18.05.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/users-and-accesses-kazakhstan
   Текст статьи: `content/kz/users-and-accesses-kazakhstan.md`
+- **Отчёт по удержаниям**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/withholdings-report-kazakhstan
+  Текст статьи: `content/kz/withholdings-report-kazakhstan.md`
 

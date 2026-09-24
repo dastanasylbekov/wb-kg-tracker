@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-09-23_
+_Сформировано: 2026-09-24_
+
+## 2026-09-24
+### Сменилась дата «Обновлено» (5)
+- **Безопасность данных и профиля продавца**: 22.09.2026 → 01.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/data-and-user-security-for-kz
+- **Отчёт «Лента заказов»**: 11.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 23.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/search-queries-report-kazakhstan
+- **Пользователи и доступы**: 22.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/users-and-accesses-kazakhstan
+- **Отчёт по удержаниям**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/withholdings-report-kazakhstan
+
 
 ## 2026-09-23
 ### Сменилась дата «Обновлено» (6)

@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-23_
+_Сформировано: 2026-09-24_
+
+## 2026-09-24
+### Сменилась дата «Обновлено» (4)
+- **О сервисе «Витрина магазина»**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/about-seller-showcase-by
+- **Отчёт «Поисковые запросы на WB»**: 01.07.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-analytics-report-by
+- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 23.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
+- **Пользователи и доступы**: 22.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/users-and-accesses-belarus
+
+### Новые статьи (1)
+- **Отчёт «Аудитория витрины»** (Обновлено 18.05.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/showcase-audience-report-by
+
 
 ## 2026-09-23
 ### Сменилась дата «Обновлено» (5)

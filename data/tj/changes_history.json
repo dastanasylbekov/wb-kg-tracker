@@ -1534,5 +1534,13 @@
     "title": "Отчёт по возвратам и перемещению товаров",
     "old": "21.09.2026",
     "new": null
+  },
+  {
+    "run": "2026-09-24",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/returns-and-item-transfer-perort-tajikistan",
+    "title": "Отчёт по возвратам и перемещению товаров",
+    "old": null,
+    "new": "21.09.2026"
   }
 ]

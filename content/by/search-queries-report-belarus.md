@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
 - Идентификатор: A-1247
-- Обновлено: 2026-09-21T07:55:13.523373Z
+- Обновлено: 2026-09-23T17:45:09.224888Z
 
 ---
 > **Примечание**
@@ -201,7 +201,7 @@
 >
 > Вкладка доступна в бесплатной версии отчёта — можно проанализировать карточки по 8 основным факторам ранжирования. В платной версии доступны ещё 8 факторов
 
-![image1.png](https://static-basket-02.wbbasket.ru/vol20/article-static/8f967dd3-8e34-4216-aa50-49c97f39b344.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/9d96c1f6-b5c5-427a-a3f3-2a89bcbe3503.png.webp)
 
 Всего мы анализируем **16 факторов**, которые влияют на ранжирование:
 

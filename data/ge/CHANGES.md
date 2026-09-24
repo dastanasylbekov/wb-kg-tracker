@@ -1,9 +1,9 @@
-# Изменения справки WB — 🇬🇪 Грузия — 2026-09-23
+# Изменения справки WB — 🇬🇪 Грузия — 2026-09-24
 
-_Прогон: 2026-09-23 14:53 (Бишкек)_
+_Прогон: 2026-09-24 14:59 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (1)
-- **Ярлыки для фильтрации товаров**: 18.05.2026 → 18.09.2026
-  https://seller.wildberries.ge/instructions/ru/ge/material/labels-for-filtering-products-ge
-  Текст статьи: `content/ge/labels-for-filtering-products-ge.md`
+- **Как создать сразу много карточек товаров**: 30.06.2026 → 24.09.2026
+  https://seller.wildberries.ge/instructions/ru/ge/material/bulk-adding-of-products-ge
+  Текст статьи: `content/ge/bulk-adding-of-products-ge.md`
 
