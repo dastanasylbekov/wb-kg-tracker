@@ -1,21 +1,18 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-09-24
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-09-25
 
-_Прогон: 2026-09-24 14:54 (Бишкек)_
+_Прогон: 2026-09-25 15:05 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Безопасность данных и профиля продавца**: 01.09.2026 → 22.09.2026
+## Сменилась дата «Обновлено» (4)
+- **Безопасность данных и профиля продавца**: 22.09.2026 → 01.09.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/data-and-user-security-for-uzb
   Текст статьи: `content/uz/data-and-user-security-for-uzb.md`
-- **Отчёт «Календарь событий»**: 10.09.2026 → 21.09.2026
+- **Отчёт «Календарь событий»**: 21.09.2026 → 10.09.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb
   Текст статьи: `content/uz/events-calendar-uzb.md`
-- **Отчёт «Поисковые запросы на WB»**: 01.07.2026 → 22.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/search-analytics-report-uz
-  Текст статьи: `content/uz/search-analytics-report-uz.md`
-- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 23.09.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz
-  Текст статьи: `content/uz/search-queries-report-uz.md`
-- **Поддержка продавцов**: 18.09.2026 → 27.07.2026
+- **Ярлыки для фильтрации товаров**: 18.09.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan
+  Текст статьи: `content/uz/labels-for-filtering-products-uzbekistan.md`
+- **Поддержка продавцов**: 27.07.2026 → 18.09.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/seller-support-uzbekistan
   Текст статьи: `content/uz/seller-support-uzbekistan.md`
 

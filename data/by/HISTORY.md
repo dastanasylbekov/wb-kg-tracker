@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-24_
+_Сформировано: 2026-09-25_
+
+## 2026-09-25
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Оценка товара»**: 27.08.2026 → 24.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/product-evaluation-report-by
+- **Пользователи и доступы**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/users-and-accesses-belarus
+
 
 ## 2026-09-24
 ### Сменилась дата «Обновлено» (4)

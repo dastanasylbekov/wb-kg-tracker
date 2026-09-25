@@ -5430,5 +5430,37 @@
     "title": "Отчёт по удержаниям",
     "old": "18.05.2026",
     "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "21.09.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan",
+    "title": "Как создать карточку товара",
+    "old": "03.09.2026",
+    "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-analytics-report-kg",
+    "title": "Отчёт «Поисковые запросы на WB»",
+    "old": "01.07.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "21.09.2026",
+    "new": "16.09.2026"
   }
 ]

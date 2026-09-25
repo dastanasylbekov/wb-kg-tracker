@@ -1022,5 +1022,21 @@
     "title": "Как создать сразу много карточек товаров",
     "old": "30.06.2026",
     "new": "24.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/bulk-adding-of-products-ge",
+    "title": "Как создать сразу много карточек товаров",
+    "old": "24.09.2026",
+    "new": "30.06.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "removed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/rules-for-filling-out-a-product-card-ge",
+    "title": "Правила заполнения полей в карточке товара",
+    "old": "05.06.2026",
+    "new": null
   }
 ]

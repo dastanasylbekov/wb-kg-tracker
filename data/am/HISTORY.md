@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-09-24_
+_Сформировано: 2026-09-25_
+
+## 2026-09-25
+### Сменилась дата «Обновлено» (5)
+- **Безопасность данных и профиля продавца**: 01.09.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/data-and-seller-account-security-for-armenia
+- **Как улучшить фото и видео в карточке**: None → 27.07.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-improve-photos-and-videos-in-a-card-ar
+- **Отчёт «Оценка товара»**: 27.08.2026 → 24.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/product-evaluation-report-ar
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries**: 18.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am
+- **Отчёт по удержаниям**: 18.05.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/withholding-report-armenia
+
 
 ## 2026-09-24
 ### Сменилась дата «Обновлено» (5)

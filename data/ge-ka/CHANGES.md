@@ -1,8 +1,7 @@
-# Изменения справки WB — 🇬🇪 Грузия (ka) — 2026-09-24
+# Изменения справки WB — 🇬🇪 Грузия (ka) — 2026-09-25
 
-_Прогон: 2026-09-24 15:01 (Бишкек)_
+_Прогон: 2026-09-25 15:10 (Бишкек)_
 
-## Новые статьи (1)
-- **სელერების მხარდაჭერა** (Обновлено 18.5.2026)
-  https://seller.wildberries.ge/instructions/ka/ge/material/contact-support-desk-for-sellers-ge
+## Исчезли статьи (1)
+- ~~სელერების მხარდაჭერა~~  https://seller.wildberries.ge/instructions/ka/ge/material/contact-support-desk-for-sellers-ge
 

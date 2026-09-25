@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am
 - Идентификатор: A-1941
-- Обновлено: 2026-09-18T13:05:12.609067Z
+- Обновлено: 2026-09-25T09:23:06.640876Z
 
 ---
 > **Примечание**

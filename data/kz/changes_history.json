@@ -5014,5 +5014,29 @@
     "title": "Отчёт по удержаниям",
     "old": "18.05.2026",
     "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/data-and-user-security-for-kz",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "01.09.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/users-and-accesses-kazakhstan",
+    "title": "Пользователи и доступы",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/wbot-analytics-in-the-app-kz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "10.09.2026",
+    "new": "24.09.2026"
   }
 ]

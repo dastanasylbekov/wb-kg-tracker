@@ -1542,5 +1542,13 @@
     "title": "Отчёт по возвратам и перемещению товаров",
     "old": null,
     "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/users-and-accesses-tajikistan",
+    "title": "Пользователи и доступы",
+    "old": null,
+    "new": "22.09.2026"
   }
 ]

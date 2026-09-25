@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-09-24_
+_Сформировано: 2026-09-25_
+
+## 2026-09-25
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Календарь событий»**: 21.09.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan
+- **Как создать карточку товара**: 03.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-product-profile-kyrgyzstan
+- **Отчёт «Поисковые запросы на WB»**: 01.07.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-analytics-report-kg
+- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 16.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
+
 
 ## 2026-09-24
 ### Сменилась дата «Обновлено» (4)

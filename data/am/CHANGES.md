@@ -1,21 +1,21 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-09-24
+# Изменения справки WB — 🇦🇲 Армения — 2026-09-25
 
-_Прогон: 2026-09-24 14:40 (Бишкек)_
+_Прогон: 2026-09-25 15:00 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (5)
-- **Справочный центр**: 27.07.2026 → None
+- **Безопасность данных и профиля продавца**: 01.09.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/data-and-seller-account-security-for-armenia
+  Текст статьи: `content/am/data-and-seller-account-security-for-armenia.md`
+- **Как улучшить фото и видео в карточке**: None → 27.07.2026
   https://seller.wildberries.ru/instructions/ru/am/material/how-to-improve-photos-and-videos-in-a-card-ar
   Текст статьи: `content/am/how-to-improve-photos-and-videos-in-a-card-ar.md`
-- **Отчёт «Доходы и расходы: показатели»**: 06.08.2026 → 17.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am
-  Текст статьи: `content/am/income-and-expenses-report-am.md`
-- **Отчёт «Поисковые запросы: ваши товары»**: 21.09.2026 → 23.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/search-queries-report-am
-  Текст статьи: `content/am/search-queries-report-am.md`
-- **Продажа табачной продукции на Wildberries в Армении**: 18.05.2026 → 16.09.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/selling-tobacco-products-on-wildberries-in-armenia
-  Текст статьи: `content/am/selling-tobacco-products-on-wildberries-in-armenia.md`
-- **Отчёт по удержаниям**: 22.09.2026 → 18.05.2026
+- **Отчёт «Оценка товара»**: 27.08.2026 → 24.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/product-evaluation-report-ar
+  Текст статьи: `content/am/product-evaluation-report-ar.md`
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries**: 18.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am
+  Текст статьи: `content/am/prohibited-or-partially-restricted-products-am.md`
+- **Отчёт по удержаниям**: 18.05.2026 → 22.09.2026
   https://seller.wildberries.ru/instructions/ru/am/material/withholding-report-armenia
   Текст статьи: `content/am/withholding-report-armenia.md`
 

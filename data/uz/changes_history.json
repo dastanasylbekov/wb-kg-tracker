@@ -5254,5 +5254,37 @@
     "title": "Поддержка продавцов",
     "old": "18.09.2026",
     "new": "27.07.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/data-and-user-security-for-uzb",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "22.09.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "21.09.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.09.2026",
+    "new": "18.05.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/seller-support-uzbekistan",
+    "title": "Поддержка продавцов",
+    "old": "27.07.2026",
+    "new": "18.09.2026"
   }
 ]

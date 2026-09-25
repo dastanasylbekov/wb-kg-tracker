@@ -934,5 +934,13 @@
     "title": "სელერების მხარდაჭერა",
     "old": null,
     "new": "18.5.2026"
+  },
+  {
+    "run": "2026-09-25",
+    "type": "removed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/contact-support-desk-for-sellers-ge",
+    "title": "სელერების მხარდაჭერა",
+    "old": "18.5.2026",
+    "new": null
   }
 ]
