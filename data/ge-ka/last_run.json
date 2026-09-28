@@ -2,11 +2,11 @@
   "country": "ge",
   "name": "Грузия (ka)",
   "flag": "🇬🇪",
-  "run_local": "2026-09-25 15:10",
-  "run_utc": "2026-09-25 09:10 UTC",
-  "run_iso": "2026-09-25T09:10:39+00:00",
+  "run_local": "2026-09-28 16:06",
+  "run_utc": "2026-09-28 10:06 UTC",
+  "run_iso": "2026-09-28T10:06:28+00:00",
   "articles": 54,
   "added": 0,
-  "date_changed": 0,
-  "removed": 1
+  "date_changed": 1,
+  "removed": 0
 }

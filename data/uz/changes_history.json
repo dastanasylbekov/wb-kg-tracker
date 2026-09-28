@@ -5286,5 +5286,53 @@
     "title": "Поддержка продавцов",
     "old": "27.07.2026",
     "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/data-and-user-security-for-uzb",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "01.09.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan",
+    "title": "Отчёт «География заказов»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "10.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/labels-for-filtering-products-uzbekistan",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": "18.05.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/users-and-accesses-uzbekistan",
+    "title": "Пользователи и доступы",
+    "old": "18.05.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "10.09.2026",
+    "new": "24.09.2026"
   }
 ]

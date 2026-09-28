@@ -5366,5 +5366,29 @@
     "title": "Отчёт по удержаниям",
     "old": "18.05.2026",
     "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/deliveries-by-region-report-armenia",
+    "title": "Отчёт «География заказов»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "text_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am",
+    "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
+    "old": "2026-09-25T09:23:06.640876Z",
+    "new": "2026-09-25T09:34:10.27336Z"
   }
 ]

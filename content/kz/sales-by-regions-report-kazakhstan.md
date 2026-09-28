@@ -2,12 +2,18 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/sales-by-regions-report-kazakhstan
 - Идентификатор: A-1281
-- Обновлено: 2026-09-03T12:53:55.950013Z
+- Обновлено: 2026-09-25T15:57:01.894237Z
 
 ---
 > **Примечание**
 >
 > Эта статья — для продавцов из Казахстана 🇰🇿
+
+> **Важно**
+>
+> Перенесли метрики продаж по регионам в [отчёт «География заказов»](https://seller.wildberries.ru/remains-analytics/orders-geography). О том, как пользоваться «Географией заказов» рассказали [в этой инструкции](https://seller.wildberries.ru/instructions/ru/ru/material/regional-shipment-report).
+>
+> Отчёт «Продажи по регионам» закроем в ближайшие месяцы
 
 ## Для чего нужен отчёт
 

@@ -1038,5 +1038,21 @@
     "title": "Правила заполнения полей в карточке товара",
     "old": "05.06.2026",
     "new": null
+  },
+  {
+    "run": "2026-09-28",
+    "type": "added",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/rules-for-filling-out-a-product-card-ge",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/bulk-adding-of-products-ge",
+    "title": "Как создать сразу много карточек товаров",
+    "old": "30.06.2026",
+    "new": "25.09.2026"
   }
 ]

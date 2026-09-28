@@ -1550,5 +1550,13 @@
     "title": "Пользователи и доступы",
     "old": null,
     "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/regional-shipment-report-tajikistan",
+    "title": "Отчёт «География заказов»",
+    "old": null,
+    "new": "25.09.2026"
   }
 ]

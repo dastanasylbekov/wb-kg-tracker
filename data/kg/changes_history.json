@@ -5462,5 +5462,45 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "21.09.2026",
     "new": "16.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan",
+    "title": "Отчёт «Календарь событий»",
+    "old": "10.09.2026",
+    "new": "21.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/data-security-kg",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "22.09.2026",
+    "new": "01.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg",
+    "title": "Отчёт «Оценка товара»",
+    "old": "27.08.2026",
+    "new": "24.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "16.09.2026",
+    "new": "23.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/wbot-analytics-in-the-app-kg",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "10.09.2026",
+    "new": "24.09.2026"
   }
 ]

@@ -1,15 +1,15 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-09-25
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-09-28
 
-_Прогон: 2026-09-25 14:55 (Бишкек)_
+_Прогон: 2026-09-28 15:50 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (3)
-- **Безопасность данных и профиля продавца**: 01.09.2026 → 22.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/data-and-user-security-for-kz
-  Текст статьи: `content/kz/data-and-user-security-for-kz.md`
-- **Пользователи и доступы**: 18.05.2026 → 22.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/users-and-accesses-kazakhstan
-  Текст статьи: `content/kz/users-and-accesses-kazakhstan.md`
-- **«Помощник»: аналитика и данные по вашим товарам**: 10.09.2026 → 24.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/wbot-analytics-in-the-app-kz
-  Текст статьи: `content/kz/wbot-analytics-in-the-app-kz.md`
+- **Отчёт «География заказов»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
+  Текст статьи: `content/kz/deliveries-by-region-report-kazakhstan.md`
+- **Отчёт «Продажи по регионам»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-by-regions-report-kazakhstan
+  Текст статьи: `content/kz/sales-by-regions-report-kazakhstan.md`
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+  Текст статьи: `content/kz/sales-funnel-report-kazakhstan.md`
 

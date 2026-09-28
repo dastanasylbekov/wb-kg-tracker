@@ -5270,5 +5270,13 @@
     "title": "Пользователи и доступы",
     "old": "18.05.2026",
     "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-28",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/showcase-audience-report-by",
+    "title": "Отчёт «Аудитория витрины»",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

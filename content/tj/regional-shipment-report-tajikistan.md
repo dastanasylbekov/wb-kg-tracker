@@ -1,13 +1,13 @@
 # Отчёт «География заказов»
 
-- Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan
-- Идентификатор: A-1240
-- Обновлено: 2026-09-25T15:58:31.236052Z
+- Адрес: https://seller.wildberries.ru/instructions/ru/tj/material/regional-shipment-report-tajikistan
+- Идентификатор: A-2360
+- Обновлено: 2026-09-25T18:17:44.748866Z
 
 ---
 > **Примечание**
 >
-> Эта статья — для продавцов из Узбекистана 🇺🇿
+> Эта статья — для продавцов из Таджикистана
 
 ### Термины в отчёте
 
@@ -37,7 +37,7 @@
 
 Рядом находятся фильтры, если нужно посмотреть данные по конкретному предмету, бренду, артикулу или ярлыку.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/2ffe105e-a831-41de-9541-d53877023015.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/a9d40b21-5964-4697-a883-f26d3c50ac7a.webp)
 
 По умолчанию в отчёте показаны данные за последние 7 дней.
 
@@ -49,7 +49,7 @@
 
 Если хотите посмотреть данные по одной модели продаж, уберите галочку напротив второго.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/9c02134f-a936-4fd1-92bf-7369453f3867.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/93e0ceb0-69de-42ed-b51e-4f9c018b6a48.webp)
 
 ### Общие показатели
 
@@ -71,13 +71,13 @@
 - **Долю региона в заказах.** Какую часть всех ваших заказов составляют заказы из конкретного региона.
 - **Долю всех заказов ВБ.** Какая часть всех заказов на WB приходится на этот регион. Показатель рассчитывается без учёта фильтров, если вы применяли их к отчёту.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/11369325-2151-4a60-9ccc-256005347fa1.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/a8cd203e-c050-4328-aee7-9d282f40cbee.webp)
 
 ## Таблица
 
 Внизу отчёта находится подробная таблица с детализированными данными по всем вашим товарам с разбивкой по регионам доставки. Для размерных товаров доступна разбивка по размерам — для этого в верхней части таблицы есть переключатель.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/ecc1f20d-352a-4abc-a208-cc655cf64980.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/7df273a5-c490-405a-9cc8-9b7f24ce01f5.webp)
 
 Данные в таблице:
 
@@ -96,10 +96,10 @@
 
 По кнопкам сверху над таблицей вы можете скачать данные в формате XLSX, а также посмотреть все файлы, которые вы скачивали раньше.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/3a760d01-ae2f-4df9-bc09-7937b9860e4d.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/c2589cf7-70f4-4be7-bb22-541993eafd26.webp)
 
 В окне создания XLSX-файла по умолчанию будет включена дополнительная настройка — «Распределить по областям и регионам». С ней в XLSX-файле данные по регионам и областям сгруппируются автоматически. Их можно найти на листе «Детальные данные». Чтобы отключить настройку, переведите переключатель в неактивное положение.
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/2060ec21-0d65-4764-a3b8-4e38c4470537.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/cc981c95-1df3-460d-88b6-6baa74cec1d2.webp)
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/a56fb300-0dc9-40d3-9e24-fc6dd56eb380.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/6541050c-147a-4877-a688-56367c3440c7.webp)
