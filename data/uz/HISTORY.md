@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-09-28_
+_Сформировано: 2026-09-29_
+
+## 2026-09-29
+### Сменилась дата «Обновлено» (6)
+- **Отчёт «Календарь событий»**: 21.09.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb
+- **Отчёт «Оценка товара»**: 27.08.2026 → 24.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz
+- **Отчёт «Продажи по регионам»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
+- **«Помощник»: аналитика и данные по вашим товарам**: 24.09.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz
+
 
 ## 2026-09-28
 ### Сменилась дата «Обновлено» (6)

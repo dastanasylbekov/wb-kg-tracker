@@ -1,6 +1,15 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-09-28_
+_Сформировано: 2026-09-29_
+
+## 2026-09-29
+### Сменилась дата «Обновлено» (1)
+- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/step3b-shipping-fbs-deliveries-to-the-pickup-point-tj
+
+### Исчезли статьи (1)
+- ~~Пользователи и доступы~~  https://seller.wildberries.ru/instructions/ru/tj/material/users-and-accesses-tajikistan
+
 
 ## 2026-09-28
 ### Новые статьи (1)

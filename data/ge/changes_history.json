@@ -1054,5 +1054,13 @@
     "title": "Как создать сразу много карточек товаров",
     "old": "30.06.2026",
     "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "removed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/rules-for-filling-out-a-product-card-ge",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]

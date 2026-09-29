@@ -5062,5 +5062,37 @@
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
     "old": "04.09.2026",
     "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan",
+    "title": "Сводка аналитики",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/product-evaluation-report-kz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "27.08.2026",
+    "new": "24.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "28.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-1-processing-a-new-order-through-fbs-kazakhstan",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "14.07.2026",
+    "new": "28.09.2026"
   }
 ]

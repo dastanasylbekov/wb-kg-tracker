@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-09-28_
+_Сформировано: 2026-09-29_
+
+## 2026-09-29
+### Сменилась дата «Обновлено» (4)
+- **Сводка аналитики**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan
+- **Отчёт «Оценка товара»**: 27.08.2026 → 24.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/product-evaluation-report-kz
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 28.09.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+- **Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)**: 14.07.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-1-processing-a-new-order-through-fbs-kazakhstan
+
 
 ## 2026-09-28
 ### Сменилась дата «Обновлено» (3)

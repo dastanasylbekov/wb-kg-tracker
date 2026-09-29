@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-28_
+_Сформировано: 2026-09-29_
+
+## 2026-09-29
+### Сменилась дата «Обновлено» (3)
+- **Отчёт «География заказов»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/deliveries-by-region-report-belarus
+- **Отчёт «Продажи по регионам»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/sales-by-regions-report-belarus
+- **Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)**: 14.07.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-1-processing-a-new-order-through-fbs-belarus
+
+### Новые статьи (1)
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries** (Обновлено 28.09.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/prohibited-or-partially-restricted-items-by
+
 
 ## 2026-09-28
 ### Исчезли статьи (1)

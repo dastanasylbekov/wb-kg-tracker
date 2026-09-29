@@ -5502,5 +5502,45 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "10.09.2026",
     "new": "24.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/data-security-kg",
+    "title": "Безопасность данных и профиля продавца",
+    "old": "01.09.2026",
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan",
+    "title": "Отчёт «География заказов»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-1-processing-a-new-order-through-fbs-kyrgyzstan",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "14.07.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/wbot-analytics-in-the-app-kg",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "24.09.2026",
+    "new": "10.09.2026"
   }
 ]

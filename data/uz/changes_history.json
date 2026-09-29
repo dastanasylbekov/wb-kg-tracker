@@ -5334,5 +5334,53 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "10.09.2026",
     "new": "24.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/events-calendar-uzb",
+    "title": "Отчёт «Календарь событий»",
+    "old": "21.09.2026",
+    "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "27.08.2026",
+    "new": "24.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "17.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "24.09.2026",
+    "new": "10.09.2026"
   }
 ]

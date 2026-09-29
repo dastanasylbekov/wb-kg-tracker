@@ -1558,5 +1558,21 @@
     "title": "Отчёт «География заказов»",
     "old": null,
     "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step3b-shipping-fbs-deliveries-to-the-pickup-point-tj",
+    "title": "Этап 3б. Отгрузка поставок FBS в ПВЗ",
+    "old": "11.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/users-and-accesses-tajikistan",
+    "title": "Пользователи и доступы",
+    "old": "22.09.2026",
+    "new": null
   }
 ]

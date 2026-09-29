@@ -5278,5 +5278,37 @@
     "title": "Отчёт «Аудитория витрины»",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-09-29",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/prohibited-or-partially-restricted-items-by",
+    "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
+    "old": null,
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/deliveries-by-region-report-belarus",
+    "title": "Отчёт «География заказов»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/sales-by-regions-report-belarus",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-1-processing-a-new-order-through-fbs-belarus",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "14.07.2026",
+    "new": "28.09.2026"
   }
 ]

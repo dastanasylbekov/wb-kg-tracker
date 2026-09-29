@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-09-28_
+_Сформировано: 2026-09-29_
+
+## 2026-09-29
+### Сменилась дата «Обновлено» (5)
+- **Безопасность данных и профиля продавца**: 01.09.2026 → 22.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/data-security-kg
+- **Отчёт «География заказов»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan
+- **Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)**: 14.07.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-1-processing-a-new-order-through-fbs-kyrgyzstan
+- **«Помощник»: аналитика и данные по вашим товарам**: 24.09.2026 → 10.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/wbot-analytics-in-the-app-kg
+
 
 ## 2026-09-28
 ### Сменилась дата «Обновлено» (5)

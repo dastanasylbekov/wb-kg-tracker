@@ -2,12 +2,18 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan
 - Идентификатор: A-1282
-- Обновлено: 2026-09-03T12:53:59.291707Z
+- Обновлено: 2026-09-25T15:57:06.3926Z
 
 ---
 > **Примечание**
 >
 > Эта статья — для продавцов из Узбекистана 🇺🇿
+
+> **Важно**
+>
+> Перенесли метрики продаж по регионам в [отчёт «География заказов»](https://seller.wildberries.ru/remains-analytics/orders-geography). О том, как пользоваться «Географией заказов» рассказали [в этой инструкции](https://seller.wildberries.ru/instructions/ru/ru/material/regional-shipment-report).
+>
+> Отчёт «Продажи по регионам» закроем в ближайшие месяцы
 
 ## Для чего нужен отчёт
 

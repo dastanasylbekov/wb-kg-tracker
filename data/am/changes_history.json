@@ -5390,5 +5390,45 @@
     "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
     "old": "2026-09-25T09:23:06.640876Z",
     "new": "2026-09-25T09:34:10.27336Z"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/prohibited-or-partially-restricted-products-am",
+    "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
+    "old": "25.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "25.09.2026",
+    "new": "03.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-report-armenia",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-1-processing-a-new-order-through-fbs-armenia",
+    "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
+    "old": "14.07.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/wbot-analytics-in-the-app-am",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "10.09.2026",
+    "new": "24.09.2026"
   }
 ]
