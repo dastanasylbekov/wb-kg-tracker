@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-29_
+_Сформировано: 2026-09-30_
+
+## 2026-09-30
+### Сменилась дата «Обновлено» (3)
+- **Разрешительные документы**: 17.09.2026 → 29.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/certificates-and-declarations-of-conformity-belarus
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 17.09.2026 → 29.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-belarus
+
+### Новые статьи (1)
+- **Отчёт «Аудитория витрины»** (Обновлено 18.05.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/showcase-audience-report-by
+
 
 ## 2026-09-29
 ### Сменилась дата «Обновлено» (3)

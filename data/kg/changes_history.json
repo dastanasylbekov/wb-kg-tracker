@@ -5542,5 +5542,53 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "24.09.2026",
     "new": "10.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan",
+    "title": "Разрешительные документы",
+    "old": "17.09.2026",
+    "new": "29.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-by-regions-report-kyrgyzstan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "28.09.2026",
+    "new": "04.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "23.09.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "17.09.2026",
+    "new": "29.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/wbot-analytics-in-the-app-kg",
+    "title": "«Помощник»: аналитика и данные по вашим товарам",
+    "old": "10.09.2026",
+    "new": "24.09.2026"
   }
 ]

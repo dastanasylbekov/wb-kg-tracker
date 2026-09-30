@@ -1574,5 +1574,21 @@
     "title": "Пользователи и доступы",
     "old": "22.09.2026",
     "new": null
+  },
+  {
+    "run": "2026-09-30",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/users-and-accesses-tajikistan",
+    "title": "Пользователи и доступы",
+    "old": null,
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/step-3-delivery-fbs-orders-to-a-warehouse-tj",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "10.09.2026",
+    "new": "29.09.2026"
   }
 ]

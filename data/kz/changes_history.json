@@ -5094,5 +5094,13 @@
     "title": "Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)",
     "old": "14.07.2026",
     "new": "28.09.2026"
+  },
+  {
+    "run": "2026-09-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "17.09.2026",
+    "new": "29.09.2026"
   }
 ]

@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-09-29_
+_Сформировано: 2026-09-30_
+
+## 2026-09-30
+### Сменилась дата «Обновлено» (2)
+- **Справочный центр**: 12.08.2026 → None
+  https://seller.wildberries.ru/instructions/ru/am/material/pinned-reviews-am
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 17.09.2026 → 29.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia
+
 
 ## 2026-09-29
 ### Сменилась дата «Обновлено» (5)
