@@ -950,5 +950,13 @@
     "title": "დახმარების ცენტრი",
     "old": "18.5.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-01",
+    "type": "removed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/rules-for-filling-out-a-product-card-ge",
+    "title": "დახმარების ცენტრი",
+    "old": null,
+    "new": null
   }
 ]

@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-09-30_
+_Сформировано: 2026-10-01_
+
+## 2026-10-01
+### Сменилась дата «Обновлено» (3)
+- **Сводка аналитики**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb
+- **Сервис подмены артикула**: 25.08.2026 → 30.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/replacement-articles-by
+- **«Помощник»: аналитика и данные по вашим товарам**: 10.09.2026 → 24.09.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/wbot-analytics-in-the-app-by
+
+### Исчезли статьи (1)
+- ~~Отчёт «Аудитория витрины»~~  https://seller.wildberries.ru/instructions/ru/by/material/showcase-audience-report-by
+
 
 ## 2026-09-30
 ### Сменилась дата «Обновлено» (3)

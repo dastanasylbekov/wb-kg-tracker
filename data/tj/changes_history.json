@@ -1590,5 +1590,13 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "10.09.2026",
     "new": "29.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/sellers-site-main-page-tajikistan",
+    "title": "Главная страница портала продавца",
+    "old": null,
+    "new": "29.09.2026"
   }
 ]

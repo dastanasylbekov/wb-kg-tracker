@@ -5590,5 +5590,37 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "10.09.2026",
     "new": "24.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg",
+    "title": "Сервис подмены артикула",
+    "old": "25.08.2026",
+    "new": "30.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan",
+    "title": "Отчёт «Поисковые запросы: ваши товары»",
+    "old": "18.09.2026",
+    "new": "23.09.2026"
   }
 ]

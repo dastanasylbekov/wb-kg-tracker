@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-09-30_
+_Сформировано: 2026-10-01_
+
+## 2026-10-01
+### Сменилась дата «Обновлено» (3)
+- **Сводка аналитики**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/analytics-summary-belarus
+- **Сервис подмены артикула**: 25.08.2026 → 30.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/replacement-articles-am
+- **Отчёт «Продажи по регионам»**: 03.09.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia
+
+### Исчезли статьи (1)
+- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/am/material/pinned-reviews-am
+
 
 ## 2026-09-30
 ### Сменилась дата «Обновлено» (2)

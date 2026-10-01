@@ -5414,5 +5414,37 @@
     "title": "«Помощник»: аналитика и данные по вашим товарам",
     "old": "10.09.2026",
     "new": "24.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan",
+    "title": "Сводка аналитики",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/replacement-articles-uz",
+    "title": "Сервис подмены артикула",
+    "old": "25.08.2026",
+    "new": "30.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "17.09.2026",
+    "new": "29.09.2026"
   }
 ]

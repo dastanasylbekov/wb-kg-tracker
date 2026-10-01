@@ -1,9 +1,12 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-09-30
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-01
 
-_Прогон: 2026-09-30 15:45 (Бишкек)_
+_Прогон: 2026-10-01 16:13 (Бишкек)_
 
-## Сменилась дата «Обновлено» (1)
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 17.09.2026 → 29.09.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan
-  Текст статьи: `content/kz/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan.md`
+## Сменилась дата «Обновлено» (2)
+- **Сервис подмены артикула**: 25.08.2026 → 30.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/replacement-articles-kz
+  Текст статьи: `content/kz/replacement-articles-kz.md`
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 04.09.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+  Текст статьи: `content/kz/sales-funnel-report-kazakhstan.md`
 

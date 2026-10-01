@@ -5102,5 +5102,21 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "17.09.2026",
     "new": "29.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/replacement-articles-kz",
+    "title": "Сервис подмены артикула",
+    "old": "25.08.2026",
+    "new": "30.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
   }
 ]

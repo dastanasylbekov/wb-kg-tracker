@@ -5446,5 +5446,37 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "17.09.2026",
     "new": "29.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/analytics-summary-belarus",
+    "title": "Сводка аналитики",
+    "old": "04.09.2026",
+    "new": "28.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/replacement-articles-am",
+    "title": "Сервис подмены артикула",
+    "old": "25.08.2026",
+    "new": "30.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "03.09.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-10-01",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/pinned-reviews-am",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]
