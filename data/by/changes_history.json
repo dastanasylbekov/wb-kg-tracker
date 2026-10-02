@@ -5374,5 +5374,13 @@
     "title": "Отчёт «Аудитория витрины»",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-02",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/pinned-reviews-by",
+    "title": "Закреплённые отзывы",
+    "old": null,
+    "new": "01.10.2026"
   }
 ]

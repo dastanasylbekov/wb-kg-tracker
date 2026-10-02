@@ -5118,5 +5118,21 @@
     "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
     "old": "04.09.2026",
     "new": "28.09.2026"
+  },
+  {
+    "run": "2026-10-02",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/common-errors-during-registration-kz",
+    "title": "Частые ошибки при регистрации на портале",
+    "old": null,
+    "new": "13.07.2026"
+  },
+  {
+    "run": "2026-10-02",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/pinned-reviews-kz",
+    "title": "Закреплённые отзывы",
+    "old": null,
+    "new": "01.10.2026"
   }
 ]

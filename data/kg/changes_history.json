@@ -5622,5 +5622,13 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "18.09.2026",
     "new": "23.09.2026"
+  },
+  {
+    "run": "2026-10-02",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/pinned-reviews-kg",
+    "title": "Закреплённые отзывы",
+    "old": null,
+    "new": "01.10.2026"
   }
 ]
