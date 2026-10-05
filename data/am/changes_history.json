@@ -5478,5 +5478,13 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-10-05",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/pinned-reviews-am",
+    "title": "Закреплённые отзывы",
+    "old": null,
+    "new": "01.10.2026"
   }
 ]

@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/common-errors-during-registration-kz
 - Идентификатор: A-2082
-- Обновлено: 2026-07-13T09:28:34.143185Z
+- Обновлено: 2026-10-01T14:26:05.871137Z
 
 ---
 Когда вы регистрируетесь на портале WB Partners, мы проверяем, что вы представляете действующую компанию, которая может работать с Wildberries.

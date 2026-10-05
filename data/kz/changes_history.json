@@ -5134,5 +5134,13 @@
     "title": "Закреплённые отзывы",
     "old": null,
     "new": "01.10.2026"
+  },
+  {
+    "run": "2026-10-05",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/common-errors-during-registration-kz",
+    "title": "Частые ошибки при регистрации на портале",
+    "old": "13.07.2026",
+    "new": "01.10.2026"
   }
 ]
