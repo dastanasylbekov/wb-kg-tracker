@@ -5630,5 +5630,29 @@
     "title": "Закреплённые отзывы",
     "old": null,
     "new": "01.10.2026"
+  },
+  {
+    "run": "2026-10-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-order-a-pass-to-the-warehouse-kyrgyzstan",
+    "title": "Как заказать пропуск на склад",
+    "old": "12.08.2026",
+    "new": "01.10.2026"
+  },
+  {
+    "run": "2026-10-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg",
+    "title": "Сервис подмены артикула",
+    "old": "30.09.2026",
+    "new": "05.10.2026"
+  },
+  {
+    "run": "2026-10-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "02.09.2026",
+    "new": "05.10.2026"
   }
 ]

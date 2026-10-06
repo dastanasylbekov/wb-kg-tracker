@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-05_
+_Сформировано: 2026-10-06_
+
+## 2026-10-06
+### Сменилась дата «Обновлено» (3)
+- **Как заказать пропуск на склад**: 12.08.2026 → 01.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-order-a-pass-to-the-warehouse-kyrgyzstan
+- **Сервис подмены артикула**: 30.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg
+- **Этап 2. Наполнение упаковки**: 02.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan
+
 
 ## 2026-10-02
 ### Новые статьи (1)

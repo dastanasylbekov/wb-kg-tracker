@@ -5486,5 +5486,13 @@
     "title": "Закреплённые отзывы",
     "old": null,
     "new": "01.10.2026"
+  },
+  {
+    "run": "2026-10-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "02.09.2026",
+    "new": "05.10.2026"
   }
 ]

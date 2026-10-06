@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-05_
+_Сформировано: 2026-10-06_
+
+## 2026-10-06
+### Сменилась дата «Обновлено» (2)
+- **Сервис подмены артикула**: 30.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/replacement-articles-kz
+- **Этап 2. Наполнение упаковки**: 02.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-filling-the-packaging-kazakhstan
+
+### Новые статьи (1)
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries** (Обновлено 06.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/prohibited-or-partially-restricted-items-kz
+
 
 ## 2026-10-05
 ### Сменилась дата «Обновлено» (1)
