@@ -1,6 +1,15 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-06_
+_Сформировано: 2026-10-07_
+
+## 2026-10-07
+### Сменилась дата «Обновлено» (1)
+- **Отчёт «Доходы и расходы: показатели»**: 17.09.2026 → 06.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz
+
+### Исчезли статьи (1)
+- ~~Товары, продажа которых запрещена или частично ограничена на Wildberries~~  https://seller.wildberries.ru/instructions/ru/kz/material/prohibited-or-partially-restricted-items-kz
+
 
 ## 2026-10-06
 ### Сменилась дата «Обновлено» (2)

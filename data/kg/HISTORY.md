@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-06_
+_Сформировано: 2026-10-07_
+
+## 2026-10-07
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Показатели»**: 17.09.2026 → 06.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
+- **Этап 2. Наполнение упаковки**: 05.10.2026 → 02.09.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan
+
 
 ## 2026-10-06
 ### Сменилась дата «Обновлено» (3)

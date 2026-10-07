@@ -5454,5 +5454,13 @@
     "title": "Закреплённые отзывы",
     "old": "12.08.2026",
     "new": "01.10.2026"
+  },
+  {
+    "run": "2026-10-07",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "02.09.2026",
+    "new": "05.10.2026"
   }
 ]

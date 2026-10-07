@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-06_
+_Сформировано: 2026-10-07_
+
+## 2026-10-07
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Показатели»**: 17.09.2026 → 06.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by
+- **Этап 2. Наполнение упаковки**: 02.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus
+
 
 ## 2026-10-02
 ### Новые статьи (1)
