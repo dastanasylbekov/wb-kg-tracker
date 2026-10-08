@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-07_
+_Сформировано: 2026-10-08_
+
+## 2026-10-08
+### Сменилась дата «Обновлено» (1)
+- **Этап 2. Наполнение упаковки**: 02.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan
+
+### Новые статьи (1)
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries** (Обновлено 07.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/prohibited-or-partially-restricted-items-kg
+
 
 ## 2026-10-07
 ### Сменилась дата «Обновлено» (2)

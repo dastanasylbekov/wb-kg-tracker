@@ -1,12 +1,13 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-10-07
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-10-08
 
-_Прогон: 2026-10-07 16:08 (Бишкек)_
+_Прогон: 2026-10-08 16:21 (Бишкек)_
 
-## Сменилась дата «Обновлено» (2)
-- **Отчёт «Показатели»**: 17.09.2026 → 06.10.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
-  Текст статьи: `content/kg/income-and-expenses-report-kg.md`
-- **Этап 2. Наполнение упаковки**: 05.10.2026 → 02.09.2026
+## Сменилась дата «Обновлено» (1)
+- **Этап 2. Наполнение упаковки**: 02.09.2026 → 05.10.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan
   Текст статьи: `content/kg/step-2-filling-the-packaging-kyrgyzstan.md`
+
+## Новые статьи (1)
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries** (Обновлено 07.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/prohibited-or-partially-restricted-items-kg
 

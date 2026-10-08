@@ -5398,5 +5398,13 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "02.09.2026",
     "new": "05.10.2026"
+  },
+  {
+    "run": "2026-10-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-belarus",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "29.09.2026",
+    "new": "07.10.2026"
   }
 ]

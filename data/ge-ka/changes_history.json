@@ -958,5 +958,13 @@
     "title": "დახმარების ცენტრი",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-10-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/how-to-create-a-product-card-ge",
+    "title": "როგორ შევქმნათ პროდუქტის ბარათი",
+    "old": "30.6.2026",
+    "new": "7.10.2026"
   }
 ]

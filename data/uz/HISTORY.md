@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-10-07_
+_Сформировано: 2026-10-08_
+
+## 2026-10-08
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Показатели»**: 17.09.2026 → 06.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz
+- **Сервис подмены артикула**: 30.09.2026 → 05.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/replacement-articles-uz
+
 
 ## 2026-10-07
 ### Сменилась дата «Обновлено» (1)

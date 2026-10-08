@@ -5670,5 +5670,21 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "05.10.2026",
     "new": "02.09.2026"
+  },
+  {
+    "run": "2026-10-08",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/prohibited-or-partially-restricted-items-kg",
+    "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
+    "old": null,
+    "new": "07.10.2026"
+  },
+  {
+    "run": "2026-10-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "02.09.2026",
+    "new": "05.10.2026"
   }
 ]

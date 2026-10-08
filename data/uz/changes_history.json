@@ -5462,5 +5462,21 @@
     "title": "Этап 2. Наполнение упаковки",
     "old": "02.09.2026",
     "new": "05.10.2026"
+  },
+  {
+    "run": "2026-10-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz",
+    "title": "Отчёт «Показатели»",
+    "old": "17.09.2026",
+    "new": "06.10.2026"
+  },
+  {
+    "run": "2026-10-08",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/replacement-articles-uz",
+    "title": "Сервис подмены артикула",
+    "old": "30.09.2026",
+    "new": "05.10.2026"
   }
 ]

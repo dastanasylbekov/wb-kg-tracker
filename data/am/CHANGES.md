@@ -1,12 +1,9 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-10-07
+# Изменения справки WB — 🇦🇲 Армения — 2026-10-08
 
-_Прогон: 2026-10-07 16:23 (Бишкек)_
+_Прогон: 2026-10-08 16:37 (Бишкек)_
 
-## Сменилась дата «Обновлено» (2)
-- **Отчёт «Показатели»**: 17.09.2026 → 06.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am
-  Текст статьи: `content/am/income-and-expenses-report-am.md`
-- **Сервис подмены артикула**: 30.09.2026 → 05.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/replacement-articles-am
-  Текст статьи: `content/am/replacement-articles-am.md`
+## Сменилась дата «Обновлено» (1)
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 29.09.2026 → 07.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia
+  Текст статьи: `content/am/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia.md`
 

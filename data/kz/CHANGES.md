@@ -1,12 +1,15 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-07
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-08
 
-_Прогон: 2026-10-07 16:18 (Бишкек)_
+_Прогон: 2026-10-08 16:32 (Бишкек)_
 
-## Сменилась дата «Обновлено» (1)
-- **Отчёт «Доходы и расходы: показатели»**: 17.09.2026 → 06.10.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz
-  Текст статьи: `content/kz/income-and-expenses-report-kz.md`
+## Сменилась дата «Обновлено» (2)
+- **Этап 2. Наполнение упаковки**: 05.10.2026 → 02.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-filling-the-packaging-kazakhstan
+  Текст статьи: `content/kz/step-2-filling-the-packaging-kazakhstan.md`
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 29.09.2026 → 07.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan
+  Текст статьи: `content/kz/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan.md`
 
 ## Исчезли статьи (1)
-- ~~Товары, продажа которых запрещена или частично ограничена на Wildberries~~  https://seller.wildberries.ru/instructions/ru/kz/material/prohibited-or-partially-restricted-items-kz
+- ~~Закреплённые отзывы~~  https://seller.wildberries.ru/instructions/ru/kz/material/pinned-reviews-kz
 
