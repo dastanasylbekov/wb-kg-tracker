@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb
 - Идентификатор: A-1252
-- Обновлено: 2026-09-28T11:41:00.901875Z
+- Обновлено: 2026-10-09T12:05:54.969911Z
 
 ---
 > **Примечание**
@@ -52,7 +52,7 @@
 
 В сводке предусмотрена разбивка по складам, чтобы было проще отслеживать продажи по разным моделям: «Склад WB» (FBW) или «Маркетплейс» (FBS). Это можно выбрать при помощи галочек.
 
-![image2.png](https://static-basket-02.wbbasket.ru/vol20/article-static/c0b462cd-3071-4b0d-8a48-4ce2c4efc4c5.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/77e2098a-7ba6-4f18-a5e7-ecb482cfd844.png.webp)
 
 ## Виджеты
 
@@ -73,8 +73,6 @@
 Для детального анализа перейдите [в отчёт «География заказов»](https://seller.wildberries.ru/remains-analytics/orders-geography).
 
 ### История остатков
-
-Показана оборачиваемость остатков, а также сколько товаров покупатели могли заказать, но их не было на складе.
 
 > **Примечание**
 >

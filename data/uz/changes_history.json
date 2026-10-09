@@ -5478,5 +5478,21 @@
     "title": "Сервис подмены артикула",
     "old": "30.09.2026",
     "new": "05.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/history-of-remains-report-uzbekistan",
+    "title": "Отчёт «История остатков»",
+    "old": "03.09.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "25.09.2026",
+    "new": "09.10.2026"
   }
 ]

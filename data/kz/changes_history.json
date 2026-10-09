@@ -5206,5 +5206,69 @@
     "title": "Закреплённые отзывы",
     "old": "01.10.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-09",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/pinned-reviews-kz",
+    "title": "Закреплённые отзывы",
+    "old": null,
+    "new": "01.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/price-index-kz",
+    "title": "Индекс цен",
+    "old": null,
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/prohibited-or-partially-restricted-items-kz",
+    "title": "Товары, продажа которых запрещена или частично ограничена на Wildberries",
+    "old": null,
+    "new": "06.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan",
+    "title": "Сводка аналитики",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan",
+    "title": "Отчёт «История остатков»",
+    "old": "03.09.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/prices-disconts-kz",
+    "title": "Как устанавливать цены и скидки",
+    "old": "18.05.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/replacement-articles-kz",
+    "title": "Сервис подмены артикула",
+    "old": "05.10.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/step-2-filling-the-packaging-kazakhstan",
+    "title": "Этап 2. Наполнение упаковки",
+    "old": "02.09.2026",
+    "new": "05.10.2026"
   }
 ]

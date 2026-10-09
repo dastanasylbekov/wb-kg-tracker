@@ -5406,5 +5406,45 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "29.09.2026",
     "new": "07.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb",
+    "title": "Сводка аналитики",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/certificates-and-declarations-of-conformity-belarus",
+    "title": "Разрешительные документы",
+    "old": "29.09.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/history-of-remains-report-belarus",
+    "title": "Отчёт «История остатков»",
+    "old": "03.09.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/prices-discounts-bel",
+    "title": "Как устанавливать цены и скидки",
+    "old": "18.05.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/replacement-articles-by",
+    "title": "Сервис подмены артикула",
+    "old": "30.09.2026",
+    "new": "08.10.2026"
   }
 ]
