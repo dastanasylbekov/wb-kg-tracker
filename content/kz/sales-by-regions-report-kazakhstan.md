@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/sales-by-regions-report-kazakhstan
 - Идентификатор: A-1281
-- Обновлено: 2026-09-25T15:57:01.894237Z
+- Обновлено: 2026-10-09T11:48:37.224429Z
 
 ---
 > **Примечание**

@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-09_
+_Сформировано: 2026-10-12_
+
+## 2026-10-12
+### Сменилась дата «Обновлено» (7)
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 10.08.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/cancellations-returns-penalties-dbs-kz
+- **Как подготовиться к работе на Wildberries перед регистрацией**: 02.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-start-selling-on-wildberries-kz
+- **Возврат товара по заявке покупателя**: 24.07.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-customer-request-kazakhstan
+- **Возврат товара со склада Wildberries продавцу**: 01.09.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kazakhstan
+- **Отчёт «Продажи по регионам»**: 25.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-by-regions-report-kazakhstan
+- **Отчёт «Воронка продаж по WB»**: 31.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-part2-kz
+- **Отчёт «Воронка продаж»**: 28.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+
 
 ## 2026-10-09
 ### Сменилась дата «Обновлено» (5)
@@ -1589,19 +1607,3 @@ _Сформировано: 2026-10-09_
   https://seller.wildberries.ru/instructions/ru/kz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kazakhstan
 - **Этап 3. Подготовка поставки к отгрузке**: 18.05.2026 → 13.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan
-
-
-## 2026-07-13
-### Сменилась дата «Обновлено» (1)
-- **Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 18.05.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-dbs-kazakhstan
-
-
-## 2026-07-11
-### Сменилась дата «Обновлено» (1)
-- **О модели продаж «Витрина экспресс» (EDBS)**: 24.06.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/about-the-express-display-sales-model-edbs-kazakhstan
-
-### Исчезли статьи (2)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/rules-edbs-kazakhstan
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/stocks-management-edbs-kazakhstan

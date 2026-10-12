@@ -5494,5 +5494,61 @@
     "title": "Отчёт «Продажи по регионам»",
     "old": "25.09.2026",
     "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan",
+    "title": "Сводка аналитики",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/cancellations-returns-penalties-dbs-uz",
+    "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
+    "old": "11.08.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-start-selling-on-wildberries-uz",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "02.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/replacement-articles-uz",
+    "title": "Сервис подмены артикула",
+    "old": "05.10.2026",
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-customer-request-uzbekistan",
+    "title": "Возврат товара по заявке покупателя",
+    "old": "24.07.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-uzbekistan",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "01.09.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-report-uzbekistan",
+    "title": "Отчёт «Воронка продаж»",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
   }
 ]

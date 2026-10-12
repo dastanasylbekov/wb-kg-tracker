@@ -1,6 +1,15 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-09_
+_Сформировано: 2026-10-12_
+
+## 2026-10-12
+### Сменилась дата «Обновлено» (1)
+- **О модели продаж «Витрина» (DBS)**: 26.06.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/about-dbs-sales-model-tadj
+
+### Исчезли статьи (1)
+- ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/tj/material/rules-for-working-with-the-showcase-model-dbs-tajikistan
+
 
 ## 2026-10-06
 ### Сменилась дата «Обновлено» (1)

@@ -5718,5 +5718,45 @@
     "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
     "old": "29.09.2026",
     "new": "07.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/cancellations-returns-penalties-dbs-kg",
+    "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
+    "old": "10.08.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-start-selling-on-wildberries-kg",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "02.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan",
+    "title": "Возврат товара по заявке покупателя",
+    "old": "24.07.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kyrgyzstan",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "01.09.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-part2-kg",
+    "title": "Отчёт «Воронка продаж по WB»",
+    "old": "31.07.2026",
+    "new": "09.10.2026"
   }
 ]

@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan
 - Идентификатор: A-1027
-- Обновлено: 2026-07-24T09:01:48.223626Z
+- Обновлено: 2026-10-09T17:24:20.879935Z
 
 ---
 > **Примечание**
@@ -91,10 +91,7 @@
 
 ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/310e222d-1878-4837-aa5a-b21b26e85cc3.webp)
 
-Посмотреть статус товара, который вы решили забрать, можно 2 способами:
-
-- [в разделе «Возвраты и перемещения»](https://seller.wildberries.ru/return-transfer-reports/active),
-- Wildberries.ru → Заказы.![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/eff6ea4a-1b1b-442d-bec8-396a37f33a9d.webp)
+Посмотреть статус товара, который вы решили забрать, можно [в разделе «Возвраты и перемещения»](https://seller.wildberries.ru/return-transfer-reports/active).
 
 > **Обратите внимание**
 >

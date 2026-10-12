@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/sales-by-regions-report-belarus
 - Идентификатор: A-1279
-- Обновлено: 2026-09-25T15:56:52.366623Z
+- Обновлено: 2026-10-09T11:48:34.292911Z
 
 ---
 > **Примечание**

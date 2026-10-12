@@ -1,6 +1,26 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-09_
+_Сформировано: 2026-10-12_
+
+## 2026-10-12
+### Сменилась дата «Обновлено» (6)
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 24.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/cancellations-returns-penalties-dbs-by
+- **Как подготовиться к работе на Wildberries перед регистрацией**: 02.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-start-selling-on-wildberries-by
+- **Возврат товара по заявке покупателя**: 24.07.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/return-of-goods-customer-request-belarus
+- **Возврат товара со склада Wildberries продавцу**: 01.09.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/return-of-goods-from-wildberries-warehouse-to-the-seller-belarus
+- **Отчёт «Продажи по регионам»**: 25.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/sales-by-regions-report-belarus
+- **Отчёт «Воронка продаж»**: 28.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
+
+### Новые статьи (1)
+- **Индекс цен** (Обновлено 08.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/price-index-bel
+
 
 ## 2026-10-09
 ### Сменилась дата «Обновлено» (5)
@@ -1621,23 +1641,3 @@ _Сформировано: 2026-10-09_
   https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
 - **Этап 3. Подготовка поставки к отгрузке**: 18.05.2026 → 13.07.2026
   https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus
-
-
-## 2026-07-13
-### Сменилась дата «Обновлено» (2)
-- **О модели продаж «Витрина экспресс» (EDBS)**: 24.06.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/about-the-express-display-sales-model-edbs-rb
-- **Отчёт «Анализ ниш»**: 24.06.2026 → 09.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/nyche-analysis-armenia
-
-### Исчезли статьи (2)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/rules-edbs-belarus
-- ~~Управление остатками по модели «Витрина экспресс» (EDBS)~~  https://seller.wildberries.ru/instructions/ru/by/material/stocks-management-edbs-belarus
-
-
-## 2026-07-11
-### Сменилась дата «Обновлено» (2)
-- **О модели продаж «Витрина экспресс» (EDBS)**: 10.07.2026 → 24.06.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/about-the-express-display-sales-model-edbs-rb
-- **Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 18.05.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/inventory-management-dbs-belarus

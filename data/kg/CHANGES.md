@@ -1,18 +1,21 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-10-09
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-10-12
 
-_Прогон: 2026-10-09 16:22 (Бишкек)_
+_Прогон: 2026-10-12 16:37 (Бишкек)_
 
-## Сменилась дата «Обновлено» (4)
-- **Разрешительные документы**: 29.09.2026 → 08.10.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/certificates-and-declarations-of-conformity-kyrgyzstan
-  Текст статьи: `content/kg/certificates-and-declarations-of-conformity-kyrgyzstan.md`
-- **Отчёт «История остатков»**: 03.09.2026 → 08.10.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/history-of-stocks-report-kyrgyzstan
-  Текст статьи: `content/kg/history-of-stocks-report-kyrgyzstan.md`
-- **Сервис подмены артикула**: 05.10.2026 → 08.10.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/replacement-articles-kg
-  Текст статьи: `content/kg/replacement-articles-kg.md`
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 29.09.2026 → 07.10.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan
-  Текст статьи: `content/kg/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan.md`
+## Сменилась дата «Обновлено» (5)
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 10.08.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/cancellations-returns-penalties-dbs-kg
+  Текст статьи: `content/kg/cancellations-returns-penalties-dbs-kg.md`
+- **Как подготовиться к работе на Wildberries перед регистрацией**: 02.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-start-selling-on-wildberries-kg
+  Текст статьи: `content/kg/how-to-start-selling-on-wildberries-kg.md`
+- **Возврат товара по заявке покупателя**: 24.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan
+  Текст статьи: `content/kg/return-of-goods-customer-request-kyrgyzstan.md`
+- **Возврат товара со склада Wildberries продавцу**: 01.09.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kyrgyzstan
+  Текст статьи: `content/kg/return-of-goods-from-wildberries-warehouse-to-the-seller-kyrgyzstan.md`
+- **Отчёт «Воронка продаж по WB»**: 31.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-part2-kg
+  Текст статьи: `content/kg/sales-funnel-part2-kg.md`
 

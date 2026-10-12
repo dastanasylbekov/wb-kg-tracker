@@ -2,11 +2,11 @@
   "country": "tj",
   "name": "Таджикистан",
   "flag": "🇹🇯",
-  "run_local": "2026-10-09 16:45",
-  "run_utc": "2026-10-09 10:45 UTC",
-  "run_iso": "2026-10-09T10:45:41+00:00",
-  "articles": 68,
+  "run_local": "2026-10-12 17:01",
+  "run_utc": "2026-10-12 11:01 UTC",
+  "run_iso": "2026-10-12T11:01:09+00:00",
+  "articles": 67,
   "added": 0,
-  "date_changed": 0,
-  "removed": 0
+  "date_changed": 1,
+  "removed": 1
 }

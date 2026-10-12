@@ -5542,5 +5542,69 @@
     "title": "Сервис подмены артикула",
     "old": "05.10.2026",
     "new": "08.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/cancellations-returns-penalties-dbs-am",
+    "title": "Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)",
+    "old": "24.07.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-pack-different-items-properly-armenia",
+    "title": "Как правильно упаковать разные виды товаров",
+    "old": "30.06.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-start-selling-on-wildberries-am",
+    "title": "Как подготовиться к работе на Wildberries перед регистрацией",
+    "old": "02.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-customer-request-armenia",
+    "title": "Возврат товара по заявке покупателя",
+    "old": "24.07.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-from-wildberries-warehouse-to-the-seller-armenia",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "01.09.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "25.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-part2-am",
+    "title": "Отчёт «Воронка продаж по WB»",
+    "old": "31.07.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-report-armenia",
+    "title": "Отчёт «Воронка продаж»",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
   }
 ]

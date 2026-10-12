@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-customer-request-armenia
 - Идентификатор: A-1025
-- Обновлено: 2026-07-24T09:01:09.421618Z
+- Обновлено: 2026-10-09T17:24:04.284593Z
 
 ---
 > **Примечание**
@@ -93,10 +93,7 @@
 
 ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/d53f5536-1070-489f-90ca-9ec1aa02bbda.webp)
 
-Посмотреть статус товара, который вы решили забрать, можно двумя способами:
-
-- [в разделе «Возвраты и перемещения»](https://seller.wildberries.ru/return-transfer-reports/active),
-- Wildberries.ru → Заказы.![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/544e8cf7-cde4-4fc3-abaa-eac2231a032b.webp)
+Посмотреть статус товара, который вы решили забрать, можно [в разделе «Возвраты и перемещения»](https://seller.wildberries.ru/return-transfer-reports/active).
 
 > **Обратите внимание**
 >

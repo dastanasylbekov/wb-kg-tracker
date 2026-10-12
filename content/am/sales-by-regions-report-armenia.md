@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/am/material/sales-by-regions-report-armenia
 - Идентификатор: A-1278
-- Обновлено: 2026-09-25T15:56:45.91174Z
+- Обновлено: 2026-10-09T11:48:32.005622Z
 
 ---
 > **Примечание**

@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-09_
+_Сформировано: 2026-10-12_
+
+## 2026-10-12
+### Сменилась дата «Обновлено» (5)
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 10.08.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/cancellations-returns-penalties-dbs-kg
+- **Как подготовиться к работе на Wildberries перед регистрацией**: 02.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-start-selling-on-wildberries-kg
+- **Возврат товара по заявке покупателя**: 24.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan
+- **Возврат товара со склада Wildberries продавцу**: 01.09.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kyrgyzstan
+- **Отчёт «Воронка продаж по WB»**: 31.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-part2-kg
+
 
 ## 2026-10-09
 ### Сменилась дата «Обновлено» (4)
@@ -1720,20 +1734,4 @@ _Сформировано: 2026-10-09_
 
 ### Новые статьи (1)
 - **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan
-
-
-## 2026-07-13
-### Исчезли статьи (2)
-- ~~Правила работы по модели «Витрина Экспресс» (EDBS)~~  https://seller.wildberries.ru/instructions/ru/kg/material/rules-of-work-with-edbs-kyrgyzstan
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan
-
-
-## 2026-07-11
-### Сменилась дата «Обновлено» (3)
-- **О модели продаж «Витрина экспресс» (EDBS)**: 24.06.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/about-edbs-kyrgyzstan
-- **МГТ, КГТ+ и СГТ: гид для продавцов**: 10.06.2026 → 09.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kyrgyzstan
-- **Справочный центр**: 18.05.2026 → None
   https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan
