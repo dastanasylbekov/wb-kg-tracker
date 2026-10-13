@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-12_
+_Сформировано: 2026-10-13_
+
+## 2026-10-13
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Услуга по обработке товара»**: 18.05.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/paid-acceptance-report-kazakhstan
+- **Отчёт «Воронка продаж. Сравнение с периодом»**: 09.10.2026 → 28.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+
 
 ## 2026-10-12
 ### Сменилась дата «Обновлено» (7)
@@ -1597,13 +1605,3 @@ _Сформировано: 2026-10-12_
 ### Новые статьи (1)
 - **Частые вопросы о складах** (Обновлено 14.07.2026)
   https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz
-
-
-## 2026-07-14
-### Сменилась дата «Обновлено» (3)
-- **Как увеличить лимиты сервисов подписки «Джем»**: 30.06.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-increase-limits-of-the-jam-services-kz
-- **МГТ, КГТ+ и СГТ: гид для продавцов**: 09.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/mgt-kgt-sgt-a-brief-guide-for-sellers-kazakhstan
-- **Этап 3. Подготовка поставки к отгрузке**: 18.05.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan

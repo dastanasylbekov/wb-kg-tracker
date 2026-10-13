@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-12_
+_Сформировано: 2026-10-13_
+
+## 2026-10-13
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Услуга по обработке товара»**: 18.05.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/paid-acceptance-report-armenia
+- **Возврат товара по заявке покупателя**: 09.10.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-customer-request-armenia
+
 
 ## 2026-10-12
 ### Сменилась дата «Обновлено» (8)
@@ -1657,15 +1665,3 @@ _Сформировано: 2026-10-12_
 ### Новые статьи (1)
 - **Частые вопросы о складах** (Обновлено 14.07.2026)
   https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am
-
-
-## 2026-07-14
-### Сменилась дата «Обновлено» (2)
-- **Как увеличить лимиты сервисов подписки «Джем»**: 29.05.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-increase-limits-jam-services-am
-- **Этап 3. Подготовка поставки к отгрузке**: 18.05.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
-
-### Исчезли статьи (2)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/am/material/rules-edbs-armenia
-- ~~Управление остатками по модели «Витрина экспресс» (EDBS)~~  https://seller.wildberries.ru/instructions/ru/am/material/stocks-management-edbs-armenia

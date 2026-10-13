@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/sales-by-regions-report-kyrgyzstan
 - Идентификатор: A-1280
-- Обновлено: 2026-09-25T15:56:56.642146Z
+- Обновлено: 2026-10-09T11:48:40.012178Z
 
 ---
 > **Примечание**

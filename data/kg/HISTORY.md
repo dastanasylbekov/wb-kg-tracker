@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-12_
+_Сформировано: 2026-10-13_
+
+## 2026-10-13
+### Сменилась дата «Обновлено» (4)
+- **Сводка аналитики**: 28.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan
+- **Возврат товара по заявке покупателя**: 09.10.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan
+- **Отчёт «Продажи по регионам»**: 25.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-by-regions-report-kyrgyzstan
+- **Отчёт «Воронка продаж»**: 28.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan
+
 
 ## 2026-10-12
 ### Сменилась дата «Обновлено» (5)
@@ -1725,13 +1737,3 @@ _Сформировано: 2026-10-12_
 ### Новые статьи (1)
 - **Правила работы по модели «Витрина Экспресс» (EDBS)** (Обновлено 18.05.2026)
   https://seller.wildberries.ru/instructions/ru/kg/material/rules-of-work-with-edbs-kyrgyzstan
-
-
-## 2026-07-14
-### Сменилась дата «Обновлено» (1)
-- **Управление остатками по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 18.05.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-dbs-kyrgyzstan
-
-### Новые статьи (1)
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/kg/material/stocks-management-edbs-kyrgyzstan

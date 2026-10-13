@@ -5326,5 +5326,21 @@
     "title": "Отчёт «Воронка продаж»",
     "old": "28.09.2026",
     "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/paid-acceptance-report-kazakhstan",
+    "title": "Отчёт «Услуга по обработке товара»",
+    "old": "18.05.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan",
+    "title": "Отчёт «Воронка продаж. Сравнение с периодом»",
+    "old": "09.10.2026",
+    "new": "28.09.2026"
   }
 ]

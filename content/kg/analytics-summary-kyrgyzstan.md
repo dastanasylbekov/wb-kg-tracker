@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan
 - Идентификатор: A-1253
-- Обновлено: 2026-09-28T11:41:08.521781Z
+- Обновлено: 2026-10-09T12:06:01.285182Z
 
 ---
 > **Примечание**
@@ -52,7 +52,7 @@
 
 В сводке предусмотрена разбивка по складам, чтобы было проще отслеживать продажи по разным моделям: «Склад WB» (FBW) или «Маркетплейс» (FBS). Это можно выбрать при помощи галочек.
 
-![image2.png](https://static-basket-02.wbbasket.ru/vol20/article-static/7af3dd7e-9473-4a74-9ff9-3629bf60a04b.webp)
+![](https://static-basket-02.wbbasket.ru/vol20/article-static/13495742-44b9-43a9-b5df-8d5876ef9ad2.png.webp)
 
 ## Виджеты
 
@@ -73,8 +73,6 @@
 Для детального анализа перейдите [в отчёт «География заказов»](https://seller.wildberries.ru/remains-analytics/orders-geography).
 
 ### История остатков
-
-Показана оборачиваемость остатков, а также сколько товаров покупатели могли заказать, но их не было на складе.
 
 > **Примечание**
 >

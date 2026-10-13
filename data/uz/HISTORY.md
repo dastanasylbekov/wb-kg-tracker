@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-10-12_
+_Сформировано: 2026-10-13_
+
+## 2026-10-13
+### Сменилась дата «Обновлено» (3)
+- **Отчёт «Услуга по обработке товара»**: 18.05.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/paid-acceptance-report-uzbekistan
+- **Отчёт «Продажи по регионам»**: 09.10.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan
+- **Отчёт «Воронка продаж по WB»**: 31.07.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-funnel-part2-uz
+
 
 ## 2026-10-12
 ### Сменилась дата «Обновлено» (7)
@@ -1642,9 +1652,3 @@ _Сформировано: 2026-10-12_
   https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
 - **«Помощник»: аналитика и данные по вашим товарам**: 16.06.2026 → 14.07.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz
-
-
-## 2026-07-14
-### Сменилась дата «Обновлено» (1)
-- **О модели продаж «Витрина экспресс» (EDBS)**: 24.06.2026 → 10.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/about-edbs-uzbekistan

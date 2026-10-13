@@ -5758,5 +5758,37 @@
     "title": "Отчёт «Воронка продаж по WB»",
     "old": "31.07.2026",
     "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan",
+    "title": "Возврат товара по заявке покупателя",
+    "old": "09.10.2026",
+    "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-by-regions-report-kyrgyzstan",
+    "title": "Отчёт «Продажи по регионам»",
+    "old": "25.09.2026",
+    "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-13",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan",
+    "title": "Отчёт «Воронка продаж»",
+    "old": "28.09.2026",
+    "new": "09.10.2026"
   }
 ]

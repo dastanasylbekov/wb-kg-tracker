@@ -1622,5 +1622,13 @@
     "title": "Правила работы по модели «Витрина» (DBS)",
     "old": "26.06.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-13",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/profit-calculator-tj",
+    "title": "Калькулятор прибыли",
+    "old": null,
+    "new": "12.10.2026"
   }
 ]
