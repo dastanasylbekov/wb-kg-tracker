@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan
 - Идентификатор: A-1282
-- Обновлено: 2026-09-25T15:57:06.3926Z
+- Обновлено: 2026-10-09T11:48:42.180159Z
 
 ---
 > **Примечание**

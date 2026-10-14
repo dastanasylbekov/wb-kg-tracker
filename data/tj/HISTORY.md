@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-13_
+_Сформировано: 2026-10-14_
 
 ## 2026-10-13
 ### Новые статьи (1)
@@ -583,11 +583,3 @@ _Сформировано: 2026-10-13_
   https://seller.wildberries.ru/instructions/ru/tj/material/processing-a-new-fbs-order-tj
 - **Этап 3. Подготовка поставки к отгрузке**: 18.05.2026 → 15.07.2026
   https://seller.wildberries.ru/instructions/ru/tj/material/step-three-fbw-shipment-preparation-tj
-
-
-## 2026-07-15
-### Сменилась дата «Обновлено» (2)
-- **Как работать с интерактивным листом подбора**: 21.05.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj
-- **Этап 3. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 21.05.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-3-delivery-fbs-orders-to-a-warehouse-tj

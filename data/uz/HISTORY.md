@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-10-13_
+_Сформировано: 2026-10-14_
+
+## 2026-10-14
+### Сменилась дата «Обновлено» (3)
+- **Сводка аналитики**: 09.10.2026 → 13.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/analytics-summary-uzbekistan
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 09.10.2026 → 11.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cancellations-returns-penalties-dbs-uz
+- **Отчёт «Продажи по регионам»**: 25.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/sales-by-regions-report-uzbekistan
+
+### Исчезли статьи (4)
+- ~~Как добавить бренд на Wildberries~~  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-add-a-brand-to-wildberries-uzbekistan
+- ~~Как отменить поставку или изменить дату и количество товаров~~  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan
+- ~~Как изменить адрес электронной почты для двухфакторной аутентификации~~  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-email-uz
+- ~~Как изменить номер телефона~~  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-phone-number-uz
+
 
 ## 2026-10-13
 ### Сменилась дата «Обновлено» (3)
@@ -1640,15 +1656,3 @@ _Сформировано: 2026-10-13_
 ### Новые статьи (1)
 - **Частые вопросы о складах** (Обновлено 15.07.2026)
   https://seller.wildberries.ru/instructions/ru/uz/material/faq-about-warehouses-uz
-
-
-## 2026-07-15
-### Сменилась дата «Обновлено» (4)
-- **Как увеличить лимиты сервисов подписки «Джем»**: 30.06.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-increase-limits-of-the-jam-services-uz
-- **Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)**: 18.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-1-processing-a-new-order-through-fbs-uzbekistan
-- **Этап 3. Подготовка поставки к отгрузке**: 18.05.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
-- **«Помощник»: аналитика и данные по вашим товарам**: 16.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz

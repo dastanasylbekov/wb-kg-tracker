@@ -5622,5 +5622,13 @@
     "title": "Возврат товара по заявке покупателя",
     "old": "09.10.2026",
     "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-14",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/analytics-summary-belarus",
+    "title": "Сводка аналитики",
+    "old": "09.10.2026",
+    "new": "13.10.2026"
   }
 ]

@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇬🇪 Грузия — последние 90 дней
 
-_Сформировано: 2026-10-13_
+_Сформировано: 2026-10-14_
+
+## 2026-10-14
+### Сменилась дата «Обновлено» (1)
+- **Справочный центр**: 04.06.2026 → None
+  https://seller.wildberries.ge/instructions/ru/ge/material/wb-club-discount-ge
+
 
 ## 2026-09-29
 ### Исчезли статьи (1)
@@ -339,9 +345,3 @@ _Сформировано: 2026-10-13_
 
 ### Исчезли статьи (1)
 - ~~Поддержка продавцов~~  https://seller.wildberries.ge/instructions/ru/ge/material/contact-support-desk-for-sellers-ge
-
-
-## 2026-07-15
-### Сменилась дата «Обновлено» (1)
-- **Этап 3. Подготовка поставки к отгрузке**: 04.06.2026 → 13.07.2026
-  https://seller.wildberries.ge/instructions/ru/ge/material/stage-3-preparing-for-the-shipment-ge

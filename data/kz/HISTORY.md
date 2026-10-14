@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-13_
+_Сформировано: 2026-10-14_
+
+## 2026-10-14
+### Сменилась дата «Обновлено» (1)
+- **Отчёт «Воронка продаж»**: 28.09.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
+
+### Исчезли статьи (4)
+- ~~Программа «Баллы за дни»~~  https://seller.wildberries.ru/instructions/ru/kz/material/points-for-days-program-kz
+- ~~Раздел «Новости» на портале продавца~~  https://seller.wildberries.ru/instructions/ru/kz/material/portal-news-kz
+- ~~Как работать с уведомлениями на портале~~  https://seller.wildberries.ru/instructions/ru/kz/material/portal-notifications-kz
+- ~~Календарь акций~~  https://seller.wildberries.ru/instructions/ru/kz/material/pr-calendar-kz
+
 
 ## 2026-10-13
 ### Сменилась дата «Обновлено» (2)
@@ -1589,19 +1601,3 @@ _Сформировано: 2026-10-13_
 
 ### Исчезли статьи (1)
 - ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz
-
-
-## 2026-07-15
-### Сменилась дата «Обновлено» (4)
-- **Отчёт «Лента заказов»**: 02.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 21.05.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan
-- **Опции конструктора тарифов**: 30.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/tariff-constructor-options-kazakhstan
-- **«Помощник»: аналитика и данные по вашим товарам**: 16.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/wbot-analytics-in-the-app-kz
-
-### Новые статьи (1)
-- **Частые вопросы о складах** (Обновлено 14.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz
