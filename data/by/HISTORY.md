@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-14_
+_Сформировано: 2026-10-15_
+
+## 2026-10-15
+### Сменилась дата «Обновлено» (2)
+- **Сводка аналитики**: 28.09.2026 → 13.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb
+- **Отчёт «Услуга по обработке товара»**: 18.05.2026 → 12.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/paid-acceptance-report-belarus
+
 
 ## 2026-10-14
 ### Сменилась дата «Обновлено» (2)
@@ -1613,13 +1621,3 @@ _Сформировано: 2026-10-14_
 
 ### Исчезли статьи (1)
 - ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/by/material/rules-for-working-with-the-showcase-model-dbs-rb
-
-
-## 2026-07-16
-### Сменилась дата «Обновлено» (3)
-- **Декларация на товары (Грузовая таможенная декларация)**: 29.06.2026 → 15.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/cargo-customs-declaration-by
-- **Частые вопросы о складах**: 14.07.2026 → 15.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by
-- **Этап 3. Подготовка поставки к отгрузке**: 13.07.2026 → 15.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus

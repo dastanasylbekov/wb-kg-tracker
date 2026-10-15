@@ -1070,5 +1070,13 @@
     "title": "Справочный центр",
     "old": "04.06.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-15",
+    "type": "removed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/wb-club-discount-ge",
+    "title": "Справочный центр",
+    "old": null,
+    "new": null
   }
 ]

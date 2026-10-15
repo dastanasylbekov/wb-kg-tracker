@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-part2-kz
 - Идентификатор: A-1773
-- Обновлено: 2026-10-09T16:08:35.645487Z
+- Обновлено: 2026-10-15T10:44:16.6281Z
 
 ---
 > **Примечание**
@@ -17,7 +17,7 @@
 
 Данные в этой версии отчёта помогут оценить, как продаются ваши товары, — в сравнении с данными продаж других продавцов на Wildberries.
 
-Чтобы посмотреть отчёт, в главном меню перейдите: [Аналитика → Аналитика продавца → Воронка продаж по WB](https://seller.wildberries.ru/content-analytics/interactive-report/compareWB).
+Чтобы посмотреть отчёт, в главном меню перейдите: [Аналитика → Аналитика продавца → Воронка продаж по WB](https://seller.wildberries.ru/content-analytics/interactive-report/compare-with-platform).
 
 ![](https://static-basket-02.wbbasket.ru/vol20/article-static/dd95b445-239d-4ace-b2e4-7f51e4b4c9f2.webp)
 

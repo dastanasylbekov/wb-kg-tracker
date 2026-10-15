@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-10-14_
+_Сформировано: 2026-10-15_
+
+## 2026-10-15
+### Сменилась дата «Обновлено» (1)
+- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 11.08.2026 → 09.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cancellations-returns-penalties-dbs-uz
+
+### Новые статьи (4)
+- **Как добавить бренд на Wildberries** (Обновлено 23.07.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-add-a-brand-to-wildberries-uzbekistan
+- **Как отменить поставку или изменить дату и количество товаров** (Обновлено 07.09.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-uzbekistan
+- **Как изменить адрес электронной почты для двухфакторной аутентификации** (Обновлено 09.09.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-email-uz
+- **Как изменить номер телефона** (Обновлено 09.09.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-change-phone-number-uz
+
 
 ## 2026-10-14
 ### Сменилась дата «Обновлено» (3)
@@ -1638,21 +1654,3 @@ _Сформировано: 2026-10-14_
   https://seller.wildberries.ru/instructions/ru/uz/material/rules-for-working-with-the-showcase-model-dbs
 - **«Помощник»: аналитика и данные по вашим товарам**: 16.06.2026 → 14.07.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz
-
-
-## 2026-07-16
-### Сменилась дата «Обновлено» (5)
-- **Отчёт «Лента заказов»**: 02.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
-- **Этап 3. Подготовка поставки к отгрузке**: 13.07.2026 → 15.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 21.05.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan
-- **Опции конструктора тарифов**: 30.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/tariff-constructor-options-uz
-- **«Помощник»: аналитика и данные по вашим товарам**: 14.07.2026 → 16.06.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz
-
-### Новые статьи (1)
-- **Частые вопросы о складах** (Обновлено 15.07.2026)
-  https://seller.wildberries.ru/instructions/ru/uz/material/faq-about-warehouses-uz

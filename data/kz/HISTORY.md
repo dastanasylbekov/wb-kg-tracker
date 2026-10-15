@@ -1,6 +1,26 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-14_
+_Сформировано: 2026-10-15_
+
+## 2026-10-15
+### Сменилась дата «Обновлено» (3)
+- **Сводка аналитики**: 09.10.2026 → 13.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/analytics-summary-kazakhstan
+- **Отчёт «Операции при приёмке»**: 12.10.2026 → 18.05.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/paid-acceptance-report-kazakhstan
+- **Отчёт «Воронка продаж по WB»**: 09.10.2026 → 15.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-part2-kz
+
+### Новые статьи (4)
+- **Программа «Баллы за дни»** (Обновлено 18.05.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/points-for-days-program-kz
+- **Раздел «Новости» на портале продавца** (Обновлено 17.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/portal-news-kz
+- **Как работать с уведомлениями на портале** (Обновлено 23.07.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/portal-notifications-kz
+- **Календарь акций** (Обновлено 18.05.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/pr-calendar-kz
+
 
 ## 2026-10-14
 ### Сменилась дата «Обновлено» (1)
@@ -1588,16 +1608,3 @@ _Сформировано: 2026-10-14_
   https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz
 - **Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)** (Обновлено 16.07.2026)
   https://seller.wildberries.ru/instructions/ru/kz/material/how-to-pack-electronics-and-home-appliances-in-fbw-kz
-
-
-## 2026-07-16
-### Сменилась дата «Обновлено» (3)
-- **Как работать с интерактивным листом подбора**: 29.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/interactive-assembly-task-kz
-- **Отчёт «Лента заказов»**: 13.07.2026 → 02.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-- **Этап 1. Обработка нового заказа по модели «Маркетплейс» (FBS)**: 18.06.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-1-processing-a-new-order-through-fbs-kazakhstan
-
-### Исчезли статьи (1)
-- ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz

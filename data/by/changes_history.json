@@ -5518,5 +5518,21 @@
     "title": "Отчёт «Воронка продаж по WB»",
     "old": "31.07.2026",
     "new": "09.10.2026"
+  },
+  {
+    "run": "2026-10-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/analytics-summary-rb",
+    "title": "Сводка аналитики",
+    "old": "28.09.2026",
+    "new": "13.10.2026"
+  },
+  {
+    "run": "2026-10-15",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-acceptance-report-belarus",
+    "title": "Отчёт «Услуга по обработке товара»",
+    "old": "18.05.2026",
+    "new": "12.10.2026"
   }
 ]

@@ -1,9 +1,7 @@
-# Изменения справки WB — 🇬🇪 Грузия — 2026-10-14
+# Изменения справки WB — 🇬🇪 Грузия — 2026-10-15
 
-_Прогон: 2026-10-14 15:12 (Бишкек)_
+_Прогон: 2026-10-15 14:35 (Бишкек)_
 
-## Сменилась дата «Обновлено» (1)
-- **Справочный центр**: 04.06.2026 → None
-  https://seller.wildberries.ge/instructions/ru/ge/material/wb-club-discount-ge
-  Текст статьи: `content/ge/wb-club-discount-ge.md`
+## Исчезли статьи (1)
+- ~~Справочный центр~~  https://seller.wildberries.ge/instructions/ru/ge/material/wb-club-discount-ge
 
