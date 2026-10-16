@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-part2-am
 - Идентификатор: A-1770
-- Обновлено: 2026-10-09T16:07:59.981899Z
+- Обновлено: 2026-10-15T10:43:34.456086Z
 
 ---
 > **Примечание**
@@ -17,7 +17,7 @@
 
 Данные в этой версии отчёта помогут оценить, как продаются ваши товары, — в сравнении с данными продаж других продавцов на Wildberries.
 
-Чтобы посмотреть отчёт, в главном меню перейдите: [Аналитика → Аналитика продавца → Воронка продаж по WB](https://seller.wildberries.ru/content-analytics/interactive-report/compareWB).
+Чтобы посмотреть отчёт, в главном меню перейдите: [Аналитика → Аналитика продавца → Воронка продаж по WB](https://seller.wildberries.ru/content-analytics/interactive-report/compare-with-platform).
 
 ![](https://static-basket-02.wbbasket.ru/vol20/article-static/e8cc85c9-2ecc-4b52-af71-d141dee0dbdb.webp)
 

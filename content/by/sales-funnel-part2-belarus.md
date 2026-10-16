@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus
 - Идентификатор: A-1771
-- Обновлено: 2026-10-09T16:08:16.578236Z
+- Обновлено: 2026-10-15T10:43:48.299939Z
 
 ---
 > **Примечание**
@@ -17,7 +17,7 @@
 
 Данные в этой версии отчёта помогут оценить, как продаются ваши товары, — в сравнении с данными продаж других продавцов на Wildberries.
 
-Чтобы посмотреть отчёт, в главном меню перейдите: [Аналитика → Аналитика продавца → Воронка продаж по WB](https://seller.wildberries.ru/content-analytics/interactive-report/compareWB).
+Чтобы посмотреть отчёт, в главном меню перейдите: [Аналитика → Аналитика продавца → Воронка продаж по WB](https://seller.wildberries.ru/content-analytics/interactive-report/compare-with-platform).
 
 ![](https://static-basket-02.wbbasket.ru/vol20/article-static/ae2def29-b8a1-4c11-b5fb-b46ffe264c18.webp)
 

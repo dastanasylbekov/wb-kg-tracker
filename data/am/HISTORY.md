@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-15_
+_Сформировано: 2026-10-16_
+
+## 2026-10-16
+### Сменилась дата «Обновлено» (2)
+- **Сводка аналитики**: 09.10.2026 → 13.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/analytics-summary-belarus
+- **Отчёт «Воронка продаж по WB»**: 09.10.2026 → 15.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-part2-am
+
 
 ## 2026-10-15
 ### Сменилась дата «Обновлено» (1)
@@ -1635,19 +1643,3 @@ _Сформировано: 2026-10-15_
 
 ### Исчезли статьи (1)
 - ~~Как работать с уведомлениями на портале~~  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am
-
-
-## 2026-07-17
-### Сменилась дата «Обновлено» (4)
-- **О модели продаж «Витрина» (DBS)**: 18.05.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/about-dbs-model-in-armenia
-- **Частые вопросы о складах**: 14.07.2026 → 15.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am
-- **Как отменить поставку или изменить дату и количество товаров**: 18.05.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-cancel-a-supply-change-the-date-and-quantity-of-goods-armenia
-- **Этап 3. Подготовка поставки к отгрузке**: 13.07.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
-
-### Новые статьи (1)
-- **Как работать с уведомлениями на портале** (Обновлено 16.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am
