@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-16_
+_Сформировано: 2026-10-19_
+
+## 2026-10-19
+### Сменилась дата «Обновлено» (1)
+- **Как установить минимальную цену и блокировку в автоакциях**: 17.06.2026 → 16.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-set-price-and-block-kz
+
+### Новые статьи (1)
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz
+
 
 ## 2026-10-16
 ### Сменилась дата «Обновлено» (1)
@@ -1572,25 +1582,3 @@ _Сформировано: 2026-10-16_
   https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
 - **Отчёт «История остатков»**: 10.06.2026 → 17.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan
-
-
-## 2026-07-20
-### Сменилась дата «Обновлено» (3)
-- **Отзывы покупателей**: 18.05.2026 → 17.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/client-reviews
-- **Как увеличить лимиты сервисов подписки «Джем»**: 30.06.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-increase-limits-of-the-jam-services-kz
-- **Этап 3. Подготовка поставки к отгрузке**: 15.07.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan
-
-### Новые статьи (3)
-- **Аналитика карточки** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/card-analytics-kz
-- **Раздел «Новости» на портале продавца** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/portal-news-kz
-- **Как работать с уведомлениями на портале** (Обновлено 16.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/portal-notifications-kz
-
-### Исчезли статьи (2)
-- ~~Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)~~  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-pack-electronics-and-home-appliances-in-fbw-kz
-- ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/kz/material/rules-for-working-with-the-showcase-model-dbs-kz

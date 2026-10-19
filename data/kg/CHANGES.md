@@ -1,9 +1,9 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-10-16
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-10-19
 
-_Прогон: 2026-10-16 14:05 (Бишкек)_
+_Прогон: 2026-10-19 14:45 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (1)
-- **Сводка аналитики**: 09.10.2026 → 13.10.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan
-  Текст статьи: `content/kg/analytics-summary-kyrgyzstan.md`
+- **Как установить минимальную цену и блокировку в автоакциях**: 17.06.2026 → 16.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-set-price-and-block-kg
+  Текст статьи: `content/kg/how-to-set-price-and-block-kg.md`
 

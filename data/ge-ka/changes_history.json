@@ -966,5 +966,13 @@
     "title": "როგორ შევქმნათ პროდუქტის ბარათი",
     "old": "30.6.2026",
     "new": "7.10.2026"
+  },
+  {
+    "run": "2026-10-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/item-returns-to-seller-from-wb-warehouse-ka",
+    "title": "პროდუქტის გამყიდველისთვის დაბრუნება Wildberries-ის საწყობიდან",
+    "old": "18.5.2026",
+    "new": "16.10.2026"
   }
 ]

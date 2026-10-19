@@ -1,12 +1,13 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-10-16
+# Изменения справки WB — 🇦🇲 Армения — 2026-10-19
 
-_Прогон: 2026-10-16 14:21 (Бишкек)_
+_Прогон: 2026-10-19 15:02 (Бишкек)_
 
-## Сменилась дата «Обновлено» (2)
-- **Сводка аналитики**: 09.10.2026 → 13.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/analytics-summary-belarus
-  Текст статьи: `content/am/analytics-summary-belarus.md`
-- **Отчёт «Воронка продаж по WB»**: 09.10.2026 → 15.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/sales-funnel-part2-am
-  Текст статьи: `content/am/sales-funnel-part2-am.md`
+## Сменилась дата «Обновлено» (1)
+- **Как установить минимальную цену и блокировку в автоакциях**: 17.06.2026 → 16.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-set-price-and-block-ar
+  Текст статьи: `content/am/how-to-set-price-and-block-ar.md`
+
+## Новые статьи (1)
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-cc-am
 

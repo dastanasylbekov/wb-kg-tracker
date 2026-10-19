@@ -1086,5 +1086,13 @@
     "title": "Проблемные товары",
     "old": "04.06.2026",
     "new": "13.10.2026"
+  },
+  {
+    "run": "2026-10-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/item-returns-to-seller-from-wb-warehouse-ka",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "18.05.2026",
+    "new": "16.10.2026"
   }
 ]

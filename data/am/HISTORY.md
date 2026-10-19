@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-16_
+_Сформировано: 2026-10-19_
+
+## 2026-10-19
+### Сменилась дата «Обновлено» (1)
+- **Как установить минимальную цену и блокировку в автоакциях**: 17.06.2026 → 16.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-set-price-and-block-ar
+
+### Новые статьи (1)
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-cc-am
+
 
 ## 2026-10-16
 ### Сменилась дата «Обновлено» (2)
@@ -1624,22 +1634,3 @@ _Сформировано: 2026-10-16_
 
 ### Исчезли статьи (1)
 - ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/am/material/rules-for-working-with-the-showcase-model-dbs-ar
-
-
-## 2026-07-20
-### Сменилась дата «Обновлено» (3)
-- **Отзывы покупателей**: 18.05.2026 → 17.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/customers-reviews
-- **Отчёт «География заказов»**: 10.06.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/deliveries-by-region-report-armenia
-- **Отчёт «История остатков»**: 10.06.2026 → 17.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/history-of-remains-report-armenia
-
-### Новые статьи (2)
-- **Аналитика карточки** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/card-analytics-am
-- **Удержания** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/retentions-am
-
-### Исчезли статьи (1)
-- ~~Как работать с уведомлениями на портале~~  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am

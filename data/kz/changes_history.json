@@ -5446,5 +5446,21 @@
     "title": "Отчёт «Услуга по обработке товара»",
     "old": "18.05.2026",
     "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-19",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-set-price-and-block-kz",
+    "title": "Как установить минимальную цену и блокировку в автоакциях",
+    "old": "17.06.2026",
+    "new": "16.10.2026"
   }
 ]
