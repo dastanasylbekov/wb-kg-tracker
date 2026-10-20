@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-19_
+_Сформировано: 2026-10-20_
+
+## 2026-10-20
+### Сменилась дата «Обновлено» (3)
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 31.07.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia
+- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-customer-request-armenia
+- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-from-wildberries-warehouse-to-the-seller-armenia
+
 
 ## 2026-10-19
 ### Сменилась дата «Обновлено» (1)
@@ -1621,16 +1631,3 @@ _Сформировано: 2026-10-19_
   https://seller.wildberries.ru/instructions/ru/am/material/item-photo-rules-recommendations-and-common-mistakes-am
 - **Ранжирование товаров в акциях** (Обновлено 21.07.2026)
   https://seller.wildberries.ru/instructions/ru/am/material/promo-events-items-ranking-am
-
-
-## 2026-07-21
-### Новые статьи (3)
-- **Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)** (Обновлено 16.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-pack-electronics-and-home-appliances-in-fbw-am
-- **Раздел «Новости» на портале продавца** (Обновлено 20.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/portal-news-am
-- **Как работать с уведомлениями на портале** (Обновлено 16.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am
-
-### Исчезли статьи (1)
-- ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/am/material/rules-for-working-with-the-showcase-model-dbs-ar

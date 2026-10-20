@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-19_
+_Сформировано: 2026-10-20_
 
 ## 2026-10-13
 ### Новые статьи (1)
@@ -545,15 +545,3 @@ _Сформировано: 2026-10-19_
   https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-electronics-and-home-appliances-in-fbw-tj
 - **Фото товаров: правила, рекомендации и частые ошибки** (Обновлено 20.07.2026)
   https://seller.wildberries.ru/instructions/ru/tj/material/item-photo-rules-recommendations-and-common-mistakes-tj
-
-
-## 2026-07-21
-### Сменилась дата «Обновлено» (2)
-- **Как работать с интерактивным листом подбора**: 14.07.2026 → 21.05.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-interactive-product-selection-list-tj
-- **Справочный центр**: 29.06.2026 → None
-  https://seller.wildberries.ru/instructions/ru/tj/material/stocks-management-edbs-tajikistan
-
-### Исчезли статьи (2)
-- ~~Как упаковать электронику и бытовую технику по модели «Склад WB» (FBW)~~  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pack-electronics-and-home-appliances-in-fbw-tj
-- ~~Управление остатками по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/tj/material/stocks-management-dbs-tajikistan

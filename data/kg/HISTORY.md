@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-19_
+_Сформировано: 2026-10-20_
+
+## 2026-10-20
+### Сменилась дата «Обновлено» (2)
+- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-customer-request-kyrgyzstan
+- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kyrgyzstan
+
+### Новые статьи (1)
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/inventory-management-cc-kg
+
 
 ## 2026-10-19
 ### Сменилась дата «Обновлено» (1)
@@ -1653,15 +1665,3 @@ _Сформировано: 2026-10-19_
   https://seller.wildberries.ru/instructions/ru/kg/material/item-photo-rules-recommendations-and-common-mistakes-kg
 - **Ранжирование товаров в акциях** (Обновлено 21.07.2026)
   https://seller.wildberries.ru/instructions/ru/kg/material/promo-events-items-ranking-kg
-
-
-## 2026-07-21
-### Сменилась дата «Обновлено» (1)
-- **Отчёт «Лента заказов»**: 02.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
-
-### Новые статьи (2)
-- **Раздел «Новости» на портале продавца** (Обновлено 17.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/portal-news-kg
-- **Как работать с уведомлениями на портале** (Обновлено 16.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kg/material/portal-notifications-kg

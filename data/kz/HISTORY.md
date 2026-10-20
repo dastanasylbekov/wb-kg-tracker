@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-19_
+_Сформировано: 2026-10-20_
+
+## 2026-10-20
+### Сменилась дата «Обновлено» (3)
+- **Как установить минимальную цену и блокировку в автоакциях**: 16.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-set-price-and-block-kz
+- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-customer-request-kazakhstan
+- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kazakhstan
+
+### Исчезли статьи (1)
+- ~~Управление остатками по модели «Самовывоз из магазина продавца» (C&C)~~  https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz
+
 
 ## 2026-10-19
 ### Сменилась дата «Обновлено» (1)
@@ -1574,11 +1587,3 @@ _Сформировано: 2026-10-19_
   https://seller.wildberries.ru/instructions/ru/kz/material/item-photo-rules-recommendations-and-common-mistakes-kz
 - **Ранжирование товаров в акциях** (Обновлено 21.07.2026)
   https://seller.wildberries.ru/instructions/ru/kz/material/promo-events-items-ranking-kz
-
-
-## 2026-07-21
-### Сменилась дата «Обновлено» (2)
-- **Отчёт «География заказов»**: 10.06.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
-- **Отчёт «История остатков»**: 10.06.2026 → 17.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan

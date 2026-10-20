@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-19_
+_Сформировано: 2026-10-20_
+
+## 2026-10-20
+### Сменилась дата «Обновлено» (3)
+- **Как установить минимальную цену и блокировку в автоакциях**: 16.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-set-price-and-block-by
+- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/return-of-goods-customer-request-belarus
+- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/return-of-goods-from-wildberries-warehouse-to-the-seller-belarus
+
+### Новые статьи (1)
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/inventory-management-cc-bu
+
 
 ## 2026-10-19
 ### Сменилась дата «Обновлено» (1)
@@ -1575,20 +1589,3 @@ _Сформировано: 2026-10-19_
   https://seller.wildberries.ru/instructions/ru/by/material/common-questions-about-blocking-product-cards-by
 - **Ранжирование товаров в акциях** (Обновлено 21.07.2026)
   https://seller.wildberries.ru/instructions/ru/by/material/promo-events-items-ranking-by
-
-
-## 2026-07-21
-### Сменилась дата «Обновлено» (2)
-- **А/Б-тестирование главного фото в карточке товара**: 18.05.2026 → 20.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb
-- **Отчёт «Оценка товара»**: 15.06.2026 → 20.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/product-evaluation-report-by
-
-### Новые статьи (2)
-- **Как карточка товара попадает в нужный раздел сайта** (Обновлено 20.07.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/how-card-gets-to-the-right-website-section-by
-- **Фото товаров: правила, рекомендации и частые ошибки** (Обновлено 20.07.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/item-photo-rules-recommendations-and-common-mistakes-by
-
-### Исчезли статьи (1)
-- ~~Правила работы по модели «Витрина» (DBS)~~  https://seller.wildberries.ru/instructions/ru/by/material/rules-for-working-with-the-showcase-model-dbs-rb
