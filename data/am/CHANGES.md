@@ -1,15 +1,12 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-10-20
+# Изменения справки WB — 🇦🇲 Армения — 2026-10-21
 
-_Прогон: 2026-10-20 14:41 (Бишкек)_
+_Прогон: 2026-10-21 14:45 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 31.07.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia
-  Текст статьи: `content/am/how-to-work-with-edbs-orders-in-armenia.md`
-- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-customer-request-armenia
-  Текст статьи: `content/am/return-of-goods-customer-request-armenia.md`
-- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/return-of-goods-from-wildberries-warehouse-to-the-seller-armenia
-  Текст статьи: `content/am/return-of-goods-from-wildberries-warehouse-to-the-seller-armenia.md`
+## Сменилась дата «Обновлено» (1)
+- **Как устанавливать цены и скидки**: 18.05.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/prices-and-discount-ar
+  Текст статьи: `content/am/prices-and-discount-ar.md`
+
+## Исчезли статьи (1)
+- ~~Управление остатками по модели «Самовывоз из магазина продавца» (C&C)~~  https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-cc-am
 

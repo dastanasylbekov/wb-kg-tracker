@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇬🇪 Грузия — последние 90 дней
 
-_Сформировано: 2026-10-20_
+_Сформировано: 2026-10-21_
+
+## 2026-10-21
+### Сменилась дата «Обновлено» (1)
+- **Возврат товара со склада Wildberries продавцу**: 18.05.2026 → 16.10.2026
+  https://seller.wildberries.ge/instructions/ru/ge/material/item-returns-to-seller-from-wb-warehouse-ka
+
 
 ## 2026-10-20
 ### Сменилась дата «Обновлено» (1)
@@ -347,9 +353,3 @@ _Сформировано: 2026-10-20_
 ### Сменилась дата «Обновлено» (1)
 - **Карантин цен**: 04.06.2026 → 04.08.2026
   https://seller.wildberries.ge/instructions/ru/ge/material/price-quarantine-ge
-
-
-## 2026-07-22
-### Новые статьи (1)
-- **Как карточка товара попадает в нужный раздел сайта** (Обновлено 20.07.2026)
-  https://seller.wildberries.ge/instructions/ru/ge/material/how-card-gets-to-the-right-website-section-ge

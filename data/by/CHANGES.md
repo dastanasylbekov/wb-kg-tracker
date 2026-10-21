@@ -1,19 +1,16 @@
-# Изменения справки WB — 🇧🇾 Беларусь — 2026-10-20
+# Изменения справки WB — 🇧🇾 Беларусь — 2026-10-21
 
-_Прогон: 2026-10-20 14:31 (Бишкек)_
+_Прогон: 2026-10-21 14:35 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Как установить минимальную цену и блокировку в автоакциях**: 16.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-set-price-and-block-by
-  Текст статьи: `content/by/how-to-set-price-and-block-by.md`
-- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/return-of-goods-customer-request-belarus
-  Текст статьи: `content/by/return-of-goods-customer-request-belarus.md`
-- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/return-of-goods-from-wildberries-warehouse-to-the-seller-belarus
-  Текст статьи: `content/by/return-of-goods-from-wildberries-warehouse-to-the-seller-belarus.md`
+## Сменилась дата «Обновлено» (2)
+- **Что входит в подписку «Джем»**: 07.07.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/djem-subscription-options-by
+  Текст статьи: `content/by/djem-subscription-options-by.md`
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 31.07.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
+  Текст статьи: `content/by/how-to-work-with-edbs-in-belarus.md`
 
 ## Новые статьи (1)
-- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/inventory-management-cc-bu
+- **Скидка WB** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/discountwb-by
 

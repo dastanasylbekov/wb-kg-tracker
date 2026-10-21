@@ -5494,5 +5494,29 @@
     "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
     "old": "19.10.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/discountwb-kz",
+    "title": "Скидка WB",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "10.08.2026",
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/prices-disconts-kz",
+    "title": "Как устанавливать цены и скидки",
+    "old": "08.10.2026",
+    "new": "20.10.2026"
   }
 ]

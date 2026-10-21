@@ -5694,5 +5694,21 @@
     "title": "Возврат товара со склада Wildberries продавцу",
     "old": "12.10.2026",
     "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/prices-and-discount-ar",
+    "title": "Как устанавливать цены и скидки",
+    "old": "18.05.2026",
+    "new": "20.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-cc-am",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": "19.10.2026",
+    "new": null
   }
 ]

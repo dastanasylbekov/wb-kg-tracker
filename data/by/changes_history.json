@@ -5582,5 +5582,29 @@
     "title": "Возврат товара со склада Wildberries продавцу",
     "old": "12.10.2026",
     "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/discountwb-by",
+    "title": "Скидка WB",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/djem-subscription-options-by",
+    "title": "Что входит в подписку «Джем»",
+    "old": "07.07.2026",
+    "new": "20.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "31.07.2026",
+    "new": "19.10.2026"
   }
 ]

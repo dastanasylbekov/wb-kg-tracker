@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-20_
+_Сформировано: 2026-10-21_
+
+## 2026-10-21
+### Сменилась дата «Обновлено» (2)
+- **Что входит в подписку «Джем»**: 07.07.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/djem-subscription-options-by
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 31.07.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
+
+### Новые статьи (1)
+- **Скидка WB** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/discountwb-by
+
 
 ## 2026-10-20
 ### Сменилась дата «Обновлено» (3)
@@ -1581,11 +1593,3 @@ _Сформировано: 2026-10-20_
   https://seller.wildberries.ru/instructions/ru/by/material/how-to-add-a-brand-to-wildberries-rb
 - **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
   https://seller.wildberries.ru/instructions/ru/by/material/nyche-analysis-armenia
-
-
-## 2026-07-22
-### Новые статьи (2)
-- **Частые вопросы по блокировке карточек товаров** (Обновлено 21.07.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/common-questions-about-blocking-product-cards-by
-- **Ранжирование товаров в акциях** (Обновлено 21.07.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/promo-events-items-ranking-by

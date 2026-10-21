@@ -1,18 +1,16 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-20
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-21
 
-_Прогон: 2026-10-20 14:35 (Бишкек)_
+_Прогон: 2026-10-21 14:40 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Как установить минимальную цену и блокировку в автоакциях**: 16.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-set-price-and-block-kz
-  Текст статьи: `content/kz/how-to-set-price-and-block-kz.md`
-- **Возврат товара по заявке покупателя**: 12.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-customer-request-kazakhstan
-  Текст статьи: `content/kz/return-of-goods-customer-request-kazakhstan.md`
-- **Возврат товара со склада Wildberries продавцу**: 12.10.2026 → 19.10.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-kazakhstan
-  Текст статьи: `content/kz/return-of-goods-from-wildberries-warehouse-to-the-seller-kazakhstan.md`
+## Сменилась дата «Обновлено» (2)
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 10.08.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan
+  Текст статьи: `content/kz/how-to-work-with-edbs-in-kazakhstan.md`
+- **Как устанавливать цены и скидки**: 08.10.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/prices-disconts-kz
+  Текст статьи: `content/kz/prices-disconts-kz.md`
 
-## Исчезли статьи (1)
-- ~~Управление остатками по модели «Самовывоз из магазина продавца» (C&C)~~  https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz
+## Новые статьи (1)
+- **Скидка WB** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/discountwb-kz
 

@@ -5694,5 +5694,29 @@
     "title": "Возврат товара по заявке покупателя",
     "old": "12.10.2026",
     "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/inventory-management-cc-uz",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-edbs-uzbekistan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "11.08.2026",
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-21",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-from-wildberries-warehouse-to-the-seller-uzbekistan",
+    "title": "Возврат товара со склада Wildberries продавцу",
+    "old": "12.10.2026",
+    "new": "19.10.2026"
   }
 ]
