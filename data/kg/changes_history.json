@@ -5854,5 +5854,21 @@
     "title": "Как устанавливать цены и скидки",
     "old": "18.05.2026",
     "new": "20.10.2026"
+  },
+  {
+    "run": "2026-10-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/djem-subscription-options-kg",
+    "title": "Что входит в подписку «Джем»",
+    "old": "07.07.2026",
+    "new": "20.10.2026"
+  },
+  {
+    "run": "2026-10-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-edbs-kyrgyzstan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "10.08.2026",
+    "new": "19.10.2026"
   }
 ]

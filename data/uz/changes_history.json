@@ -5718,5 +5718,13 @@
     "title": "Возврат товара со склада Wildberries продавцу",
     "old": "12.10.2026",
     "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-22",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/inventory-management-cc-uz",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": "19.10.2026",
+    "new": null
   }
 ]

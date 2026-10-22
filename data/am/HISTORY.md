@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-21_
+_Сформировано: 2026-10-22_
+
+## 2026-10-22
+### Сменилась дата «Обновлено» (2)
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 31.07.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia
+- **Что входит в подписку «Джем»**: 07.07.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/whats-included-in-jam-am
+
+### Новые статьи (2)
+- **Скидка WB** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/discountwb-ar
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-cc-am
+
 
 ## 2026-10-21
 ### Сменилась дата «Обновлено» (1)
@@ -1610,13 +1624,3 @@ _Сформировано: 2026-10-21_
 ### Новые статьи (1)
 - **Коэффициент вознаграждения Wildberries** (Обновлено 22.07.2026)
   https://seller.wildberries.ru/instructions/ru/am/material/wildberries-reward-ratio-am
-
-
-## 2026-07-23
-### Сменилась дата «Обновлено» (1)
-- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-add-a-brand-to-wildberries-armenia
-
-### Новые статьи (1)
-- **Утилизация товаров** (Обновлено 22.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/disposal-of-goods-am

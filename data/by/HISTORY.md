@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-21_
+_Сформировано: 2026-10-22_
 
 ## 2026-10-21
 ### Сменилась дата «Обновлено» (2)
@@ -1583,13 +1583,3 @@ _Сформировано: 2026-10-21_
 ### Новые статьи (1)
 - **Утилизация товаров** (Обновлено 22.07.2026)
   https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
-
-
-## 2026-07-23
-### Сменилась дата «Обновлено» (3)
-- **История платежей за сервисы**: 18.05.2026 → 21.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/history-of-payments-for-services-belarus
-- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-add-a-brand-to-wildberries-rb
-- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/nyche-analysis-armenia

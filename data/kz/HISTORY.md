@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-21_
+_Сформировано: 2026-10-22_
+
+## 2026-10-22
+### Сменилась дата «Обновлено» (1)
+- **Что входит в подписку «Джем»**: 07.07.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/djem-subscription-options-kz
+
 
 ## 2026-10-21
 ### Сменилась дата «Обновлено» (2)
@@ -1567,17 +1573,3 @@ _Сформировано: 2026-10-21_
 
 ### Исчезли статьи (1)
 - ~~Загрузка логотипов брендов~~  https://seller.wildberries.ru/instructions/ru/kz/material/uploading-brand-logos-kazakhstan
-
-
-## 2026-07-23
-### Сменилась дата «Обновлено» (3)
-- **Продвижение бренда**: 18.05.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/brand-promotion-kz
-- **Как добавить бренд на Wildberries**: 18.06.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-add-a-brand-to-wildberries-kazakhstan
-- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/nyche-analysis-kazakhstan
-
-### Новые статьи (1)
-- **Утилизация товаров** (Обновлено 22.07.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz

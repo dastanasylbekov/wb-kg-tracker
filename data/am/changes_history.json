@@ -5710,5 +5710,37 @@
     "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
     "old": "19.10.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/discountwb-ar",
+    "title": "Скидка WB",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-22",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/inventory-management-cc-am",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "19.10.2026",
+    "new": "31.07.2026"
+  },
+  {
+    "run": "2026-10-22",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/whats-included-in-jam-am",
+    "title": "Что входит в подписку «Джем»",
+    "old": "07.07.2026",
+    "new": "20.10.2026"
   }
 ]
