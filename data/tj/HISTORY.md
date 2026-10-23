@@ -1,6 +1,21 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-22_
+_Сформировано: 2026-10-23_
+
+## 2026-10-23
+### Сменилась дата «Обновлено» (1)
+- **О модели продаж «Витрина экспресс» (EDBS)**: 29.06.2026 → 22.10.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/about-the-edbs-model-tadj
+
+### Новые статьи (2)
+- **Сводка аналитики** (Обновлено 13.10.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/analytical-summary-tj
+- **Отчёт «Оценка товара»** (Обновлено 07.08.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/item-ratings-tj
+
+### Исчезли статьи (1)
+- ~~Правила работы по модели «Витрина Экспресс» (EDBS)~~  https://seller.wildberries.ru/instructions/ru/tj/material/rules-of-work-with-edbs-tajikistan
+
 
 ## 2026-10-13
 ### Новые статьи (1)

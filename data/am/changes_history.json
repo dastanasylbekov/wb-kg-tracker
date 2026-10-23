@@ -5742,5 +5742,13 @@
     "title": "Что входит в подписку «Джем»",
     "old": "07.07.2026",
     "new": "20.10.2026"
+  },
+  {
+    "run": "2026-10-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "31.07.2026",
+    "new": "19.10.2026"
   }
 ]

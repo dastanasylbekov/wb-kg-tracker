@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-22_
+_Сформировано: 2026-10-23_
+
+## 2026-10-23
+### Сменилась дата «Обновлено» (1)
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 31.07.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia
+
 
 ## 2026-10-22
 ### Сменилась дата «Обновлено» (2)
@@ -1604,23 +1610,3 @@ _Сформировано: 2026-10-22_
 
 ### Исчезли статьи (1)
 - ~~Загрузка логотипов брендов~~  https://seller.wildberries.ru/instructions/ru/am/material/uploading-brand-logos-armenia
-
-
-## 2026-07-24
-### Сменилась дата «Обновлено» (6)
-- **Продвижение бренда**: 18.05.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/brand-promotion-am
-- **Габариты товаров**: 18.06.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/dimensions-of-goods-armenia
-- **Как добавить бренд на Wildberries**: 22.07.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-add-a-brand-to-wildberries-armenia
-- **Подписка «Джем»: как подключить, управлять и отключить**: 18.05.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/jam-subscription-am
-- **Отчёт «Анализ ниш»**: 09.07.2026 → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/nyche-analysis-in-armenia
-- **Как работать с уведомлениями на портале**: 17.07.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/portal-notifications-am
-
-### Новые статьи (1)
-- **Коэффициент вознаграждения Wildberries** (Обновлено 22.07.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/wildberries-reward-ratio-am

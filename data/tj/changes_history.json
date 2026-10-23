@@ -1630,5 +1630,37 @@
     "title": "Калькулятор прибыли",
     "old": null,
     "new": "12.10.2026"
+  },
+  {
+    "run": "2026-10-23",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/analytical-summary-tj",
+    "title": "Сводка аналитики",
+    "old": null,
+    "new": "13.10.2026"
+  },
+  {
+    "run": "2026-10-23",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/item-ratings-tj",
+    "title": "Отчёт «Оценка товара»",
+    "old": null,
+    "new": "07.08.2026"
+  },
+  {
+    "run": "2026-10-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/about-the-edbs-model-tadj",
+    "title": "О модели продаж «Витрина экспресс» (EDBS)",
+    "old": "29.06.2026",
+    "new": "22.10.2026"
+  },
+  {
+    "run": "2026-10-23",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/rules-of-work-with-edbs-tajikistan",
+    "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
+    "old": "11.08.2026",
+    "new": null
   }
 ]

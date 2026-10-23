@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-10-22_
+_Сформировано: 2026-10-23_
+
+## 2026-10-23
+### Сменилась дата «Обновлено» (2)
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 11.08.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-edbs-uzbekistan
+- **Что входит в подписку «Джем»**: 07.07.2026 → 20.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/whats-included-in-jam-uz
+
+### Новые статьи (1)
+- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/inventory-management-cc-uz
+
 
 ## 2026-10-22
 ### Исчезли статьи (1)
@@ -1574,16 +1586,3 @@ _Сформировано: 2026-10-22_
 
 ### Исчезли статьи (1)
 - ~~Загрузка логотипов брендов~~  https://seller.wildberries.ru/instructions/ru/uz/material/uploading-brand-logos-uzbekistan
-
-
-## 2026-07-24
-### Сменилась дата «Обновлено» (3)
-- **Отчёт «Скрытые товары»**: 18.05.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/hidden-products-report-uzbekistan
-- **Как добавить бренд на Wildberries**: 22.07.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-add-a-brand-to-wildberries-uzbekistan
-- **Как работать с уведомлениями на портале**: 16.07.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/portal-notifications-uz
-
-### Исчезли статьи (1)
-- ~~Продвижение бренда~~  https://seller.wildberries.ru/instructions/ru/uz/material/brand-promotion-uzb
