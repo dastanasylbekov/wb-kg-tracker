@@ -1662,5 +1662,13 @@
     "title": "Правила работы по модели «Витрина Экспресс» (EDBS)",
     "old": "11.08.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-26",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/item-ratings-tg",
+    "title": "Отчёт «Оценка товара»",
+    "old": null,
+    "new": "23.10.2026"
   }
 ]

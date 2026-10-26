@@ -2,9 +2,13 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz
 - Идентификатор: A-2388
-- Обновлено: 2026-10-19T11:04:38.724858Z
+- Обновлено: 2026-10-19T15:08:01.646063Z
 
 ---
+> **Примечание**
+>
+> Эта статья — для продавцов из Казахстана ![🇰🇿](https://static-basket-02.wbbasket.ru/vol20/article-static/dafdf2fc-2616-4f13-bac3-eac5ad1f2cc8.webp)
+
 > **Примечание**
 >
 > [Подробнее о модели продаж «Самовывоз из магазина продавца» (C&C)](https://seller.wildberries.ru/instructions/ru/kz/material/click-and-collect-model-kz?goBackOption=prevRoute&categoryId=0198e091-bb73-76e1-9edb-6a77f96ca9e3)

@@ -974,5 +974,13 @@
     "title": "პროდუქტის გამყიდველისთვის დაბრუნება Wildberries-ის საწყობიდან",
     "old": "18.5.2026",
     "new": "16.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/news-section-on-the-sellers-portal-ge",
+    "title": "სელერის პორტალზე „სიახლეების“ განყოფილება",
+    "old": "18.5.2026",
+    "new": "22.10.2026"
   }
 ]

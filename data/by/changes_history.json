@@ -5630,5 +5630,45 @@
     "title": "Скидка WB",
     "old": "19.10.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-26",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/discountwb-by",
+    "title": "Скидка WB",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "27.08.2026",
+    "new": "22.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-set-price-and-block-by",
+    "title": "Как установить минимальную цену и блокировку в автоакциях",
+    "old": "16.10.2026",
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "31.07.2026",
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb",
+    "title": "Отчёт «Лента заказов»",
+    "old": "16.09.2026",
+    "new": "23.10.2026"
   }
 ]

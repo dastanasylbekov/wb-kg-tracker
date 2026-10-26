@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-10-23_
+_Сформировано: 2026-10-26_
+
+## 2026-10-26
+### Сменилась дата «Обновлено» (3)
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 11.08.2026 → 19.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-edbs-uzbekistan
+- **А/Б-тестирование главного фото в карточке товара**: 27.08.2026 → 22.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/main-photo-ab-testing-uz
+- **Отчёт «Лента заказов»**: 16.09.2026 → 23.10.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+
+### Новые статьи (1)
+- **Товары, продажа которых запрещена или частично ограничена на Wildberries** (Обновлено 23.10.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/prohibited-or-partially-restricted-items-uz
+
 
 ## 2026-10-23
 ### Сменилась дата «Обновлено» (2)
@@ -1561,28 +1575,3 @@ _Сформировано: 2026-10-23_
   https://seller.wildberries.ru/instructions/ru/uz/material/search-queries-report-uz
 - **Этап 3. Подготовка поставки к отгрузке**: 16.07.2026 → 27.07.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
-
-
-## 2026-07-27
-### Сменилась дата «Обновлено» (7)
-- **6 шагов к первой поставке**: 18.05.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/6-steps-to-the-first-delivery-uzbekistan
-- **Как выбрать модель продаж**: 18.05.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-choose-a-sales-model-uz
-- **Раздел «Профиль» на портале продавца**: 18.05.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/profile-section-on-the-sellers-portal-uzbekistan
-- **Возврат товара по заявке покупателя**: 01.07.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/return-of-goods-customer-request-uzbekistan
-- **Возврат товаров по моделям «Витрина» (DBS) и «Витрина экспресс» (EDBS)**: 22.06.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/returns-of-goods-using-the-showcase-dbs-model-uz
-- **Раздел «Тарифы» на портале продавца**: 18.05.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/tariffs-section-on-the-sellers-portal-uzbekistan
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 18.05.2026 → 24.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/weight-and-size-restrictions-for-sales-models-uzbekistan
-
-### Новые статьи (1)
-- **Продвижение бренда** (Обновлено 22.07.2026)
-  https://seller.wildberries.ru/instructions/ru/uz/material/brand-promotion-uzb
-
-### Исчезли статьи (1)
-- ~~Загрузка логотипов брендов~~  https://seller.wildberries.ru/instructions/ru/uz/material/uploading-brand-logos-uzbekistan

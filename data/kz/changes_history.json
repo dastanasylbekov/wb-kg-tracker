@@ -5526,5 +5526,29 @@
     "title": "Что входит в подписку «Джем»",
     "old": "07.07.2026",
     "new": "20.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": null,
+    "new": "19.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/ab-testing-of-the-main-photo-in-the-product-card-kz",
+    "title": "А/Б-тестирование главного фото в карточке товара",
+    "old": "27.08.2026",
+    "new": "22.10.2026"
+  },
+  {
+    "run": "2026-10-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "16.09.2026",
+    "new": "23.10.2026"
   }
 ]
