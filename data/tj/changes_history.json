@@ -1670,5 +1670,69 @@
     "title": "Отчёт «Оценка товара»",
     "old": null,
     "new": "23.10.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/browser-cache-and-cookies-tj",
+    "title": "Очистка временных файлов: кэша и cookie в браузере",
+    "old": null,
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/cancellation-orders-return-items-in-cc-tj",
+    "title": "Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)",
+    "old": null,
+    "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/click-and-collect-model-tadj",
+    "title": "О модели продаж «Самовывоз из магазина продавца» (С&С)",
+    "old": null,
+    "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/contact-support-desk-for-sellers-tj",
+    "title": "Поддержка продавцов",
+    "old": null,
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/data-and-seller-account-security-tajikistan",
+    "title": "Безопасность данных и профиля продавца",
+    "old": null,
+    "new": "22.09.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-manage-orders-in-cc-tj",
+    "title": "Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": null,
+    "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/inventory-management-cc-tj",
+    "title": "Управление остатками по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": null,
+    "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/labels-for-filtering-items-tj",
+    "title": "Ярлыки для фильтрации товаров",
+    "old": null,
+    "new": "18.09.2026"
   }
 ]

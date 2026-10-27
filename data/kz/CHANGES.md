@@ -1,16 +1,12 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-26
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-10-27
 
-_Прогон: 2026-10-26 15:00 (Бишкек)_
+_Прогон: 2026-10-27 15:07 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (2)
-- **А/Б-тестирование главного фото в карточке товара**: 27.08.2026 → 22.10.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/ab-testing-of-the-main-photo-in-the-product-card-kz
-  Текст статьи: `content/kz/ab-testing-of-the-main-photo-in-the-product-card-kz.md`
-- **Отчёт «Лента заказов»**: 16.09.2026 → 23.10.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-  Текст статьи: `content/kz/order-feed-report-kz.md`
-
-## Новые статьи (1)
-- **Управление остатками по модели «Самовывоз из магазина продавца» (C&C)** (Обновлено 19.10.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/inventory-management-cc-kz
+- **Как работать с интерактивным листом подбора**: 18.08.2026 → 26.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/interactive-assembly-task-kz
+  Текст статьи: `content/kz/interactive-assembly-task-kz.md`
+- **Отчёт по возвратам и перемещению товаров**: 04.09.2026 → 26.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/returns-and-movement-of-goods-report-kazakhstan
+  Текст статьи: `content/kz/returns-and-movement-of-goods-report-kazakhstan.md`
 

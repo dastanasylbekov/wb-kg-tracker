@@ -5886,5 +5886,13 @@
     "title": "Отчёт «Лента заказов»",
     "old": "16.09.2026",
     "new": "23.10.2026"
+  },
+  {
+    "run": "2026-10-27",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "18.08.2026",
+    "new": "26.10.2026"
   }
 ]
