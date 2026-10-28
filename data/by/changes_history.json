@@ -5678,5 +5678,21 @@
     "title": "Отчёт по возвратам и перемещению товаров",
     "old": "03.07.2026",
     "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "09.09.2026",
+    "new": "27.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/interactive-assembly-task-by",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "18.08.2026",
+    "new": "26.10.2026"
   }
 ]

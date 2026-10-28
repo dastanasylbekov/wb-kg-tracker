@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-10-27_
+_Сформировано: 2026-10-28_
+
+## 2026-10-28
+### Сменилась дата «Обновлено» (4)
+- **Проекты и каналы коммуникации Wildberries**: 09.09.2026 → 27.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/A-256
+- **Как работать с интерактивным листом подбора**: 18.08.2026 → 26.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/interactive-assembly-task-ar
+- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 27.10.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/projects-and-communication-channels-of-wb-armenia
+- **Отчёт по возвратам и перемещению товаров**: 26.10.2026 → 04.09.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/returns-and-movement-of-goods-report-armenia
+
 
 ## 2026-10-27
 ### Сменилась дата «Обновлено» (1)
@@ -1552,20 +1564,3 @@ _Сформировано: 2026-10-27_
   https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
 - **Ограничения по весу и габаритам товаров для разных моделей продаж**: 27.07.2026 → 29.07.2026
   https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia
-
-
-## 2026-07-29
-### Сменилась дата «Обновлено» (4)
-- **Как создать карточку товара**: 18.05.2026 → 28.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-product-card-armenia
-- **Отчёт «Лента заказов»**: 13.07.2026 → 28.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by
-- **Поддержка продавцов**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/seller-support-armenia
-- **Этап 3. Подготовка поставки к отгрузке**: 24.07.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
-
-### Исчезли статьи (3)
-- ~~Частые вопросы по блокировке карточек товаров~~  https://seller.wildberries.ru/instructions/ru/am/material/common-questions-about-blocking-product-cards-am
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/am/material/disposal-of-goods-am
-- ~~Коэффициент вознаграждения Wildberries~~  https://seller.wildberries.ru/instructions/ru/am/material/wildberries-reward-ratio-am

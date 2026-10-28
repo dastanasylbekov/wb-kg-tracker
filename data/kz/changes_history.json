@@ -5566,5 +5566,21 @@
     "title": "Отчёт по возвратам и перемещению товаров",
     "old": "04.09.2026",
     "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "09.09.2026",
+    "new": "27.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/projects-and-communication-channels-of-wb-kazakhstan",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "18.05.2026",
+    "new": "27.10.2026"
   }
 ]

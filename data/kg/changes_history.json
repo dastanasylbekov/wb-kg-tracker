@@ -5894,5 +5894,37 @@
     "title": "Как работать с интерактивным листом подбора",
     "old": "18.08.2026",
     "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "09.09.2026",
+    "new": "27.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "26.10.2026",
+    "new": "18.08.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/projects-and-communication-channels-of-wb-kyrgyzstan",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "18.05.2026",
+    "new": "27.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/returns-and-movement-of-goods-report-kyrgyzstan",
+    "title": "Отчёт по возвратам и перемещению товаров",
+    "old": "04.09.2026",
+    "new": "26.10.2026"
   }
 ]

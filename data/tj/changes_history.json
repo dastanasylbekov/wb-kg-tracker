@@ -1734,5 +1734,29 @@
     "title": "Ярлыки для фильтрации товаров",
     "old": null,
     "new": "18.09.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/your-first-sale-on-wildberries-tj",
+    "title": "Первая продажа на Wildberries",
+    "old": null,
+    "new": "21.08.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/A-256",
+    "title": "Проекты и каналы коммуникации Wildberries",
+    "old": "09.09.2026",
+    "new": "27.10.2026"
+  },
+  {
+    "run": "2026-10-28",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tj",
+    "title": "Рейтинг доставки",
+    "old": "18.05.2026",
+    "new": null
   }
 ]

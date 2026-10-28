@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-27_
+_Сформировано: 2026-10-28_
+
+## 2026-10-28
+### Сменилась дата «Обновлено» (1)
+- **Проекты и каналы коммуникации Wildberries**: 09.09.2026 → 27.10.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/A-256
+
+### Новые статьи (1)
+- **Первая продажа на Wildberries** (Обновлено 21.08.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/your-first-sale-on-wildberries-tj
+
+### Исчезли статьи (1)
+- ~~Рейтинг доставки~~  https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tj
+
 
 ## 2026-10-27
 ### Новые статьи (8)
