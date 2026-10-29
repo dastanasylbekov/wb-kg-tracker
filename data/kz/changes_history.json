@@ -5582,5 +5582,21 @@
     "title": "Проекты и каналы коммуникации Wildberries",
     "old": "18.05.2026",
     "new": "27.10.2026"
+  },
+  {
+    "run": "2026-10-29",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/product-ranking-in-promotions-kz",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-29",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/promo-events-items-ranking-kz",
+    "title": "Ранжирование товаров в акциях",
+    "old": "21.07.2026",
+    "new": null
   }
 ]

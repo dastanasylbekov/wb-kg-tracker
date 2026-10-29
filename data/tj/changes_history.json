@@ -1758,5 +1758,13 @@
     "title": "Рейтинг доставки",
     "old": "18.05.2026",
     "new": null
+  },
+  {
+    "run": "2026-10-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tajikistan",
+    "title": "Рейтинг доставки",
+    "old": "29.06.2026",
+    "new": "28.10.2026"
   }
 ]

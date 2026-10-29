@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/discount-depth-in-autopromotions-kyrgyzstan
 - Идентификатор: A-1104
-- Обновлено: 2026-05-18T11:08:56.16147Z
+- Обновлено: 2026-10-28T14:50:30.406806Z
 
 ---
 > **Примечание**
@@ -28,7 +28,7 @@
 
 > **Примечание**
 >
-> Подробнее про то, как работает продвижение товаров на Wildberries, читайте в статьях:[Выдача и ранжирование товаров на Wildberries](https://seller.wildberries.ru/instructions/ru/kg/material/A-48)[Ранжирование товаров в акциях](https://seller.wildberries.ru/instructions/ru/kg/material/A-261)
+> Подробнее про то, как работает продвижение товаров на Wildberries, читайте в статьях:[Выдача и ранжирование товаров на Wildberries](https://seller.wildberries.ru/instructions/ru/kg/material/A-48)[Ранжирование товаров в акциях](https://seller.wildberries.kg/instructions/ru/kg/material/product-ranking-in-promotions-kg)
 
 ![](https://static-basket-02.wbbasket.ru/vol20/article-static/a1334a45-889d-4c89-8fef-417f113267fc.webp)
 

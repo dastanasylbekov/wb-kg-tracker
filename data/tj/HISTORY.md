@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-28_
+_Сформировано: 2026-10-29_
+
+## 2026-10-29
+### Сменилась дата «Обновлено» (1)
+- **Рейтинг доставки**: 29.06.2026 → 28.10.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tajikistan
+
 
 ## 2026-10-28
 ### Сменилась дата «Обновлено» (1)
@@ -573,13 +579,3 @@ _Сформировано: 2026-10-28_
 
 ### Исчезли статьи (1)
 - ~~Как оплатить долг~~  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj
-
-
-## 2026-07-30
-### Сменилась дата «Обновлено» (1)
-- **Управление остатками по модели FBS**: 18.05.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/managing-product-inventory-in-fbs-tj
-
-### Новые статьи (1)
-- **Как оплатить долг** (Обновлено 28.07.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj

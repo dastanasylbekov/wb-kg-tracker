@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/discount-depth-in-autopromotions-belarus
 - Идентификатор: A-1103
-- Обновлено: 2026-05-18T11:08:56.122159Z
+- Обновлено: 2026-10-28T14:46:40.350971Z
 
 ---
 > **Примечание**
@@ -28,7 +28,7 @@
 
 > **Примечание**
 >
-> Подробнее про то, как работает продвижение товаров на Wildberries, читайте в статьях:[Выдача и ранжирование товаров на Wildberries](https://seller.wildberries.ru/instructions/ru/by/material/A-48)[Ранжирование товаров в акциях](https://seller.wildberries.ru/instructions/ru/by/material/A-261)
+> Подробнее про то, как работает продвижение товаров на Wildberries, читайте в статьях:[Выдача и ранжирование товаров на Wildberries](https://seller.wildberries.ru/instructions/ru/by/material/A-48)[Ранжирование товаров в акциях](https://seller.wildberries.by/instructions/ru/by/material/product-ranking-in-promotions-by)
 
 ![](https://static-basket-02.wbbasket.ru/vol20/article-static/5eaace80-72dd-44b6-a47d-708aac7ddf3a.webp)
 

@@ -5926,5 +5926,21 @@
     "title": "Отчёт по возвратам и перемещению товаров",
     "old": "04.09.2026",
     "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/discount-depth-in-autopromotions-kyrgyzstan",
+    "title": "Глубина скидки в автоакциях",
+    "old": "18.05.2026",
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-29",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-evaluation-report-kg",
+    "title": "Отчёт «Оценка товара»",
+    "old": "24.09.2026",
+    "new": "28.10.2026"
   }
 ]

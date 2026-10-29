@@ -1,12 +1,15 @@
-# Изменения справки WB — 🇧🇾 Беларусь — 2026-10-28
+# Изменения справки WB — 🇧🇾 Беларусь — 2026-10-29
 
-_Прогон: 2026-10-28 15:40 (Бишкек)_
+_Прогон: 2026-10-29 15:55 (Бишкек)_
 
-## Сменилась дата «Обновлено» (2)
-- **Проекты и каналы коммуникации Wildberries**: 09.09.2026 → 27.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/A-256
-  Текст статьи: `content/by/A-256.md`
-- **Как работать с интерактивным листом подбора**: 18.08.2026 → 26.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/interactive-assembly-task-by
-  Текст статьи: `content/by/interactive-assembly-task-by.md`
+## Сменилась дата «Обновлено» (3)
+- **Глубина скидки в автоакциях**: 18.05.2026 → 28.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/discount-depth-in-autopromotions-belarus
+  Текст статьи: `content/by/discount-depth-in-autopromotions-belarus.md`
+- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 27.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/projects-and-communication-channels-of-wb-belarus
+  Текст статьи: `content/by/projects-and-communication-channels-of-wb-belarus.md`
+- **Акции на Wildberries**: 17.06.2026 → 28.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/promotion-wb-by
+  Текст статьи: `content/by/promotion-wb-by.md`
 
