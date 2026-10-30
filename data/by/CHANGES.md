@@ -1,15 +1,16 @@
-# Изменения справки WB — 🇧🇾 Беларусь — 2026-10-29
+# Изменения справки WB — 🇧🇾 Беларусь — 2026-10-30
 
-_Прогон: 2026-10-29 15:55 (Бишкек)_
+_Прогон: 2026-10-30 15:59 (Бишкек)_
 
-## Сменилась дата «Обновлено» (3)
-- **Глубина скидки в автоакциях**: 18.05.2026 → 28.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/discount-depth-in-autopromotions-belarus
-  Текст статьи: `content/by/discount-depth-in-autopromotions-belarus.md`
-- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 27.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/projects-and-communication-channels-of-wb-belarus
-  Текст статьи: `content/by/projects-and-communication-channels-of-wb-belarus.md`
-- **Акции на Wildberries**: 17.06.2026 → 28.10.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/promotion-wb-by
-  Текст статьи: `content/by/promotion-wb-by.md`
+## Сменилась дата «Обновлено» (1)
+- **Этап 1. Создание поставки**: 08.09.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus
+  Текст статьи: `content/by/step-1-creating-a-supply-belarus.md`
+
+## Новые статьи (1)
+- **Ранжирование товаров в акциях** (Обновлено 28.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/product-ranking-in-promotions-by
+
+## Исчезли статьи (1)
+- ~~Ранжирование товаров в акциях~~  https://seller.wildberries.ru/instructions/ru/by/material/promo-events-items-ranking-by
 

@@ -5942,5 +5942,69 @@
     "title": "Отчёт «Оценка товара»",
     "old": "24.09.2026",
     "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/product-ranking-in-promotions-kg",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/api-integration-with-token-kg",
+    "title": "Как подключиться по API через токен",
+    "old": "28.05.2026",
+    "new": "29.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-update-or-delete-a-wb-api-token-kyrgyzstan",
+    "title": "Как создать, обновить или удалить токен WB API",
+    "old": "18.05.2026",
+    "new": "29.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "18.08.2026",
+    "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/promotion-wb-kg",
+    "title": "Акции на Wildberries",
+    "old": "17.06.2026",
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/wb-api-data-categories-kg",
+    "title": "Категории данных WB API: как выбрать нужные для вашей интеграции",
+    "old": "26.08.2026",
+    "new": "29.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/wbapi-how-to-work-kg",
+    "title": "Что такое WB API и как с ним работать",
+    "old": "18.05.2026",
+    "new": "29.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/promo-events-items-ranking-kg",
+    "title": "Ранжирование товаров в акциях",
+    "old": "21.07.2026",
+    "new": null
   }
 ]

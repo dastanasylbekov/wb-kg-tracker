@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tajikistan
 - Идентификатор: A-2053
-- Обновлено: 2026-10-28T12:02:53.229561Z
+- Обновлено: 2026-06-29T11:49:49.580865Z
 
 ---
 > **Примечание**

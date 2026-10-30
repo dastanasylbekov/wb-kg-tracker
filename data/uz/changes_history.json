@@ -5838,5 +5838,29 @@
     "title": "Акции на Wildberries",
     "old": "17.06.2026",
     "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz",
+    "title": "Как работать с интерактивным листом подбора",
+    "old": "18.08.2026",
+    "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "28.10.2026",
+    "new": "24.09.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/promotion-wb-uz",
+    "title": "Акции на Wildberries",
+    "old": "28.10.2026",
+    "new": "17.06.2026"
   }
 ]

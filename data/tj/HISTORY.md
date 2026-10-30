@@ -1,6 +1,26 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-10-29_
+_Сформировано: 2026-10-30_
+
+## 2026-10-30
+### Сменилась дата «Обновлено» (1)
+- **Рейтинг доставки**: 28.10.2026 → 29.06.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tajikistan
+
+### Новые статьи (6)
+- **Как подключиться по API через токен** (Обновлено 29.10.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/api-integration-with-token-tj
+- **Справочный центр** (Обновлено None)
+  https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tj
+- **Как создать, обновить или удалить токен WB API** (Обновлено 29.10.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-update-or-delete-a-wb-api-token-tj
+- **Как подключиться по API через OAuth 2.0** (Обновлено 29.10.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/oauth20-api-integration-tj
+- **Категории данных WB API: как выбрать нужные для вашей интеграции** (Обновлено 29.10.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/wb-api-data-categories-tj
+- **Что такое WB API и как с ним работать** (Обновлено 29.10.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/wbapi-how-to-work-tj
+
 
 ## 2026-10-29
 ### Сменилась дата «Обновлено» (1)
@@ -570,12 +590,3 @@ _Сформировано: 2026-10-29_
 ### Новые статьи (1)
 - **Как оплатить долг** (Обновлено 28.07.2026)
   https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj
-
-
-## 2026-07-31
-### Сменилась дата «Обновлено» (1)
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-2-labeling-and-packaging-fbs-orders-tj
-
-### Исчезли статьи (1)
-- ~~Как оплатить долг~~  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj

@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-29_
+_Сформировано: 2026-10-30_
+
+## 2026-10-30
+### Сменилась дата «Обновлено» (2)
+- **Акции на Wildberries**: 17.06.2026 → 28.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/promotion-wb-kz
+- **Этап 1. Создание поставки**: 04.09.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-1-creating-a-supply-kazakhstan
+
 
 ## 2026-10-29
 ### Новые статьи (1)
@@ -1477,20 +1485,3 @@ _Сформировано: 2026-10-29_
   https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-part2-kz
 - **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan
-
-
-## 2026-07-31
-### Сменилась дата «Обновлено» (5)
-- **Отчёт «География заказов»**: 16.07.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
-- **Утилизация товаров**: None → 22.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 27.07.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/marking-of-goods-and-supplies-kazakhstan
-- **Отчёт «Лента заказов»**: 28.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-marking-and-packaging-orders-for-the-fbs-kazakhstan
-
-### Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/uploading-brand-logos-kazakhstan

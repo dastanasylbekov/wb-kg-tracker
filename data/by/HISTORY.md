@@ -1,6 +1,19 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-29_
+_Сформировано: 2026-10-30_
+
+## 2026-10-30
+### Сменилась дата «Обновлено» (1)
+- **Этап 1. Создание поставки**: 08.09.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus
+
+### Новые статьи (1)
+- **Ранжирование товаров в акциях** (Обновлено 28.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/product-ranking-in-promotions-by
+
+### Исчезли статьи (1)
+- ~~Ранжирование товаров в акциях~~  https://seller.wildberries.ru/instructions/ru/by/material/promo-events-items-ranking-by
+
 
 ## 2026-10-29
 ### Сменилась дата «Обновлено» (3)
@@ -1485,16 +1498,3 @@ _Сформировано: 2026-10-29_
   https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
 - **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
   https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog
-
-
-## 2026-07-31
-### Сменилась дата «Обновлено» (3)
-- **Управление остатками по модели FBS**: 18.05.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/inventory-management-fbs-belarus
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 27.07.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/marking-of-goods-and-supplies-belarus
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-2-marking-and-packaging-orders-for-the-fbs-belarus
-
-### Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by

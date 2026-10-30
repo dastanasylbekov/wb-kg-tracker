@@ -1,6 +1,29 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-29_
+_Сформировано: 2026-10-30_
+
+## 2026-10-30
+### Сменилась дата «Обновлено» (6)
+- **Как подключиться по API через токен**: 28.05.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/api-integration-with-token-kg
+- **Как создать, обновить или удалить токен WB API**: 18.05.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-update-or-delete-a-wb-api-token-kyrgyzstan
+- **Как работать с интерактивным листом подбора**: 18.08.2026 → 26.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/interactive-assembly-task-kg
+- **Акции на Wildberries**: 17.06.2026 → 28.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/promotion-wb-kg
+- **Категории данных WB API: как выбрать нужные для вашей интеграции**: 26.08.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/wb-api-data-categories-kg
+- **Что такое WB API и как с ним работать**: 18.05.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/wbapi-how-to-work-kg
+
+### Новые статьи (1)
+- **Ранжирование товаров в акциях** (Обновлено 28.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/product-ranking-in-promotions-kg
+
+### Исчезли статьи (1)
+- ~~Ранжирование товаров в акциях~~  https://seller.wildberries.ru/instructions/ru/kg/material/promo-events-items-ranking-kg
+
 
 ## 2026-10-29
 ### Сменилась дата «Обновлено» (2)
@@ -1532,31 +1555,3 @@ _Сформировано: 2026-10-29_
 
 ### Исчезли статьи (1)
 - ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
-
-
-## 2026-07-31
-### Сменилась дата «Обновлено» (10)
-- **6 шагов к первой поставке**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/6-steps-to-the-first-delivery-kyrgyzstan
-- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/autoplay-of-videos-in-product-cards-and-catalogs
-- **Отчёт «География заказов»**: 16.07.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/deliveries-by-region-report-kyrgyzstan
-- **Отчёт «Скрытые товары»**: 18.05.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/hidden-products-report-kyrgyzstan
-- **Как добавить бренд на Wildberries**: 22.07.2026 → 23.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-add-a-brand-to-wildberries-kyrgyzstan
-- **Управление остатками по модели FBS**: 18.05.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/inventory-management-fbs-kyrgyzstan
-- **Фото товаров: правила, рекомендации и частые ошибки**: 27.07.2026 → 20.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/item-photo-rules-recommendations-and-common-mistakes-kg
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 27.07.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/marking-of-goods-and-supplies-kyrgyzstan
-- **Отчёт «Лента заказов»**: 28.07.2026 → 13.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
-- **Отчёт «Поисковые запросы: ваши товары»**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
-
-### Новые статьи (1)
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg

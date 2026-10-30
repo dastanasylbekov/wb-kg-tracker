@@ -5814,5 +5814,37 @@
     "title": "Отчёт по возвратам и перемещению товаров",
     "old": "04.09.2026",
     "new": "26.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/product-ranking-in-promotions",
+    "title": "Ранжирование товаров в акциях",
+    "old": null,
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/promotion-wb-ar",
+    "title": "Акции на Wildberries",
+    "old": "17.06.2026",
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia",
+    "title": "Этап 1. Создание поставки",
+    "old": "04.09.2026",
+    "new": "29.10.2026"
+  },
+  {
+    "run": "2026-10-30",
+    "type": "removed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/promo-events-items-ranking-am",
+    "title": "Ранжирование товаров в акциях",
+    "old": "21.07.2026",
+    "new": null
   }
 ]
