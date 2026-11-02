@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-10-30_
+_Сформировано: 2026-11-02_
+
+## 2026-11-02
+### Сменилась дата «Обновлено» (4)
+- **Рейтинг товара**: 09.06.2026 → 30.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/item-rating-by
+- **Раздел «Профиль» на портале продавца**: 23.07.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/profile-section-on-the-sellers-portal-belarus
+- **Рейтинг продавца**: 09.06.2026 → 30.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/seller-rating-by
+- **Пользователи и доступы**: 22.09.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/users-and-accesses-belarus
+
+### Новые статьи (1)
+- **Транзитные поставки** (Обновлено 30.10.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/transit-supplies-rb
+
 
 ## 2026-10-30
 ### Сменилась дата «Обновлено» (1)
@@ -1478,23 +1494,3 @@ _Сформировано: 2026-10-30_
   https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
 - **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 02.07.2026 → 03.08.2026
   https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
-
-
-## 2026-08-03
-### Сменилась дата «Обновлено» (8)
-- **О модели продаж «Витрина» (DBS)**: 16.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/about-dbs-model-in-belarus
-- **О модели продаж «Витрина экспресс» (EDBS)**: 27.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/about-the-express-display-sales-model-edbs-rb
-- **Отчёт «Календарь событий»**: 05.06.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/calendar-of-events-report-belarus
-- **Как работать с заказами по модели «Витрина» (DBS)**: 18.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-fbs-by
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 27.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
-- **Отчёт «Лента заказов»**: 28.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
-- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
-- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog

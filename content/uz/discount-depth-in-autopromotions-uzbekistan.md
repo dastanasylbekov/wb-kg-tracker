@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/discount-depth-in-autopromotions-uzbekistan
 - Идентификатор: A-1106
-- Обновлено: 2026-05-18T11:08:56.242294Z
+- Обновлено: 2026-10-28T14:57:03.092909Z
 
 ---
 > **Примечание**
@@ -28,7 +28,7 @@
 
 > **Примечание**
 >
-> Подробнее про то, как работает продвижение товаров на Wildberries, читайте в статьях:[Выдача и ранжирование товаров на Wildberries](https://seller.wildberries.ru/help-center/article/A-48)[Ранжирование товаров в акциях](https://seller.wildberries.ru/help-center/article/A-261)
+> Подробнее про то, как работает продвижение товаров на Wildberries, читайте в статьях:[Выдача и ранжирование товаров на Wildberries](https://seller.wildberries.ru/help-center/article/A-48)[Ранжирование товаров в акциях](https://seller.wildberries.uz/instructions/ru/uz/material/product-ranking-in-promotions-uz)
 
 ![](https://static-basket-02.wbbasket.ru/vol20/article-static/d68f08ef-21b1-43a9-8536-c612d07ae20a.webp)
 

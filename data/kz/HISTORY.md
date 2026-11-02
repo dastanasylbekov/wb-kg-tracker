@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-10-30_
+_Сформировано: 2026-11-02_
+
+## 2026-11-02
+### Сменилась дата «Обновлено» (5)
+- **Глубина скидки в автоакциях**: 18.05.2026 → 28.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/discount-depth-in-autopromotions-kazakhstan
+- **Рейтинг товара**: 09.06.2026 → 30.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/item-rating-kz
+- **Раздел «Профиль» на портале продавца**: 23.07.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/profile-section-on-the-sellers-portal-kazakhstan
+- **Рейтинг продавца**: 09.06.2026 → 30.10.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/seller-rating-kz
+- **Пользователи и доступы**: 22.09.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/users-and-accesses-kazakhstan
+
 
 ## 2026-10-30
 ### Сменилась дата «Обновлено» (2)
@@ -1461,27 +1475,3 @@ _Сформировано: 2026-10-30_
 
 ### Исчезли статьи (1)
 - ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
-
-
-## 2026-08-03
-### Сменилась дата «Обновлено» (10)
-- **О модели продаж «Витрина» (DBS)**: 16.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/about-dbs-kz
-- **О модели продаж «Витрина экспресс» (EDBS)**: 10.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/about-the-express-display-sales-model-edbs-kazakhstan
-- **Отчёт «Календарь событий»**: 05.06.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/calendar-of-events-report-kazakhstan
-- **Как работать с заказами по модели «Витрина» (DBS)**: 18.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/dbs-orders-management-kz
-- **Справочный центр**: 22.07.2026 → None
-  https://seller.wildberries.ru/instructions/ru/kz/material/disposal-of-goods-kz
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 18.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan
-- **Отчёт «Лента заказов»**: 13.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
-- **Как работать с уведомлениями на портале**: 23.07.2026 → 16.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/portal-notifications-kz
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-part2-kz
-- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/sales-funnel-report-kazakhstan

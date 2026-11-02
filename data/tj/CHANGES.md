@@ -1,23 +1,15 @@
-# Изменения справки WB — 🇹🇯 Таджикистан — 2026-10-30
+# Изменения справки WB — 🇹🇯 Таджикистан — 2026-11-02
 
-_Прогон: 2026-10-30 16:20 (Бишкек)_
+_Прогон: 2026-11-02 17:20 (Бишкек)_
 
-## Сменилась дата «Обновлено» (1)
-- **Рейтинг доставки**: 28.10.2026 → 29.06.2026
+## Сменилась дата «Обновлено» (2)
+- **Рейтинг доставки**: 29.06.2026 → 28.10.2026
   https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tajikistan
   Текст статьи: `content/tj/delivery-rating-tajikistan.md`
+- **Этап 1. Создание поставки**: 25.06.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/step-one-fbw-shipments-creation-tj
+  Текст статьи: `content/tj/step-one-fbw-shipments-creation-tj.md`
 
-## Новые статьи (6)
-- **Как подключиться по API через токен** (Обновлено 29.10.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/api-integration-with-token-tj
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tj
-- **Как создать, обновить или удалить токен WB API** (Обновлено 29.10.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-update-or-delete-a-wb-api-token-tj
-- **Как подключиться по API через OAuth 2.0** (Обновлено 29.10.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/oauth20-api-integration-tj
-- **Категории данных WB API: как выбрать нужные для вашей интеграции** (Обновлено 29.10.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/wb-api-data-categories-tj
-- **Что такое WB API и как с ним работать** (Обновлено 29.10.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/wbapi-how-to-work-tj
+## Исчезли статьи (1)
+- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/tj/material/delivery-rating-tj
 

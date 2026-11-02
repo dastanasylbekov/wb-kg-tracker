@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-10-30_
+_Сформировано: 2026-11-02_
+
+## 2026-11-02
+### Сменилась дата «Обновлено» (6)
+- **Рейтинг товара**: 09.06.2026 → 30.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/item-rating-kg
+- **Как подключиться по API через OAuth 2.0**: 28.05.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/oauth20-api-integration-kg
+- **Раздел «Профиль» на портале продавца**: 23.07.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/profile-section-on-the-sellers-portal-kyrgyzstan
+- **Рейтинг продавца**: 09.06.2026 → 30.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/seller-rating-kg
+- **Этап 1. Создание поставки**: 04.09.2026 → 29.10.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-1-creating-a-supply-kyrgyzstan
+- **Пользователи и доступы**: 22.09.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/users-and-accesses-kyrgyzstan
+
 
 ## 2026-10-30
 ### Сменилась дата «Обновлено» (6)
@@ -1530,28 +1546,3 @@ _Сформировано: 2026-10-30_
 ### Новые статьи (1)
 - **Утилизация товаров** (Обновлено 22.07.2026)
   https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg
-
-
-## 2026-08-03
-### Сменилась дата «Обновлено» (9)
-- **О модели продаж «Витрина» (DBS)**: 16.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/about-dbs-kyrgyzstan
-- **О модели продаж «Витрина экспресс» (EDBS)**: 10.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/about-edbs-kyrgyzstan
-- **Бюджет и оплата кампаний по продвижению**: 18.05.2026 → 29.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/budget-and-payment-for-promotion-kg
-- **Отчёт «Календарь событий»**: 05.06.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/calendar-of-events-report-kyrgyzstan
-- **Как работать с заказами по модели «Витрина» (DBS)**: 18.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-dbs-orders-kyrgyzstan
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 18.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-edbs-kyrgyzstan
-- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/sales-funnel-report-kyrgyzstan
-- **Отчёт «Поисковые запросы: ваши товары»**: 27.07.2026 → 18.05.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/search-queries-report-kyrgyzstan
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 21.05.2026 → 30.07.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-marking-and-packaging-orders-for-the-fbs-kyrgyzstan
-
-### Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kg/material/disposal-of-goods-kg

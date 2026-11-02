@@ -5862,5 +5862,69 @@
     "title": "Акции на Wildberries",
     "old": "28.10.2026",
     "new": "17.06.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/discount-depth-in-autopromotions-uzbekistan",
+    "title": "Глубина скидки в автоакциях",
+    "old": "18.05.2026",
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/item-rating-uz",
+    "title": "Рейтинг товара",
+    "old": "09.06.2026",
+    "new": "30.10.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/product-valuation-report-uz",
+    "title": "Отчёт «Оценка товара»",
+    "old": "24.09.2026",
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/profile-section-on-the-sellers-portal-uzbekistan",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "23.07.2026",
+    "new": "02.11.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/promotion-wb-uz",
+    "title": "Акции на Wildberries",
+    "old": "17.06.2026",
+    "new": "28.10.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/seller-rating-uz",
+    "title": "Рейтинг продавца",
+    "old": "09.06.2026",
+    "new": "30.10.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/step-1-creating-a-supply-uzbekistan",
+    "title": "Этап 1. Создание поставки",
+    "old": "02.09.2026",
+    "new": "29.10.2026"
+  },
+  {
+    "run": "2026-11-02",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/users-and-accesses-uzbekistan",
+    "title": "Пользователи и доступы",
+    "old": "22.09.2026",
+    "new": "02.11.2026"
   }
 ]
