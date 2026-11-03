@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-02_
+_Сформировано: 2026-11-03_
+
+## 2026-11-03
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Портрет покупателя»**: 08.07.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/customer-profile-report-v2
+- **Отчёт «Поисковые запросы: ваши товары»**: 23.09.2026 → 02.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-queries-report-belarus
+
 
 ## 2026-11-02
 ### Сменилась дата «Обновлено» (4)
@@ -1486,11 +1494,3 @@ _Сформировано: 2026-11-02_
   https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by
 - **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
   https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus
-
-
-## 2026-08-04
-### Сменилась дата «Обновлено» (2)
-- **Отчёт «Воронка продаж. Сравнение с периодом»**: 31.07.2026 → 26.05.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 02.07.2026 → 03.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
