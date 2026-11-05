@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-11-03_
+_Сформировано: 2026-11-05_
 
 ## 2026-11-02
 ### Сменилась дата «Обновлено» (2)
@@ -578,15 +578,3 @@ _Сформировано: 2026-11-03_
 ### Сменилась дата «Обновлено» (1)
 - **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 30.07.2026 → 05.08.2026
   https://seller.wildberries.ru/instructions/ru/tj/material/step-2-labeling-and-packaging-fbs-orders-tj
-
-
-## 2026-08-06
-### Сменилась дата «Обновлено» (1)
-- **Управление остатками по модели FBS**: 29.07.2026 → 05.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/managing-product-inventory-in-fbs-tj
-
-
-## 2026-08-05
-### Новые статьи (1)
-- **Как оплатить долг** (Обновлено 28.07.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-pay-the-debt-tj

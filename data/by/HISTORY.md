@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-03_
+_Сформировано: 2026-11-05_
 
 ## 2026-11-03
 ### Сменилась дата «Обновлено» (2)
@@ -1468,29 +1468,3 @@ _Сформировано: 2026-11-03_
 
 ### Исчезли статьи (1)
 - ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
-
-
-## 2026-08-06
-### Сменилась дата «Обновлено» (4)
-- **Карантин цен**: 04.08.2026 → 18.05.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 31.07.2026 → 19.05.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus
-- **Отчёт «Воронка продаж. Сравнение с периодом»**: 26.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-report-belarus
-- **Автозапуск видео в карточке товара и каталоге**: 27.07.2026 → 18.05.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog
-
-### Новые статьи (1)
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
-
-
-## 2026-08-05
-### Сменилась дата «Обновлено» (3)
-- **Как создать карточку товара**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-product-profile-rb
-- **Карантин цен**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus

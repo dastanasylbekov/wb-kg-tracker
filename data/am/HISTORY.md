@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-03_
+_Сформировано: 2026-11-05_
 
 ## 2026-11-03
 ### Сменилась дата «Обновлено» (2)
@@ -1515,19 +1515,5 @@ _Сформировано: 2026-11-03_
   https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-sellers-warehouse-armenia
 - **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am
-- **Карантин цен**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/price-quarantine-ar
-
-
-## 2026-08-06
-### Сменилась дата «Обновлено» (1)
-- **Карантин цен**: 04.08.2026 → 18.05.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/price-quarantine-ar
-
-
-## 2026-08-05
-### Сменилась дата «Обновлено» (2)
-- **Как создать карточку товара**: 28.07.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-product-card-armenia
 - **Карантин цен**: 18.05.2026 → 04.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/price-quarantine-ar

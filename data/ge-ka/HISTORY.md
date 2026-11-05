@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇬🇪 Грузия (ka) — последние 90 дней
 
-_Сформировано: 2026-11-03_
+_Сформировано: 2026-11-05_
 
 ## 2026-10-26
 ### Сменилась дата «Обновлено» (1)
@@ -293,9 +293,3 @@ _Сформировано: 2026-11-03_
   https://seller.wildberries.ge/instructions/ka/ge/material/weekly-implementation-reports-ge
 - **Wildberries-ის ანაზღაურების კოეფიციენტი**: 18.5.2026 → None
   https://seller.wildberries.ge/instructions/ka/ge/material/wildberries-reward-coefficient-ge
-
-
-## 2026-08-05
-### Сменилась дата «Обновлено» (1)
-- **სელერის პორტალზე განყოფილება „პროფილი“**: 18.5.2026 → 29.7.2026
-  https://seller.wildberries.ge/instructions/ka/ge/material/profile-section-on-the-seller-portal-ge
