@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-05_
+_Сформировано: 2026-11-06_
+
+## 2026-11-06
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Портрет покупателя»**: 02.11.2026 → 05.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/customer-profile-report-v2-kz
+- **Экспорт товаров с КИЗ из Казахстана в Россию**: 18.05.2026 → 06.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/export-of-goods-with-kiz-from-kazakhstan-to-russia
+
 
 ## 2026-11-03
 ### Сменилась дата «Обновлено» (2)
@@ -1442,15 +1450,3 @@ _Сформировано: 2026-11-05_
 
 ### Исчезли статьи (1)
 - ~~Центр развития и поддержки предпринимателей PRO WB~~  https://seller.wildberries.ru/instructions/ru/kz/material/pro-wildberries-kazakhstan
-
-
-## 2026-08-07
-### Сменилась дата «Обновлено» (4)
-- **Частые вопросы о складах**: 15.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz
-- **Как создать склад продавца**: 30.06.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-sellers-warehouse-kazakhstan
-- **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz
-- **Отчёт «Лента заказов»**: 13.07.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz

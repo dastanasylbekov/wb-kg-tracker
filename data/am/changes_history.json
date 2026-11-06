@@ -5910,5 +5910,13 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "23.09.2026",
     "new": "02.11.2026"
+  },
+  {
+    "run": "2026-11-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by",
+    "title": "Отчёт «Лента заказов»",
+    "old": "23.10.2026",
+    "new": "05.11.2026"
   }
 ]

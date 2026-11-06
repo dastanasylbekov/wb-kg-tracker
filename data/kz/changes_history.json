@@ -5670,5 +5670,21 @@
     "title": "Отчёт «Поисковые запросы: ваши товары»",
     "old": "23.09.2026",
     "new": "02.11.2026"
+  },
+  {
+    "run": "2026-11-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/customer-profile-report-v2-kz",
+    "title": "Отчёт «Портрет покупателя»",
+    "old": "02.11.2026",
+    "new": "05.11.2026"
+  },
+  {
+    "run": "2026-11-06",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/export-of-goods-with-kiz-from-kazakhstan-to-russia",
+    "title": "Экспорт товаров с КИЗ из Казахстана в Россию",
+    "old": "18.05.2026",
+    "new": "06.11.2026"
   }
 ]

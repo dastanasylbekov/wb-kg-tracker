@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-05_
+_Сформировано: 2026-11-06_
+
+## 2026-11-06
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Портрет покупателя»**: 02.11.2026 → 05.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/customer-profile-report-v2
+- **Отчёт «Лента заказов»**: 23.10.2026 → 05.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
+
 
 ## 2026-11-03
 ### Сменилась дата «Обновлено» (2)
@@ -1449,22 +1457,3 @@ _Сформировано: 2026-11-05_
 
 ### Исчезли статьи (1)
 - ~~Центр развития и поддержки предпринимателей PRO WB~~  https://seller.wildberries.ru/instructions/ru/by/material/pro-wildberries-belarus
-
-
-## 2026-08-07
-### Сменилась дата «Обновлено» (6)
-- **Частые вопросы о складах**: 15.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by
-- **Как создать склад продавца**: 30.06.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-sellers-warehouse-belarus
-- **Отчёт «Доходы и расходы: показатели»**: 06.07.2026 → 06.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by
-- **Карантин цен**: 18.05.2026 → 04.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/price-quarantene-by
-- **Отчёт «Воронка продаж. Сравнение с площадкой»**: 19.05.2026 → 31.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/sales-funnel-part2-belarus
-- **Автозапуск видео в карточке товара и каталоге**: 18.05.2026 → 27.07.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/video-autoplay-in-card-and-catalog
-
-### Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/by/material/disposal-of-goods-by
