@@ -5918,5 +5918,13 @@
     "title": "Отчёт «Лента заказов»",
     "old": "23.10.2026",
     "new": "05.11.2026"
+  },
+  {
+    "run": "2026-11-09",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/packaging-oversized-items-in-fbw-and-fbs-am",
+    "title": "Упаковка сверхгабаритных товаров по моделям «Склад WB» (FBW) и «Маркетплейс» (FBS)",
+    "old": "02.11.2026",
+    "new": "05.11.2026"
   }
 ]

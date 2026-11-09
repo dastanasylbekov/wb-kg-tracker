@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-11-06_
+_Сформировано: 2026-11-09_
 
 ## 2026-11-02
 ### Сменилась дата «Обновлено» (2)
@@ -562,13 +562,3 @@ _Сформировано: 2026-11-06_
 ### Новые статьи (1)
 - **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
   https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj
-
-
-## 2026-08-10
-### Сменилась дата «Обновлено» (1)
-- **Проекты и каналы коммуникации Wildberries**: 18.05.2026 → 07.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/A-256
-
-### Новые статьи (1)
-- **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
-  https://seller.wildberries.ru/instructions/ru/tj/material/card-quality-rating-tj
