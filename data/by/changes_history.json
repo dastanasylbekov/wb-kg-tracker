@@ -5814,5 +5814,21 @@
     "title": "Отчёт «Лента заказов»",
     "old": "23.10.2026",
     "new": "05.11.2026"
+  },
+  {
+    "run": "2026-11-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "16.09.2026",
+    "new": "09.11.2026"
+  },
+  {
+    "run": "2026-11-10",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/history-of-remains-report-belarus",
+    "title": "Отчёт «История остатков»",
+    "old": "08.10.2026",
+    "new": "09.11.2026"
   }
 ]

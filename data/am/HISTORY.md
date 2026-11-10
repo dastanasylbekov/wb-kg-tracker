@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-09_
+_Сформировано: 2026-11-10_
+
+## 2026-11-10
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Сравнение карточек»**: 16.09.2026 → 09.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am
+- **Отчёт «История остатков»**: 08.10.2026 → 09.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/history-of-remains-report-armenia
+
 
 ## 2026-11-09
 ### Сменилась дата «Обновлено» (1)
@@ -1494,9 +1502,3 @@ _Сформировано: 2026-11-09_
 ### Новые статьи (1)
 - **Коэффициент вознаграждения Wildberries** (Обновлено 11.08.2026)
   https://seller.wildberries.ru/instructions/ru/am/material/wildberries-reward-ratio-am
-
-
-## 2026-08-11
-### Сменилась дата «Обновлено» (1)
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 07.08.2026 → 10.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
