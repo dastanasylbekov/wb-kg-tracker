@@ -5710,5 +5710,13 @@
     "title": "Отчёт «История остатков»",
     "old": "08.10.2026",
     "new": "09.11.2026"
+  },
+  {
+    "run": "2026-11-11",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/card-analytics-kz",
+    "title": "Аналитика карточки",
+    "old": "17.07.2026",
+    "new": "11.11.2026"
   }
 ]

@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-10_
+_Сформировано: 2026-11-11_
+
+## 2026-11-11
+### Сменилась дата «Обновлено» (1)
+- **Отчёт «История остатков»**: 09.11.2026 → 08.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/history-of-remains-report-belarus
+
 
 ## 2026-11-10
 ### Сменилась дата «Обновлено» (2)
@@ -1432,9 +1438,3 @@ _Сформировано: 2026-11-10_
   https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus
 - **Этап 3. Подготовка поставки к отгрузке**: 29.07.2026 → 12.08.2026
   https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus
-
-
-## 2026-08-12
-### Сменилась дата «Обновлено» (1)
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 10.08.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
