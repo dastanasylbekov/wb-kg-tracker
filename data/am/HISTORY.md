@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-11_
+_Сформировано: 2026-11-12_
+
+## 2026-11-12
+### Сменилась дата «Обновлено» (5)
+- **Аналитика карточки**: 17.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/card-analytics-am
+- **Отчёт «Сравнение карточек»**: 09.11.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am
+- **Цифровой арбитраж**: 27.08.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/digital-arbitrage-armenia
+- **Отчёт «Анализ ниш»**: 22.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/nyche-analysis-in-armenia
+- **Отчёт «Поисковые запросы на WB»**: 22.09.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/search-analytics-report-ar
+
+### Новые статьи (1)
+- **Документы по движению товара** (Обновлено 11.11.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/documents-on-the-movement-of-goods-am
+
 
 ## 2026-11-10
 ### Сменилась дата «Обновлено» (2)
@@ -1472,23 +1490,3 @@ _Сформировано: 2026-11-11_
   https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia
 - **Этап 3. Подготовка поставки к отгрузке**: 29.07.2026 → 12.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
-
-
-## 2026-08-13
-### Сменилась дата «Обновлено» (6)
-- **Проекты и каналы коммуникации Wildberries**: 07.08.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/A-256
-- **Как заказать пропуск на склад**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/how-to-order-a-pass-to-the-warehouse-armenia
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 30.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/marking-of-goods-and-supplies-armenia
-- **Минимальный платёж и разный период действия опций**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/minimum-payment-and-different-periods-of-options-am
-- **Закреплённые отзывы и вайбы**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/pinned-reviews-am
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/weight-and-size-restrictions-for-sales-models-armenia
-
-### Новые статьи (1)
-- **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
-  https://seller.wildberries.ru/instructions/ru/am/material/how-and-which-cards-do-sellers-compare-on-wb-am

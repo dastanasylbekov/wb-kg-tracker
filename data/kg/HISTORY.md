@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-11-11_
+_Сформировано: 2026-11-12_
+
+## 2026-11-12
+### Сменилась дата «Обновлено» (5)
+- **Аналитика карточки**: 17.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/card-analytics-kg
+- **Отчёт «Сравнение карточек»**: 09.11.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan
+- **Цифровой арбитраж**: 27.08.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/digital-arbitrage-kyrgyzstan
+- **Отчёт «Анализ ниш»**: 22.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/nyche-analysis-kyrgyzstan
+- **Отчёт «Поисковые запросы на WB»**: 22.09.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/search-analytics-report-kg
+
+### Новые статьи (1)
+- **Документы по движению товара** (Обновлено 11.11.2026)
+  https://seller.wildberries.ru/instructions/ru/kg/material/documents-on-the-movement-of-goods-kg
+
 
 ## 2026-11-10
 ### Сменилась дата «Обновлено» (2)
@@ -1440,21 +1458,3 @@ _Сформировано: 2026-11-11_
 
 ### Исчезли статьи (1)
 - ~~Как и какие карточки сравнивают продавцы на Wildberries~~  https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg
-
-
-## 2026-08-13
-### Сменилась дата «Обновлено» (7)
-- **Проекты и каналы коммуникации Wildberries**: 07.08.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/A-256
-- **Отмена заказов и возврат товаров по модели «Самовывоз из магазина продавца» (С&С)**: 09.06.2026 → 10.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/cancellation-orders-return-items-in-cc-kg
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 30.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/marking-of-goods-and-supplies-kyrgyzstan
-- **Категории товаров**: 18.05.2026 → 10.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/product-categories-kyrgyzstan
-- **Этап 3. Подготовка поставки к отгрузке**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3-preparing-the-delivery-for-shipment-kyrgyzstan
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 10.08.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/weight-and-size-restrictions-for-sales-models-kyrgyzstan

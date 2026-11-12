@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-11-11_
+_Сформировано: 2026-11-12_
+
+## 2026-11-12
+### Новые статьи (1)
+- **Документы по движению товара** (Обновлено 11.11.2026)
+  https://seller.wildberries.ru/instructions/ru/tj/material/documents-on-the-movement-of-goods-tg
+
 
 ## 2026-11-02
 ### Сменилась дата «Обновлено» (2)
@@ -527,22 +533,3 @@ _Сформировано: 2026-11-11_
 ### Новые статьи (1)
 - **Рейтинг заполнения карточки товара** (Обновлено 07.08.2026)
   https://seller.wildberries.ru/instructions/ru/tj/material/card-quality-rating-tj
-
-
-## 2026-08-13
-### Сменилась дата «Обновлено» (6)
-- **Проекты и каналы коммуникации Wildberries**: 07.08.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/A-256
-- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 29.06.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan
-- **Как заказать пропуск на склад**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-order-a-pass-to-the-warehouse-tj
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 29.06.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-work-with-edbs-tajikistan
-- **Категории товаров**: 18.05.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/product-categories-tj
-- **Правила работы по модели «Витрина Экспресс» (EDBS)**: 11.08.2026 → 29.06.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/rules-of-work-with-edbs-tajikistan
-
-### Исчезли статьи (1)
-- ~~Рейтинг заполнения карточки товара~~  https://seller.wildberries.ru/instructions/ru/tj/material/card-quality-rating-tj

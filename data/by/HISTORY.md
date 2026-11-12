@@ -1,6 +1,26 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-11_
+_Сформировано: 2026-11-12_
+
+## 2026-11-12
+### Сменилась дата «Обновлено» (6)
+- **Аналитика карточки**: 17.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/card-analytics-by
+- **Отчёт «Сравнение карточек»**: 09.11.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus
+- **Цифровой арбитраж**: 27.08.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/digital-arbitrage-belarus
+- **Отчёт «История остатков»**: 08.10.2026 → 09.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/history-of-remains-report-belarus
+- **Отчёт «Анализ ниш»**: 22.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/nyche-analysis-armenia
+- **Отчёт «Поисковые запросы на WB»**: 22.09.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/search-analytics-report-by
+
+### Новые статьи (1)
+- **Документы по движению товара** (Обновлено 11.11.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/documents-on-the-movement-of-goods-by
+
 
 ## 2026-11-11
 ### Сменилась дата «Обновлено» (1)
@@ -1422,19 +1442,3 @@ _Сформировано: 2026-11-11_
 
 ### Исчезли статьи (1)
 - ~~Как и какие карточки сравнивают продавцы на Wildberries~~  https://seller.wildberries.ru/instructions/ru/by/material/how-and-which-cards-do-sellers-compare-on-wb-by
-
-
-## 2026-08-13
-### Сменилась дата «Обновлено» (6)
-- **6 шагов к первой поставке**: 27.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/6-steps-to-the-first-delivery-belarus
-- **Проекты и каналы коммуникации Wildberries**: 07.08.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/A-256
-- **Как заказать пропуск на склад**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/how-to-order-a-pass-to-the-warehouse-belarus
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 30.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/marking-of-goods-and-supplies-belarus
-- **Этап 2. Наполнение упаковки**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus
-- **Этап 3. Подготовка поставки к отгрузке**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-3-preparing-the-delivery-for-shipment-belarus

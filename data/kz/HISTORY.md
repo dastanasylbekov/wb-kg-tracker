@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-11_
+_Сформировано: 2026-11-12_
+
+## 2026-11-12
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Сравнение карточек»**: 09.11.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
+- **Цифровой арбитраж**: 27.08.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/digital-arbitrage-kazakhstan
+- **Отчёт «Анализ ниш»**: 22.07.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/nyche-analysis-kazakhstan
+- **Отчёт «Поисковые запросы на WB»**: 22.09.2026 → 11.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/search-analytics-report-kz
+
 
 ## 2026-11-11
 ### Сменилась дата «Обновлено» (1)
@@ -1390,25 +1402,3 @@ _Сформировано: 2026-11-11_
   https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan
 - **Ограничения по весу и габаритам товаров для разных моделей продаж**: 29.07.2026 → 12.08.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan
-
-
-## 2026-08-13
-### Сменилась дата «Обновлено» (7)
-- **Проекты и каналы коммуникации Wildberries**: 07.08.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/A-256
-- **Габариты товаров**: 18.06.2026 → 10.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/dimensions-of-goods-kazakhstan
-- **Как заказать пропуск на склад**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-order-a-pass-to-the-warehouse-kazakhstan
-- **Маркировка товаров и поставок. Баркод, ШК, КИЗ, УИН, GTIN и IMEI**: 30.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/marking-of-goods-and-supplies-kazakhstan
-- **Минимальный платёж и разный период действия опций**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/minimum-payment-and-different-periods-of-options-kz
-- **Этап 2. Наполнение упаковки**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-filling-the-packaging-kazakhstan
-- **Этап 3. Подготовка поставки к отгрузке**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3-preparing-the-delivery-for-shipment-kazakhstan
-
-### Новые статьи (1)
-- **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-and-which-cards-do-sellers-compare-on-wb-kz

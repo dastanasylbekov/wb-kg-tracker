@@ -5982,5 +5982,45 @@
     "title": "Отчёт «История остатков»",
     "old": "08.10.2026",
     "new": "09.11.2026"
+  },
+  {
+    "run": "2026-11-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz",
+    "title": "Аналитика карточки",
+    "old": "17.07.2026",
+    "new": "11.11.2026"
+  },
+  {
+    "run": "2026-11-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "09.11.2026",
+    "new": "11.11.2026"
+  },
+  {
+    "run": "2026-11-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/digital-arbitrage-uzbekistan",
+    "title": "Цифровой арбитраж",
+    "old": "27.08.2026",
+    "new": "11.11.2026"
+  },
+  {
+    "run": "2026-11-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/nyche-analysis-uzbekistan",
+    "title": "Отчёт «Анализ ниш»",
+    "old": "22.07.2026",
+    "new": "11.11.2026"
+  },
+  {
+    "run": "2026-11-12",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/search-analytics-report-uz",
+    "title": "Отчёт «Поисковые запросы на WB»",
+    "old": "22.09.2026",
+    "new": "11.11.2026"
   }
 ]

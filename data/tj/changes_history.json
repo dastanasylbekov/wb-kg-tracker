@@ -1846,5 +1846,13 @@
     "title": "Справочный центр",
     "old": null,
     "new": null
+  },
+  {
+    "run": "2026-11-12",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/documents-on-the-movement-of-goods-tg",
+    "title": "Документы по движению товара",
+    "old": null,
+    "new": "11.11.2026"
   }
 ]
