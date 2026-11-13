@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz
 - Идентификатор: A-2128
-- Обновлено: 2026-11-11T13:42:53.908172Z
+- Обновлено: 2026-11-12T18:54:34.498788Z
 
 ---
 > **Примечание**
@@ -13,7 +13,7 @@
 
 ## Как посмотреть аналитику
 
-1. Откройте раздел [Товары и цены → Товары](https://seller.wildberries.ru/new-goods/all-goods)[→](https://seller.wildberries.ru/new-goods/all-goods) [Карточка товара](https://seller.wildberries.ru/new-goods/all-goods).
+1. Откройте раздел [Товары и цены →](https://seller.wildberries.ru/new-goods/all-goods)[Карточка товара](https://seller.wildberries.ru/new-goods/all-goods).
 2. Нажмите на нужную карточку в таблице. Справа появится краткий отчёт.![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/8cb58e4c-6c61-4140-a11c-43983fde98a8.webp)
 
 ## Что есть в отчёте
@@ -38,7 +38,7 @@
 
 > **Совет**
 >
-> Подробнее о том, как работает «Помощник», — [в инструкции](https://seller.wildberries.ru/instructions/ru/ru/material/wbot-analytics-in-the-app)
+> Подробнее о том, как работает «Помощник», — [в инструкции](https://seller.wildberries.ru/instructions/ru/uz/material/wbot-analytics-in-the-app-uz)
 
 ![image5.png](https://static-basket-02.wbbasket.ru/vol20/article-static/a0e9b97e-4779-4777-8aa8-d458d758f2ac.webp)
 
@@ -72,8 +72,6 @@
 ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/bf8fdd57-60c8-45ca-a714-d696c0b0b7e4.webp)
 
 На вкладке показано, сколько товара на текущий день осталось на складах продавца для модели «Маркетплейс» (FBS) и на складах Wildberries для модели «Склад WB» (FBW). Для размерных товаров остатки разделены по размерам. Ещё вы увидите, сколько товаров сейчас в пути: возвращаются на склад или едут к покупателям.
-
-Также вы увидите, подключена у вас опция «Перераспределение остатков между складами» или нет.
 
 ### Тарифные опции
 

@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-12_
+_Сформировано: 2026-11-13_
+
+## 2026-11-13
+### Сменилась дата «Обновлено» (1)
+- **Аналитика карточки**: 11.11.2026 → 12.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/card-analytics-kz
+
 
 ## 2026-11-12
 ### Сменилась дата «Обновлено» (4)
@@ -1394,11 +1400,3 @@ _Сформировано: 2026-11-12_
 
 ### Исчезли статьи (1)
 - ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/kz/material/faq-about-warehouses-kz
-
-
-## 2026-08-14
-### Сменилась дата «Обновлено» (2)
-- **6 шагов к первой поставке**: 27.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/6-steps-to-the-first-delivery-kazakhstan
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/weight-and-size-restrictions-for-sales-models-kazakhstan

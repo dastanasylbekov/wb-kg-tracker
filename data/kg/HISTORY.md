@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-11-12_
+_Сформировано: 2026-11-13_
+
+## 2026-11-13
+### Сменилась дата «Обновлено» (1)
+- **Аналитика карточки**: 11.11.2026 → 12.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/card-analytics-kg
+
 
 ## 2026-11-12
 ### Сменилась дата «Обновлено» (5)
@@ -1449,12 +1455,3 @@ _Сформировано: 2026-11-12_
 ### Новые статьи (1)
 - **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
   https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg
-
-
-## 2026-08-14
-### Сменилась дата «Обновлено» (1)
-- **Как заказать пропуск на склад**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-order-a-pass-to-the-warehouse-kyrgyzstan
-
-### Исчезли статьи (1)
-- ~~Как и какие карточки сравнивают продавцы на Wildberries~~  https://seller.wildberries.ru/instructions/ru/kg/material/how-and-which-cards-do-sellers-compare-on-wb-kg

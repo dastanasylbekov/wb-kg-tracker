@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-11-12_
+_Сформировано: 2026-11-13_
+
+## 2026-11-13
+### Сменилась дата «Обновлено» (1)
+- **Аналитика карточки**: 11.11.2026 → 12.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/card-analytics-uz
+
 
 ## 2026-11-12
 ### Сменилась дата «Обновлено» (5)
@@ -1434,23 +1440,3 @@ _Сформировано: 2026-11-12_
 ### Сменилась дата «Обновлено» (1)
 - **Маркировка товаров и поставок. Баркод, GTIN, IMEI**: 11.08.2026 → 14.08.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan
-
-
-## 2026-08-14
-### Сменилась дата «Обновлено» (8)
-- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 24.07.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/cancellations-returns-penalties-dbs-uz
-- **Габариты товаров**: 18.06.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/dimensions-of-goods-uzbekistan
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 31.07.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-edbs-uzbekistan
-- **Минимальный платёж и разный период действия опций**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/minimum-payment-and-different-periods-of-options-uz
-- **Закреплённые отзывы**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/pinned-reviews-uz
-- **Досудебное урегулирование**: 18.05.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/pre-trial-settlement-uzbekistan
-- **Этап 3. Подготовка поставки к отгрузке**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-3-preparing-the-delivery-for-shipment-uzbekistan
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 29.07.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/weight-and-size-restrictions-for-sales-models-uzbekistan
