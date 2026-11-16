@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-13_
+_Сформировано: 2026-11-16_
+
+## 2026-11-16
+### Сменилась дата «Обновлено» (1)
+- **Что входит в подписку «Джем»**: 20.10.2026 → 16.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/djem-subscription-options-kz
+
+### Новые статьи (2)
+- **Разрешительные документы** (Обновлено 08.10.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/certificates-and-conformity-declarations-kz
+- **Отчёт «Юнит-экономика»** (Обновлено 13.11.2026)
+  https://seller.wildberries.ru/instructions/ru/kz/material/unit-economy-report-kz
+
 
 ## 2026-11-13
 ### Сменилась дата «Обновлено» (1)

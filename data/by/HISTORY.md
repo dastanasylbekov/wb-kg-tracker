@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-13_
+_Сформировано: 2026-11-16_
+
+## 2026-11-16
+### Сменилась дата «Обновлено» (2)
+- **Аналитика карточки**: 11.11.2026 → 12.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/card-analytics-by
+- **Что входит в подписку «Джем»**: 20.10.2026 → 16.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/djem-subscription-options-by
+
+### Новые статьи (1)
+- **Отчёт «Юнит-экономика»** (Обновлено 13.11.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/unit-economy-report-by
+
 
 ## 2026-11-12
 ### Сменилась дата «Обновлено» (6)
@@ -1425,9 +1437,3 @@ _Сформировано: 2026-11-13_
 
 ### Исчезли статьи (1)
 - ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/by/material/faq-about-warehouses-by
-
-
-## 2026-08-17
-### Новые статьи (1)
-- **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
-  https://seller.wildberries.ru/instructions/ru/by/material/how-and-which-cards-do-sellers-compare-on-wb-by

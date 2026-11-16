@@ -6030,5 +6030,21 @@
     "title": "Аналитика карточки",
     "old": "11.11.2026",
     "new": "12.11.2026"
+  },
+  {
+    "run": "2026-11-16",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/unit-economy-report-uz",
+    "title": "Отчёт «Юнит-экономика»",
+    "old": null,
+    "new": "13.11.2026"
+  },
+  {
+    "run": "2026-11-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/whats-included-in-jam-uz",
+    "title": "Что входит в подписку «Джем»",
+    "old": "20.10.2026",
+    "new": "16.11.2026"
   }
 ]

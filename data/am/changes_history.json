@@ -5998,5 +5998,29 @@
     "title": "Аналитика карточки",
     "old": "11.11.2026",
     "new": "12.11.2026"
+  },
+  {
+    "run": "2026-11-16",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/certificates-and-conformity-declarations-am",
+    "title": "Разрешительные документы",
+    "old": null,
+    "new": "08.10.2026"
+  },
+  {
+    "run": "2026-11-16",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/unit-economy-report-am",
+    "title": "Отчёт «Юнит-экономика»",
+    "old": null,
+    "new": "13.11.2026"
+  },
+  {
+    "run": "2026-11-16",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/whats-included-in-jam-am",
+    "title": "Что входит в подписку «Джем»",
+    "old": "20.10.2026",
+    "new": "16.11.2026"
   }
 ]

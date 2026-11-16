@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-11-13_
+_Сформировано: 2026-11-16_
+
+## 2026-11-16
+### Сменилась дата «Обновлено» (1)
+- **Что входит в подписку «Джем»**: 20.10.2026 → 16.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/whats-included-in-jam-uz
+
+### Новые статьи (1)
+- **Отчёт «Юнит-экономика»** (Обновлено 13.11.2026)
+  https://seller.wildberries.ru/instructions/ru/uz/material/unit-economy-report-uz
+
 
 ## 2026-11-13
 ### Сменилась дата «Обновлено» (1)
@@ -1434,9 +1444,3 @@ _Сформировано: 2026-11-13_
   https://seller.wildberries.ru/instructions/ru/uz/material/faq-about-warehouses-uz
 - **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 11.08.2026 → 17.08.2026
   https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
-
-
-## 2026-08-17
-### Сменилась дата «Обновлено» (1)
-- **Маркировка товаров и поставок. Баркод, GTIN, IMEI**: 11.08.2026 → 14.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/marking-of-goods-and-supplies-uzbekistan

@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-13_
+_Сформировано: 2026-11-16_
+
+## 2026-11-16
+### Сменилась дата «Обновлено» (1)
+- **Что входит в подписку «Джем»**: 20.10.2026 → 16.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/whats-included-in-jam-am
+
+### Новые статьи (2)
+- **Разрешительные документы** (Обновлено 08.10.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/certificates-and-conformity-declarations-am
+- **Отчёт «Юнит-экономика»** (Обновлено 13.11.2026)
+  https://seller.wildberries.ru/instructions/ru/am/material/unit-economy-report-am
+
 
 ## 2026-11-13
 ### Сменилась дата «Обновлено» (1)
@@ -1476,9 +1488,3 @@ _Сформировано: 2026-11-13_
 
 ### Исчезли статьи (1)
 - ~~Частые вопросы о складах~~  https://seller.wildberries.ru/instructions/ru/am/material/faq-about-warehouses-am
-
-
-## 2026-08-17
-### Сменилась дата «Обновлено» (1)
-- **Минимальный платёж и разный период действия опций**: 18.05.2026 → 12.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/minimum-payment-and-different-periods-of-options-am
