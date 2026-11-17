@@ -982,5 +982,13 @@
     "title": "სელერის პორტალზე „სიახლეების“ განყოფილება",
     "old": "18.5.2026",
     "new": "22.10.2026"
+  },
+  {
+    "run": "2026-11-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/documents-on-the-movement-of-goods-ge",
+    "title": "დოკუმენტები პროდუქტის მოძრაობის შესახებ",
+    "old": null,
+    "new": "16.11.2026"
   }
 ]

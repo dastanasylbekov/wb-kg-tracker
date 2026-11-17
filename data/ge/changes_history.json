@@ -1126,5 +1126,13 @@
     "title": "Возврат товара со склада Wildberries продавцу",
     "old": "18.05.2026",
     "new": "16.10.2026"
+  },
+  {
+    "run": "2026-11-17",
+    "type": "added",
+    "url": "https://seller.wildberries.ge/instructions/ru/ge/material/documents-on-the-movement-of-goods-ge",
+    "title": "Документы по движению товара",
+    "old": null,
+    "new": "16.11.2026"
   }
 ]

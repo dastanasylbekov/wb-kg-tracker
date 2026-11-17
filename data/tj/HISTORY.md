@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-11-16_
+_Сформировано: 2026-11-17_
 
 ## 2026-11-12
 ### Новые статьи (1)
@@ -509,9 +509,3 @@ _Сформировано: 2026-11-16_
 ## 2026-08-19
 ### Исчезли статьи (1)
 - ~~Как и какие карточки сравнивают продавцы на Wildberries~~  https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj
-
-
-## 2026-08-18
-### Сменилась дата «Обновлено» (1)
-- **Отмена заказов, возвраты и штрафы при работе по модели «Витрина» (DBS)**: 29.06.2026 → 11.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/cancellations-returns-penalties-dbs-tajikistan
