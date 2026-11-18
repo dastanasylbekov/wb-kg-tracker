@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-17_
+_Сформировано: 2026-11-18_
+
+## 2026-11-18
+### Сменилась дата «Обновлено» (1)
+- **Как создать склад для работы по модели «Витрина» (DBS)**: 18.06.2026 → 17.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-warehouse-for-the-showcase-model-dbs-rb
+
+### Новые статьи (1)
+- **Как оформить услугу платной упаковки товаров на складе Wildberries** (Обновлено 17.11.2026)
+  https://seller.wildberries.ru/instructions/ru/by/material/paid-packaging-of-goods-fbw-by
+
 
 ## 2026-11-16
 ### Сменилась дата «Обновлено» (2)
@@ -1408,19 +1418,3 @@ _Сформировано: 2026-11-17_
   https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus
 - **Справочный центр**: 18.05.2026 → None
   https://seller.wildberries.ru/instructions/ru/by/material/transit-supplies-rb
-
-
-## 2026-08-19
-### Сменилась дата «Обновлено» (6)
-- **А/Б-тестирование главного фото в карточке товара**: 20.07.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/ab-testing-of-the-main-photo-in-the-product-profile-rb
-- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/interactive-assembly-task-by
-- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 19.05.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/packaging-of-goods-for-the-fbs-model-belarus
-- **Этап 1. Создание поставки**: 25.06.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-1-creating-a-supply-belarus
-- **Этап 2. Наполнение упаковки**: 12.08.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-2-filling-the-packaging-belarus
-- **Ограничения по весу и габаритам товаров для разных моделей продаж**: 12.08.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/weight-and-size-restrictions-for-sales-models-belarus

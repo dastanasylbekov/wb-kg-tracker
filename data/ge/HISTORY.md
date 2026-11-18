@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇬🇪 Грузия — последние 90 дней
 
-_Сформировано: 2026-11-17_
+_Сформировано: 2026-11-18_
 
 ## 2026-11-17
 ### Новые статьи (1)
@@ -353,9 +353,3 @@ _Сформировано: 2026-11-17_
   https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-items-in-fbs-ka
 - **Этап 2. Наполнение упаковки**: 12.08.2026 → 19.08.2026
   https://seller.wildberries.ge/instructions/ru/ge/material/step-2-filling-the-packaging-ge
-
-
-## 2026-08-19
-### Сменилась дата «Обновлено» (1)
-- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 02.07.2026 → 17.08.2026
-  https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-items-in-fbs-ka

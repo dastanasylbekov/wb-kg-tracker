@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-17_
+_Сформировано: 2026-11-18_
+
+## 2026-11-18
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Сравнение карточек»**: 11.11.2026 → 18.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am
+- **Как создать склад для работы по модели «Витрина» (DBS)**: 18.06.2026 → 17.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-create-a-warehouse-for-the-showcase-model-dbs-armenia
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 17.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-manage-orders-in-cc-am
+- **Как работать с заказами по модели «Витрина» (DBS)**: 31.07.2026 → 17.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-dbs-orders-armenia
+
 
 ## 2026-11-16
 ### Сменилась дата «Обновлено» (1)
@@ -1459,15 +1471,3 @@ _Сформировано: 2026-11-17_
   https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia
 - **Этап 3. Подготовка поставки к отгрузке**: 12.08.2026 → 19.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
-
-
-## 2026-08-19
-### Сменилась дата «Обновлено» (4)
-- **Цифровой арбитраж**: 06.07.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/digital-arbitrage-armenia
-- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/interactive-assembly-task-ar
-- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 19.05.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia
-- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 17.08.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-2-marking-and-packaging-orders-for-the-fbs-armenia

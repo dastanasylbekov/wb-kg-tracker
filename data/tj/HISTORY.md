@@ -1,6 +1,12 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-11-17_
+_Сформировано: 2026-11-18_
+
+## 2026-11-18
+### Сменилась дата «Обновлено» (1)
+- **Как создать склад для работы по модели «Витрина» (DBS)**: 26.06.2026 → 17.11.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-warehouse-in-dbs-tadj
+
 
 ## 2026-11-12
 ### Новые статьи (1)
@@ -504,8 +510,3 @@ _Сформировано: 2026-11-17_
 ### Новые статьи (1)
 - **Как и какие карточки сравнивают продавцы на Wildberries** (Обновлено 10.08.2026)
   https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj
-
-
-## 2026-08-19
-### Исчезли статьи (1)
-- ~~Как и какие карточки сравнивают продавцы на Wildberries~~  https://seller.wildberries.ru/instructions/ru/tj/material/how-and-which-cards-do-sellers-compare-on-wb-tj

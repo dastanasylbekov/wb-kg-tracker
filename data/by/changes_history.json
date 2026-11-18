@@ -5918,5 +5918,21 @@
     "title": "Что входит в подписку «Джем»",
     "old": "20.10.2026",
     "new": "16.11.2026"
+  },
+  {
+    "run": "2026-11-18",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/paid-packaging-of-goods-fbw-by",
+    "title": "Как оформить услугу платной упаковки товаров на складе Wildberries",
+    "old": null,
+    "new": "17.11.2026"
+  },
+  {
+    "run": "2026-11-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-create-a-warehouse-for-the-showcase-model-dbs-rb",
+    "title": "Как создать склад для работы по модели «Витрина» (DBS)",
+    "old": "18.06.2026",
+    "new": "17.11.2026"
   }
 ]

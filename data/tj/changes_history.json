@@ -1854,5 +1854,13 @@
     "title": "Документы по движению товара",
     "old": null,
     "new": "11.11.2026"
+  },
+  {
+    "run": "2026-11-18",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/how-to-create-warehouse-in-dbs-tadj",
+    "title": "Как создать склад для работы по модели «Витрина» (DBS)",
+    "old": "26.06.2026",
+    "new": "17.11.2026"
   }
 ]
