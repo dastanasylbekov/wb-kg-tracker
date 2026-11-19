@@ -1,9 +1,9 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-11-18
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-11-19
 
-_Прогон: 2026-11-18 17:29 (Бишкек)_
+_Прогон: 2026-11-19 17:27 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (1)
-- **Как создать склад для работы по модели «Витрина» (DBS)**: 18.06.2026 → 17.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-create-a-storage-dbs-kyrgyzstan
-  Текст статьи: `content/kg/how-to-create-a-storage-dbs-kyrgyzstan.md`
+- **Отчёт «Сравнение карточек»**: 11.11.2026 → 18.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan
+  Текст статьи: `content/kg/comparison-of-cards-report-kyrgyzstan.md`
 

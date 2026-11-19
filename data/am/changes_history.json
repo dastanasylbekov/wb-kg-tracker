@@ -6054,5 +6054,21 @@
     "title": "Как работать с заказами по модели «Витрина» (DBS)",
     "old": "31.07.2026",
     "new": "17.11.2026"
+  },
+  {
+    "run": "2026-11-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-pack-different-items-properly-armenia",
+    "title": "Как правильно упаковать разные виды товаров",
+    "old": "12.10.2026",
+    "new": "18.11.2026"
+  },
+  {
+    "run": "2026-11-19",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "19.10.2026",
+    "new": "17.11.2026"
   }
 ]

@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-18_
+_Сформировано: 2026-11-19_
+
+## 2026-11-19
+### Сменилась дата «Обновлено» (2)
+- **Отчёт «Сравнение карточек»**: 11.11.2026 → 18.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
+- **Как создать склад для работы по модели «Витрина» (DBS)**: 18.06.2026 → 18.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-warehouse-for-the-showcase-model-dbs-kazakhstan
+
 
 ## 2026-11-16
 ### Сменилась дата «Обновлено» (1)
@@ -1373,13 +1381,3 @@ _Сформировано: 2026-11-18_
   https://seller.wildberries.ru/instructions/ru/kz/material/ab-testing-of-the-main-photo-in-the-product-card-kz
 - **Фоторедактор**: 18.05.2026 → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/kz/material/photo-editor-kz
-
-
-## 2026-08-20
-### Сменилась дата «Обновлено» (3)
-- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/interactive-assembly-task-kz
-- **Этап 2. Наполнение упаковки**: 18.08.2026 → 19.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-filling-the-packaging-kazakhstan
-- **Справочный центр**: 18.05.2026 → None
-  https://seller.wildberries.ru/instructions/ru/kz/material/transit-supplies-kz

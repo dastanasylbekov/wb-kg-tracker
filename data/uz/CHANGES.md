@@ -1,9 +1,9 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-11-18
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-11-19
 
-_Прогон: 2026-11-18 17:54 (Бишкек)_
+_Прогон: 2026-11-19 17:52 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (1)
-- **Как создать склад для работы по модели «Витрина» (DBS)**: 18.06.2026 → 17.11.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-create-a-storage-dbs-uzbekistan
-  Текст статьи: `content/uz/how-to-create-a-storage-dbs-uzbekistan.md`
+- **Отчёт «Сравнение карточек»**: 11.11.2026 → 18.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz
+  Текст статьи: `content/uz/cards-comparing-analytics-uz.md`
 

@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-18_
+_Сформировано: 2026-11-19_
+
+## 2026-11-19
+### Сменилась дата «Обновлено» (2)
+- **Как правильно упаковать разные виды товаров**: 12.10.2026 → 18.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-pack-different-items-properly-armenia
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 17.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia
+
 
 ## 2026-11-18
 ### Сменилась дата «Обновлено» (4)
@@ -1459,15 +1467,3 @@ _Сформировано: 2026-11-18_
   https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia
 - **Этап 2. Наполнение упаковки**: 19.08.2026 → 20.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia
-
-
-## 2026-08-20
-### Сменилась дата «Обновлено» (4)
-- **А/Б-тестирование главного фото в карточке товара**: 18.05.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/main-photo-ab-testing-am
-- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 17.08.2026 → 19.05.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia
-- **Этап 2. Наполнение упаковки**: 12.08.2026 → 19.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia
-- **Этап 3. Подготовка поставки к отгрузке**: 12.08.2026 → 19.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-3-preparing-the-delivery-for-shipment-armenia
