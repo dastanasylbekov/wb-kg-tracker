@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-11-19_
+_Сформировано: 2026-11-20_
+
+## 2026-11-20
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Показатели»**: 06.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 17.08.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-marking-and-packaging-orders-for-the-fbs-kyrgyzstan
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 07.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan
+- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/step-4-delivery-of-supplies-to-warehouse-kyrgyzstan
+
 
 ## 2026-11-19
 ### Сменилась дата «Обновлено» (1)
@@ -1415,9 +1427,3 @@ _Сформировано: 2026-11-19_
 ### Новые статьи (1)
 - **Первая продажа на Wildberries** (Обновлено 20.08.2026)
   https://seller.wildberries.ru/instructions/ru/kg/material/your-first-sale-on-wildberries-kg
-
-
-## 2026-08-21
-### Сменилась дата «Обновлено» (1)
-- **Этап 2. Наполнение упаковки**: 18.08.2026 → 19.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-2-filling-the-packaging-kyrgyzstan

@@ -6190,5 +6190,37 @@
     "title": "Отчёт «Сравнение карточек»",
     "old": "11.11.2026",
     "new": "18.11.2026"
+  },
+  {
+    "run": "2026-11-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/income-and-expenses-report-kg",
+    "title": "Отчёт «Показатели»",
+    "old": "06.10.2026",
+    "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-2-marking-and-packaging-orders-for-the-fbs-kyrgyzstan",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "17.08.2026",
+    "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kyrgyzstan",
+    "title": "Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ",
+    "old": "07.10.2026",
+    "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-20",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/step-4-delivery-of-supplies-to-warehouse-kyrgyzstan",
+    "title": "Этап 4. Доставка поставки на склад",
+    "old": "04.09.2026",
+    "new": "19.11.2026"
   }
 ]

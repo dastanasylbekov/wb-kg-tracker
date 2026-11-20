@@ -1,6 +1,16 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-11-19_
+_Сформировано: 2026-11-20_
+
+## 2026-11-20
+### Сменилась дата «Обновлено» (3)
+- **Отчёт «Показатели»**: 06.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/income-and-expenses-report-uz
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 29.09.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-uzbekistan
+- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/step-4-delivery-of-supplies-to-warehouse-uzbekistan
+
 
 ## 2026-11-19
 ### Сменилась дата «Обновлено» (1)
@@ -1400,16 +1410,3 @@ _Сформировано: 2026-11-19_
   https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-fbw-uzbekistan
 - **Первая продажа на Wildberries** (Обновлено 20.08.2026)
   https://seller.wildberries.ru/instructions/ru/uz/material/your-first-sale-on-wildberries-uz
-
-
-## 2026-08-21
-### Сменилась дата «Обновлено» (3)
-- **Как работать с интерактивным листом подбора**: 18.08.2026 → 14.07.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz
-- **Фоторедактор**: 18.05.2026 → 20.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/photo-editor-uz
-- **Этап 2. Наполнение упаковки**: 18.08.2026 → 19.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-2-filling-the-packaging-uzbekistan
-
-### Исчезли статьи (1)
-- ~~Управление остатками по модели FBW~~  https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-fbw-uzbekistan

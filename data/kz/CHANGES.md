@@ -1,12 +1,18 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-11-19
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-11-20
 
-_Прогон: 2026-11-19 17:40 (Бишкек)_
+_Прогон: 2026-11-20 17:29 (Бишкек)_
 
-## Сменилась дата «Обновлено» (2)
-- **Отчёт «Сравнение карточек»**: 11.11.2026 → 18.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
-  Текст статьи: `content/kz/comparison-of-cards-report-kazakhstan.md`
-- **Как создать склад для работы по модели «Витрина» (DBS)**: 18.06.2026 → 18.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-create-a-warehouse-for-the-showcase-model-dbs-kazakhstan
-  Текст статьи: `content/kz/how-to-create-a-warehouse-for-the-showcase-model-dbs-kazakhstan.md`
+## Сменилась дата «Обновлено» (4)
+- **Отчёт «Доходы и расходы: показатели»**: 06.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz
+  Текст статьи: `content/kz/income-and-expenses-report-kz.md`
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 17.08.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-marking-and-packaging-orders-for-the-fbs-kazakhstan
+  Текст статьи: `content/kz/step-2-marking-and-packaging-orders-for-the-fbs-kazakhstan.md`
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 07.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan
+  Текст статьи: `content/kz/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan.md`
+- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-4-delivery-of-supplies-to-warehouse-kazakhstan
+  Текст статьи: `content/kz/step-4-delivery-of-supplies-to-warehouse-kazakhstan.md`
 

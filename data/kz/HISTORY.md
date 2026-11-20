@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-19_
+_Сформировано: 2026-11-20_
+
+## 2026-11-20
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Доходы и расходы: показатели»**: 06.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/income-and-expenses-report-kz
+- **Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)**: 17.08.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-2-marking-and-packaging-orders-for-the-fbs-kazakhstan
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 07.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-kazakhstan
+- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/step-4-delivery-of-supplies-to-warehouse-kazakhstan
+
 
 ## 2026-11-19
 ### Сменилась дата «Обновлено» (2)
@@ -1373,11 +1385,3 @@ _Сформировано: 2026-11-19_
 
 ### Исчезли статьи (1)
 - ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/transit-supplies-kz
-
-
-## 2026-08-21
-### Сменилась дата «Обновлено» (2)
-- **А/Б-тестирование главного фото в карточке товара**: 18.05.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/ab-testing-of-the-main-photo-in-the-product-card-kz
-- **Фоторедактор**: 18.05.2026 → 20.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/photo-editor-kz

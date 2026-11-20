@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-19_
+_Сформировано: 2026-11-20_
+
+## 2026-11-20
+### Сменилась дата «Обновлено» (4)
+- **Отчёт «Показатели»**: 06.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/income-and-expenses-report-am
+- **Упаковка сверхгабаритных товаров по моделям «Склад WB» (FBW) и «Маркетплейс» (FBS)**: 05.11.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/packaging-oversized-items-in-fbw-and-fbs-am
+- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 07.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-3a-shipment-to-a-warehouse-or-sc-via-fbs-armenia
+- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/step-4-delivery-of-supplies-to-warehouse-armenia
+
 
 ## 2026-11-19
 ### Сменилась дата «Обновлено» (2)
@@ -1455,15 +1467,3 @@ _Сформировано: 2026-11-19_
   https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia
 - **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.08.2026 → 21.08.2026
   https://seller.wildberries.ru/instructions/ru/am/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-armenia
-
-
-## 2026-08-21
-### Сменилась дата «Обновлено» (4)
-- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 19.05.2026 → 17.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/packaging-of-goods-for-the-fbs-model-armenia
-- **Фоторедактор**: 18.05.2026 → 20.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/photo-editor-am
-- **Этап 1. Создание поставки**: 25.06.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-1-creating-a-supply-armenia
-- **Этап 2. Наполнение упаковки**: 19.08.2026 → 20.08.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/step-2-filling-the-packaging-armenia
