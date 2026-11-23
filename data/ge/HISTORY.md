@@ -1,6 +1,6 @@
 # История изменений справки WB — 🇬🇪 Грузия — последние 90 дней
 
-_Сформировано: 2026-11-20_
+_Сформировано: 2026-11-23_
 
 ## 2026-11-17
 ### Новые статьи (1)
@@ -339,9 +339,3 @@ _Сформировано: 2026-11-20_
   https://seller.wildberries.ge/instructions/ru/ge/material/weekly-implementation-reports-ge
 - **Коэффициент вознаграждения Wildberries**: 18.05.2026 → None
   https://seller.wildberries.ge/instructions/ru/ge/material/wildberries-reward-coefficient-ge
-
-
-## 2026-08-24
-### Сменилась дата «Обновлено» (1)
-- **Упаковка товаров для модели «Маркетплейс» (FBS)**: 02.07.2026 → 17.08.2026
-  https://seller.wildberries.ge/instructions/ru/ge/material/how-to-pack-items-in-fbs-ka

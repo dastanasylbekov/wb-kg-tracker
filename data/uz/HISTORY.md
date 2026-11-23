@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-11-20_
+_Сформировано: 2026-11-23_
+
+## 2026-11-23
+### Сменилась дата «Обновлено» (4)
+- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan
+- **Главная страница портала продавца**: 02.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/main-page-of-the-sellers-portal-uzbekistan
+- **Раздел «Профиль» на портале продавца**: 02.11.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/profile-section-on-the-sellers-portal-uzbekistan
+- **Опции конструктора тарифов**: 14.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/tariff-constructor-options-uz
+
 
 ## 2026-11-20
 ### Сменилась дата «Обновлено» (3)
@@ -1396,17 +1408,3 @@ _Сформировано: 2026-11-20_
 
 ### Исчезли статьи (1)
 - ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-fbw-uzbekistan
-
-
-## 2026-08-24
-### Сменилась дата «Обновлено» (2)
-- **Как работать с интерактивным листом подбора**: 14.07.2026 → 18.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/interactive-assembly-task-uz
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.08.2026 → 21.08.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-uzbekistan
-
-### Новые статьи (2)
-- **Справочный центр** (Обновлено None)
-  https://seller.wildberries.ru/instructions/ru/uz/material/stocks-management-fbw-uzbekistan
-- **Первая продажа на Wildberries** (Обновлено 20.08.2026)
-  https://seller.wildberries.ru/instructions/ru/uz/material/your-first-sale-on-wildberries-uz

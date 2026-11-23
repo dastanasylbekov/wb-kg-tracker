@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kz/material/main-page-of-the-sellers-portal-kazakhstan
 - Идентификатор: A-583
-- Обновлено: 2026-07-02T14:05:06.102512Z
+- Обновлено: 2026-11-20T15:33:29.615474Z
 
 ---
 > **Примечание**
@@ -150,7 +150,7 @@
 
 В самом низу страницы находятся ссылки для перехода к остальным разделам портала: информационным, финансовым и прочим.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/008ffb99-07ca-4dc7-9b34-e75fcfc5d9fc.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/3c13cef7-65f0-4a6a-9273-37804ecab173.png.webp)
 
 ## Раздел «Поддержка»
 

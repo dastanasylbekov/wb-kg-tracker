@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/uz/material/main-page-of-the-sellers-portal-uzbekistan
 - Идентификатор: A-584
-- Обновлено: 2026-07-02T14:05:26.384486Z
+- Обновлено: 2026-11-20T15:33:44.200978Z
 
 ---
 > **Примечание**
@@ -150,7 +150,7 @@
 
 В самом низу страницы находятся ссылки для перехода к остальным разделам портала: информационным, финансовым и прочим.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/84d7019c-4c28-4cd5-81b1-f4ad29abfb35.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/7d7a20c9-70c0-4f33-a852-157af2f4dad4.png.webp)
 
 ## Раздел «Поддержка»
 

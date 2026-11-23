@@ -6102,5 +6102,37 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "04.09.2026",
     "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/clearing-temporary-files-cache-cookies-in-the-browser-armenia",
+    "title": "Очистка файлов с данными: кэша и cookie в браузере",
+    "old": "18.09.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/packaging-oversized-items-in-fbw-and-fbs-am",
+    "title": "Упаковка сверхгабаритных товаров по моделям «Склад WB» (FBW) и «Маркетплейс» (FBS)",
+    "old": "20.11.2026",
+    "new": "05.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/profile-section-on-the-sellers-portal-armenia",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "02.11.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/step-2-marking-and-packaging-orders-for-the-fbs-armenia",
+    "title": "Этап 2. Маркировка и упаковка заказов для модели «Маркетплейс» (FBS)",
+    "old": "18.08.2026",
+    "new": "19.11.2026"
   }
 ]

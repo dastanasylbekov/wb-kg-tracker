@@ -6086,5 +6086,37 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "04.09.2026",
     "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan",
+    "title": "Очистка файлов с данными: кэша и cookie в браузере",
+    "old": "18.09.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/main-page-of-the-sellers-portal-uzbekistan",
+    "title": "Главная страница портала продавца",
+    "old": "02.07.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/profile-section-on-the-sellers-portal-uzbekistan",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "02.11.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/tariff-constructor-options-uz",
+    "title": "Опции конструктора тарифов",
+    "old": "14.07.2026",
+    "new": "20.11.2026"
   }
 ]

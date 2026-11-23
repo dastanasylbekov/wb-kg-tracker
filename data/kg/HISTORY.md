@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-11-20_
+_Сформировано: 2026-11-23_
+
+## 2026-11-23
+### Сменилась дата «Обновлено» (6)
+- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/clearing-temporary-files-cache-cookies-in-the-browser-kyrgyzstan
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 22.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-manage-orders-in-cc-kg
+- **Как работать с заказами по модели «Витрина» (DBS)**: 31.07.2026 → 22.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-dbs-orders-kyrgyzstan
+- **Главная страница портала продавца**: 02.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/main-page-of-the-sellers-portal-kyrgyzstan
+- **Раздел «Профиль» на портале продавца**: 02.11.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/profile-section-on-the-sellers-portal-kyrgyzstan
+- **Опции конструктора тарифов**: 14.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/tariff-constructor-options-kg
+
 
 ## 2026-11-20
 ### Сменилась дата «Обновлено» (4)
@@ -1414,16 +1430,4 @@ _Сформировано: 2026-11-20_
 - **Отчёт по удержаниям**: 18.05.2026 → None
   https://seller.wildberries.ru/instructions/ru/kg/material/withholdings-report-kyrgyzstan
 - **Первая продажа на Wildberries**: 20.08.2026 → None
-  https://seller.wildberries.ru/instructions/ru/kg/material/your-first-sale-on-wildberries-kg
-
-
-## 2026-08-24
-### Сменилась дата «Обновлено» (2)
-- **Фоторедактор**: 18.05.2026 → 20.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/photo-editor-kg
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.08.2026 → 21.08.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kyrgyzstan
-
-### Новые статьи (1)
-- **Первая продажа на Wildberries** (Обновлено 20.08.2026)
   https://seller.wildberries.ru/instructions/ru/kg/material/your-first-sale-on-wildberries-kg

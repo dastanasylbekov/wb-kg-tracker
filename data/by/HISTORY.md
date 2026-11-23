@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-20_
+_Сформировано: 2026-11-23_
+
+## 2026-11-23
+### Сменилась дата «Обновлено» (7)
+- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/clearing-temporary-files-cache-cookies-in-the-browser-belarus
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 22.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-cc-by
+- **Как работать с заказами по модели «Витрина» (DBS)**: 31.07.2026 → 22.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-fbs-by
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 22.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
+- **Главная страница портала продавца**: 02.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/main-page-of-the-sellers-portal-belarus
+- **Раздел «Профиль» на портале продавца**: 02.11.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/profile-section-on-the-sellers-portal-belarus
+- **Опции конструктора тарифов**: 02.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/tariff-constructor-options-belarus
+
 
 ## 2026-11-20
 ### Сменилась дата «Обновлено» (4)
@@ -1410,16 +1428,4 @@ _Сформировано: 2026-11-20_
 - **Отчёт по удержаниям**: 18.05.2026 → None
   https://seller.wildberries.ru/instructions/ru/by/material/withholding-report-belarus
 - **Первая продажа на Wildberries**: 20.08.2026 → None
-  https://seller.wildberries.ru/instructions/ru/by/material/your-first-sale-on-wildberries-by
-
-
-## 2026-08-24
-### Сменилась дата «Обновлено» (2)
-- **Фоторедактор**: 18.05.2026 → 20.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/photo-editor-rb
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.08.2026 → 21.08.2026
-  https://seller.wildberries.ru/instructions/ru/by/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-belarus
-
-### Новые статьи (1)
-- **Первая продажа на Wildberries** (Обновлено 20.08.2026)
   https://seller.wildberries.ru/instructions/ru/by/material/your-first-sale-on-wildberries-by

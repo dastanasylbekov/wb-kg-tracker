@@ -1,12 +1,12 @@
-# Изменения справки WB — 🇹🇯 Таджикистан — 2026-11-20
+# Изменения справки WB — 🇹🇯 Таджикистан — 2026-11-23
 
-_Прогон: 2026-11-20 17:45 (Бишкек)_
+_Прогон: 2026-11-23 18:36 (Бишкек)_
 
 ## Сменилась дата «Обновлено» (2)
-- **Этап 3а. Отгрузка поставок по модели «Маркетплейс» (FBS) на склад или в СЦ**: 29.09.2026 → 19.11.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-3-delivery-fbs-orders-to-a-warehouse-tj
-  Текст статьи: `content/tj/step-3-delivery-fbs-orders-to-a-warehouse-tj.md`
-- **Этап 4. Доставка поставки на склад**: 04.09.2026 → 19.11.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-four-delivery-fbw-shipment-to-warehouse-tj
-  Текст статьи: `content/tj/step-four-delivery-fbw-shipment-to-warehouse-tj.md`
+- **Очистка файлов с данным: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/browser-cache-and-cookies-tj
+  Текст статьи: `content/tj/browser-cache-and-cookies-tj.md`
+- **Главная страница портала продавца**: 29.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/sellers-site-main-page-tajikistan
+  Текст статьи: `content/tj/sellers-site-main-page-tajikistan.md`
 

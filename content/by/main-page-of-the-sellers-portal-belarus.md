@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/main-page-of-the-sellers-portal-belarus
 - Идентификатор: A-581
-- Обновлено: 2026-07-02T14:04:11.013375Z
+- Обновлено: 2026-11-20T15:32:58.294704Z
 
 ---
 > **Примечание**
@@ -138,7 +138,7 @@
 
 В самом низу страницы находятся ссылки для перехода к остальным разделам портала: информационным, финансовым и прочим.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/b1722748-0a06-4928-a6ee-d0da3e7c2f3b.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/5a1b4944-f1a6-404c-bf78-4257340543a2.png.webp)
 
 ## Раздел «Поддержка»
 

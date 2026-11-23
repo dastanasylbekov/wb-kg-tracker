@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/tj/material/sellers-site-main-page-tajikistan
 - Идентификатор: A-2078
-- Обновлено: 2026-09-29T19:18:04.097113Z
+- Обновлено: 2026-11-20T15:34:40.795305Z
 
 ---
 Добро пожаловать на портал продавца WB Partners!
@@ -116,7 +116,7 @@
 
 В самом низу страницы находятся ссылки для перехода к остальным разделам портала: информационным, финансовым и прочим:
 
-![](https://static-basket-02.wbbasket.ru/vol20/article-static/25b7755e-ba0a-4fc0-b4d7-8c8913b63868.jpg.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/abec6041-7a82-4ddd-9a0a-70b39da0bcc0.png.webp)
 
 ## Раздел «Поддержка»
 

@@ -5974,5 +5974,61 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "04.09.2026",
     "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/clearing-temporary-files-cache-cookies-in-the-browser-belarus",
+    "title": "Очистка файлов с данными: кэша и cookie в браузере",
+    "old": "18.09.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-cc-by",
+    "title": "Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": "16.06.2026",
+    "new": "22.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-fbs-by",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "31.07.2026",
+    "new": "22.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "19.10.2026",
+    "new": "22.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/main-page-of-the-sellers-portal-belarus",
+    "title": "Главная страница портала продавца",
+    "old": "02.07.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/profile-section-on-the-sellers-portal-belarus",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "02.11.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/tariff-constructor-options-belarus",
+    "title": "Опции конструктора тарифов",
+    "old": "02.09.2026",
+    "new": "20.11.2026"
   }
 ]

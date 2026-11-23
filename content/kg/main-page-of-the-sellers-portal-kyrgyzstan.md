@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/kg/material/main-page-of-the-sellers-portal-kyrgyzstan
 - Идентификатор: A-582
-- Обновлено: 2026-07-02T14:04:46.163764Z
+- Обновлено: 2026-11-20T15:33:14.067062Z
 
 ---
 > **Примечание**
@@ -150,7 +150,7 @@
 
 В самом низу страницы находятся ссылки для перехода к остальным разделам портала: информационным, финансовым и прочим.
 
-![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/4cce0775-edfa-48f5-a829-87add95d4166.webp)
+![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/6b0fb5c1-9b46-4b27-a2d3-3a59d6ed6fc0.png.webp)
 
 ## Раздел «Поддержка»
 

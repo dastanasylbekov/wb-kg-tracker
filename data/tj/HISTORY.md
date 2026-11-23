@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇹🇯 Таджикистан — последние 90 дней
 
-_Сформировано: 2026-11-20_
+_Сформировано: 2026-11-23_
+
+## 2026-11-23
+### Сменилась дата «Обновлено» (2)
+- **Очистка файлов с данным: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/browser-cache-and-cookies-tj
+- **Главная страница портала продавца**: 29.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/tj/material/sellers-site-main-page-tajikistan
+
 
 ## 2026-11-20
 ### Сменилась дата «Обновлено» (2)
@@ -506,9 +514,3 @@ _Сформировано: 2026-11-20_
   https://seller.wildberries.ru/instructions/ru/tj/material/wb-promotion-payment-models-and-working-principles-tdj
 - **Коэффициент вознаграждения Wildberries**: 11.08.2026 → None
   https://seller.wildberries.ru/instructions/ru/tj/material/wildberries-reward-ratio-tj
-
-
-## 2026-08-24
-### Сменилась дата «Обновлено» (1)
-- **Этап 2. Наполнение упаковки**: 12.08.2026 → 19.08.2026
-  https://seller.wildberries.ru/instructions/ru/tj/material/step-two-fbw-package-filling-tj

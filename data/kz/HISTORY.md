@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-20_
+_Сформировано: 2026-11-23_
+
+## 2026-11-23
+### Сменилась дата «Обновлено» (5)
+- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/clearing-temporary-files-cache-cookies-in-the-browser-kazakhstan
+- **Главная страница портала продавца**: 02.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/main-page-of-the-sellers-portal-kazakhstan
+- **Раздел «Профиль» на портале продавца**: 02.11.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/profile-section-on-the-sellers-portal-kazakhstan
+- **Статусы поставки**: 18.05.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/supply-statuses-kazakhstan
+- **Опции конструктора тарифов**: 14.07.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/tariff-constructor-options-kazakhstan
+
 
 ## 2026-11-20
 ### Сменилась дата «Обновлено» (4)
@@ -1372,16 +1386,3 @@ _Сформировано: 2026-11-20_
   https://seller.wildberries.ru/instructions/ru/kz/material/withholdings-report-kazakhstan
 - **Первая продажа на Wildberries**: 20.08.2026 → None
   https://seller.wildberries.ru/instructions/ru/kz/material/your-first-sale-on-wildberries-kz
-
-
-## 2026-08-24
-### Сменилась дата «Обновлено» (1)
-- **Этап 3б. Отгрузка поставок FBS в ПВЗ**: 17.08.2026 → 21.08.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/step-3b-shipment-of-supplies-to-pick-up-point-fbs-kazakhstan
-
-### Новые статьи (1)
-- **Первая продажа на Wildberries** (Обновлено 20.08.2026)
-  https://seller.wildberries.ru/instructions/ru/kz/material/your-first-sale-on-wildberries-kz
-
-### Исчезли статьи (1)
-- ~~Справочный центр~~  https://seller.wildberries.ru/instructions/ru/kz/material/transit-supplies-kz

@@ -1878,5 +1878,21 @@
     "title": "Этап 4. Доставка поставки на склад",
     "old": "04.09.2026",
     "new": "19.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/browser-cache-and-cookies-tj",
+    "title": "Очистка файлов с данным: кэша и cookie в браузере",
+    "old": "18.09.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-23",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/sellers-site-main-page-tajikistan",
+    "title": "Главная страница портала продавца",
+    "old": "29.09.2026",
+    "new": "20.11.2026"
   }
 ]
