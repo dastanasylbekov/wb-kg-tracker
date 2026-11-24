@@ -1,21 +1,15 @@
-# Изменения справки WB — 🇰🇿 Казахстан — 2026-11-23
+# Изменения справки WB — 🇰🇿 Казахстан — 2026-11-24
 
-_Прогон: 2026-11-23 18:21 (Бишкек)_
+_Прогон: 2026-11-24 19:46 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/clearing-temporary-files-cache-cookies-in-the-browser-kazakhstan
-  Текст статьи: `content/kz/clearing-temporary-files-cache-cookies-in-the-browser-kazakhstan.md`
-- **Главная страница портала продавца**: 02.07.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/main-page-of-the-sellers-portal-kazakhstan
-  Текст статьи: `content/kz/main-page-of-the-sellers-portal-kazakhstan.md`
-- **Раздел «Профиль» на портале продавца**: 02.11.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/profile-section-on-the-sellers-portal-kazakhstan
-  Текст статьи: `content/kz/profile-section-on-the-sellers-portal-kazakhstan.md`
-- **Статусы поставки**: 18.05.2026 → 23.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/supply-statuses-kazakhstan
-  Текст статьи: `content/kz/supply-statuses-kazakhstan.md`
-- **Опции конструктора тарифов**: 14.07.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/kz/material/tariff-constructor-options-kazakhstan
-  Текст статьи: `content/kz/tariff-constructor-options-kazakhstan.md`
+## Сменилась дата «Обновлено» (3)
+- **Отчёт «Сравнение карточек»**: 18.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/comparison-of-cards-report-kazakhstan
+  Текст статьи: `content/kz/comparison-of-cards-report-kazakhstan.md`
+- **Отчёт «География заказов»**: 25.09.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
+  Текст статьи: `content/kz/deliveries-by-region-report-kazakhstan.md`
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+  Текст статьи: `content/kz/order-feed-report-kz.md`
 

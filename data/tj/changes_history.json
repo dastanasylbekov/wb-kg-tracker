@@ -1894,5 +1894,37 @@
     "title": "Главная страница портала продавца",
     "old": "29.09.2026",
     "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "added",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/inventory-history-report-tj",
+    "title": "Отчёт «История остатков»",
+    "old": null,
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/profile-section-on-the-seller-portal-tj",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "11.08.2026",
+    "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/regional-shipment-report-tajikistan",
+    "title": "Отчёт «География заказов»",
+    "old": "25.09.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/wb-promotion-payment-models-and-working-principles-tdj",
+    "title": "WB Продвижение: модели оплаты и принцип работы",
+    "old": "18.05.2026",
+    "new": "24.11.2026"
   }
 ]

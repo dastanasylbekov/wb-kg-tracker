@@ -6030,5 +6030,37 @@
     "title": "Опции конструктора тарифов",
     "old": "02.09.2026",
     "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/comparison-of-cards-report-belarus",
+    "title": "Отчёт «Сравнение карточек»",
+    "old": "18.11.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/deliveries-by-region-report-belarus",
+    "title": "Отчёт «География заказов»",
+    "old": "25.09.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/history-of-remains-report-belarus",
+    "title": "Отчёт «История остатков»",
+    "old": "09.11.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-24",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/by/material/supply-statuses-belarus",
+    "title": "Статусы поставки",
+    "old": "18.05.2026",
+    "new": "23.11.2026"
   }
 ]

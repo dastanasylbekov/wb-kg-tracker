@@ -1,18 +1,21 @@
-# Изменения справки WB — 🇺🇿 Узбекистан — 2026-11-23
+# Изменения справки WB — 🇺🇿 Узбекистан — 2026-11-24
 
-_Прогон: 2026-11-23 18:33 (Бишкек)_
+_Прогон: 2026-11-24 19:59 (Бишкек)_
 
-## Сменилась дата «Обновлено» (4)
-- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan
-  Текст статьи: `content/uz/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan.md`
-- **Главная страница портала продавца**: 02.07.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/main-page-of-the-sellers-portal-uzbekistan
-  Текст статьи: `content/uz/main-page-of-the-sellers-portal-uzbekistan.md`
-- **Раздел «Профиль» на портале продавца**: 02.11.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/profile-section-on-the-sellers-portal-uzbekistan
-  Текст статьи: `content/uz/profile-section-on-the-sellers-portal-uzbekistan.md`
-- **Опции конструктора тарифов**: 14.07.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/uz/material/tariff-constructor-options-uz
-  Текст статьи: `content/uz/tariff-constructor-options-uz.md`
+## Сменилась дата «Обновлено» (5)
+- **Отчёт «Сравнение карточек»**: 18.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/cards-comparing-analytics-uz
+  Текст статьи: `content/uz/cards-comparing-analytics-uz.md`
+- **Отчёт «История остатков»**: 09.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/history-of-remains-report-uzbekistan
+  Текст статьи: `content/uz/history-of-remains-report-uzbekistan.md`
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/order-feed-report-uz
+  Текст статьи: `content/uz/order-feed-report-uz.md`
+- **Статусы поставки**: 18.05.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/supply-statuses-uzbekistan
+  Текст статьи: `content/uz/supply-statuses-uzbekistan.md`
+- **WB Продвижение: модели оплаты и принцип работы**: 02.09.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/wb-promotion-payment-models-and-working-principles-uz
+  Текст статьи: `content/uz/wb-promotion-payment-models-and-working-principles-uz.md`
 
