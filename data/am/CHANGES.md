@@ -1,12 +1,9 @@
-# Изменения справки WB — 🇦🇲 Армения — 2026-11-24
+# Изменения справки WB — 🇦🇲 Армения — 2026-11-25
 
-_Прогон: 2026-11-24 19:53 (Бишкек)_
+_Прогон: 2026-11-25 18:48 (Бишкек)_
 
-## Сменилась дата «Обновлено» (2)
-- **Отчёт «Сравнение карточек»**: 18.11.2026 → 23.11.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/cards-comparing-analytics-am
-  Текст статьи: `content/am/cards-comparing-analytics-am.md`
-- **Упаковка сверхгабаритных товаров по моделям «Склад WB» (FBW) и «Маркетплейс» (FBS)**: 05.11.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/am/material/packaging-oversized-items-in-fbw-and-fbs-am
-  Текст статьи: `content/am/packaging-oversized-items-in-fbw-and-fbs-am.md`
+## Сменилась дата «Обновлено» (1)
+- **Статусы поставки**: 18.05.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/supply-statuses-armenia
+  Текст статьи: `content/am/supply-statuses-armenia.md`
 

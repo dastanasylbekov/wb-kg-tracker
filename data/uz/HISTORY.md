@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇺🇿 Узбекистан — последние 90 дней
 
-_Сформировано: 2026-11-24_
+_Сформировано: 2026-11-25_
+
+## 2026-11-25
+### Сменилась дата «Обновлено» (4)
+- **Очистка временных файлов: кэша и cookie в браузере**: 20.11.2026 → 18.09.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan
+- **Отчёт «География заказов»**: 25.09.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-manage-orders-in-cc-uz
+- **Как работать с заказами по модели «Витрина» (DBS)**: 31.07.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-dbs-orders-uzbekistan
+
 
 ## 2026-11-24
 ### Сменилась дата «Обновлено» (5)

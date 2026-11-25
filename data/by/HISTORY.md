@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-24_
+_Сформировано: 2026-11-25_
+
+## 2026-11-25
+### Сменилась дата «Обновлено» (5)
+- **Как работать с заказами по модели «Витрина» (DBS)**: 22.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-fbs-by
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 22.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
+- **Отчёт «Показатели»**: 19.11.2026 → 06.10.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/order-feed-report-rb
+- **WB Продвижение: модели оплаты и принцип работы**: 02.09.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/wb-promotion-payment-models-and-working-principles-rb
+
 
 ## 2026-11-24
 ### Сменилась дата «Обновлено» (4)

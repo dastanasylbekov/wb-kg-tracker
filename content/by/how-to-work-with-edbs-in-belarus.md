@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
 - Идентификатор: A-1094
-- Обновлено: 2026-11-22T23:21:35.914914Z
+- Обновлено: 2026-11-24T23:05:34.337501Z
 
 ---
 > **Примечание**

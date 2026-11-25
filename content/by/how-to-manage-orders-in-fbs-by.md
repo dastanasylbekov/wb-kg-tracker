@@ -2,7 +2,7 @@
 
 - Адрес: https://seller.wildberries.ru/instructions/ru/by/material/how-to-manage-orders-in-fbs-by
 - Идентификатор: A-394
-- Обновлено: 2026-11-22T17:35:02.497745Z
+- Обновлено: 2026-11-24T23:03:44.912741Z
 
 ---
 > **Примечание**
@@ -53,7 +53,11 @@
 
 ### Как указать маркировку
 
-Если для товара нужна маркировка, например, IMEI или GTIN, на этапе сборки в столбце «Наименование» появится значок с её названием.
+Если для товара нужна маркировка, например, IMEI, на этапе сборки в столбце «Наименование» появится значок с её названием.
+
+> **Совет**
+>
+> Подробнее о видах маркировки — [в этой инструкции](https://seller.wildberries.ru/instructions/ru/by/material/marking-of-goods-and-supplies-belarus?goBackOption=prevRoute&categoryId=0196fc97-db48-7160-902f-8ef3f5ec8f31)
 
 ![image.png](https://static-basket-02.wbbasket.ru/vol20/article-static/c2a4e29a-5bf5-41e4-aba4-d58f56c862ad.webp)
 

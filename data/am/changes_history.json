@@ -6150,5 +6150,13 @@
     "title": "Упаковка сверхгабаритных товаров по моделям «Склад WB» (FBW) и «Маркетплейс» (FBS)",
     "old": "05.11.2026",
     "new": "20.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/am/material/supply-statuses-armenia",
+    "title": "Статусы поставки",
+    "old": "18.05.2026",
+    "new": "23.11.2026"
   }
 ]

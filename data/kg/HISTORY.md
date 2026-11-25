@@ -1,6 +1,24 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-11-24_
+_Сформировано: 2026-11-25_
+
+## 2026-11-25
+### Сменилась дата «Обновлено» (7)
+- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/clearing-temporary-files-cache-cookies-in-the-browser-kyrgyzstan
+- **Отчёт «Сравнение карточек»**: 18.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 22.11.2026 → 16.06.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-manage-orders-in-cc-kg
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-edbs-kyrgyzstan
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Статусы поставки**: 18.05.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/supply-statuses-kyrgyzstan
+- **WB Продвижение: модели оплаты и принцип работы**: 02.09.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/wb-promotion-payment-models-and-working-principles-kg
+
 
 ## 2026-11-24
 ### Сменилась дата «Обновлено» (2)

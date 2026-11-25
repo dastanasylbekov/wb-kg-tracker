@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-24_
+_Сформировано: 2026-11-25_
+
+## 2026-11-25
+### Сменилась дата «Обновлено» (5)
+- **Отчёт «География заказов»**: 23.11.2026 → 25.09.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
+- **Отчёт «История остатков»**: 09.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-manage-orders-in-cc-kz
+- **Отчёт «Лента заказов»**: 24.11.2026 → 05.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+- **WB Продвижение: модели оплаты и принцип работы**: 02.09.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/wb-promotion-payment-models-and-working-principles-kz
+
 
 ## 2026-11-24
 ### Сменилась дата «Обновлено» (3)

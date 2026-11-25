@@ -6158,5 +6158,37 @@
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "old": "02.09.2026",
     "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/clearing-temporary-files-cache-cookies-in-the-browser-uzbekistan",
+    "title": "Очистка временных файлов: кэша и cookie в браузере",
+    "old": "20.11.2026",
+    "new": "18.09.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/deliveries-by-region-report-uzbekistan",
+    "title": "Отчёт «География заказов»",
+    "old": "25.09.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-manage-orders-in-cc-uz",
+    "title": "Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": "16.06.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/uz/material/how-to-work-with-dbs-orders-uzbekistan",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "31.07.2026",
+    "new": "24.11.2026"
   }
 ]

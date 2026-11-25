@@ -5894,5 +5894,45 @@
     "title": "Отчёт «Лента заказов»",
     "old": "05.11.2026",
     "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan",
+    "title": "Отчёт «География заказов»",
+    "old": "23.11.2026",
+    "new": "25.09.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/history-of-stocks-report-kazakhstan",
+    "title": "Отчёт «История остатков»",
+    "old": "09.11.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-manage-orders-in-cc-kz",
+    "title": "Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": "16.06.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "24.11.2026",
+    "new": "05.11.2026"
+  },
+  {
+    "run": "2026-11-25",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/wb-promotion-payment-models-and-working-principles-kz",
+    "title": "WB Продвижение: модели оплаты и принцип работы",
+    "old": "02.09.2026",
+    "new": "24.11.2026"
   }
 ]
