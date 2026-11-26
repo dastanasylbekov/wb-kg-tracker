@@ -1,6 +1,14 @@
 # История изменений справки WB — 🇬🇪 Грузия (ka) — последние 90 дней
 
-_Сформировано: 2026-11-25_
+_Сформировано: 2026-11-26_
+
+## 2026-11-26
+### Сменилась дата «Обновлено» (2)
+- **მონაცემებიანი ფაილების გასუფთავება: ქეში და cookie ბრაუზერში**: 18.5.2026 → 23.11.2026
+  https://seller.wildberries.ge/instructions/ka/ge/material/cache-and-cookies-clearing-ge
+- **სელერის პორტალზე განყოფილება „პროფილი“**: 29.7.2026 → 26.11.2026
+  https://seller.wildberries.ge/instructions/ka/ge/material/profile-section-on-the-seller-portal-ge
+
 
 ## 2026-11-25
 ### Сменилась дата «Обновлено» (1)

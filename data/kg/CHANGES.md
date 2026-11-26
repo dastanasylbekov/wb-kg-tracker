@@ -1,27 +1,21 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-11-25
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-11-26
 
-_Прогон: 2026-11-25 18:30 (Бишкек)_
+_Прогон: 2026-11-26 18:12 (Бишкек)_
 
-## Сменилась дата «Обновлено» (7)
-- **Очистка файлов с данными: кэша и cookie в браузере**: 18.09.2026 → 20.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/clearing-temporary-files-cache-cookies-in-the-browser-kyrgyzstan
-  Текст статьи: `content/kg/clearing-temporary-files-cache-cookies-in-the-browser-kyrgyzstan.md`
-- **Отчёт «Сравнение карточек»**: 18.11.2026 → 23.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/comparison-of-cards-report-kyrgyzstan
-  Текст статьи: `content/kg/comparison-of-cards-report-kyrgyzstan.md`
-- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 22.11.2026 → 16.06.2026
+## Сменилась дата «Обновлено» (5)
+- **Автовозврат товара продавцу**: 27.07.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/autoreturn-of-goods-to-the-seller-kyrgyzstan
+  Текст статьи: `content/kg/autoreturn-of-goods-to-the-seller-kyrgyzstan.md`
+- **Отчёт «История остатков»**: 09.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/history-of-stocks-report-kyrgyzstan
+  Текст статьи: `content/kg/history-of-stocks-report-kyrgyzstan.md`
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 24.11.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/how-to-manage-orders-in-cc-kg
   Текст статьи: `content/kg/how-to-manage-orders-in-cc-kg.md`
-- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 24.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-edbs-kyrgyzstan
-  Текст статьи: `content/kg/how-to-work-with-edbs-kyrgyzstan.md`
-- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+- **Отчёт «Лента заказов»**: 24.11.2026 → 05.11.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
   Текст статьи: `content/kg/order-feed-report-kg.md`
-- **Статусы поставки**: 18.05.2026 → 23.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/supply-statuses-kyrgyzstan
-  Текст статьи: `content/kg/supply-statuses-kyrgyzstan.md`
-- **WB Продвижение: модели оплаты и принцип работы**: 02.09.2026 → 24.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/wb-promotion-payment-models-and-working-principles-kg
-  Текст статьи: `content/kg/wb-promotion-payment-models-and-working-principles-kg.md`
+- **Раздел «Профиль» на портале продавца**: 20.11.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/profile-section-on-the-sellers-portal-kyrgyzstan
+  Текст статьи: `content/kg/profile-section-on-the-sellers-portal-kyrgyzstan.md`
 

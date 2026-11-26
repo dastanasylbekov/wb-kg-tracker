@@ -1006,5 +1006,21 @@
     "title": "დროებითი ფაილების გასუფთავება: ქეში და cookie-ფაილები ბრაუზერში",
     "old": "23.11.2026",
     "new": "18.5.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/cache-and-cookies-clearing-ge",
+    "title": "მონაცემებიანი ფაილების გასუფთავება: ქეში და cookie ბრაუზერში",
+    "old": "18.5.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ge/instructions/ka/ge/material/profile-section-on-the-seller-portal-ge",
+    "title": "სელერის პორტალზე განყოფილება „პროფილი“",
+    "old": "29.7.2026",
+    "new": "26.11.2026"
   }
 ]

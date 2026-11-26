@@ -5934,5 +5934,53 @@
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "old": "02.09.2026",
     "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/autoreturn-of-goods-to-the-seller-kazakhstan",
+    "title": "Автовозврат товара продавцу",
+    "old": "27.07.2026",
+    "new": "26.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/dbs-orders-management-kz",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "31.07.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan",
+    "title": "Отчёт «География заказов»",
+    "old": "25.09.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan",
+    "title": "Как работать с заказами по модели «Витрина экспресс» (EDBS)",
+    "old": "19.10.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz",
+    "title": "Отчёт «Лента заказов»",
+    "old": "05.11.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kz/material/profile-section-on-the-sellers-portal-kazakhstan",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "20.11.2026",
+    "new": "26.11.2026"
   }
 ]

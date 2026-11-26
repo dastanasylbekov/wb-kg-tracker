@@ -1,6 +1,20 @@
 # История изменений справки WB — 🇰🇬 Кыргызстан — последние 90 дней
 
-_Сформировано: 2026-11-25_
+_Сформировано: 2026-11-26_
+
+## 2026-11-26
+### Сменилась дата «Обновлено» (5)
+- **Автовозврат товара продавцу**: 27.07.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/autoreturn-of-goods-to-the-seller-kyrgyzstan
+- **Отчёт «История остатков»**: 09.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/history-of-stocks-report-kyrgyzstan
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-manage-orders-in-cc-kg
+- **Отчёт «Лента заказов»**: 24.11.2026 → 05.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
+- **Раздел «Профиль» на портале продавца**: 20.11.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/profile-section-on-the-sellers-portal-kyrgyzstan
+
 
 ## 2026-11-25
 ### Сменилась дата «Обновлено» (7)

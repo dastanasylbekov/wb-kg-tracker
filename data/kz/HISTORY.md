@@ -1,6 +1,22 @@
 # История изменений справки WB — 🇰🇿 Казахстан — последние 90 дней
 
-_Сформировано: 2026-11-25_
+_Сформировано: 2026-11-26_
+
+## 2026-11-26
+### Сменилась дата «Обновлено» (6)
+- **Автовозврат товара продавцу**: 27.07.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/autoreturn-of-goods-to-the-seller-kazakhstan
+- **Как работать с заказами по модели «Витрина» (DBS)**: 31.07.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/dbs-orders-management-kz
+- **Отчёт «География заказов»**: 25.09.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/deliveries-by-region-report-kazakhstan
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 19.10.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/how-to-work-with-edbs-in-kazakhstan
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/order-feed-report-kz
+- **Раздел «Профиль» на портале продавца**: 20.11.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kz/material/profile-section-on-the-sellers-portal-kazakhstan
+
 
 ## 2026-11-25
 ### Сменилась дата «Обновлено» (5)

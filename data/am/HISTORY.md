@@ -1,6 +1,28 @@
 # История изменений справки WB — 🇦🇲 Армения — последние 90 дней
 
-_Сформировано: 2026-11-25_
+_Сформировано: 2026-11-26_
+
+## 2026-11-26
+### Сменилась дата «Обновлено» (9)
+- **Автовозврат товара продавцу**: 27.07.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/autoreturn-of-goods-to-the-seller-armenia
+- **Отчёт «География заказов»**: 25.09.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/deliveries-by-region-report-armenia
+- **Отчёт «История остатков»**: 09.11.2026 → 23.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/history-of-remains-report-armenia
+- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 17.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-manage-orders-in-cc-am
+- **Как работать с заказами по модели «Витрина» (DBS)**: 17.11.2026 → 25.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-dbs-orders-armenia
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 17.11.2026 → 25.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/how-to-work-with-edbs-orders-in-armenia
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/order-feed-report-by
+- **Раздел «Профиль» на портале продавца**: 20.11.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/profile-section-on-the-sellers-portal-armenia
+- **WB Продвижение: модели оплаты и принцип работы**: 02.09.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/am/material/wb-promotion-payment-models-and-working-principles-ge
+
 
 ## 2026-11-25
 ### Сменилась дата «Обновлено» (1)

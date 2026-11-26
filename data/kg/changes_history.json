@@ -6342,5 +6342,45 @@
     "title": "WB Продвижение: модели оплаты и принцип работы",
     "old": "02.09.2026",
     "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/autoreturn-of-goods-to-the-seller-kyrgyzstan",
+    "title": "Автовозврат товара продавцу",
+    "old": "27.07.2026",
+    "new": "26.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/history-of-stocks-report-kyrgyzstan",
+    "title": "Отчёт «История остатков»",
+    "old": "09.11.2026",
+    "new": "23.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-manage-orders-in-cc-kg",
+    "title": "Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)",
+    "old": "16.06.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "24.11.2026",
+    "new": "05.11.2026"
+  },
+  {
+    "run": "2026-11-26",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/profile-section-on-the-sellers-portal-kyrgyzstan",
+    "title": "Раздел «Профиль» на портале продавца",
+    "old": "20.11.2026",
+    "new": "26.11.2026"
   }
 ]

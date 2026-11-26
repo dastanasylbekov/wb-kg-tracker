@@ -1,6 +1,18 @@
 # История изменений справки WB — 🇧🇾 Беларусь — последние 90 дней
 
-_Сформировано: 2026-11-25_
+_Сформировано: 2026-11-26_
+
+## 2026-11-26
+### Сменилась дата «Обновлено» (4)
+- **Автовозврат товара продавцу**: 27.07.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/autoreturn-of-goods-to-the-seller-belarus
+- **Как работать с заказами по модели «Витрина экспресс» (EDBS)**: 24.11.2026 → 25.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/how-to-work-with-edbs-in-belarus
+- **Отчёт «Показатели»**: 06.10.2026 → 19.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/income-and-expenses-report-by
+- **Раздел «Профиль» на портале продавца**: 20.11.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/by/material/profile-section-on-the-sellers-portal-belarus
+
 
 ## 2026-11-25
 ### Сменилась дата «Обновлено» (5)
