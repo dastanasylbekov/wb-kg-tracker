@@ -1,21 +1,18 @@
-# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-11-26
+# Изменения справки WB — 🇰🇬 Кыргызстан — 2026-11-27
 
-_Прогон: 2026-11-26 18:12 (Бишкек)_
+_Прогон: 2026-11-27 18:01 (Бишкек)_
 
-## Сменилась дата «Обновлено» (5)
-- **Автовозврат товара продавцу**: 27.07.2026 → 26.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/autoreturn-of-goods-to-the-seller-kyrgyzstan
-  Текст статьи: `content/kg/autoreturn-of-goods-to-the-seller-kyrgyzstan.md`
-- **Отчёт «История остатков»**: 09.11.2026 → 23.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/history-of-stocks-report-kyrgyzstan
-  Текст статьи: `content/kg/history-of-stocks-report-kyrgyzstan.md`
-- **Как работать с заказами по модели «Самовывоз из магазина продавца» (C&C)**: 16.06.2026 → 24.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-manage-orders-in-cc-kg
-  Текст статьи: `content/kg/how-to-manage-orders-in-cc-kg.md`
-- **Отчёт «Лента заказов»**: 24.11.2026 → 05.11.2026
+## Сменилась дата «Обновлено» (4)
+- **Сводка аналитики**: 13.10.2026 → 27.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan
+  Текст статьи: `content/kg/analytics-summary-kyrgyzstan.md`
+- **Чат с покупателями**: 27.07.2026 → 26.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/customers-chat-kg
+  Текст статьи: `content/kg/customers-chat-kg.md`
+- **Как работать с заказами по модели «Витрина» (DBS)**: 22.11.2026 → 24.11.2026
+  https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-dbs-orders-kyrgyzstan
+  Текст статьи: `content/kg/how-to-work-with-dbs-orders-kyrgyzstan.md`
+- **Отчёт «Лента заказов»**: 05.11.2026 → 24.11.2026
   https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg
   Текст статьи: `content/kg/order-feed-report-kg.md`
-- **Раздел «Профиль» на портале продавца**: 20.11.2026 → 26.11.2026
-  https://seller.wildberries.ru/instructions/ru/kg/material/profile-section-on-the-sellers-portal-kyrgyzstan
-  Текст статьи: `content/kg/profile-section-on-the-sellers-portal-kyrgyzstan.md`
 

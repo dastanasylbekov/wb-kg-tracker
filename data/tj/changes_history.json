@@ -1958,5 +1958,13 @@
     "title": "Раздел «Профиль» на портале продавца",
     "old": "20.11.2026",
     "new": "26.11.2026"
+  },
+  {
+    "run": "2026-11-27",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/tj/material/analytical-summary-tj",
+    "title": "Сводка аналитики",
+    "old": "13.10.2026",
+    "new": "27.11.2026"
   }
 ]

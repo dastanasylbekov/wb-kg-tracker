@@ -6382,5 +6382,37 @@
     "title": "Раздел «Профиль» на портале продавца",
     "old": "20.11.2026",
     "new": "26.11.2026"
+  },
+  {
+    "run": "2026-11-27",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/analytics-summary-kyrgyzstan",
+    "title": "Сводка аналитики",
+    "old": "13.10.2026",
+    "new": "27.11.2026"
+  },
+  {
+    "run": "2026-11-27",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/customers-chat-kg",
+    "title": "Чат с покупателями",
+    "old": "27.07.2026",
+    "new": "26.11.2026"
+  },
+  {
+    "run": "2026-11-27",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/how-to-work-with-dbs-orders-kyrgyzstan",
+    "title": "Как работать с заказами по модели «Витрина» (DBS)",
+    "old": "22.11.2026",
+    "new": "24.11.2026"
+  },
+  {
+    "run": "2026-11-27",
+    "type": "date_changed",
+    "url": "https://seller.wildberries.ru/instructions/ru/kg/material/order-feed-report-kg",
+    "title": "Отчёт «Лента заказов»",
+    "old": "05.11.2026",
+    "new": "24.11.2026"
   }
 ]
